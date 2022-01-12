@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-12T12:31:06.664Z
+! Last modified: 2022-01-12T18:22:12.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||clenchedyouthmatching.com^
+||unpleasantconcrete.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||allsports4free.live^
@@ -6660,7 +6662,6 @@ vkcdnservice.appspot.com^
 ||clearonclick.com^
 ||clearsettlementelegance.com^
 ||clemencydifferenceslavishness.com^
-||clenchedyouthmatching.com^
 ||cleriendsev.club^
 ||cleverads.vn^
 ||cleverjump.org^
@@ -21193,6 +21194,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||smartlify.com^
+||analytics.styria.hr^
 ||culturaltracking.ru^
 ||services.sdiapi.com^
 ||events.brightline.tv^
@@ -25392,6 +25395,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||matomo.a1.by^
 ||d1stxfv94hrhia.cloudfront^
 ||stt.nimbusweb.me^
 ||statistics.daktilo.com^
@@ -27175,6 +27179,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||collect.babybus.com^
 ||log.apkomega.com^
 ||log.yougameover.com^
 ||log.make50.com^
@@ -30189,7 +30194,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||visitping.rossel.be^
 ||wrapper.lemde.fr^
 ||aff*.kolektiva.net^
-||analytics.styria.hr^
 -logging.nextmedia.com^
 ||analytics.meituan.net^
 ||atanx.alicdn.com^

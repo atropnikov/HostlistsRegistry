@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-13T06:22:51.782Z
+! Last modified: 2022-01-13T12:31:03.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36119,6 +36119,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zariumhb.com^
 ||zodiakactive.com^
 
+||1486050000.rsc.cdn77.org^
 ||188affiliates.com^
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -36170,6 +36171,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
+||d231vab146qzfb.cloudfront.net^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -36309,6 +36311,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whjibbprhng.com^
 ||window-close.cf^
 ||window-close.ga^
+||www.bekdbxdhrffnj.com^
+||www.seyevjpcjkcnka.com^
 ||x-tags.net^
 ||yesads.com^
 ||yhig.info^
@@ -37314,6 +37318,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
+||llyqy.top^
 ||025suyu.com^
 ||0451106.com^
 ||04zl.cn^
@@ -39523,6 +39528,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5551895.com^
 ||wofjhs.com^
 ||xayah.date^
+||1.shopit.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

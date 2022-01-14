@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-14T06:23:14.533Z
+! Last modified: 2022-01-14T11:15:33.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40319,6 +40319,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||alnko.cn^
 ||iwwl.vip^
 ||shaiban.wang^
 ||kyle.pub^
@@ -44159,7 +44160,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 @@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
-@@dnsotls-ds.metric.gstatic.com^
+@@-ds.metric.gstatic.com^
 @@||id.i2i.jp^|
 @@||thumbnail.thench.net^|
 @@||validate.perfdrive.com^|

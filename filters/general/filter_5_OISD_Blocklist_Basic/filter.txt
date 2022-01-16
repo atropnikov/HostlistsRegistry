@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-01-16T01:07:43.782Z
+! Last modified: 2022-01-16T04:24:34.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32538,7 +32538,6 @@
 ||netrefer-a.akamaihd.net^
 ||netrefer.com^
 ||netrp.112.2o7.net^
-||netsalesmedia.pl^
 ||netsdartboards.122.2o7.net^
 ||netseer.com^
 ||netshelter.net^

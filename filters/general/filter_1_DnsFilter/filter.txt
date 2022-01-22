@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-21T18:21:49.449Z
+! Last modified: 2022-01-22T00:57:45.180Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36486,6 +36486,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||scriptall.ml^
 ||sebar.idblognetwork.com^
 ||see-work.info^
+||sekaneemits.com^
 ||sentrapromosi.com^
 ||serbapromo.com^
 ||shiiuojjccp.com^
@@ -37518,12 +37519,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
 ||00-gov.cn^
-||ud860ec7.com^
-||lm789456.com^
-||czsmac.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
+||tunihta.top^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -38024,6 +38023,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||czpush.com^
 ||czpwm.com^
 ||czshenyue.cn^
+||czsmac.com^
 ||cztanchao.com^
 ||dadjia.com^
 ||dahanedu.com^
@@ -38582,6 +38582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm663.com^
 ||lm665.com^
 ||lm685.com^
+||lm789456.com^
 ||lm832.com^
 ||lm865.com^
 ||lm881.com^
@@ -39059,6 +39060,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ud831d2.com^
 ||ud831d4.com^
 ||ud860ec5.com^
+||ud860ec7.com^
 ||ugg66.com^
 ||uneede.com^
 ||uoyrsd.com^
@@ -40540,20 +40542,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||rngfavm.cn^
-||hikari.wiki^
-||mtxs.xyz^
-||aifenxiang.xyz^
-||hcdz.site^
-||cncsdn.cn^
-||zcqgsnn.cn^
-||fsdn.tech^
-||zwdq.xyz^
-||urtutb.cn^
-||zhswzxfw.com^
-||uz4cb.cn^
-||tunihea.top^
-||fqtfkf.cn^
+||kyqbifz.cn^
+||pubcloud.pub^
+||pyzx.xyz^
+||ygyl.xyz^
+||zhihui.ink^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40829,6 +40822,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aibangzs.com^
 ||aifaka.cc^
 ||aifenka.cn^
+||aifenxiang.xyz^
 ||aifishing.cn^
 ||aiggkj.cn^
 ||aigzk.com^
@@ -41296,6 +41290,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cmbzqtf.cn^
 ||cmyx.xyz^
 ||cn-3drp.com^
+||cncsdn.cn^
 ||cndaizi.com^
 ||cniuv.com^
 ||cnjiudao.cn^
@@ -41579,9 +41574,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fowft.cn^
 ||fpreld.cn^
 ||fqjinyinhua.shop^
+||fqtfkf.cn^
 ||freemovie.vip^
 ||freeyue.xyz^
 ||fruitbears.xyz^
+||fsdn.tech^
 ||ftvqvv.cn^
 ||funlove.pw^
 ||furongcloud.email^
@@ -41645,6 +41642,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hbscjh.cn^
 ||hbxxw.vip^
 ||hbyjrspyxgs.site^
+||hcdz.site^
 ||hcnegb.cn^
 ||hcvhhj.cc^
 ||hdherpc.cn^
@@ -41658,6 +41656,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hhfhgf.cc^
 ||hhhfe.cn^
 ||hhnvrht.cn^
+||hikari.wiki^
 ||hjl0618.cn^
 ||hnfxhx.xyz^
 ||hnpxsm.com.cn^
@@ -41883,6 +41882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||msiqhvl.cn^
 ||msri.club^
 ||msyq.xyz^
+||mtxs.xyz^
 ||muybjar.cn^
 ||muyijia.shop^
 ||mxxgs.cn^
@@ -42045,6 +42045,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rktupt.cn^
 ||rl-mb90b39t.cn^
 ||rmpnhfu.cn^
+||rngfavm.cn^
 ||rocm0c.site^
 ||rrgapzw.cn^
 ||rsftjj.cn^
@@ -42165,6 +42166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tsia1114.top^
 ||tszhongtianshiji.com^
 ||ttffhe.top^
+||tunihea.top^
 ||tuzufsi.cn^
 ||tvtnbu.cn^
 ||tw5k2vc.cn^
@@ -42181,8 +42183,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uqakkye.cn^
 ||uqbmzwv.cn^
 ||uqjflmw.cn^
+||urtutb.cn^
 ||usrlock.cn^
 ||uxpolqk.cn^
+||uz4cb.cn^
 ||vaxgyly.cn^
 ||vciayrf.cn^
 ||vcsoat.cn^
@@ -42350,6 +42354,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zbwnzb.cn^
 ||zbxdvi.com^
 ||zcmnffq.cn^
+||zcqgsnn.cn^
 ||zcsdbj.cn^
 ||zdrcnx.cn^
 ||zdzk0371.cn^
@@ -42370,6 +42375,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhouyi.cool^
 ||zhouziwang.cn^
 ||zhpfl.cn^
+||zhswzxfw.com^
 ||zhuozhongfangshui.cn^
 ||zhwotai.com^
 ||zhxkzss.cn^
@@ -42396,6 +42402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zrwba.cn^
 ||zsshlsh.cn^
 ||zthhhbb.cn^
+||zwdq.xyz^
 ||zxakeax.cn^
 ||zxyonlybelongstolym.xyz^
 ||zyam.club^

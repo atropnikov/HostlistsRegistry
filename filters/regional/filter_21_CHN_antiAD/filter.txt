@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2022-01-21T07:17:44.210Z
+! Last modified: 2022-01-22T15:17:09.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -61,6 +61,7 @@
 @@||files.1drv.com^
 @@||skyapi.live.net^
 @@||adm.crowdicity.com^
+@@||iufostworldcongress-singapore.com^
 @@||ad.ext.azure.com^
 @@||ads.amazon^
 @@||ads.instacart.com^
@@ -26795,7 +26796,6 @@
 ||app02.nodes.gslb.mi-idc.com^
 ||f3.mi-stat.gslb.mi-idc.com^
 ||resolver.gslb.mi-idc.com^
-||cdn.cnbj1.fds.api.mi-img.com^
 ||ssl-cdn.static.browser.mi-img.com^
 ||tr.news.mi-oferta.es^
 ||mgvrst.mi-shop.com^

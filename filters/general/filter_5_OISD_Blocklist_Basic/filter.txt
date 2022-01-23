@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-01-23T10:18:18.218Z
+! Last modified: 2022-01-23T15:18:30.089Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1169,7 +1169,6 @@
 ||222im.com^
 ||225c34aba07.com^
 ||247-inc.com^
-||247-inc.net^
 ||247entertainment.com.ng^
 ||247ilabs.com^
 ||247lyrics.com^
@@ -13493,7 +13492,6 @@
 ||clkstat.china.cn^
 ||clktrk.com^
 ||clktrx.com^
-||clkuk.tradedoubler.com^
 ||clldirectasianew.club^
 ||clmbtech.com^
 ||clmcom.com^
@@ -15390,7 +15388,6 @@
 ||d1a3jb5hjny5s4.cloudfront.net^
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
 ||d1afet533lf7zs.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
@@ -24905,7 +24902,6 @@
 ||img.servint.net^
 ||img.sharethis.com^
 ||img.sunmediaads.com^
-||img.tradedoubler.com^
 ||img.yangshengtang123.com^
 ||img1.126.net^
 ||img1.biyan8.com^
@@ -24995,7 +24991,6 @@
 ||imperturbablelosdigging.com^
 ||impes.tradedoubler.com^
 ||impfi.tradedoubler.com^
-||impfr.tradedoubler.com^
 ||impgb.tradedoubler.com^
 ||impie.tradedoubler.com^
 ||impit.tradedouble.com^
@@ -52165,3 +52160,7 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+
+
+
+

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-01-23T15:18:30.089Z
+! Last modified: 2022-01-23T16:25:16.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24902,6 +24902,7 @@
 ||img.servint.net^
 ||img.sharethis.com^
 ||img.sunmediaads.com^
+||img.tradedoubler.com^
 ||img.yangshengtang123.com^
 ||img1.126.net^
 ||img1.biyan8.com^
@@ -24991,6 +24992,7 @@
 ||imperturbablelosdigging.com^
 ||impes.tradedoubler.com^
 ||impfi.tradedoubler.com^
+||impfr.tradedoubler.com^
 ||impgb.tradedoubler.com^
 ||impie.tradedoubler.com^
 ||impit.tradedouble.com^
@@ -52160,7 +52162,3 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
-
-
-
-

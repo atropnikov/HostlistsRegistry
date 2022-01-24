@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-24T06:23:38.155Z
+! Last modified: 2022-01-24T12:27:46.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21420,6 +21420,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||st.hbrd.io^
 ||analytics-api.statvoo.com^
 ||ga-bq-py-1.appspot.com^
 ||cdnstr.com^
@@ -30626,7 +30627,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.agava.ru^
 ||scnt.rambler.ru^
 ||service-stat.tbn.ru^
-||st.hbrd.io^
 ||stat.rum.cdnvideo.ru^
 ||statistics.fppressa.ru^
 ||stats-*.p2pnow.ru^
@@ -30791,6 +30791,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||ipqolj.com^
 ||v.cdn4.life^
 ||kertzmann.com^
 ||pwkvdk.com^
@@ -36360,6 +36361,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||98e22a373e.com^
 ||995db2642d3d852b.com^
 ||9icmzvn6.website^
+||aa9271e4a2.4d4ac172b7.com^
 ||abrts.pro^
 ||accesstrade.co.id^
 ||adbsys.icu^
@@ -36405,6 +36407,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d824d7f5cbcb0e00.com^
+||d95d1c685a.6c142df43a.com^
 ||dafa.io^
 ||dearerfonder.info^
 ||dewsburg.info^
@@ -37541,6 +37544,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
+||zhiqingchun.top^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40577,6 +40581,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||51city.fun^
 ||sunnysun.co^
 ||djymht.cn^
+||hlzxgcw.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

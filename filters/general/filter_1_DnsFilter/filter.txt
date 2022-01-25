@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-25T06:20:41.646Z
+! Last modified: 2022-01-25T12:28:27.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30373,6 +30373,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yieldbird.com^
 ||d-stats.com^
 ||mediatraffic.com.ua^
+||ants.vn^
 ||contineljs.com^
 
 ||ablida.net^
@@ -30703,6 +30704,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.esputnik.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
+||za.zdn.vn^
 
 ||xfkkvjabbogciwl.top^
 ||cameracaseira.com^
@@ -36625,7 +36627,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ambientdsp.com^
 ||analytics.zapps.vn^
 ||anthill.vn^
-||ants.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||api.widget.zalo.me^
 ||atdnetwork.com^
@@ -37584,6 +37585,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
 ||00-gov.cn^
+||ud783c02.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^

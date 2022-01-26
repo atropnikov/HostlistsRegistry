@@ -2,10 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-26T12:27:03.600Z
+! Last modified: 2022-01-26T17:19:40.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||yebtcayv.com^
+||ibanwatch.com^
+||collaborateinstructorgrow.com^
+||plissewali.com^
+||prpedjlp.com^
 ||no2veeamggaseber.com^
 ||cdn.eecd.xyz^
 ||zlajnpfqgsleo.com^
@@ -1688,7 +1693,6 @@
 ||lauhauch.com^
 ||daunteegyptian.pro^
 ||a.bestcontenttool.top^
-||hq3x.com^
 ||jacobeshort.pro^
 ||sdsttt.com^
 ||pushmejs.com^
@@ -10110,6 +10114,7 @@ vkcdnservice.appspot.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hpzdwnkb.com^
+||hq3x.com^
 ||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtlvmcrpb.com^
@@ -23101,7 +23106,6 @@ vkcdnservice.appspot.com^
 ||fast-thinking.co.uk^
 ||fastanalytic.com^
 ||fastcounter.de^
-||fastly-analytics.com^
 ||fastonlineusers.com^
 ||faststart.ru^
 ||fastwebcounter.com^
@@ -30868,6 +30872,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||2022welcome.com^
 ||uwwaml.com^
 ||vlgpkn.com^
 ||ipqolj.com^

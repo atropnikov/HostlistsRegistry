@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-01-26T01:06:38.890Z
+! Last modified: 2022-01-26T12:27:07.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14191,7 +14191,6 @@
 ||conferencesing.com^
 ||confesschairs.com^
 ||confessionreverse.com^
-||confiant-integrations.global.ssl.fastly.net^
 ||confidethirstyfrightful.com^
 ||config.88-f.net^
 ||config.cqhbkjzx.com^
@@ -19953,7 +19952,6 @@
 ||fastestvolcano.com^
 ||fastfinch.co^
 ||fastgull.io^
-||fastly-analytics.com^
 ||fastly-insights.com^
 ||fastnclick.com^
 ||fastnewstream.com^
@@ -52397,3 +52395,4 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

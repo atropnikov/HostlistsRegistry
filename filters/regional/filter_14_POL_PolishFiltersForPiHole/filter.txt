@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2021-12-21T12:06:33.334Z
+! Last modified: 2022-01-26T02:34:22.108Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -142,6 +142,7 @@
 0.0.0.0 sooloaph.com
 0.0.0.0 spacead.pl
 0.0.0.0 sport32news.com
+0.0.0.0 start.livezilla.net
 0.0.0.0 stg.wp.pl
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 thiksikr.com
@@ -164,6 +165,7 @@
 0.0.0.0 ww1.flashx.net
 0.0.0.0 www.adfreestyle.pl
 0.0.0.0 www.comperialead.pl
+0.0.0.0 www.livezilla.net
 0.0.0.0 www.mp3zik.net
 0.0.0.0 zas.mylead.global
 0.0.0.0 zostofou.link

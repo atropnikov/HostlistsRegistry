@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-27T06:21:03.451Z
+! Last modified: 2022-01-27T12:27:48.051Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||bxqgxnechpwojfo.com^
+||bildirim.eu^
 ||yebtcayv.com^
 ||ibanwatch.com^
 ||collaborateinstructorgrow.com^
@@ -19754,6 +19756,7 @@ vkcdnservice.appspot.com^
 ||involve.asia^
 ||ipraccessie.info^
 ||ipromote.com^
+||javbuzz.com^
 ||jewishcontentnetwork.com^
 ||jivox.com^
 ||jubna.com^
@@ -27517,6 +27520,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+||appsflyer-report.honkaiimpact3.com^
 ||af-event-logger.appsflyer.com^
 ||inapps.appsflyer.com^
 ||gcdsdk.appsflyer.com^
@@ -27547,6 +27551,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||misc.api.snaptube.app^
 ||dig.bdurl.net^
 ||trusted-collector-bk.tmocce.com^
 ||collect.babybus.com^
@@ -40717,6 +40722,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||19oxfkn.cn^
 ||tianhenggo.xyz^
 ||xiaohuancha.club^
+||hulewangsi.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

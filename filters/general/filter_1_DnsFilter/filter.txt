@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-01-28T01:00:11.281Z
+! Last modified: 2022-01-28T06:21:31.932Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7180,6 +7180,7 @@ vkcdnservice.appspot.com^
 ||cpxadroit.com^
 ||cpxdeliv.com^
 ||cpxinteractive.com^
+||cpzkevanfjg.com^
 ||cqrvwq.com^
 ||cqtydjqc.top^
 ||cqyirsc.com^
@@ -12728,6 +12729,7 @@ vkcdnservice.appspot.com^
 ||nkredir.com^
 ||nktorpmpbhvb.com^
 ||nkyouvery.fun^
+||nlbtrwhykjtc.com^
 ||nlkspjjcxyvr.com^
 ||nlntrk.com^
 ||nlop.xyz^
@@ -13669,6 +13671,7 @@ vkcdnservice.appspot.com^
 ||pf34zdjoeycr.com^
 ||pfcdnc.com^
 ||pffw8mgd.com^
+||pfklopud.xyz^
 ||pfywqkslz.com^
 ||pfzzgurflf.com^
 ||pgbxrigvbmdz.com^
@@ -13729,6 +13732,7 @@ vkcdnservice.appspot.com^
 ||phoalard.net^
 ||phoapsoo.com^
 ||phoaptee.net^
+||phoawhap.net^
 ||phoaxevu.net^
 ||phohothiptu.pro^
 ||phokukse.com^
@@ -18175,6 +18179,7 @@ vkcdnservice.appspot.com^
 ||wjjsskhcqrsbg.com^
 ||wkcuhilbg.com^
 ||wkfdymfxmyckr.com^
+||wkihmvgilwj.com^
 ||wkll7glfazgp.com^
 ||wknaczrxjrj.com^
 ||wlapdczzpceb.com^
@@ -25787,6 +25792,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||gtm.beiersdorf.com^
 ||hwa.his.huawei.com^
 ||stat.i3.dmm.com^
 ||analytics.histmag.org^
@@ -40744,6 +40750,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runkao.net^
 ||stunninglover.com^
 ||zhentao.shop^
+||blockai.me^
+||ivqd8oi.cn^
+||itjie.xyz^
+||lxxy.xyz^
+||status500.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

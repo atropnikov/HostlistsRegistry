@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-01-29T00:56:23.773Z
+! Last modified: 2022-01-29T18:25:59.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2856,7 +2856,6 @@
 ||ad1.hotel.com^
 ||ad1.kde.cz^
 ||ad1.missyusa.com^
-||ad1.on.cc^
 ||ad1.pamedia.com.au^
 ||ad1.popcap.com^
 ||ad1.ru^
@@ -2882,7 +2881,6 @@
 ||ad2.nationalreview.com^
 ||ad2.netriota.hu^
 ||ad2.nmm.de^
-||ad2.on.cc^
 ||ad2.pl^
 ||ad2.speedbit.com^
 ||ad2.udn.com^
@@ -2909,7 +2907,6 @@
 ||ad4.bigmir.net^
 ||ad4.com.cn^
 ||ad4.gueb.com^
-||ad4.on.cc^
 ||ad4.speedbit.com^
 ||ad4.udn.com^
 ||ad4cash.de^
@@ -2926,20 +2923,17 @@
 ||ad4screen.com^
 ||ad4sell.com^
 ||ad5.bigmir.net^
-||ad5.on.cc^
 ||ad5.speedbit.com^
 ||ad5.udn.com^
 ||ad5track.com^
 ||ad6.bigmir.net^
 ||ad6.horvitznewspapers.net^
-||ad6.on.cc^
 ||ad6.speedbit.com^
 ||ad6media.fr^
 ||ad7.bigmir.net^
 ||ad7.com^
 ||ad7.gueb.com^
 ||ad7.literotica.com^
-||ad7.on.cc^
 ||ad7.speedbit.com^
 ||ad8.speedbit.com^
 ||ad9.speedbit.com^
@@ -3257,9 +3251,7 @@
 ||adetracking.com^
 ||adevents.msn.com^
 ||adeventtracker.spotify.com^
-||adex.bmediaasia.com^
 ||adex.media^
-||adex2.bmediaasia.com^
 ||adexc.net^
 ||adexchange.io^
 ||adexchangecloud.com^
@@ -8590,6 +8582,9 @@
 ||assoc-amazon.fr^
 ||assoc-amazon.it^
 ||assoc-amazon.jp^
+||assoc-msdk-cn.amazon-adsystem.com^
+||assoc-msdk-eu.amazon-adsystem.com^
+||assoc-msdk-us.amazon-adsystem.com^
 ||associalbde.xyz^
 ||associalinterva.xyz^
 ||associalunb.xyz^
@@ -12438,6 +12433,7 @@
 ||cdlinli.com^
 ||cdlkzb.com^
 ||cdmcgw.cn^
+||cdn-a.amazon-adsystem.com^
 ||cdn-ads.adpushup.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn-alpha.logrocket.com^
@@ -12445,6 +12441,7 @@
 ||cdn-canary.siftscience.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-config.taplytics.com^
+||cdn-d.amazon-adsystem.com^
 ||cdn-gcs.outfit7.com^
 ||cdn-guile.akamaized.net^
 ||cdn-jquery.host^
@@ -12462,6 +12459,7 @@
 ||cdn-sitegainer.com^
 ||cdn-social.janrain.com^
 ||cdn-staging.logrocket.com^
+||cdn-t.amazon-adsystem.com^
 ||cdn.8digits.com^
 ||cdn.88-f.net^
 ||cdn.234doo.com^
@@ -13160,7 +13158,6 @@
 ||cjf25jklrwqt.com^
 ||cjgcedu.com^
 ||cjhbkj.cn^
-||cjkeiekf.com^
 ||cjl58f3agc.com^
 ||cjlog.com^
 ||cjqncwfxrfrwbdd.com^
@@ -13713,7 +13710,6 @@
 ||cmsbetconstruct.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
-||cmswydtdc.top^
 ||cmtvia.112.2o7.net^
 ||cmvrclicks000.com^
 ||cmyx.xyz^
@@ -16197,6 +16193,7 @@
 ||d240937yockcdo.cloudfront.net^
 ||d869381a42af33b.com^
 ||da-ads.com^
+||da-cdn.amazon-adsystem.com^
 ||da.alibuf.com^
 ||da.daji.com^
 ||da.rosrabota.ru^
@@ -17713,7 +17710,6 @@
 ||double-check.com^
 ||double.net^
 ||doubleadserve.com^
-||doubleciick.net^
 ||doubleclick-net.com^
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
@@ -17821,6 +17817,7 @@
 ||dr.soso.com^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr8pk6ovub897.cloudfront.net^
+||dra.amazon-adsystem.com^
 ||drabsize.com^
 ||draco-artgallery.wz.cz^
 ||draconiancurve.com^
@@ -25052,6 +25049,7 @@
 ||imc2.122.2o7.net^
 ||imcht.net^
 ||imcounting.com^
+||imdb.amazon-adsystem.com^
 ||imedia.cz^
 ||imediaaudiences.com^
 ||imeem.112.2o7.net^
@@ -25887,6 +25885,18 @@
 ||iqsns.top^
 ||iqu-operation.com^
 ||iqzone.com^
+||ir-br.amazon-adsystem.com^
+||ir-ca.amazon-adsystem.com^
+||ir-cn.amazon-adsystem.com^
+||ir-de.amazon-adsystem.com^
+||ir-es.amazon-adsystem.com^
+||ir-fr.amazon-adsystem.com^
+||ir-in.amazon-adsystem.com^
+||ir-it.amazon-adsystem.com^
+||ir-jp.amazon-adsystem.com^
+||ir-mx.amazon-adsystem.com^
+||ir-na.amazon-adsystem.com^
+||ir-uk.amazon-adsystem.com^
 ||ir.doubleclick.net^
 ||ir2aok.com^
 ||irduwhojas.ga^
@@ -29732,6 +29742,7 @@
 ||martinsmith.nl^
 ||marvedesderef.info^
 ||marvellouspeaches.com^
+||mas-sdk.amazon-adsystem.com^
 ||mas.nth.ch^
 ||mas.protecmedia.com^
 ||mas.sector.sk^
@@ -30737,7 +30748,6 @@
 ||mhlnk.com^
 ||mhtky.cn^
 ||mhub.work^
-||mhuijbkkwcz.com^
 ||mi-de-ner-nis3.info^
 ||mi.5.p2l.info^
 ||mi82ltk3veb7.com^
@@ -36992,6 +37002,9 @@
 ||prxii.tk^
 ||pryappaldescribe.com^
 ||pryrhoohs.site^
+||ps-eu.amazon-adsystem.com^
+||ps-jp.amazon-adsystem.com^
+||ps-us.amazon-adsystem.com^
 ||ps.ns-cdn.com^
 ||ps4ux.com^
 ||ps7894.com^
@@ -37901,7 +37914,6 @@
 ||qwestfull.112.2o7.net^
 ||qwex.ru^
 ||qwfh39851jtfvkurf21hf.com^
-||qwnkvvtuxivur.com^
 ||qx568.com^
 ||qxfly.com^
 ||qxhspimg.com^
@@ -38186,8 +38198,11 @@
 ||rcjww9.xyz^
 ||rckymtnnws.112.2o7.net^
 ||rclog.rcplatformhk.com^
+||rcm-eu.amazon-adsystem.com^
+||rcm-fe.amazon-adsystem.com^
 ||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
+||rcm-na.amazon-adsystem.com^
 ||rcm.amazon.com^
 ||rcm.shinobi.jp^
 ||rcnnqsd.cn^
@@ -41280,7 +41295,6 @@
 ||signup-way.com^
 ||signup.advance.net^
 ||sigo99.com^
-||sihphefur.xyz^
 ||siikzd1.cn^
 ||siili.net^
 ||sikelypleaste.site^
@@ -44806,7 +44820,6 @@
 ||tescostores.122.2o7.net^
 ||teser.net^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
-||test-enabled.adblockios.com^
 ||test-studio.ru^
 ||test.adventser.com^
 ||test.besstidniki.ru^
@@ -48074,7 +48087,10 @@
 ||uzrating.com^
 ||uzttnr.com^
 ||v-collector.dp.aws.charter.com^
+||v-eu-preprod.amazon-adsystem.com^
+||v-eu.amazon-adsystem.com^
 ||v-links.net^
+||v-preprod.amazon-adsystem.com^
 ||v-realty.ae^
 ||v-support.free.bg^
 ||v-vlog.cn^
@@ -48137,6 +48153,13 @@
 ||vadspremium.com^
 ||vaebard.com^
 ||vaedan.top^
+||vaes-eu-preprod.amazon-adsystem.com^
+||vaes-eu.amazon-adsystem.com^
+||vaes-fe-preprod.amazon-adsystem.com^
+||vaes-fe.amazon-adsystem.com^
+||vaes-na-preprod.amazon-adsystem.com^
+||vaes-na.amazon-adsystem.com^
+||vaes.amazon-adsystem.com^
 ||vafbmmsda.com^
 ||vagime.com^
 ||vaigowoa.com^
@@ -48897,7 +48920,6 @@
 ||vn88.club^
 ||vn88.com^
 ||vnacdnryl.com^
-||vnaujncaeoygdw.com^
 ||vnd188.app^
 ||vnd247.vn^
 ||vndbet88.com^
@@ -50189,6 +50211,10 @@
 ||wmrak.com^
 ||wmrok.com^
 ||wmrok.net^
+||wms-eu.amazon-adsystem.com^
+||wms-fe.amazon-adsystem.com^
+||wms-in.amazon-adsystem.com^
+||wms-na.amazon-adsystem.com^
 ||wms-tools.com^
 ||wms.assoc-amazon.com^
 ||wmspw.com^
@@ -50415,7 +50441,6 @@
 ||wrtm.walla.co.il^
 ||wryfinger.com^
 ||ws-expo.cn^
-||ws-fe.assoc-amazon.com^
 ||ws-gateway.com^
 ||ws-goguardian.pusher.com^
 ||ws-na.assoc-amazon.com^
@@ -51902,6 +51927,10 @@
 ||yzygo.com^
 ||yzylm.com^
 ||yzytb.com^
+||z-eu.amazon-adsystem.com^
+||z-fe.amazon-adsystem.com^
+||z-in.amazon-adsystem.com^
+||z-na.amazon-adsystem.com^
 ||z-profit.com^
 ||z-xiao.xyz^
 ||z.cdn.adpool.bet^

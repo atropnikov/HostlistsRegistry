@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-04T00:59:22.195Z
+! Last modified: 2022-02-04T06:16:51.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20461,8 +20461,6 @@
 ||fireadsone.com^
 ||firebanner.com^
 ||firebase-settings.crashlytics.com^
-||firebaselogging-pa.googleapis.com^
-||firebaselogging.googleapis.com^
 ||firefeeder.com^
 ||firefox-updater.com^
 ||firelnk.com^
@@ -52776,3 +52774,4 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

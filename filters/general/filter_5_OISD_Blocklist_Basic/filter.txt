@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-04T06:16:51.554Z
+! Last modified: 2022-02-04T16:22:07.259Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7941,7 +7941,6 @@
 ||api.accengage.com^
 ||api.ad-locus.com^
 ||api.ad.intl.xiaomi.com^
-||api.ad.xiaomi.com^
 ||api.addnow.com^
 ||api.addthis.com^
 ||api.adnet.mob.com^
@@ -8009,7 +8008,6 @@
 ||api.luckyorange.com^
 ||api.masterprotocols.com^
 ||api.mediation.amberweather.com^
-||api.miui.security.xiaomi.com^
 ||api.mixpanel.com^
 ||api.moengage.com^
 ||api.monedata.io^
@@ -28793,7 +28791,6 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log-vietnamplus-vn.cdn.ampproject.org^
-||log.ad.xiaomi.com^
 ||log.aebn.net^
 ||log.ajunews.com^
 ||log.anninhthudo.vn^
@@ -38745,7 +38742,6 @@
 ||register.appsflyer.com^
 ||register.cinematrix.net^
 ||register.silverscreen.cc^
-||register.xmpush.xiaomi.com^
 ||registercom.122.2o7.net^
 ||registered-spotters-build.com^
 ||registeredsethey.com^
@@ -40535,7 +40531,6 @@
 ||sdk.streamrail.com^
 ||sdk.zadn.vn^
 ||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||sdkfjxjertertry.com^
 ||sdklog.tvstore.opera.com^
 ||sdks.stats-locations.com^
@@ -46161,7 +46156,6 @@
 ||track.accesstrade.vn^
 ||track.acclaimnetwork.com^
 ||track.ad.nl^
-||track.ad.xiaomi.com^
 ||track.addevent.com^
 ||track.adform.net^
 ||track.afcpatrk.com^
@@ -52774,4 +52768,10 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+
+
+
+
+
+
 

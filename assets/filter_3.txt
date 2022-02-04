@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-02-02T10:18:51.948Z
+! Last modified: 2022-02-04T12:22:36.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -118,7 +118,6 @@
 ||ad.bizo.com^
 ||ad.bnmla.com^
 ||ad.bondage.com^
-||ad.caradisiac.com^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
 ||ad.choiceradio.com^
@@ -1122,7 +1121,6 @@
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
 ||banner.casino.net^
-||banner.casinodelrio.com^
 ||banner.cotedazurpalace.com^
 ||banner.coza.com^
 ||banner.cz^
@@ -2106,7 +2104,6 @@
 ||irchan.com^
 ||ireklama.cz^
 ||is-tracking-pixel-api-prod.appspot.com^
-||itfarm.com^
 ||itop.cz^
 ||its-that-easy.com^
 ||iubzka.online^
@@ -2819,6 +2816,7 @@
 ||rate.ru^
 ||ratings.lycos.com^
 ||rayjump.com^
+||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
 ||readgoldfish.com^
@@ -3335,7 +3333,6 @@
 ||track.mailerlite.com^
 ||track.miro.com^
 ||track.segmetrics.io^
-||track.software-codes.com^
 ||track.themaccleanup.info^
 ||track.ultravpn.com^
 ||track.unear.net^

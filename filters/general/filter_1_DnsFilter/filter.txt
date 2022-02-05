@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-05T00:52:56.859Z
+! Last modified: 2022-02-05T06:16:50.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8294,6 +8294,7 @@ vkcdnservice.appspot.com^
 ||excellaskiju.xyz^
 ||excellenceads.com^
 ||exceptingfivesnake.com^
+||excitead.com^
 ||excitedyou.biz^
 ||excuseparen.com^
 ||exdynsrv.com^
@@ -36246,7 +36247,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||delecpuzz.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
-||deltago.com^
 ||demopage.me^
 ||deqik.com^
 ||dt.vnecdn.com^
@@ -36596,6 +36596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bwingmkt8.com^
 ||cacuoc247.com^
 ||cacuoc79.com^
+||casino86.club^
 ||casino888vn.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
@@ -36642,6 +36643,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fun1118.com^
 ||funtructuyen88.com^
 ||gamebai.club^
+||gamequyong.site^
 ||gaznbike.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
@@ -36711,6 +36713,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||man.club^
 ||manclub.game^
 ||manclub.live^
+||manclubwin.club^
+||manclubwin.uk^
 ||mansion66.com^
 ||may88.club^
 ||may88.com^
@@ -36750,6 +36754,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oxbet.net^
 ||playgamefa88.live^
 ||playgo88.asia^
+||playiwin.biz^
+||playiwin.site^
 ||playv8.com^
 ||playv8.vip^
 ||qq288jak.com^
@@ -36765,6 +36771,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rio66qc.club^
 ||sbc31.com^
 ||sieubomtan.com^
+||sieukeo.live^
 ||sin88.biz^
 ||sin88.club^
 ||sin88.com^
@@ -36802,6 +36809,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top88.fun^
 ||top88.uk^
 ||top88.us^
+||topcc88.me^
 ||trungso.vip^
 ||tt128.info^
 ||tt128viet.com^
@@ -36883,15 +36891,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eventlqvn.com^
 ||facebookz.co^
 ||ff-member-ganena.com^
+||ff-member-gazeza.com^
 ||ff-members-garena.vn^
 ||ff-membership-garena.com^
 ||ff.garena.memmbershipp.com^
 ||ff.member.garenae.vn^
 ||freefire-membershipvn-garena.com^
+||gaerena.vn^
+||garaena.vn^
 ||garean.vn^
 ||gareena.vn^
 ||garena-members.com^
 ||garena.fan^
+||garenaj.vn^
 ||garera.vn^
 ||garrena.vn^
 ||giftcode-lienquanmobile-vn.com^
@@ -36901,8 +36913,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||larpollicwilli.club^
 ||lib1.biz^
 ||lienquan-garena-giftcode.com^
+||lienquanmobilequatang.com^
 ||lmht-membership.com^
+||member-gaarena.com^
 ||member-garena.vn^
+||memberr-garenaa.com^
 ||news-good.net^
 ||nhanquaffob31.com^
 ||qualienquan.vn^
@@ -39976,6 +39991,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||eroo.shop^
+||lw88.site^
+||1wofaei.xyz^
+||tbxprvf.cn^
+||adsb.pub^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

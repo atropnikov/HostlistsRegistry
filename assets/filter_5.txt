@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-05T00:53:01.008Z
+! Last modified: 2022-02-05T19:14:05.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -43213,7 +43213,6 @@
 ||static.cz01.cn^
 ||static.doubleclick.net^
 ||static.everyone.net^
-||static.fastpic.org^
 ||static.fleshlight.com^
 ||static.freenet.de^
 ||static.gaomaer.cn^

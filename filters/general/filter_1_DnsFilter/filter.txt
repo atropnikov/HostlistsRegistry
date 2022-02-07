@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-06T18:18:56.576Z
+! Last modified: 2022-02-07T01:01:08.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+
 ||lzrikate.com^
 ||xfyyveifirnll.com^
 ||jipo.io^
@@ -36952,12 +36953,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
-||jghklz.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
-||govqingdao.cn^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -37651,6 +37650,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||govguilin.cn^
 ||govhechi.cn^
 ||govkunming.cn^
+||govqingdao.cn^
 ||govshenzhen.cn^
 ||govxian.cn^
 ||govyunfu.cn^
@@ -37846,6 +37846,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jfqkj.com^
 ||jfsm5.top^
 ||jghcy.com^
+||jghklz.xyz^
 ||jgwsmqx.com^
 ||jhtcdj.com^
 ||jiaheyonggu.com^
@@ -40010,14 +40011,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||rmdzsw.top^
-||hexin.city^
-||zuibandao.club^
-||cloudzhuge.cn^
-||zhiai.space^
-||wzjs.me^
-||rtreyyf.cn^
-||word168.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40777,6 +40770,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clfmm.cn^
 ||clmmw.com^
 ||cloudassistant.vip^
+||cloudzhuge.cn^
 ||clxxkz.com.cn^
 ||clzgd.com^
 ||cmall.club^
@@ -41163,6 +41157,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hdsjk.cc^
 ||hebeiyichen.com^
 ||hello211.top^
+||hexin.city^
 ||hexp.xyz^
 ||heyi.shop^
 ||hgbvtax.cn^
@@ -41616,6 +41611,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rjnjjin.cn^
 ||rktupt.cn^
 ||rl-mb90b39t.cn^
+||rmdzsw.top^
 ||rmpnhfu.cn^
 ||rngfavm.cn^
 ||rocm0c.site^
@@ -41626,6 +41622,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rsvffmn.cn^
 ||rsykksw.cn^
 ||rt354.cn^
+||rtreyyf.cn^
 ||ruif.xyz^
 ||runtai369.cn^
 ||rylcbwg.cn^
@@ -41826,6 +41823,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wnet.ink^
 ||wojv.club^
 ||woniu1314520.vip^
+||word168.cn^
 ||wppei.cn^
 ||wpqsmse.cn^
 ||ws-expo.cn^
@@ -41843,6 +41841,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wwshxc.cn^
 ||wxkouem.cn^
 ||wxqcshgc.icu^
+||wzjs.me^
 ||wzxzy.icu^
 ||wzytop.top^
 ||wzzb.club^
@@ -41971,6 +41970,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhentao.shop^
 ||zhenxinchicken.xyz^
 ||zhexnuq.cn^
+||zhiai.space^
 ||zhifoujiaoyu.xyz^
 ||zhihui.ink^
 ||zhonglutang.group^
@@ -42009,6 +42009,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zrwba.cn^
 ||zsshlsh.cn^
 ||zthhhbb.cn^
+||zuibandao.club^
 ||zuoyouyu.cn^
 ||zwdq.xyz^
 ||zxakeax.cn^

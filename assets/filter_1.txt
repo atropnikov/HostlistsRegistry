@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-08T06:20:46.792Z
+! Last modified: 2022-02-08T12:26:55.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24019,6 +24019,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||bedsberry.com^
 ||shrillspoon.com^
 ||fearlessfaucet.com^
 ||nondescriptnote.com^
@@ -28412,7 +28413,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||automaticairplane.com^
 ||averageamusement.com^
 ||beautifulhobbies.com^
-||bedsberry.com^
 ||begintrain.com^
 ||bouncyfront.com^
 ||burstblade.com^
@@ -40075,6 +40075,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||astep.info^
 ||geoparker.net^
 ||sphntyj.cn^
+||mhqx.store^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

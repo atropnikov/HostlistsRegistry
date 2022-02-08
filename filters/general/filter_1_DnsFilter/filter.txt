@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-08T12:26:55.383Z
+! Last modified: 2022-02-08T15:17:23.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19548,7 +19548,6 @@ vkcdnservice.appspot.com^
 ||titorsbutaning.info^
 ||tlvmedia.com^
 ||tmtrck.com^
-||tollfreeforwarding.com^
 ||tonefuse.com^
 ||tool-site.com^
 ||top26.net^
@@ -20224,7 +20223,6 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
-||adcr.naver.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 ||mobondhrd.appspot.com^
@@ -38293,7 +38291,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qianmeiby.com^
 ||qilashou.com^
 ||qingyanmjg.com^
-||qinqiaotrade.com
+||qinqiaotrade.com^
 ||qiqiww.com^
 ||qiqiyii.com^
 ||qixedu.com^

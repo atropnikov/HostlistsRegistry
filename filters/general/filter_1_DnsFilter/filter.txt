@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-08T15:17:23.110Z
+! Last modified: 2022-02-08T16:26:13.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||hetadinh.com^
 ||truetruetruetruetruetruetruetruetruetrue.xyz^
 ||wwlipxritaoo.com^
 ||settlef.com^
@@ -9632,7 +9633,6 @@ vkcdnservice.appspot.com^
 ||heroinnever.com^
 ||herscryptia.info^
 ||hesterinoc.info^
-||hetadinh.com^
 ||hetahien.com^
 ||hetaint.com^
 ||hetapus.com^
@@ -27530,7 +27530,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||conversionfly.com^
 ||convertcart.com^
 ||cookieless-data.com^
-||coralogix.com^
 ||count.ly^
 ||counter.dev^
 ||cphalk.com^
@@ -37290,6 +37289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aditizanna.com^
 ||adnex.tech^
 ||adomv.com^
+||adorazanna.com^
 ||adreal.cn^
 ||adrs.sdo.com^
 ||ads.uc.cn^
@@ -40066,14 +40066,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||zgbtw.mobi^
-||zyhx.ltd^
-||jipezy.cn^
-||richman100.ltd^
-||astep.info^
-||geoparker.net^
-||sphntyj.cn^
-||mhqx.store^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40453,6 +40445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aslro.top^
 ||aspaz.cn^
 ||aspwg.cn^
+||astep.info^
 ||astyk.cn^
 ||atomicfile.cn^
 ||atuehome.cn^
@@ -41167,6 +41160,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gdzxsoft.cn^
 ||genfar.club^
 ||gengsang.me^
+||geoparker.net^
 ||gfncg.cn^
 ||gggwv.cn^
 ||gh1024.xyz^
@@ -41322,6 +41316,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jinlianchengwhcm.cn^
 ||jinxiangyu.ltd^
 ||jinyihui.vip^
+||jipezy.cn^
 ||jiucaishuo.cn^
 ||jiuji.ltd^
 ||jiujiinc.top^
@@ -41467,6 +41462,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mexcel.info^
 ||mfagqah.cn^
 ||mgnb.xyz^
+||mhqx.store^
 ||mhtky.cn^
 ||midy.me^
 ||minchikeji.cloud^
@@ -41673,6 +41669,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rgt0hv5.cn^
 ||rh447.cn^
 ||rhxshop.com^
+||richman100.ltd^
 ||rjhtrjb.cn^
 ||rjnjjin.cn^
 ||rktupt.cn^
@@ -41735,6 +41732,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||songcan.me^
 ||soquan.xyz^
 ||soulshape.cn^
+||sphntyj.cn^
 ||spjxwlkj.com^
 ||spscwlw.cn^
 ||spzxgcw.com^
@@ -42027,6 +42025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zdzk0371.cn^
 ||zengwx.cn^
 ||zfw.me^
+||zgbtw.mobi^
 ||zgxieshou.com^
 ||zgyso.cn^
 ||zgystsd.com^
@@ -42083,6 +42082,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zxyonlybelongstolym.xyz^
 ||zyam.club^
 ||zyezhz.cn^
+||zyhx.ltd^
 ||zyjy.ink^
 ||zzkbsm.cn^
 ||zzuzcy.cloud^

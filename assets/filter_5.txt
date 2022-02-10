@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-10T12:27:23.338Z
+! Last modified: 2022-02-10T20:17:38.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13392,7 +13392,6 @@
 ||click.em.blizzard.com^
 ||click.email.bbc.com^
 ||click.fool.com^
-||click.google-analytics.com^
 ||click.gospect.com^
 ||click.hookupinyourcity.com^
 ||click.hooligapps.com^
@@ -22658,6 +22657,7 @@
 ||googele.com^
 ||googfle.com^
 ||google-analyticals.com^
+||google-analytics.com^
 ||google-pagerank.net^
 ||google-shopping.sapoapps.vn^
 ||google247.xyz^
@@ -40351,7 +40351,6 @@
 ||sanalreklam.com^
 ||sanalytics.ncaa.com^
 ||sancontr.com^
-||sandbox.google-analytics.com^
 ||sandbox.outbrain.com^
 ||sandelf.com^
 ||sandinsect.com^
@@ -43070,7 +43069,6 @@
 ||ssl-vg03.met.vgwort.de^
 ||ssl.clickbank.net^
 ||ssl.eroscomix.com^
-||ssl.google-analytics.com^
 ||ssl.luckyorange.com^
 ||ssl.quantserve.com^
 ||ssl.zy3dku.cn^
@@ -51022,6 +51020,7 @@
 ||wwsphj.com^
 ||wwt-ag.ch^
 ||www-banner.chat.ru^
+||www-google-analytics.l.google.com^
 ||www-orbit-promo.ru^
 ||www-path.com^
 ||www-protection.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-11T01:07:17.834Z
+! Last modified: 2022-02-11T06:21:41.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37106,6 +37106,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
+||mzya5718.xyz^
+||caomeixz10.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40166,12 +40168,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
-||ymdxxkj.icu^
-||huyc.info^
-||yaofaweb.xyz^
-||yakel.top^
-||awwlfb.cn^
-||ulxypyg.cn^
+||yikouxian.fun^
+||achu.wang^
+||mncvz.top^
+||awwlrd.cn^
+||weiiimt.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -40560,6 +40561,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||avvr.club^
 ||awleo.cn^
 ||awtks.com^
+||awwlfb.cn^
 ||awyys.com^
 ||ax329.cn^
 ||axbdlox.cn^
@@ -41363,6 +41365,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hulewangsi.cn^
 ||huobago.com^
 ||huofayu.com^
+||huyc.info^
 ||hvzlgyi.cn^
 ||hxclove.club^
 ||hxf1688.xyz^
@@ -41934,6 +41937,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||u5274.cn^
 ||ugmvoys.cn^
 ||uidndas.cn^
+||ulxypyg.cn^
 ||umhfrtu.cn^
 ||umihecd.cn^
 ||umis.top^
@@ -42081,8 +42085,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ya1vg3w.cn^
 ||yabqg.cn^
 ||yahekby.cn^
+||yakel.top^
 ||yancy.fun^
 ||yanliang.vip^
+||yaofaweb.xyz^
 ||yaznkj.cn^
 ||ybnndud.cn^
 ||ybsyyh.com^
@@ -42103,6 +42109,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yjwl.ltd^
 ||ykwh.store^
 ||yl04z4v.cn^
+||ymdxxkj.icu^
 ||ynbyutongdianqi.com^
 ||yncjsc.cn^
 ||yougouquanqiu.xyz^

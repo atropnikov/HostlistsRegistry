@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-10T18:19:34.320Z
+! Last modified: 2022-02-11T01:07:17.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19170,6 +19170,7 @@ vkcdnservice.appspot.com^
 ||logo-net.co.uk^
 ||looksmart.com^
 ||love-banner.com^
+||lustre.ai^
 ||mad-adz.com^
 ||magetic.com^
 ||magnetisemedia.com^
@@ -29255,7 +29256,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tags.creativille.co.uk^
 ||tags.master-perf-tools.com^
 ||tags.refinery89.com^
-||tags.remixd.com^
 ||tagtracking.vibescm.com^
 ||targeting.*.arcpublishing.com^
 ||telemetrics.klaviyo.com^

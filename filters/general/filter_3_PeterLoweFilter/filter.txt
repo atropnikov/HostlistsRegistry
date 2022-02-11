@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-02-04T23:15:14.250Z
+! Last modified: 2022-02-11T12:26:39.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -407,7 +407,6 @@
 ||ads.bing.com^
 ||ads.bittorrent.com^
 ||ads.blog.com^
-||ads.bloomberg.com^
 ||ads.bluemountain.com^
 ||ads.boerding.com^
 ||ads.boylesports.com^
@@ -526,7 +525,6 @@
 ||ads.itv.com^
 ||ads.iwon.com^
 ||ads.jewishfriendfinder.com^
-||ads.joaffs.com^
 ||ads.jobsite.co.uk^
 ||ads.jpost.com^
 ||ads.justhungry.com^
@@ -782,7 +780,6 @@
 ||adserver.irishwebmasterforum.com^
 ||adserver.janes.com^
 ||adserver.lecool.com^
-||adserver.libero.it^
 ||adserver.mobi^
 ||adserver.msmb.biz^
 ||adserver.news.com.au^
@@ -1118,7 +1115,6 @@
 ||balloontexture.com^
 ||banik.redigy.cz^
 ||banner-exchange-24.de^
-||banner.ad.nu^
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
 ||banner.casino.net^
@@ -2495,7 +2491,6 @@
 ||ns1p.net^
 ||ntv.io^
 ||ntvk1.ru^
-||nuggad.net^
 ||nuseek.com^
 ||nuttyorganization.com^
 ||nzaza.com^
@@ -2927,7 +2922,6 @@
 ||s.adroll.com^
 ||s1-adfly.com^
 ||s20dh7e9dh.com^
-||s2d6.com^
 ||s2strk.info^
 ||sa.api.intl.miui.com^
 ||sabio.us^
@@ -3323,7 +3317,6 @@
 ||touchclarity.com^
 ||touchclarity.natwest.com^
 ||tour.brazzers.com^
-||track.addevent.com^
 ||track.anchorfree.com^
 ||track.contently.com^
 ||track.effiliation.com^
@@ -3335,6 +3328,7 @@
 ||track.mailerlite.com^
 ||track.miro.com^
 ||track.segmetrics.io^
+||track.software-codes.com^
 ||track.themaccleanup.info^
 ||track.ultravpn.com^
 ||track.unear.net^

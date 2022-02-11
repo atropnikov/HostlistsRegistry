@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2022-02-10T05:16:09.782Z
+! Last modified: 2022-02-11T05:16:16.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -311,6 +311,7 @@
 ||shirtwide.com^
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
+||shopusawarehouse.com^
 ||sieuto.com^
 ||sigmaoffers.com^
 ||signpify.com^

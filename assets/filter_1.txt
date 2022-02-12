@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-12T06:19:46.114Z
+! Last modified: 2022-02-12T12:26:15.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5784,6 +5784,7 @@ vkcdnservice.appspot.com^
 ||bf1872dae47d.com^
 ||bfast.com^
 ||bfe4e6d364be199.com^
+||bff6b409f7.com^
 ||bfqcx.xyz^
 ||bftrlhesrlfjp.com^
 ||bfts.xyz^
@@ -7239,6 +7240,7 @@ vkcdnservice.appspot.com^
 ||d77685035ab.com^
 ||d7dc491d44.com^
 ||d869381a42af33b.com^
+||d87c82a1da.com^
 ||d8d4ab7673.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
@@ -9940,6 +9942,7 @@ vkcdnservice.appspot.com^
 ||hurllotion.com^
 ||huronfide.club^
 ||hurtfulindelicate.com^
+||husfly.com^
 ||hushpub.com^
 ||husktheoretical.com^
 ||hustlereorganizesatin.com^
@@ -16250,6 +16253,8 @@ vkcdnservice.appspot.com^
 ||tirusoge.com^
 ||tisttropolic.biz^
 ||titanads1.com^
+||titanads3.com^
+||titanads4.com^
 ||titanads5.com^
 ||tithephustu.com^
 ||tithewtog.com^
@@ -21439,7 +21444,6 @@ vkcdnservice.appspot.com^
 ||msg.qy.net^
 ||hubvisor.io^
 ||sitest.jp^
-||husfly.com^
 ||cdn.resonate.com^
 ||events.mapbox.com^
 ||log2.spotify.com^
@@ -37138,6 +37142,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||jnbvckgophfkop.com^
 ||wlwblog.top^
+||lm811.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40209,6 +40214,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||csjwawe.top^
 ||4mugah0.cn^
 ||awwlcx.cn^
+||carset.vip^
+||haigou.life^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

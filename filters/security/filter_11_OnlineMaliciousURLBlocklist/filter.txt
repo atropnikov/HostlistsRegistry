@@ -2,7 +2,7 @@
 ! Title: Online Malicious URL Blocklist
 ! Description: A blocklist of malicious websites that are being used for malware distribution, based on the Database dump of Abuse.ch URLhaus.
 ! Homepage: https://gitlab.com/curben/urlhaus-filter
-! Last modified: 2022-02-13T01:07:34.260Z
+! Last modified: 2022-02-13T13:17:28.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17,7 +17,6 @@
 ||21robo.com^
 ||360.lcy2zzx.pw^
 ||360down7.miiyun.cn^
-||3dinspection.demowork.com^
 ||44wo7w51e0.blsonepal.com^
 ||7jcat.com^
 ||8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com^
@@ -32,6 +31,7 @@
 ||aarsaindustries.com^
 ||abbmedikal.com^
 ||abissnet.net^
+||abj.noveltypolytechnic.edu.ng^
 ||abmaxdigital.com^
 ||aboveandbelow.com.au^
 ||academiaoslo.com.uy^
@@ -46,7 +46,6 @@
 ||admin.sattaking-real.com^
 ||afavoritacouros.com.br^
 ||agdm.ml^
-||agemn.co.za^
 ||agency.outvest.co.za^
 ||aimeos.softuvo.xyz^
 ||aiqtest.com^
@@ -69,7 +68,6 @@
 ||angel.bk.idv.tw^
 ||annesimonnot.com^
 ||aoringo-web-creating.com^
-||apexsecure.co.uk^
 ||api-ms.cobainaja.id^
 ||api.52kkg.com^
 ||api.cstdevs.com^
@@ -89,12 +87,11 @@
 ||artursemth.com^
 ||arushagems.com^
 ||arzulens.com^
-||ashutoshgauttam.com^
 ||ashwagandha.co.in^
-||assets.dsztfso.cn^
 ||asu.com.vn^
 ||atlanticzonalibre.com^
 ||audreysystems.net^
+||aulist.com^
 ||autoemail.zpesport.com^
 ||autofficinaguerreri.it^
 ||automoto.in.ua^
@@ -109,15 +106,16 @@
 ||balden.com^
 ||ballatstone.com^
 ||bangkok-orchids.com^
+||bank.zanderscloud.com.ng^
 ||barbekumarket.com^
 ||barkodsolutions.com^
 ||basbeigium.com^
+||batis-med.com^
 ||bawatingbarter.com^
 ||bberker.com^
 ||bbia.co.uk^
 ||bdjessi.bobetbobette.com^
 ||beanx99.xyz^
-||bearcatpumps.com.cn^
 ||beemployer.in^
 ||bem.feb.uns.ac.id^
 ||bem.unja.ac.id^
@@ -127,6 +125,7 @@
 ||beta.profissaopiloto.com.br^
 ||bhaagya.app^
 ||bhopalbird.org^
+||bigmikesupplies.co.za^
 ||bigrussianfloppa.duckdns.org^
 ||biptec.com.br^
 ||blanche.gr^
@@ -141,13 +140,11 @@
 ||blog.stetgzs.cn^
 ||blog.takbelit.com^
 ||bloglovers.com.br^
-||blognoticiasdeagora.com^
 ||bmss.org.in^
 ||boamorph.com^
 ||bobcatminer-store.e-mantra.in^
 ||bondpertayenergy.com^
 ||briar.com.my^
-||brideofmessiah.com^
 ||bridgesfoundationrepair.com^
 ||brightmega.com^
 ||british-shorthair.es^
@@ -181,7 +178,6 @@
 ||cellas.sk^
 ||centralcdmx.gq^
 ||centrichotel.com^
-||centrobilinguelospinos.com^
 ||centuaryfabindia.com^
 ||ceysaenerji.com.tr^
 ||cfs10.blog.daum.net^
@@ -243,7 +239,6 @@
 ||d1.udashi.com^
 ||d9.99ddd.com^
 ||da.alibuf.com^
-||dacui.online^
 ||dadsgetinthegame.com^
 ||daftar.site^
 ||danaevara.com^
@@ -254,7 +249,6 @@
 ||data.cdevelop.org^
 ||data.green-iraq.com^
 ||data.over-blog-kiwi.com^
-||datapolish.com^
 ||davidmcguinness.info^
 ||dawne.globodyinc.biz^
 ||ddl7.data.hu^
@@ -269,6 +263,7 @@
 ||demo.nhabe360.com^
 ||demo.shooes.in^
 ||demo11.qatgroup.co.za^
+||dengoudeneend.nl^
 ||dental.xiaoxiao.media^
 ||designerliving.co.za^
 ||destinymc.co.za^
@@ -305,7 +300,6 @@
 ||down.webbora.com^
 ||down.yjhyjl.cn^
 ||download.caihong.com^
-||download.doumaibiji.cn^
 ||download.pdf00.cn^
 ||download.rising.com.cn^
 ||download.skycn.com^
@@ -316,6 +310,7 @@
 ||dreamwatchevent.com^
 ||drkalan.com^
 ||drsha.innovativesolutions.mobi^
+||dsenterprize.co.za^
 ||du-wizards.com^
 ||dukaree.com^
 ||dulhagharnh.com^
@@ -331,7 +326,6 @@
 ||earthdaysavannah.org^
 ||easybasket.pk^
 ||easybrand.vn^
-||easyhomestartup.com^
 ||easyviettravel.vn^
 ||ec2-54-163-171-189.compute-1.amazonaws.com^
 ||ecim.azneomedia.ro^
@@ -350,6 +344,7 @@
 ||enc-tech.com^
 ||endoinstruments.co.uk^
 ||endpointwellness.com^
+||endurotanzania.co.tz^
 ||envios.sala-apolo.com^
 ||environmentalaw.com^
 ||ergotherapeia-kalamata.gr^
@@ -365,6 +360,7 @@
 ||exilum.com^
 ||expansion.co.uk^
 ||expansion360.net^
+||extractjob.com^
 ||f.gogamef.com^
 ||f0628222.xsph.ru^
 ||f0630581.xsph.ru^
@@ -391,6 +387,7 @@
 ||fkd.derpcity.ru^
 ||flash-cn.gq^
 ||flipbooks.com.br^
+||follow247.xyz^
 ||forms.saurashtrauniversity.edu^
 ||fortcomfurniture.com^
 ||fortiuspharma.com^
@@ -425,17 +422,17 @@
 ||gold247.xyz^
 ||goldenasiacapital.com^
 ||goldeneggtrainingschool.co.uk^
-||googa.link^
 ||google247.xyz^
 ||google360.xyz^
 ||googlevn.xyz^
-||googs.link^
+||gpfstudies.com^
 ||gpoleri.com.ar^
 ||grand-element.ru^
 ||greenhillsacademy.org^
 ||greenlawnirrigation.net^
 ||grimmcm.com^
 ||gruzof.by^
+||gs.monerorx.com^
 ||gt-max.com.my^
 ||guillermomanrique.com.mx^
 ||gwebsolution.com^
@@ -526,7 +523,6 @@
 ||jay.diamondrelationscrm.us^
 ||jcedu.org^
 ||jcon.in^
-||jdkems.com^
 ||jeffdahlke.com^
 ||jendelabook.pinusdev.com^
 ||jessica.globodyinc.biz^
@@ -600,7 +596,6 @@
 ||location-voitures.ma^
 ||logomastery.com^
 ||lpm.fk.ub.ac.id^
-||ls-droid.com^
 ||ltc.typoten.com^
 ||lucro.importsbr.com^
 ||lumanate.xyz^
@@ -611,7 +606,6 @@
 ||m.ashiwenhua.net^
 ||maashantiskills.com^
 ||macmor-media.com.au^
-||madicon.co.za^
 ||mag-designs.com^
 ||mail.bs-eiendomme.co.za^
 ||mailgoogle.xyz^
@@ -686,7 +680,6 @@
 ||mwu.com.mx^
 ||my.cloudme.com^
 ||myflashnet.id^
-||mymicrogreen.mightcode.com^
 ||mymymakeup.art^
 ||mysura.it^
 ||nagains.azurewebsites.net^
@@ -699,6 +692,7 @@
 ||nerve.untergrund.net^
 ||nesthomes.co.ke^
 ||nettube.com.br^
+||networkwheels.co.za^
 ||newagecast.com^
 ||newdevjyq.devjyq.com^
 ||newkidzontheblockdaycare.co.za^
@@ -723,6 +717,7 @@
 ||ocmdbeachrentals.com^
 ||office365.bellboyindia.com^
 ||ohsewgorgeous.co.uk^
+||oknoplastik.sk^
 ||oleholeh.memangbeda.website^
 ||ombrapiatta.com^
 ||oms.pappai.com^
@@ -769,6 +764,7 @@
 ||patriotpath.am^
 ||paulmercier.biz^
 ||paxz.tk^
+||pay.ewalletgold.com^
 ||payments.atifsiddiqui.me^
 ||peak-tv.tk^
 ||perpustekim.untirta.ac.id^
@@ -795,6 +791,7 @@
 ||pretorian.ug^
 ||prevenzioneformazionelavoro.it^
 ||primaflor-sby.com^
+||prime-e.voltiun.cl^
 ||printee.shop^
 ||prisma.ae^
 ||pristineservices.findfacts.co.in^
@@ -812,7 +809,6 @@
 ||proyectartpanama.com^
 ||psb.sunandrajat.or.id^
 ||punjabdevelopersassociation.com.pk^
-||qingtianxcx.top^
 ||qmsled.com^
 ||qqziyuanwang.com^
 ||qsbinternational.com^
@@ -858,7 +854,6 @@
 ||safcol-colors.com^
 ||saffronflourmill.com^
 ||sagepilatesonline.com^
-||sainzim.co.za^
 ||sample3.khushiyonkazariya.in^
 ||samritz1.atpvitaltesting.com^
 ||samsuntattoo.com^
@@ -866,7 +861,6 @@
 ||sbss.com.pk^
 ||scglobal.co.th^
 ||schildersbedrijfdsdevos.nl^
-||schoolofspanish.co.za^
 ||scottbyscott.com^
 ||sdomain2.presentashik.com^
 ||seacupps.com^
@@ -888,10 +882,13 @@
 ||shahikhana.cstdevs.com^
 ||shahu66.com^
 ||share.ogivart.us^
+||sharetowin.xyz^
 ||shinoavto.com^
+||shippro.xyz^
 ||shop.mediasova.ru^
 ||short.extrafandome.com^
 ||shriramcarehospital.in^
+||shunda321.com^
 ||shwenantawwin.com^
 ||sige.brisainformatica.com.br^
 ||siili.net^
@@ -908,7 +905,6 @@
 ||sleepstarlite-ozark.com^
 ||smarthouseforum.ru^
 ||smbservices.net^
-||smpn3tualang.sch.id^
 ||smsabuja.com^
 ||social.speaker20.com^
 ||sodovip88.com^
@@ -945,6 +941,7 @@
 ||static.cz01.cn^
 ||stavki-na-sporte.ru^
 ||stayinoceancitymd.com^
+||stbasil.bindola.com^
 ||stemartoursandtravels.com^
 ||sterlitecamotech.com^
 ||sterongroup.com.ng^
@@ -952,6 +949,7 @@
 ||stkpointers.com^
 ||store.jeevsutra.com^
 ||storewel.com^
+||stybanigltd.com.ng^
 ||subhagruha.in^
 ||sudariocontabilidade.com.br^
 ||sunpos.in^
@@ -1006,7 +1004,6 @@
 ||timamollo.co.za^
 ||timegonebuy.com^
 ||tk.w3.eyeteam.vn^
-||tlcnailbarhoover.com^
 ||todoapp.cstdevs.com^
 ||tonmatdoanminh.com^
 ||tonydong.com^
@@ -1045,6 +1042,7 @@
 ||unicorpbrunei.com^
 ||unisoftcc.com^
 ||universalplastoind.com^
+||unlockingdreamsfinancial.com^
 ||unwittingjaggeddebugging.neumatic.repl.co^
 ||uyomall.lightzillion.com^
 ||vacandgold.com^
@@ -1066,17 +1064,17 @@
 ||volkscantonalbank.com^
 ||voyager.softuvo.xyz^
 ||vplatform.ae^
-||vpts.co.za^
 ||vtakshop.ir^
 ||vulkanvegasbonus.jeunete.com^
 ||w1.zypaint.com^
+||wakanaija.com.ng^
 ||walkindrivetoday.com^
 ||washatsanjose.com^
 ||watertechservices.com^
+||wawanhar.id^
 ||wearsweetbomb.com^
 ||web.geomegasoft.net^
 ||web.innoservwebsites.in^
-||webmail.glemedical.com^
 ||webs-up.com^
 ||webschool.quicksoft.in^
 ||weinsteincounseling.com^
@@ -1091,6 +1089,7 @@
 ||wishesconcierge.com^
 ||wocosa.com^
 ||woezon.agency^
+||wooq.link^
 ||wordpress.saleensuporte.com.br^
 ||worldofjain.com^
 ||wp-znojemskabeseda-dev.azurewebsites.net^
@@ -1117,7 +1116,6 @@
 ||yonka-centr.ru^
 ||yp.hnggzyjy.cn^
 ||ysbaojia.com^
-||ywfm.in^
 ||yzkzixun.com^
 ||znzhou.top^
 ||zofer.com.br^

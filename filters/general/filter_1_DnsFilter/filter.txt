@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-12T18:19:34.437Z
+! Last modified: 2022-02-13T01:07:13.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -18743,6 +18743,7 @@ vkcdnservice.appspot.com^
 ||bannerignition.co.za^
 ||bannerlot.com^
 ||bannerrage.com^
+||bannersmall.com^
 ||bannersmania.com^
 ||bannertgt.com^
 ||bannertrack.net^
@@ -35293,6 +35294,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget-view.dmm.com^
 ||widget.zenback.jp^
 ||w.zenback.jp^
+||ablyft.com^
 ||tikibihu.com^
 ||partners2.das-onlinespiel.de^
 ||intextlinks.idg.zone^
@@ -37143,6 +37145,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
+||rywnvzd.cn^
+||xkzjq.cn^
 ||008844.cc^
 ||00xvppy.cn^
 ||01fen.com^
@@ -40209,6 +40213,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggtg8.com^
 ||runkao.net^
 ||stunninglover.com^
+||mzwfw.club^
+||zdwsh.tech^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

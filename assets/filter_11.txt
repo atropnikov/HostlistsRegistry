@@ -2,10 +2,12 @@
 ! Title: Online Malicious URL Blocklist
 ! Description: A blocklist of malicious websites that are being used for malware distribution, based on the Database dump of Abuse.ch URLhaus.
 ! Homepage: https://gitlab.com/curben/urlhaus-filter
-! Last modified: 2022-02-15T13:19:19.660Z
+! Last modified: 2022-02-16T01:06:41.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+
+||1-3rdpayment.com^
 ||1008691.com^
 ||123hpcom.site^
 ||1566xueshe.com^
@@ -54,6 +56,7 @@
 ||airr-au.cam^
 ||al-wahd.com^
 ||aladainexpress.com^
+||albatrospatagonia.com^
 ||alberts.diamondrelationscrm.us^
 ||aldahwiprivatehospital.com^
 ||alemelektronik.com^
@@ -66,7 +69,9 @@
 ||amazingholidaysmaldives.com^
 ||amazingshowerdoor.ca^
 ||amooma.sourcetaggers.com^
+||amranhvac.com^
 ||an.nastena.lv^
+||andres.ug^
 ||angel.bk.idv.tw^
 ||annesimonnot.com^
 ||aoringo-web-creating.com^
@@ -88,45 +93,40 @@
 ||artncraft.uk^
 ||artursemth.com^
 ||arushagems.com^
-||arzulens.com^
 ||ashutoshgauttam.com^
 ||ashwagandha.co.in^
-||assets.dsztfso.cn^
 ||asu.com.vn^
 ||atlanticzonalibre.com^
 ||aulist.com^
 ||autoemail.zpesport.com^
 ||autofficinaguerreri.it^
 ||automoto.in.ua^
+||avtomotors.az^
 ||azerbaijan-tourism.com^
 ||azerfinans.az^
 ||azmeasurement.com^
 ||b.dxyzgame.com^
+||backgrounds.pk^
 ||badeggdesign.com^
 ||ballatstone.com^
 ||bangkok-orchids.com^
 ||bank.zanderscloud.com.ng^
-||barbekumarket.com^
 ||barkodsolutions.com^
 ||basbeigium.com^
-||batis-med.com^
 ||bawatingbarter.com^
 ||bberker.com^
 ||bbia.co.uk^
 ||bdjessi.bobetbobette.com^
 ||beanx99.xyz^
-||bearcatpumps.com.cn^
 ||beemployer.in^
 ||bem.feb.uns.ac.id^
 ||bem.unja.ac.id^
 ||bemaxarena.me^
 ||benwellgroup.co.uk^
-||berojgarengineers.com^
 ||bespokeweddings.ie^
 ||beta.profissaopiloto.com.br^
 ||bhaagya.app^
 ||bhopalbird.org^
-||bigmikesupplies.co.za^
 ||bigrussianfloppa.duckdns.org^
 ||biptec.com.br^
 ||blanche.gr^
@@ -139,7 +139,6 @@
 ||blog.oo0oo.ml^
 ||blog.stetgzs.cn^
 ||blog.takbelit.com^
-||bloglovers.com.br^
 ||bmss.org.in^
 ||boamorph.com^
 ||bobcatminer-store.e-mantra.in^
@@ -168,7 +167,6 @@
 ||cardsdoneright.com^
 ||cariustadz.org^
 ||carportscapetown.co.za^
-||carrosincash.xyz^
 ||casoruamc.com.ng^
 ||castlenkings.com^
 ||catower.com^
@@ -192,7 +190,6 @@
 ||chastongroditski.com^
 ||chezalice.co.za^
 ||childselect.com^
-||chinesetaipeichess.com.tw^
 ||chinzo.makeuroblock.mn^
 ||chiukim.com^
 ||chpopesco.com^
@@ -206,14 +203,13 @@
 ||clingcard.co.uk^
 ||clinicatitiu.com.br^
 ||cloudsoft.or.ke^
+||clovekwealth.com^
 ||cofenator.ru^
 ||coin-file-file-19.com^
 ||coinince.com^
 ||colonna.ug^
-||comezmuhendislik.com^
 ||computec-zim.com.mx^
 ||comsatnet.com^
-||conquestcapital.co.ke^
 ||continentalgroup.net.in^
 ||coop-host.com^
 ||copelandscapes.com^
@@ -229,6 +225,7 @@
 ||crittersbythebay.com^
 ||crmfarko.manivelasst.com^
 ||crmroche.manivelasst.com^
+||crmweb.info^
 ||cryptoforextrading56.com^
 ||cucsur.udgvirtual.udg.mx^
 ||cursodeparapsicologia.org^
@@ -242,7 +239,6 @@
 ||da.alibuf.com^
 ||dacui.online^
 ||dadsgetinthegame.com^
-||daftar.site^
 ||danaevara.com^
 ||daohang1.oss-cn-beijing.aliyuncs.com^
 ||darna-online.org^
@@ -270,6 +266,7 @@
 ||dev.crystalclearvapestore.co.uk^
 ||dev.sebpo.net^
 ||dev2-admin.ycbnt.net^
+||development.goipcloud.co.ke^
 ||dezcom.com^
 ||dinkovtips.ml^
 ||direct.credit-suisse.com.juckzgames.com.br^
@@ -279,12 +276,10 @@
 ||divinaprovidenciaautlan.com^
 ||djking.f3322.net^
 ||djtransport.ch^
-||dl.1003b.56a.com^
 ||dl.198424.com^
 ||dl.9xu.com^
 ||dl.installcdn-aws.com^
 ||dl.pandasecur.com^
-||dl.rina-roleplay.com^
 ||dmastermovers.co.za^
 ||dmequest.com^
 ||docs-construction.com^
@@ -298,7 +293,6 @@
 ||down.rxgif.cn^
 ||down.udashi.com^
 ||down.webbora.com^
-||down.yjhyjl.cn^
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.pdf00.cn^
@@ -343,9 +337,11 @@
 ||enc-tech.com^
 ||endoinstruments.co.uk^
 ||endpointwellness.com^
+||endurotanzania.co.tz^
 ||envios.sala-apolo.com^
 ||environmentalaw.com^
 ||ergotherapeia-kalamata.gr^
+||erizo.webarrive.com^
 ||esakip.dev.semarangkab.go.id^
 ||eselcom.com^
 ||eslomingenieria.com.ar^
@@ -356,8 +352,8 @@
 ||ewgroup.com.br^
 ||excelsales.co.in^
 ||exilum.com^
-||expansion.co.uk^
 ||expansion360.net^
+||extractjob.com^
 ||f.gogamef.com^
 ||f0628222.xsph.ru^
 ||f0630581.xsph.ru^
@@ -404,13 +400,13 @@
 ||furyx.de^
 ||g.nxxxn.ga^
 ||galaxy.managesquare.com^
-||gan-n.cloud-downloader.com^
 ||gatcomtech.co.za^
 ||gbsports.theapplab.org^
 ||geo-lines.com^
 ||georgiatest.m2web.dev^
 ||gethomevaluerestoration.com^
 ||getiftech.org^
+||gocnhotaichinh.com^
 ||gocut.com^
 ||godfathersjunk.com^
 ||godubai.club^
@@ -418,8 +414,6 @@
 ||goldenasiacapital.com^
 ||goldeneggtrainingschool.co.uk^
 ||google247.xyz^
-||google360.xyz^
-||googlevn.xyz^
 ||gpoleri.com.ar^
 ||gpotecnosystems.com^
 ||grand-element.ru^
@@ -427,6 +421,7 @@
 ||greenlawnirrigation.net^
 ||grimmcm.com^
 ||gruzof.by^
+||gs.monerorx.com^
 ||gt-max.com.my^
 ||guillermomanrique.com.mx^
 ||gwebsolution.com^
@@ -473,6 +468,7 @@
 ||hunggiang.vn^
 ||i.fluffy.cc^
 ||ia601405.us.archive.org^
+||ia801408.us.archive.org^
 ||ibooking.campaignhub.net^
 ||id-tiara.com^
 ||idesign-bruceberman.com^
@@ -485,15 +481,16 @@
 ||imaginationtoon.com^
 ||imbueautoworx.co.za^
 ||immunotec.network^
+||imobiles.pk^
 ||incrediblepixels.com^
 ||incredicole.com^
 ||indianjewellery.art^
 ||inditoys.in^
 ||indonesias.me^
 ||indrasbikaner.com^
+||infuga.cl^
 ||ingelagos.cl^
 ||innosolv-idine.com^
-||integralbd.com^
 ||interlinks.top^
 ||interlinx.top^
 ||interviewsetup.com^
@@ -528,11 +525,13 @@
 ||k7tgu.com^
 ||kadigital.co.uk^
 ||kaptured.io^
+||karantinatahfizh.com^
 ||karer.by^
 ||katiej.globodyinc.biz^
 ||kdaoskdokaodkwldld.blogspot.com^
 ||kenaridjaja.com^
 ||kenbrown-photo.com^
+||kentuckyrversjournal.com^
 ||keyesforsteuben.com^
 ||khbd.41319.top^
 ||khbd.mbtuan.com^
@@ -541,7 +540,6 @@
 ||kimjikuk.luxeone.cn^
 ||kimtanoto.online^
 ||kimyen.net^
-||kingsquare.pk^
 ||kizitox.cf^
 ||kjcpromo.com^
 ||klija.net^
@@ -571,15 +569,14 @@
 ||legend.nu^
 ||lennart.serv.se^
 ||lestesteux.ca^
-||libertastrade.com^
 ||library.arihantmbainstitute.ac.in^
 ||lincry.me^
 ||lindnerelektroanlagen.de^
 ||linkintec.cn^
 ||livehelpco.com^
 ||livetrack.in^
+||lm.stagingarea.co.za^
 ||lms.cstdevs.com^
-||location-voitures.ma^
 ||logomastery.com^
 ||lpm.fk.ub.ac.id^
 ||ls-droid.com^
@@ -593,6 +590,7 @@
 ||m.ashiwenhua.net^
 ||maashantiskills.com^
 ||macmor-media.com.au^
+||madicon.co.za^
 ||mag-designs.com^
 ||magic-tiles-stain-remover.com^
 ||mail.bs-eiendomme.co.za^
@@ -607,8 +605,8 @@
 ||mangumrealty.com^
 ||maquinadosgutierrez.com^
 ||marcowine.com^
+||marcyovcx.ru^
 ||mardigrasslandscaping.com^
-||marezdecor.com^
 ||marineboyrecords.com^
 ||mario-sunjic.com^
 ||marketingonline.com^
@@ -635,7 +633,6 @@
 ||midlandtexasconstruction.com^
 ||mikhailmotoringschool.com^
 ||miniflam.com^
-||mirror.mypage.sk^
 ||missionnyc.org^
 ||misterson.com^
 ||mistydeblasiophotography.com^
@@ -654,10 +651,7 @@
 ||mos-app.myitas.net^
 ||mpesa.shuleyanguonline.co.ke^
 ||mr-mahmoud-hassan.com^
-||msc-services.s3.eu-west-3.amazonaws.com^
 ||mtmusicaemercado.com.br^
-||multilevelcarparkingindia.com^
-||mumgee.co.za^
 ||mvb.kz^
 ||mwu.com.mx^
 ||my.cloudme.com^
@@ -675,7 +669,6 @@
 ||nerve.untergrund.net^
 ||nesthomes.co.ke^
 ||nettube.com.br^
-||networkwheels.co.za^
 ||newagecast.com^
 ||newdevjyq.devjyq.com^
 ||newkidzontheblockdaycare.co.za^
@@ -685,9 +678,7 @@
 ||nimble-learners.com^
 ||nitropixel.com.br^
 ||niwf.sourcetaggers.com^
-||njtiledesigncenter.com^
 ||nmkonline.com^
-||nolabelsnowalls.net^
 ||nomadicbees.com^
 ||noonimpex.com^
 ||nsb.org.uk^
@@ -709,9 +700,9 @@
 ||on-lineventures.com^
 ||ondapro.me^
 ||ondulato.com.br^
-||onestor.co.in^
 ||online.creedglobal.in^
 ||onyx-food.com^
+||opolis.io^
 ||opornik55.ru^
 ||oracle.zzhreceive.top^
 ||orbdyn.com^
@@ -748,8 +739,8 @@
 ||paxz.tk^
 ||pay.ewalletgold.com^
 ||payments.atifsiddiqui.me^
-||peak-tv.tk^
 ||perpustekim.untirta.ac.id^
+||persiancyclet.com^
 ||petparadise.biz^
 ||petservicesco.com^
 ||phasdesign.com^
@@ -758,14 +749,11 @@
 ||pikasho.com^
 ||pink99.com^
 ||piotr-zajac.pl^
-||piousvision.com^
 ||pivot-to-virtual.com^
-||pizza-italia.hu^
 ||plasfan.ind.br^
 ||playground.oaklife.ca^
 ||posmicrosystems.com^
 ||ppdb.smk-ciptaskill.sch.id^
-||predskolskaustanovastonogica.rs^
 ||premiumline.top^
 ||premiumlist.top^
 ||prestasicash.com.ar^
@@ -776,7 +764,6 @@
 ||prime-e.voltiun.cl^
 ||printee.shop^
 ||prisma.ae^
-||pristineservices.findfacts.co.in^
 ||proapsoluciones.com.ar^
 ||prod1.saffyr.com^
 ||prod2.saffyr.com^
@@ -788,6 +775,7 @@
 ||protechasia.com^
 ||protherapycenter.com^
 ||provantagemtn.co.za^
+||proximis.net^
 ||proyectartpanama.com^
 ||psb.sunandrajat.or.id^
 ||punjabdevelopersassociation.com.pk^
@@ -795,6 +783,7 @@
 ||qmsled.com^
 ||qqziyuanwang.com^
 ||qsbinternational.com^
+||quickshiftdigital.com^
 ||radiopassionmusic.onlysite.eu^
 ||rainbowisp.info^
 ||rakeshkhatri.in^
@@ -806,6 +795,7 @@
 ||reatual.jp^
 ||red-ondas.org^
 ||redbats.co.in^
+||register.srpoly.ac.th^
 ||reifenquick.de^
 ||relaxindulge.co.nz^
 ||renton.apttechsol.com^
@@ -820,13 +810,10 @@
 ||roderickpowellentertainment.com^
 ||roketscience.com^
 ||romanianpoints.com^
-||ronfrankproductions.com^
 ||roofing.galacticleads.com^
 ||rosewoodcraft.com^
 ||roshanzamir.ir^
 ||royalsnackmyanmar.com^
-||rrhh.intelsolut.com^
-||rsc-host.com^
 ||rtd.b2bpipe.cn^
 ||rxquickpay.com^
 ||s.51shijuan.com^
@@ -839,13 +826,13 @@
 ||samritz1.atpvitaltesting.com^
 ||samsuntattoo.com^
 ||savethefuture.us^
-||sbss.com.pk^
 ||scglobal.co.th^
 ||schildersbedrijfdsdevos.nl^
 ||schoolofspanish.co.za^
 ||scottbyscott.com^
 ||sdomain2.presentashik.com^
 ||seacupps.com^
+||sealoftheking.com^
 ||securezzaline.top^
 ||securezzalines.top^
 ||segredosdasupermaquiagem.com.br^
@@ -864,12 +851,12 @@
 ||shahikhana.cstdevs.com^
 ||shahu66.com^
 ||share.ogivart.us^
+||sharetowin.xyz^
 ||shinoavto.com^
+||shippro.xyz^
 ||shop.mediasova.ru^
 ||short.extrafandome.com^
 ||shriramcarehospital.in^
-||shunda321.com^
-||shwenantawwin.com^
 ||sige.brisainformatica.com.br^
 ||siili.net^
 ||silentunevents.com^
@@ -885,9 +872,7 @@
 ||sleepstarlite-ozark.com^
 ||smarthouseforum.ru^
 ||smbservices.net^
-||smpn3tualang.sch.id^
 ||smsabuja.com^
-||social.speaker20.com^
 ||sodovip88.com^
 ||soft.110route.com^
 ||softuvo.softuvo.xyz^
@@ -904,6 +889,7 @@
 ||sparcalabar.lightzillion.com^
 ||spent.com.pl^
 ||spetsesyachtcharter.gr^
+||spices.com.sg^
 ||springwoodminingservices.com^
 ||squidgame.to^
 ||src1.minibai.com^
@@ -917,14 +903,14 @@
 ||start360up.com^
 ||starwalkerdriving.ca^
 ||static-201-163-99-83.alestra.net.mx^
-||static.3001.net^
-||static.cz01.cn^
 ||stavki-na-sporte.ru^
 ||stayinoceancitymd.com^
 ||stemartoursandtravels.com^
 ||sterlitecamotech.com^
 ||sterongroup.com.ng^
 ||sticker.jewsjuice.com^
+||stkpointers.com^
+||store.jeevsutra.com^
 ||storewel.com^
 ||stybanigltd.com.ng^
 ||subhagruha.in^
@@ -953,6 +939,7 @@
 ||technologyhumanity.org^
 ||techsoftweb.com.br^
 ||techybhai.online^
+||tecingenieria.cl^
 ||teknoarge.com^
 ||teleargentina.com^
 ||tempral.com^
@@ -960,6 +947,7 @@
 ||test.adventser.com^
 ||test.fontecsys.net^
 ||test.reachhealth.asia^
+||test.typoten.com^
 ||test.ugbswebakenyaltd.com^
 ||test2.marrenconstruction.ie^
 ||teste.spedynet.com.br^
@@ -968,12 +956,10 @@
 ||tharringtonsponsorship.com^
 ||thefox.pt^
 ||thegift.live^
-||theholidayroads.com^
 ||thehotelshowdev.bitkit.dk^
 ||thehubcafe.in^
 ||thekitchengastronomy.com^
 ||therapidite.com^
-||theroyaltrading.com^
 ||thosewebbs.com^
 ||tianangdep.com^
 ||timamollo.co.za^
@@ -986,7 +972,6 @@
 ||tonyzone.com^
 ||torresquinterocorp.com^
 ||torshshop.ir^
-||toursinfez.com^
 ||towardsun.net^
 ||tpp.om-stock.com^
 ||tradefactweb.azurewebsites.net^
@@ -1001,7 +986,6 @@
 ||triangle-associates.com^
 ||trietlongvinhvien.info^
 ||tripthaithai.com^
-||try.justprintbd.com^
 ||tsms.ogcs-tn.com^
 ||tupperware.michaelroberge.ca^
 ||twinings.grupoformax.net^
@@ -1010,6 +994,7 @@
 ||ufd.cam^
 ||ukguk71.ru^
 ||ultimate-24.de^
+||underdohag.ac.ug^
 ||unicorpbrunei.com^
 ||unisoftcc.com^
 ||universalplastoind.com^
@@ -1017,7 +1002,6 @@
 ||unwittingjaggeddebugging.neumatic.repl.co^
 ||urieprocor.com^
 ||uyomall.lightzillion.com^
-||vacandgold.com^
 ||vectarts.com^
 ||vic.welcome-to.com^
 ||victorysanitizer.com^
@@ -1041,6 +1025,7 @@
 ||vtakshop.ir^
 ||vulkanvegasbonus.jeunete.com^
 ||w1.zypaint.com^
+||wakanaija.com.ng^
 ||walkindrivetoday.com^
 ||washatsanjose.com^
 ||watertechservices.com^
@@ -1060,6 +1045,7 @@
 ||winsorfx.com^
 ||winteq-astra.com^
 ||wishesconcierge.com^
+||witumart.com^
 ||wocosa.com^
 ||woezon.agency^
 ||wordpress.saleensuporte.com.br^
@@ -1074,7 +1060,6 @@
 ||x.233sy.cn^
 ||x2vn.com^
 ||xariatowing.co.za^
-||xelu.vn^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--80adicyfwmly7g.xn--p1ai^
 ||xn--cheggl-videos-fr-gastronomie-g7c.de^

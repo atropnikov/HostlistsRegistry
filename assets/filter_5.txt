@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-17T12:27:50.578Z
+! Last modified: 2022-02-17T17:17:50.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28765,7 +28765,6 @@
 ||livedecnow.com^
 ||livedecwow.com^
 ||livehelpco.com^
-||liveintent.com^
 ||livelihoodpracticaloperating.com^
 ||livelog.biz^
 ||livelumber.com^
@@ -53070,3 +53069,4 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

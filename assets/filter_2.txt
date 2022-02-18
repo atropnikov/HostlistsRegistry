@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-02-18T18:22:41.640Z
+! Last modified: 2022-02-18T22:18:14.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4991,8 +4991,6 @@
 127.0.0.1 api.madkudu.com
 127.0.0.1 cdn.madkudu.com
 
-127.0.0.1 acc.magixite.com
-
 127.0.0.1 api.magmamobile.com
 
 127.0.0.1 ad.mail.ru
@@ -6087,8 +6085,6 @@
 
 127.0.0.1 api.oneaudience.com
 
-127.0.0.1 static.onecms.io
-
 127.0.0.1 validate.onecount.net
 
 127.0.0.1 tracking.onefeed.co.uk
@@ -6409,8 +6405,6 @@
 127.0.0.1 ak-cdn.placelocal.com
 127.0.0.1 tag.placelocal.com
 
-127.0.0.1 playhaven.com
-
 127.0.0.1 stats.playrix.com
 
 127.0.0.1 sdk.playtem.com
@@ -6521,8 +6515,6 @@
 127.0.0.1 ads.pro-market.net
 
 127.0.0.1 api.proba.ai
-
-127.0.0.1 att.productmadness.com
 
 127.0.0.1 ads.programattik.com
 
@@ -7058,8 +7050,6 @@
 127.0.0.1 sbbanner.com
 
 127.0.0.1 sc-static.net
-
-127.0.0.1 images.scanalert.com
 
 127.0.0.1 recommender.scarabresearch.com
 
@@ -8088,9 +8078,6 @@
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-eu.tiqcdn.com
 
-127.0.0.1 api.tllms.com
-127.0.0.1 marketing.tllms.com
-
 127.0.0.1 tnkfactory.com
 127.0.0.1 ap.tnkfactory.com
 
@@ -8661,8 +8648,6 @@
 127.0.0.1 tags.viewdeos.com
 127.0.0.1 track.viewdeos.com
 
-127.0.0.1 viewpoint.com
-
 127.0.0.1 api.viglink.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 images.viglink.com
@@ -8821,8 +8806,6 @@
 127.0.0.1 bcdn-god.we-stats.com
 127.0.0.1 cfr.us.v2.we-stats.com
 127.0.0.1 log-dbff2e04.us.v2.we-stats.com
-
-127.0.0.1 compare-static.weather-and-climate.com
 
 127.0.0.1 airlytics.airlock.twcmobile.weather.com
 

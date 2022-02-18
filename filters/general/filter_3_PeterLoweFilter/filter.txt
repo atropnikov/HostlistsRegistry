@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-02-15T17:15:53.875Z
+! Last modified: 2022-02-18T01:10:05.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2135,6 +2135,7 @@
 ||kanoodle.com^
 ||kargo.com^
 ||karonty.com^
+||katie.v4.byetnc.com^
 ||kesmatic.com^
 ||keymedia.hu^
 ||kindads.com^
@@ -2438,6 +2439,7 @@
 ||myvisualiq.net^
 ||n69.com^
 ||naj.sk^
+||naj22.proasdf.com^
 ||nappyattack.com^
 ||naradxb.com^
 ||nastydollars.com^

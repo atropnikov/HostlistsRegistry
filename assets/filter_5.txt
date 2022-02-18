@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-17T17:17:50.401Z
+! Last modified: 2022-02-18T16:25:19.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2448,7 +2448,6 @@
 ||ad-gbn.com^
 ||ad-generation.jp^
 ||ad-generator.net^
-||ad-groups.com^
 ||ad-hatena.com^
 ||ad-image.val.jp^
 ||ad-indicator.com^
@@ -9690,7 +9689,6 @@
 ||banners.flingguru.com^
 ||banners.freett.com^
 ||banners.friendfinder.com^
-||banners.fuckbookhookups.com^
 ||banners.fulltiltpoker.com^
 ||banners.gayfriendfinder.com^
 ||banners.haqqin.az^
@@ -15093,7 +15091,6 @@
 ||crazyhell.com^
 ||crazylead.com^
 ||crazymonkey.top^
-||crazypopups.com^
 ||crazyprotocol.com^
 ||crazywinnings.com^
 ||crcdn01.adnxs.com^
@@ -53069,4 +53066,7 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+
+
+
 

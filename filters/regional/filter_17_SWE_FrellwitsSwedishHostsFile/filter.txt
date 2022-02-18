@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-02-18T07:17:16.840Z
+! Last modified: 2022-02-18T18:22:48.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -591,7 +591,6 @@
 127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform-api.sharethis.com
-127.0.0.1 plausible.io
 127.0.0.1 popitunder.com
 127.0.0.1 portalhc.com
 127.0.0.1 postnord-sverige.com

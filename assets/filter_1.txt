@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-18T06:22:12.088Z
+! Last modified: 2022-02-18T12:28:28.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3279,6 +3279,7 @@ www.llllllllllll.net^
 ||samsungads.com^
 ||samsungtvads.com^
 
+||d119hs7863lat.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
 ||d1qk9ujrmkucbl.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
@@ -4680,7 +4681,6 @@ vkcdnservice.appspot.com^
 ||adxscope.com^
 ||adxxx.me^
 ||adxxx.org^
-||adyoulike.com^
 ||adz.co.zw^
 ||adzfun.info^
 ||adzfun.me^
@@ -18801,6 +18801,7 @@ vkcdnservice.appspot.com^
 ||adxpose.com^
 ||adxpremium.com^
 ||adxpub.com^
+||adyoulike.com^
 ||adysis.com^
 ||adzbazar.com^
 ||adzerk.net^
@@ -21074,6 +21075,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||api.rollbar.com^
 ||fouanalytics.com^
 ||analitits.com^
 ||rtxpx-a.akamaihd.net^
@@ -27659,6 +27661,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||acxiomapac.com^
 ||adabra.com^
 ||adalyser.com^
+||adara.com^
 ||adblockrelief.com^
 ||adhslx.com^
 ||adinte.jp^
@@ -40389,6 +40392,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wy8.wang^
 ||vqlrwgj.cn^
 ||quanwu.shop^
+||lpjgr.top^
+||gxhc.ink^
+||xije.ren^
+||tanshan.site^
+||haodiwh.top^
+||jiehe.me^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

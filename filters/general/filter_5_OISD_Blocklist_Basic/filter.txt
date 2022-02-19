@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-18T16:25:19.661Z
+! Last modified: 2022-02-19T15:18:00.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20704,7 +20704,6 @@
 ||flexiblelocator.com^
 ||flexibletool.com^
 ||flexlinks.com^
-||flexlinkspro.com^
 ||flexnoseassist.com^
 ||flexterkita.com^
 ||flextra.1.p2l.info^
@@ -53066,6 +53065,7 @@
 ||zzyonghao.com^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+
 
 
 

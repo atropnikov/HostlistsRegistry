@@ -2,11 +2,18 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-19T06:21:56.241Z
+! Last modified: 2022-02-19T12:27:01.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||hsrvv.com^
+||instaflrt.com^
+||japanhotties.jp^
+||occustantwidity.com^
+||singlesgetmatched.com^
+||jsedeepuujv.com^
+||abjwkkabu.com^
 ||pookawnratbite.com^
 ||enablecherrysail.com^
 ||easyads28.info^
@@ -35226,19 +35233,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mineralisasse.site^
 
 ||promotionalads.yahoo.co.jp^
-||adserver.yahoo.co.jp^
-||smartads.mobile.yahoo.co.jp^
-||rd.yahoo.co.jp^
 ||ard.yahoo.co.jp^
 ||ov.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
-||logoole.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||adf.shinobi.jp^
 ||bar*.shinobi.jp^
-||ct1.shinobi.jp^
-||ct2.shinobi.jp^
 ||affiliate.rakuten.co.jp^
 ||hbb.afl.rakuten.co.jp^
 ||hb.afl.rakuten.co.jp^
@@ -35416,7 +35417,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aspm.jp^
 ||clickmedias.info^
 ||doubleclick.ne.jp^
-||inmobi-jp.com^
 ||j-a-net.jp^
 ||livead.jp^
 ||liveads.jp^
@@ -35450,12 +35450,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9vad.com^
 ||agilemedia.jp^
 ||ad.duga.jp^
-||ad.floq.jp^
 ||ad.kau.li^
 ||ad.land.to^
 ||ad.net-tool.jp^
 ||ad.nicovideo.jp^
-||addclips.org^
 ||ads.metropolis.co.jp^
 ||ads.nicovideo.jp^
 ||affili.dmm.com^
@@ -37367,6 +37365,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
 ||qsnyswg.cn^
+||5ibanma.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40455,6 +40454,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mygqhvz.cn^
 ||jlyayxz.cn^
 ||dlvjmr.cn^
+||hxbylm.vip^
+||lingquanba.wang^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

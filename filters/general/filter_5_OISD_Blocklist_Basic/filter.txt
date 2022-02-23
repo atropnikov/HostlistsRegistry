@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-23T20:18:30.569Z
+! Last modified: 2022-02-23T22:18:05.653Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2177,6 +2177,7 @@
 ||ads-stream.com^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads-trk.vidible.tv^
+||ads-twitter.com^
 ||ads-v-darwin.hulu.com^
 ||ads-verify.yap.yahoo.com^
 ||ads.1thegioi.vn^
@@ -24304,7 +24305,6 @@
 ||static.adconnect.vn^
 ||static.addynamo.net^
 ||static.adfclick1.com^
-||static.ads-twitter.com^
 ||static.adzerk.net^
 ||static.agkn.com^
 ||static.amplitude.com^

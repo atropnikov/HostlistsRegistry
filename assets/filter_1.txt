@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-23T06:21:47.059Z
+! Last modified: 2022-02-23T12:29:58.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||mage98rquewz.com^
 ||cugiphepty.com^
 ||hsrvv.com^
 ||instaflrt.com^
@@ -17255,6 +17256,7 @@ vkcdnservice.appspot.com^
 ||vianoivernom.com^
 ||viapizza.online^
 ||viatorayme.com^
+||vic-m.co^
 ||victoriousbanker.com^
 ||vid.me^
 ||vidalak.com^
@@ -37466,6 +37468,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
+||zihengfx.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -40570,6 +40573,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||edajot.cn^
 ||ahuang.site^
 ||friendliness.work^
+||lddpgn.cn^
+||hljmao.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

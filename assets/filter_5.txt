@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-02-23T16:25:49.144Z
+! Last modified: 2022-02-23T17:19:01.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2833,6 +2833,7 @@
 ||ads.xlxtra.com^
 ||ads.xtargeting.com^
 ||ads.xtra.co.nz^
+||ads.yahoo.com^
 ||ads.yam.com^
 ||ads.yankscash.com^
 ||ads.yap.yahoo.com^
@@ -3063,6 +3064,7 @@
 ||adserver.videohub.tv^
 ||adserver.virginmedia.com^
 ||adserver.webads.co.uk^
+||adserver.yahoo.com^
 ||adserver01.de^
 ||adserver1.mindshare.de^
 ||adserver2.exgfnetwork.com^
@@ -3491,6 +3493,7 @@
 ||advertising.jp.msn.com^
 ||advertising.microsoft.com^
 ||advertising.thediabetesnetwork.com^
+||advertising.yahoo.com^
 ||advertising.yandex.ru^
 ||advertising365.com^
 ||advertisingbanners.com^
@@ -4453,6 +4456,7 @@
 ||analytics.publitas.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.ninja^
+||analytics.query.yahoo.com^
 ||analytics.redbubble.com^
 ||analytics.rever.vn^
 ||analytics.rover.io^
@@ -4500,6 +4504,7 @@
 ||analytics.webgains.io^
 ||analytics.wishabi.ca^
 ||analytics.xelondigital.com^
+||analytics.yahoo.com^
 ||analytics.youramigo.com^
 ||analytics.youronlinechoices.com^
 ||analytics.zapps.vn^
@@ -6021,6 +6026,7 @@
 ||beamingworked.com^
 ||beampulse.com^
 ||beap-bc.yahoo.com^
+||beap.adx.yahoo.com^
 ||beastbeef.com^
 ||beastintruder.com^
 ||beastlyaccomplished.com^
@@ -11564,6 +11570,7 @@
 ||fc.co.mz^
 ||fc.itmedia.co.jp^
 ||fc.webmasterpro.de^
+||fc.yahoo.com^
 ||fc2ppv.buzz^
 ||fc408d7caec09.com^
 ||fcdnmkc.com^
@@ -12454,6 +12461,7 @@
 ||gejute.com^
 ||gekko.spiceworks.com^
 ||gemfaxaha.com^
+||gemini.yahoo.com^
 ||gemlocomotivemid.com^
 ||gen2server.com^
 ||gencehepatie.club^
@@ -12492,6 +12500,7 @@
 ||geo.rlcdn.com^
 ||geo.safelinktracker.com^
 ||geo.xxxblackbook.com^
+||geo.yahoo.com^
 ||geo.ziffdavis.com^
 ||geoaddicted.net^
 ||geoads.eurorevenue.com^
@@ -16614,6 +16623,7 @@
 ||marketing.osijek031.com^
 ||marketing.outbrain.com^
 ||marketingenhanced.com^
+||marketingsolutions.yahoo.com^
 ||marketland.me^
 ||marketlive.122.2o7.net^
 ||marketo.net^
@@ -20556,6 +20566,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
 ||pr-ten.de^
+||pr.comet.yahoo.com^
 ||pr0gram.org^
 ||practeddagek.club^
 ||practicableperiodicabrupt.com^
@@ -29063,13 +29074,3 @@
 ||zzdb5p4upiug.com^
 ||zzhc.vnet.cn^
 ||zzoacwqfw.com^
-
-
-
-
-
-
-
-
-
-

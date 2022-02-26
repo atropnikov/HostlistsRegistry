@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-02-26T01:03:06.335Z
+! Last modified: 2022-02-26T06:21:20.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27806,6 +27806,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dispatchvegasplus.com^
 ||dm-event.net^
 ||e1e.io^
+||efreecode.com^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||fastemu.co^
@@ -29240,6 +29241,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.flow.io^
 ||beacon.nrholding.net^
 ||beacon.rum.dynapis.com^
+||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
 ||beacon.squixa.net^
 ||beacon.statful.com^
@@ -29534,6 +29536,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perf.dugout.com^
 ||perso.aws.arc.pub^
 ||pi.ispot.tv^
+||ping-admin.ru^
 ||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
 ||ping.instantsearchplus.com^
@@ -40685,6 +40688,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hushenqiquan.com^
 ||dingdian.shop^
 ||mydancecn.online^
+||lauvlku.cn^
+||5dm6ghn.cn^
+||shenwupower.com.cn^
+||blb2s77r.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

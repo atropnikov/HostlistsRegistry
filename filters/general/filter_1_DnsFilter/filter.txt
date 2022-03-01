@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-01T06:22:14.305Z
+! Last modified: 2022-03-01T12:30:23.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||argeersarchfoe.com^
+||jstbhubhusolryo.com^
 ||whsrdsweq.com^
 ||abrocvhkwhd.com^
 ||enifeygqued.com^
@@ -29281,6 +29283,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||barium.cheezdev.com^
 ||bc.geocities.
 ||beacon.affil.walmart.com^
+||beacon.cdnma.com^
 ||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.nrholding.net^
@@ -40752,6 +40755,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fyesqma.cn^
 ||mwbsvh.cn^
 ||dawwscr.cn^
+||joker6.fun^
+||wangyao.pro^
+||ssdsss.top^
+||lzwnb.site^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

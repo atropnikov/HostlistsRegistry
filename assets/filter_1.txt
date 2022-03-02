@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-02T12:30:19.903Z
+! Last modified: 2022-03-02T14:17:27.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -371,7 +371,6 @@
 ||horriblygeneratortwinkle.com^
 ||lyricslocusvaried.com^
 ||munchenviableski.com^
-||nightfallroad.com^
 ||numeralembody.com^
 ||purebushesprop.com^
 ||saggrowledetc.com^
@@ -12456,6 +12455,7 @@ vkcdnservice.appspot.com^
 ||nightceramicoutgoing.com^
 ||nighter.club^
 ||nightfallinquiredune.com^
+||nightfallroad.com^
 ||niholaev.com^
 ||nijegwiyiqc.xyz^
 ||nikkiexxxads.com^
@@ -45098,7 +45098,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
-
+@@||brm-core-*.brsrvr.com^|
 @@||marketing.net.idealo-partner.com^|
 @@||netatmo.commander1.com^|
 @@||clj.valuecommerce.com^|

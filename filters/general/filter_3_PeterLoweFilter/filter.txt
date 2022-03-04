@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-03T18:21:36.382Z
+! Last modified: 2022-03-04T13:21:35.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -527,7 +527,6 @@
 ||ads.iwon.com^
 ||ads.jewishfriendfinder.com^
 ||ads.jobsite.co.uk^
-||ads.jpost.com^
 ||ads.justhungry.com^
 ||ads.kabooaffiliates.com^
 ||ads.kaktuz.net^
@@ -949,6 +948,7 @@
 ||affiliate.doubleyourdating.com^
 ||affiliate.dtiserv.com^
 ||affiliate.gamestop.com^
+||affiliate.mogs.com^
 ||affiliate.offgamers.com^
 ||affiliate.rusvpn.com^
 ||affiliate.travelnow.com^
@@ -2439,7 +2439,6 @@
 ||nappyattack.com^
 ||naradxb.com^
 ||nastydollars.com^
-||nativeroll.tv^
 ||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
@@ -3182,7 +3181,6 @@
 ||superficialsquare.com^
 ||supersonicads.com^
 ||superstats.com^
-||supertop.ru^
 ||supertop100.com^
 ||supertracking.net^
 ||supply.colossusssp.com^

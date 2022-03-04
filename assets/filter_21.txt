@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2022-03-01T19:15:36.367Z
+! Last modified: 2022-03-04T12:30:19.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -65,6 +65,7 @@
 @@||iufostworldcongress-singapore.com^
 @@||ad.ext.azure.cn^
 @@||torproject.org^
+@@||api.browser.miui.com^
 @@||ads.amazon^
 @@||ads.instacart.com^
 @@||ads.kazakh-zerno.net^
@@ -10873,7 +10874,9 @@
 ||cmmob.cn^
 ||cmnfybfjn.xyz^
 ||intent.cmo.com.au^
-||cmpassport.com^
+||log1.cmpassport.com^
+||config.cmpassport.com^
+||log.cmpassport.com^
 ||cmpgns.net^
 ||mms.cmpsky.com^
 ||cmptch.com^
@@ -26167,7 +26170,6 @@
 ||m.lvsih.cn^
 ||lvt1980.cn^
 ||lvxingxian.cn^
-||wxapp.lvyadx.cn^
 ||lvylv.cn^
 ||lw88.site^
 ||lwadm.com^

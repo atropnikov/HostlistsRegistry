@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-09T01:14:52.290Z
+! Last modified: 2022-03-09T06:22:11.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5544,6 +5544,7 @@ vkcdnservice.appspot.com^
 ||bestrevenuenetwork.com^
 ||bestssn.com^
 ||bestzba.com^
+||betads.xyz^
 ||betahit.click^
 ||betemolgar.com^
 ||betgorebysson.club^
@@ -13960,6 +13961,7 @@ vkcdnservice.appspot.com^
 ||prautl.com^
 ||prayersitsskid.com^
 ||prayuserparka.com^
+||prdredir.com^
 ||pre4sentre8dhf.com^
 ||precautionbuoy.com^
 ||precisetackle.com^
@@ -37871,6 +37873,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
+||phagueq.cn^
+||fydckl.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -41001,6 +41005,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nokiadatabooklet.ltd^
 ||hryidhf.ltd^
 ||unconditionally.wang^
+||sysjazi.cn^
+||wknydhz.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

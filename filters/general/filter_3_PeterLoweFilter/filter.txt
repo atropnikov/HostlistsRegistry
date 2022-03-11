@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-10T09:18:00.933Z
+! Last modified: 2022-03-11T13:22:05.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -590,7 +590,6 @@
 ||ads.oxyshop.cz^
 ||ads.passion.com^
 ||ads.paymonex.net^
-||ads.pennet.com^
 ||ads.pexi.nl^
 ||ads.pfl.ua^
 ||ads.phpclasses.org^
@@ -918,7 +917,6 @@
 ||advnt.com^
 ||adwebone.com^
 ||adwhirl.com^
-||adwords-track.com^
 ||adwordsecommerce.com.br^
 ||adworldnetwork.com^
 ||adworx.at^
@@ -1402,7 +1400,6 @@
 ||clickedyclick.com^
 ||clickfuse.com^
 ||clickhereforcellphones.com^
-||clickhype.com^
 ||clicklink.jp^
 ||clickmate.io^
 ||clickonometrics.pl^
@@ -2417,7 +2414,6 @@
 ||myads.telkomsel.com^
 ||myaffiliateprogram.com^
 ||mybbc-analytics.files.bbci.co.uk^
-||mybestmv.com^
 ||mybetterdl.com^
 ||mybloglog.com^
 ||mybuys.com^
@@ -2432,7 +2428,6 @@
 ||mystat.pl^
 ||mysteriousmonth.com^
 ||mytop-in.net^
-||mytrackingservers.com^
 ||myvisualiq.net^
 ||n69.com^
 ||naj.sk^
@@ -2440,6 +2435,7 @@
 ||nappyattack.com^
 ||naradxb.com^
 ||nastydollars.com^
+||nativeroll.tv^
 ||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
@@ -3183,6 +3179,7 @@
 ||superficialsquare.com^
 ||supersonicads.com^
 ||superstats.com^
+||supertop.ru^
 ||supertop100.com^
 ||supertracking.net^
 ||supply.colossusssp.com^

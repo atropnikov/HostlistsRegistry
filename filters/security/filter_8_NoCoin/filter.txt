@@ -2,14 +2,12 @@
 ! Title: NoCoin Filter List
 ! Description: This is an adblock list to block browser-based crypto mining.
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
-! Last modified: 2021-12-25T02:37:43.248Z
+! Last modified: 2022-03-11T01:16:26.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
 0.0.0.0 cnhv.co
-0.0.0.0 coin-hive.com
-0.0.0.0 coinhive.com
 0.0.0.0 authedmine.com
 0.0.0.0 api.jsecoin.com
 0.0.0.0 load.jsecoin.com

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-13T23:18:49.896Z
+! Last modified: 2022-03-14T09:18:18.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6347,7 +6347,6 @@
 ||advertising.hiasys.com^
 ||advertising.illinimedia.com^
 ||advertising.jp.msn.com^
-||advertising.microsoft.com^
 ||advertising.online-media24.de^
 ||advertising.paltalk.com^
 ||advertising.quote.com^
@@ -11922,7 +11921,6 @@
 ||bindedge.com^
 ||bindfast.com^
 ||bindinginflict.com^
-||bingads.microsoft.com^
 ||bingaloo.net^
 ||bingojx.com^
 ||bingooverdosegroom.com^
@@ -41139,7 +41137,6 @@
 ||phehellatech.demo9lec.co.za^
 ||phendimetrazine.1.p2l.info^
 ||phenomenonattorney.com^
-||phenompeople.com^
 ||phentermine-online.iscool.nl^
 ||phentermine.1.p2l.info^
 ||phentermine.3.p2l.info^
@@ -61029,3 +61026,5 @@
 ||zzxlhwyp.com^
 ||zzyonghao.com^
 ||zzznews.ru^
+
+

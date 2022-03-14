@@ -2,7 +2,7 @@
 ! Title: Online Malicious URL Blocklist
 ! Description: A blocklist of malicious websites that are being used for malware distribution, based on the Database dump of Abuse.ch URLhaus.
 ! Homepage: https://gitlab.com/curben/urlhaus-filter
-! Last modified: 2022-03-14T09:18:22.078Z
+! Last modified: 2022-03-14T13:23:10.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -46,6 +46,7 @@
 ||adeniyisaleem.com^
 ||adityasolsurf.in^
 ||admin.classified.pointsource.ng^
+||admin.gentbcn.org^
 ||aduanasctpp.com^
 ||advb.org^
 ||advconstructora.cl^
@@ -53,7 +54,6 @@
 ||aetoaluminium.com^
 ||afavoritacouros.com.br^
 ||agdm.ml^
-||agemn.co.za^
 ||agenciaml.com.br^
 ||agenziapowerclean.it^
 ||aimeos.softuvo.xyz^
@@ -184,7 +184,6 @@
 ||bridgesfoundationrepair.com^
 ||brightonrooms.co.uk^
 ||british-shorthair.es^
-||broadlytech.com^
 ||bsa.iain-jember.ac.id^
 ||bsi.com.vn^
 ||btc247.xyz^
@@ -328,7 +327,6 @@
 ||desertsafari.in^
 ||desertsafaridxb.com^
 ||designerliving.co.za^
-||destinymc.co.za^
 ||deurenbaron.nl^
 ||dev.crystalclearvapestore.co.uk^
 ||dev.qualityonline.org^
@@ -361,7 +359,6 @@
 ||down.rxgif.cn^
 ||down.udashi.com^
 ||down.webbora.com^
-||down.yjhyjl.cn^
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.pdf00.cn^
@@ -421,7 +418,6 @@
 ||enjoyalbania.al^
 ||environmentalaw.com^
 ||equus.com^
-||erebate.in^
 ||ergotherapeia-kalamata.gr^
 ||esakip.dev.semarangkab.go.id^
 ||eselcom.com^
@@ -538,7 +534,6 @@
 ||havuzkaydiraklari.com^
 ||hb888.luminati-china.net^
 ||healthywaylab.in^
-||helpfoundation.uxgorilla.com^
 ||henrysfreshroast.com^
 ||herchinfitout.com.sg^
 ||heyyou6013.lowjunnhoi.repl.co^
@@ -547,7 +542,6 @@
 ||himalayanapartment.com^
 ||hitechscientific.in^
 ||hitstation.nl^
-||hjorto.se^
 ||hlm-indonesia.com^
 ||hoianorganic.com.vn^
 ||holandaproducciones.cl^
@@ -581,6 +575,7 @@
 ||idesign-bruceberman.com^
 ||idilsoft.com^
 ||idj.no^
+||idtbilisim.com^
 ||idvlab.com.br^
 ||ikejaclub.org^
 ||ikexpert.com^
@@ -594,7 +589,6 @@
 ||incrediblepixels.com^
 ||incredicole.com^
 ||indianjewellery.art^
-||indonesias.me^
 ||indrasbikaner.com^
 ||inesdrake.com^
 ||informasi.akuroptikjogja.com^
@@ -624,10 +618,10 @@
 ||jcedu.org^
 ||jcon.in^
 ||jeffdahlke.com^
-||jhayesconsulting.com^
 ||jkonderhoud.nl^
 ||joannalawoffice.com^
 ||jointings.org^
+||josymixmyhome.com.br^
 ||journeypropertysolutions.com^
 ||jp.imonitorsoft.com^
 ||jsipk.com^
@@ -712,7 +706,6 @@
 ||location-voitures.ma^
 ||logostudio.ir^
 ||lpm.fk.ub.ac.id^
-||ls-droid.com^
 ||ls.com.co^
 ||ltc.typoten.com^
 ||lucrecomconforto.com.br^
@@ -788,7 +781,7 @@
 ||mtc.joburg.org.za^
 ||mtwealth.in^
 ||multilevelcarparkingindia.com^
-||mviejo.cl^
+||mumgee.co.za^
 ||mwu.com.mx^
 ||my.cloudme.com^
 ||mymymakeup.art^
@@ -832,7 +825,6 @@
 ||oceancityrentalbyowner.com^
 ||ocmdbeachrentals.com^
 ||office365.bellboyindia.com^
-||oknoplastik.sk^
 ||oleholeh.memangbeda.website^
 ||olgazadonskaya.com^
 ||oliveiraadvogadoscatanduva.adv.br^
@@ -846,7 +838,6 @@
 ||opolis.io^
 ||opornik55.ru^
 ||oracle.zzhreceive.top^
-||orc-optika.cz^
 ||order.redroseofbristol.com^
 ||ordereasy.hk^
 ||oremoralesabogados.com.pe^
@@ -967,7 +958,6 @@
 ||saarchitectsbd.com^
 ||safcol-colors.com^
 ||saffronflourmill.com^
-||sainzim.co.za^
 ||samowoj.com.ng^
 ||satarabazar.com^
 ||saurustechnology.com^
@@ -1135,7 +1125,6 @@
 ||tpp-comm.com^
 ||tpp.om-stock.com^
 ||tqadom.com^
-||tradeinsights.net^
 ||tradingview-brokers.learnforcareer.com^
 ||training.globodyinc.biz^
 ||transworshipcenter.org^
@@ -1217,7 +1206,6 @@
 ||wpkms.com^
 ||wshsoft.company^
 ||x.233sy.cn^
-||xariatowing.co.za^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--cheggl-videos-fr-gastronomie-g7c.de^
 ||xt.lykj988.com^
@@ -1227,7 +1215,6 @@
 ||yagolocal.com^
 ||yeichner.com^
 ||yestech.com.ng^
-||yfo.yag.mybluehost.me^
 ||yoyoso.co.nz^
 ||yp.hnggzyjy.cn^
 ||ysbaojia.com^

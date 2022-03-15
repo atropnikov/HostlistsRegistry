@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-15T12:31:26.609Z
+! Last modified: 2022-03-15T16:26:47.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5075,7 +5075,6 @@
 ||ads.yenimedya.com.tr^
 ||ads.yeshanews.com^
 ||ads.yimg.com^
-||ads.yimg.com.edgesuite.net^
 ||ads.ynot.com^
 ||ads.yourfreedvds.com^
 ||ads.youtube.com^
@@ -7795,7 +7794,6 @@
 ||analytics.dugun.com^
 ||analytics.dvidshub.net^
 ||analytics.ecosia.org^
-||analytics.edgesuite.net^
 ||analytics.eggoffer.com^
 ||analytics.electro-com.ru^
 ||analytics.enjoymobiserver.com^
@@ -59220,3 +59218,4 @@
 ||zzxlhwyp.com^
 ||zzyonghao.com^
 ||zzznews.ru^
+

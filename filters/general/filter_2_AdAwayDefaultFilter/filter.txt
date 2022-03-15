@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-03-14T19:14:28.220Z
+! Last modified: 2022-03-15T03:19:30.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2276,11 +2276,7 @@
 
 127.0.0.1 ad.cauly.co.kr
 
-127.0.0.1 vod-gcs-cedexis.cbsaavideo.com
-
 127.0.0.1 production-cmp.isgprivacy.cbsi.com
-
-127.0.0.1 doppler-reporting.cbsivideo.com
 
 127.0.0.1 tealium.cbsnews.com
 

@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-03-15T03:19:30.500Z
+! Last modified: 2022-03-15T22:19:17.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7240,8 +7240,6 @@
 127.0.0.1 edge.simplereach.com
 
 127.0.0.1 simplesharebuttons.com
-
-127.0.0.1 simpletexting.com
 
 127.0.0.1 ads.simpli.fi
 127.0.0.1 east.ads.simpli.fi

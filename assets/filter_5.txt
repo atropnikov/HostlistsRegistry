@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-16T01:16:33.997Z
+! Last modified: 2022-03-16T08:21:34.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40194,7 +40194,6 @@
 ||pix.speedbit.com^
 ||pix.spot.im^
 ||pix.telekom.de^
-||pix2.services.tvn.pl^
 ||pix521.adtech.fr^
 ||pix521.adtech.us^
 ||pix522.adtech.fr^

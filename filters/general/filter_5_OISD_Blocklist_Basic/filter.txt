@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-17T11:14:59.786Z
+! Last modified: 2022-03-17T12:32:30.677Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11770,7 +11770,6 @@
 ||bestrxpills.com^
 ||bestsearch.com^
 ||bestsearch.net^
-||bestshockers.com^
 ||bestsolutions.anuncio-ads.cl^
 ||bestssn.com^
 ||beststores4u.com^
@@ -30584,7 +30583,6 @@
 ||jarailso.com^
 ||jardinaix.fr^
 ||jarror.com^
-||jarsquatter.com^
 ||jarvispopsu.com^
 ||jas.indeednps.com^
 ||jasaiklan.com^
@@ -30920,7 +30918,6 @@
 ||jiyan.net^
 ||jiyuanzhiwensuo.cn^
 ||jiyuanzixun.com^
-||jiztini.com^
 ||jizzads.com^
 ||jizzensirrah.com^
 ||jj0453.com^
@@ -58018,6 +58015,10 @@
 ||vodafonegroup.122.2o7.net^
 ||vodobyve.pro^
 ||vodoustoichivshperplat.com^
+||vodus-api-serverless.azurewebsites.net^
+||vodus-api.azurewebsites.net^
+||vodus.com^
+||voduscdn.azureedge.net^
 ||voevtwfpd.xyz^
 ||vogo-vogo.ru^
 ||vogopita.com^

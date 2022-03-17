@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-17T12:32:30.677Z
+! Last modified: 2022-03-17T16:26:28.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39510,7 +39510,6 @@
 ||oascentral.askmen.com^
 ||oascentral.blackenterprises.com^
 ||oascentral.businessweeks.com^
-||oascentral.buy.com^
 ||oascentral.canadaeast.com^
 ||oascentral.canadianliving.com^
 ||oascentral.charleston.net^

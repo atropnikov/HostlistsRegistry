@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-18T06:23:48.904Z
+! Last modified: 2022-03-18T12:30:25.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21289,6 +21289,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||arvb.ewtcbedtmx.ru^
 ||trc.caravas.jp^
 ||track.adspire.io^
 ||cdn.ddmanager.ru^
@@ -28443,7 +28444,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rdcdn.com^
 ||reachlocalservices.com^
 ||recapture.io^
-||reciteme.com^
 ||recognified.net^
 ||recosenselabs.com^
 ||redfastlabs.com^
@@ -30800,6 +30800,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||3ez1ja1uq3.ru^
 ||exfjpw.com^
 ||vkwaeo.com^
 ||pkoqeg.com^
@@ -40678,6 +40679,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||lqsw3.top^
 ||eqpcc.cn^
 ||cqqc3.com^
 ||liushuaib.xyz^
@@ -40687,6 +40689,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||longxia-designer.top^
 ||gzckdg.cn^
 ||ifil.shop^
+||8341.store^
+||daishu.shop^
+||wangxuan.pw^
+||bcrdyev.cn^
+||ttylmex.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

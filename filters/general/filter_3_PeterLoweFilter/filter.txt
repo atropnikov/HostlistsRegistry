@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-18T12:30:27.002Z
+! Last modified: 2022-03-18T13:22:52.373Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1837,7 +1837,6 @@
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
-||freestats.tv^
 ||freewebcounter.com^
 ||freewheel.com^
 ||freewheel.tv^
@@ -2608,7 +2607,6 @@
 ||pbnet.ru^
 ||pbterra.com^
 ||pcash.imlive.com^
-||pctracking.net^
 ||peep-auktion.de^
 ||peer39.com^
 ||pennyweb.com^
@@ -2818,7 +2816,6 @@
 ||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
-||realcastmedia.com^
 ||realclever.com^
 ||realclix.com^
 ||realmedia-a800.d4p.net^
@@ -2848,7 +2845,6 @@
 ||reklama.mironet.cz^
 ||reklamcsere.hu^
 ||reklamdsp.com^
-||relevanz10.de^
 ||relmaxtop.com^
 ||remox.com^
 ||republika.onet.pl^

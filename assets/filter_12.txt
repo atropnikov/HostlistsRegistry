@@ -2,7 +2,7 @@
 ! Title: Dandelion Sprout's Anti-Malware List
 ! Description: Dandelion Sprout's Anti-Malware List (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2022-03-09T01:14:59.748Z
+! Last modified: 2022-03-19T18:20:58.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -71,11 +71,13 @@
 ||loadware.org^
 
 ||driver-soft.com^
+
 ||outbyte.com^
 ||testedforyou.net^
 
 /^http://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(icu|life|live)/
 /^https://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(icu|life|live)/
+
 
 
 ||coolrom.com^
@@ -541,6 +543,7 @@
 /^https://([a-z-]{1,})?luck([a-z-]{1,})?\.club(/|$)/
 /^(https?://)?[0-9]{1,2}\.[a-z0-9-]{1,}\.biz(/|$)/
 ||safe-offers.net^
+
 ||gogle.net^
 ||quatrefeuillepolonaise.xyz^
 ||extragifis.site^
@@ -1552,6 +1555,12 @@
 
 
 /(^|\.|://)[a-z0-9-]{2,}trk\.xyz(/|$)/
+||pccrackworld.com^
+||calsign.xyz^
+||jwq98u.xyz^
+||nhskuhiuscja.xyz^
+
+
 
 ||downloadprovider.me^
 ||cash93.com^

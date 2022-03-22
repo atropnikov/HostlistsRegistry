@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-22T06:22:37.479Z
+! Last modified: 2022-03-22T12:32:32.434Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21394,6 +21394,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||static-tracking.klaviyo.com^
 ||slview.psne.jp^
 ||arvb.ewtcbedtmx.ru^
 ||trc.caravas.jp^
@@ -21428,7 +21429,6 @@ vkcdnservice.appspot.com^
 ||script.anura.io^
 ||collector-*.px-cloud.net^
 ||metricskey.com^
-||static-tracking.klaviyo.com^
 ||telemetrics.klaviyo.com^
 ||d.k3r.jp^
 ||retargeting.newsmanapp.com^
@@ -30908,6 +30908,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||vjdciu.com^
+||ulyvjty4rd.com^
+||pushadv.biz^
+||ugyyod.com^
 ||mshues.com^
 ||3ez1ja1uq3.ru^
 ||exfjpw.com^
@@ -35481,6 +35485,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adbuzz.com.tr^
 ||adcater.com^
 ||add.f5haber.com^
+||adfor.io^
 ||adnexio.com^
 ||adpozitif.com^
 ||adrazzi.com^
@@ -35570,6 +35575,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xpornoizlex.net^
 ||xyztanitim.com^
 
+||ads.code.com.tr^
 ||adserver.bafrahaber.com^
 ||addata.exxen.com^
 ||ads.macsonuclari.mobi^
@@ -40810,6 +40816,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xpchfwl.cn^
 ||51mw.club^
 ||fishsalt.top^
+||eywvmnf.cn^
+||yuhho.group^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-23T19:14:48.546Z
+! Last modified: 2022-03-23T20:18:54.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9553,7 +9553,6 @@
 ||assets.kochava.com^
 ||assets.locuslabs.com^
 ||assets.logrocket.com^
-||assets.minutemediacdn.com^
 ||assets.newsmaxwidget.com^
 ||assets.prod.leanplum.com^
 ||assets.purch.com^
@@ -53698,7 +53697,6 @@
 ||trk.games-to-run123.com^
 ||trk.i0.cz^
 ||trk.in25app.com^
-||trk.klclick2.com^
 ||trk.nfl-online-streams.live^
 ||trk.olnl.net^
 ||trk.reclameaqui.com.br^
@@ -60025,3 +60023,4 @@
 ||zzxlhwyp.com^
 ||zzyonghao.com^
 ||zzznews.ru^
+

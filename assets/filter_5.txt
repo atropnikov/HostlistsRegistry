@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-23T21:14:00.370Z
+! Last modified: 2022-03-24T05:16:47.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1333,7 +1333,6 @@
 ||468.vologdainfo.ru^
 ||0483bm4mlow8.xyz^
 ||485d0bd3f4.com^
-||493b0eda03.com^
 ||493b98cce8bc1a2dd.com^
 ||506.xg4ken.com^
 ||507a5a9594.com^
@@ -45663,7 +45662,6 @@
 ||salesforce.122.2o7.net^
 ||salesgenius.com^
 ||salesiq.zoho.com^
-||salesloft.com^
 ||salesviewer.com^
 ||salesviewer.org^
 ||salihaonlinestore.my.id^

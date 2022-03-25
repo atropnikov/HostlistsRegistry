@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-25T01:17:58.571Z
+! Last modified: 2022-03-25T13:02:26.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1315,7 +1315,6 @@
 ||calmcactus.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
-||cannads.urgrafix.com^
 ||capablecows.com^
 ||captainbicycle.com^
 ||carambo.la^
@@ -1387,7 +1386,6 @@
 ||click.fool.com^
 ||click.hookupinyourcity.com^
 ||click.kmindex.ru^
-||click.negociosdigitaisnapratica.com.br^
 ||click.redditmail.com^
 ||click.twcwigs.com^
 ||click2freemoney.com^
@@ -1431,7 +1429,6 @@
 ||clk1015.com^
 ||clkrev.com^
 ||clksite.com^
-||clktrx.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
 ||cloudcoins.biz^
@@ -2606,7 +2603,6 @@
 ||paradoxfactor.com^
 ||parchedangle.com^
 ||parchedsofa.com^
-||parketsy.pro^
 ||parsely.com^
 ||parsimoniouspolice.com^
 ||partner-ads.com^
@@ -2832,6 +2828,7 @@
 ||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
+||realcastmedia.com^
 ||realclever.com^
 ||realclix.com^
 ||realmedia-a800.d4p.net^
@@ -3003,7 +3000,6 @@
 ||sharethrough.com^
 ||sharppatch.com^
 ||sher.index.hu^
-||shermore.info^
 ||shinystat.com^
 ||shinystat.it^
 ||shockinggrass.com^
@@ -3132,7 +3128,6 @@
 ||stat.xiaomi.com^
 ||stat.zenon.net^
 ||stat24.com^
-||stat24.meta.ua^
 ||statcounter.com^
 ||statdynamic.com^
 ||static-tracking.klaviyo.com^
@@ -3631,7 +3626,6 @@
 ||www-google-analytics.l.google.com^
 ||www.dnps.com^
 ||www.kaplanindex.com^
-||www.photo-ads.co.uk^
 ||www8.glam.com^
 ||wwwpromoter.com^
 ||x-traceur.com^

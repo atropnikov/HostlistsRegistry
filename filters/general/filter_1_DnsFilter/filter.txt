@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-26T12:28:51.998Z
+! Last modified: 2022-03-26T18:21:02.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21535,6 +21535,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||salecycle.com^
+||eltex.co.jp^
+||catsys.jp^
 ||yoursitestatstube.ru^
 ||static-tracking.klaviyo.com^
 ||slview.psne.jp^
@@ -28725,7 +28728,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
 ||safe-click.net^
-||salecycle.com^
 ||salemove.com^
 ||salesmanago.pl^
 ||salesviewer.com^
@@ -30452,7 +30454,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ebis.ne.jp^
 ||ec-concier.com^
 ||ec-optimizer.com^
-||eltex.co.jp^
 ||f-counter.jp^
 ||fspark-ap.com^
 ||genieessp.jp^
@@ -40982,6 +40983,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dsoizkd.cn^
 ||hnsyjaeger.site^
 ||51yusi.xyz^
+||nmgch.top^
+||d03.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

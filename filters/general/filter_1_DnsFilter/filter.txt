@@ -2,11 +2,16 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-27T06:21:52.158Z
+! Last modified: 2022-03-27T12:29:31.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dotchaudou.com^
+||jpjrkdtbnwc.com^
+||fpmaypyeegktq.com^
+||rrlafphbrpazu.com^
+||liveredwilton.com^
 ||cdtxqgal.xyz^
 ||cautiouscooperativegentlemen.com^
 ||ttevkibicgcetv.com^
@@ -11401,7 +11406,6 @@ vkcdnservice.appspot.com^
 ||littlecutelions.com^
 ||livecheersharder.com^
 ||livelihoodpracticaloperating.com^
-||liveredwilton.com^
 ||livezombymil.com^
 ||livwrite.com^
 ||liwhetsu.com^
@@ -37947,6 +37951,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||00-gov.cn^
 ||excsyrv.cn^
+||lxiaoxin.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -40983,6 +40988,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||asukahan.xyz^
 ||smgjupy.cn^
 ||j6zh4g0.cn^
+||thundersoft.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

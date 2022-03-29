@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-25T13:02:26.109Z
+! Last modified: 2022-03-29T16:27:15.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1776,6 +1776,7 @@
 ||fadedprofit.com^
 ||fadedsnow.com^
 ||fallaciousfifth.com^
+||fam-ad.com^
 ||famousquarter.com^
 ||faracoon.com^
 ||farethief.com^
@@ -2962,6 +2963,7 @@
 ||searching-place.com^
 ||searchmarketing.com^
 ||searchramp.com^
+||secre.jp^
 ||secretivecub.com^
 ||secretspiders.com^
 ||secure.webconnect.net^

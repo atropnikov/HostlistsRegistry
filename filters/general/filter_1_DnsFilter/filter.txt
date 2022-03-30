@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-30T12:34:04.450Z
+! Last modified: 2022-03-30T18:22:56.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ovwbobnyy.com^
+||lowtyruntor.com^
+||uywmpewouyqv.com^
+||dhjrjqgclb.com^
 ||dooloust.net^
 ||noesbsnt.com^
 ||batsdivannab.com^
@@ -11654,6 +11658,7 @@ vkcdnservice.appspot.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
 ||lwgadm.com^
+||lwjvyd.com^
 ||lx2rv.com^
 ||lxdrddeomww.com^
 ||lxgerdcitg.com^
@@ -21044,6 +21049,7 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||rossoad.com^
 ||athena.api.kwalee.com^
 ||mobondhrd.appspot.com^
 ||a.cookpad-ads.com^
@@ -24892,6 +24898,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||teenytinyshirt.com^
 ||childlikeform.com^
 ||nappyattack.com^
 ||outstandingsnails.com^
@@ -25926,6 +25933,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||adc-js.nine.com.au^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pinterest.com^
 ||analytics-sg.tiktok.com^
@@ -29510,7 +29518,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||synonymousrule.com^
 ||tdzvm.pw^
 ||teenytinycellar.com^
-||teenytinyshirt.com^
 ||terrifictooth.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
@@ -38067,6 +38074,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||01fen.com^
 ||d26yfyk0ym2k1u.cloudfront.net^
 ||tz88.store^
+||zhengxiaoliu.top^
+||limdarwin.top^
+||lm336.com^
+||favourablequickdelve.com^
 ||022aifang.com^
 ||025suyu.com^
 ||0451106.com^

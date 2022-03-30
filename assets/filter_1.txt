@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-30T01:24:09.598Z
+! Last modified: 2022-03-30T06:24:16.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5889,6 +5889,7 @@ vkcdnservice.appspot.com^
 ||boptal.com^
 ||bopvetgel.com^
 ||boreasinflash.com^
+||borgach.com^
 ||boriskink.com^
 ||bororango.com^
 ||borrowedbananaspite.com^
@@ -7257,6 +7258,7 @@ vkcdnservice.appspot.com^
 ||dashingperfect.com^
 ||daspiratioty.co^
 ||data-data-vac.com^
+||datajsext.com^
 ||dateddeed.com^
 ||dateregionsmadman.com^
 ||dateszone.net^
@@ -10455,6 +10457,7 @@ vkcdnservice.appspot.com^
 ||investigatorpertinent.com^
 ||investmentstar.org^
 ||investmeny.org^
+||investnewsbrazil.com^
 ||invisedspill.com^
 ||invitesuperstitiousadmire.com^
 ||invraisemblable.com^
@@ -13426,6 +13429,7 @@ vkcdnservice.appspot.com^
 ||pancreasoblivion.com^
 ||pandasloveforlife.com^
 ||paniccursor.com^
+||pantafives.com^
 ||pantomimethat.com^
 ||papaneecorche.com^
 ||papawrefits.com^
@@ -15052,6 +15056,7 @@ vkcdnservice.appspot.com^
 ||ribunews.com^
 ||ric-ric-rum.com^
 ||ricead.com^
+||ricettadellanonna.com^
 ||ricewaterh.co^
 ||richardenlightenfervent.com^
 ||richcatis.com^
@@ -38056,6 +38061,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
+||haokoubei.top^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -41098,6 +41104,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||bjcwwsc.xyz^
 ||fsyc.xyz^
+||ssjy.shop^
+||itchaxun.cn^
+||maodz.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

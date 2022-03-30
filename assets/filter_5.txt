@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-03-30T17:18:16.575Z
+! Last modified: 2022-03-30T20:19:20.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20258,7 +20258,6 @@
 ||eulerian.com^
 ||eulerian.madeindesign.com^
 ||eulerian.mathon.fr^
-||eulerian.officiel-des-vacances.com^
 ||eulerian.sarenza.com^
 ||eulerian.splendia.com^
 ||euleriancdn.net^

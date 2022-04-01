@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-01T09:17:06.725Z
+! Last modified: 2022-04-01T12:36:54.917Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ttlxieoguhtrs.com^
 ||smised.com^
 ||utuypsohjvuf.com^
 ||ovwbobnyy.com^
@@ -3281,6 +3282,9 @@ www.llllllllllll.net^
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
 ||crystal-ad.ge^
+||head-clickfusion.com^
+||headerbidding.services^
+||3myad.com^
 ||cdn.234doo.com^
 ||a.b.napiszar.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -25972,6 +25976,8 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||telemetry.battle.net^
+||telemetry-in.battle.net^
 ||events.virtusize.jp^
 ||adc-js.nine.com.au^
 ||analytics.pointdrive.linkedin.com^
@@ -31214,6 +31220,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||jlxsgk.com^
 ||0p1ohj2f5f.ru^
 ||7ad.media^
 ||gooooodle.com^

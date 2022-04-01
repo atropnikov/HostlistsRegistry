@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-03-31T18:23:13.611Z
+! Last modified: 2022-04-01T01:44:37.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||smised.com^
 ||utuypsohjvuf.com^
 ||ovwbobnyy.com^
 ||lowtyruntor.com^
@@ -4349,7 +4350,6 @@ vkcdnservice.appspot.com^
 ||adsinimages.com^
 ||adsinstant.com^
 ||adskape.ru^
-||adskeeper.com^
 ||adskpak.com^
 ||adslidango.com^
 ||adslingers.com^
@@ -11618,6 +11618,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqcqhkgoer.com^
 ||lqw.me^
+||lr-in.com^
 ||lrlptkumwpcck.com^
 ||lrxlbekpmav.com^
 ||lsariz.com^
@@ -12129,6 +12130,7 @@ vkcdnservice.appspot.com^
 ||mjiszovwqwn.com^
 ||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
+||mjnakecyospspgf.com^
 ||mjsyqwpqnjbgua.com^
 ||mjyhgt.xyz^
 ||mk1lyl406xmp.com^
@@ -18765,6 +18767,7 @@ vkcdnservice.appspot.com^
 ||yonderprodigy.com^
 ||yonhelioliskor.com^
 ||yonsandileer.com^
+||yonxatuor.com^
 ||yookcasula.com^
 ||yookimooki.com^
 ||yoomanies.com^
@@ -19317,6 +19320,7 @@ vkcdnservice.appspot.com^
 ||adshot.de^
 ||adshuffle.com^
 ||adsiduous.com^
+||adskeeper.com^
 ||adslivecorp.com^
 ||adsniper.ru^
 ||adsparc.net^
@@ -26082,7 +26086,6 @@ vkcdnservice.appspot.com^
 ||blue.fox8.com^
 ||astat.nikkei.co.jp^
 ||stats.zone-telechargement.work^
-||events-service.coinbase.com^
 ||snowplow-pixel.tradingview.com^
 ||analytics.clic2buy.com^
 ||tracking.swogo.net^

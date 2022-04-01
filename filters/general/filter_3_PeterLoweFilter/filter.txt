@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-03-29T20:18:59.386Z
+! Last modified: 2022-04-01T11:16:48.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1028,7 +1028,6 @@
 ||analytics.xelondigital.com^
 ||analytics.yahoo.com^
 ||analyticsapi.happypancake.net^
-||analytik.xyz^
 ||ancientact.com^
 ||aniview.com^
 ||annonser.dagbladet.no^
@@ -2136,7 +2135,6 @@
 ||kargo.com^
 ||karonty.com^
 ||katie.v4.byetnc.com^
-||kesmatic.com^
 ||keymedia.hu^
 ||kindads.com^
 ||kissmetrics.com^
@@ -2957,7 +2955,6 @@
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||screechingstove.com^
-||scripte-monster.de^
 ||scrubswim.com^
 ||sdkfjxjertertry.com^
 ||seadform.net^
@@ -3074,7 +3071,6 @@
 ||sovrn.com^
 ||spacash.com^
 ||spaceleadster.com^
-||spannersalesman.com^
 ||sparklingshelf.com^
 ||sparkstudios.com^
 ||speakol.com^
@@ -3131,6 +3127,7 @@
 ||stat.xiaomi.com^
 ||stat.zenon.net^
 ||stat24.com^
+||stat24.meta.ua^
 ||statcounter.com^
 ||statdynamic.com^
 ||static-tracking.klaviyo.com^
@@ -3344,7 +3341,6 @@
 ||track.mailerlite.com^
 ||track.miro.com^
 ||track.segmetrics.io^
-||track.software-codes.com^
 ||track.themaccleanup.info^
 ||track.ultravpn.com^
 ||track.unear.net^
@@ -3629,6 +3625,7 @@
 ||www-google-analytics.l.google.com^
 ||www.dnps.com^
 ||www.kaplanindex.com^
+||www.photo-ads.co.uk^
 ||www8.glam.com^
 ||wwwpromoter.com^
 ||x-traceur.com^

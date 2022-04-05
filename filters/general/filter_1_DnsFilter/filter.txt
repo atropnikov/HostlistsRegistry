@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-04T18:23:47.434Z
+! Last modified: 2022-04-05T01:21:57.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||umidqysrw.com^
 ||qstukqmsddqgs.com^
 ||cistusbram.website^
 ||dougale.com^
@@ -5478,6 +5479,7 @@ vkcdnservice.appspot.com^
 ||barkierrevives.com^
 ||barlo.xyz^
 ||barnabaslinger.com^
+||baronrydaters.com^
 ||barricadefurrydrinks.com^
 ||bars2show.com^
 ||barscreative1.com^
@@ -12047,6 +12049,7 @@ vkcdnservice.appspot.com^
 ||meinlist.com^
 ||melbil.net^
 ||melindahicks.xyz^
+||mellategrannom.com^
 ||mellodur.net^
 ||mellowpresence.com^
 ||mellowtin.com^
@@ -17471,7 +17474,6 @@ vkcdnservice.appspot.com^
 ||umehoars.club^
 ||umekana.ru^
 ||umgangrubbler.com^
-||umidqysrw.com^
 ||umpweefuyfgxlei.com^
 ||umpweefuyfgxlei.top^
 ||umtnycoscl.xyz^

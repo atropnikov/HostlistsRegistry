@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-06T01:24:29.734Z
+! Last modified: 2022-04-06T06:22:22.170Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20567,7 +20567,6 @@ vkcdnservice.appspot.com^
 ||superippo.com^
 ||supersonicads.com^
 ||supletcedintand.pro^
-||supplyframe.com^
 ||supuv2.com^
 ||surf-bar-traffic.com^
 ||surfe.pro^
@@ -29905,6 +29904,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.springboardvideo.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
+||analytics.supplyframe.com^
 ||analytics.themarketiq.com^
 ||analytics.threedeepmarketing.com^
 ||analytics.tooso.ai^
@@ -31459,6 +31459,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||chicgar.info^
+||iwe.ktvgv.com^
+||mowunai.ru^
 ||vnrvss.com^
 ||shvhse.com^
 ||ybz1jsblbv.com^
@@ -41431,6 +41434,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1095.mobi^
 ||zyyz.pro^
 ||yigesi.top^
+||myro.shop^
+||chudongcaiwu.xyz^
+||yangtianc.xyz^
+||wufeilong.top^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-04-01T11:16:48.091Z
+! Last modified: 2022-04-08T12:34:58.225Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -698,7 +698,6 @@
 ||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
-||ads.zmarsa.com^
 ||ads1-adnow.com^
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
@@ -1841,6 +1840,7 @@
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
+||freestats.tv^
 ||freewebcounter.com^
 ||freewheel.com^
 ||freewheel.tv^
@@ -2134,7 +2134,7 @@
 ||kanoodle.com^
 ||kargo.com^
 ||karonty.com^
-||katie.v4.byetnc.com^
+||kesmatic.com^
 ||keymedia.hu^
 ||kindads.com^
 ||kissmetrics.com^
@@ -2444,7 +2444,6 @@
 ||naradxb.com^
 ||nastydollars.com^
 ||nativeroll.tv^
-||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
 ||navrcholu.cz^
@@ -2552,7 +2551,6 @@
 ||openads.org^
 ||openadsnetwork.com^
 ||opentag-stats.qubit.com^
-||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
 ||openx.cairo360.com^
 ||openx.kgmedia.eu^
@@ -2930,7 +2928,6 @@
 ||s1-adfly.com^
 ||s20dh7e9dh.com^
 ||s2d6.com^
-||s2strk.info^
 ||sa.api.intl.miui.com^
 ||sabio.us^
 ||sageanalyst.net^

@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-07T18:25:00.909Z
+! Last modified: 2022-04-08T01:25:57.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||desktopmessages.com^
 ||dropkickmedia.com^
 ||narnuefprlcp.com^
 ||heaplap.com^
@@ -21995,6 +21996,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||stlog.d.dmkt-sp.jp^
 ||dynatrace-managed.com^
 ||init.blackcrow.ai^
 ||taplytics.com^
@@ -26286,6 +26288,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||alxc.addlv.smt.docomo.ne.jp^
 ||pa.pinpoll.com^
 ||d2wu036mkcz52n.cloudfront.net^
 ||ts.delfi.lt^
@@ -35990,6 +35993,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||sinefilmizlesen.com^
 ||ads.web.tr^
 ||octffocdigiturk.cc^
 ||insankafa.cc^

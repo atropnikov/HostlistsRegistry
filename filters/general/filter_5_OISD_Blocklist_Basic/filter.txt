@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-04-09T10:19:56.069Z
+! Last modified: 2022-04-09T12:29:59.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9397,6 +9397,7 @@
 ||banners.gayfriendfinder.com^
 ||banners.haqqin.az^
 ||banners.icams.com^
+||banners.idolbucks.com^
 ||banners.internetextra.com^
 ||banners.iq.pl^
 ||banners.isoftmarketing.com^
@@ -17827,7 +17828,6 @@
 ||easydistrustuldistrustul.com^
 ||easydownloadnow.com^
 ||easyflirt-partners.biz^
-||easyflirt.com^
 ||easygoingtouchybribe.com^
 ||easyhash.de^
 ||easyhash.io^
@@ -24169,7 +24169,6 @@
 ||ido3.com^
 ||idoc58.com^
 ||idolax.com^
-||idolbucks.com^
 ||idolight.net^
 ||idorld.com^
 ||idot.cz^
@@ -40111,7 +40110,6 @@
 ||sexualpitfall.com^
 ||sexvertise.com^
 ||sexy-ch.com^
-||sexy.fling.com^
 ||sexyads.net^
 ||sexystat.com^
 ||sezwho.com^

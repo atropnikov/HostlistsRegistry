@@ -2,7 +2,7 @@
 ! Title: Dandelion Sprout's Anti-Malware List
 ! Description: Dandelion Sprout's Anti-Malware List (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2022-04-03T16:25:33.446Z
+! Last modified: 2022-04-09T01:20:45.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1567,6 +1567,13 @@
 ||maanews.xyz^
 ||newsdeals.xyz^
 ||dreamdigimedia.blogspot.com^
+
+||activatorwin.com^
+||freeversioncrack.com^
+||top3hostngc.xyz^
+||198.199.120.251^
+
+
 
 ||downloadprovider.me^
 ||cash93.com^

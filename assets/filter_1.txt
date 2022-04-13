@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-13T12:32:37.977Z
+! Last modified: 2022-04-13T18:22:33.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40,7 +40,6 @@
 ||gooddaywith-captcha.top^
 ||ytieylhxjlectp.com^
 ||desktopmessages.com^
-||dropkickmedia.com^
 ||narnuefprlcp.com^
 ||heaplap.com^
 ||oibljobzmmv.com^
@@ -20145,6 +20144,7 @@ vkcdnservice.appspot.com^
 ||doubleclick.com^
 ||doubleclick.net^
 ||dreamaquarium.com^
+||dropkickmedia.com^
 ||dstillery.com^
 ||dt00.net^
 ||dt07.net^
@@ -22149,6 +22149,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.pico.tools^
 ||lndata.com^
 ||quietyellowday.com^
 ||client.botchk.net^
@@ -26449,6 +26450,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||spade.twitch.tv^
 ||b.travel-assets.com^
 ||ev.api.bdg.com^
 ||tracking.live.oe24.at^
@@ -30464,7 +30466,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.api.drift.com^
 ||metrics.ctvdigital.net^
 ||metrics.getvitals.io^
-||metrics.pico.tools^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -31712,6 +31713,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yestorrents.org^
 
 ||mrrvmp.com^
+||spots.ru^
 ||byevkj.com^
 ||y8lsyibocd.ru^
 ||konxiarwcvyp.com^
@@ -41738,6 +41740,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||huosai.net.cn^
 ||zhyl.info^
 ||ozhbccs.cn^
+||gjr.ink^
+||fhnmzqw.cn^
 ||lhj.asia^
 ||zgnz020.mobi^
 ||liuyangyang.cn^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-15T01:36:39.292Z
+! Last modified: 2022-04-15T06:23:47.278Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13636,6 +13636,7 @@ vkcdnservice.appspot.com^
 ||ouphouch.com^
 ||oupushee.com^
 ||ourcommonstories.com^
+||ourdailystories.com^
 ||oureviewi.club^
 ||ourl.link^
 ||ouropenin.club^
@@ -16049,6 +16050,7 @@ vkcdnservice.appspot.com^
 ||setoyourad.biz^
 ||setpadchat.com^
 ||settlef.com^
+||settrogens.com^
 ||seurne.com^
 ||sev4ifmxa.com^
 ||sevenads.net^
@@ -18826,6 +18828,7 @@ vkcdnservice.appspot.com^
 ||wowjogsot.com^
 ||wowreality.info^
 ||woymebsi.com^
+||wp20.ru^
 ||wpadmngr.com^
 ||wpncdn.com^
 ||wpnjrm.com^
@@ -41805,6 +41808,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||weebly.shop^
+||dailynews.wiki^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

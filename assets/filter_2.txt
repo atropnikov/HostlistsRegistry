@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-04-13T21:16:59.040Z
+! Last modified: 2022-04-16T14:17:09.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4668,10 +4668,6 @@
 127.0.0.1 fast.a.klaviyo.com
 127.0.0.1 static.klaviyo.com
 127.0.0.1 telemetrics.klaviyo.com
-
-127.0.0.1 trk.klclick2.com
-
-127.0.0.1 trk.klclick3.com
 
 127.0.0.1 gplayer.kmpmedia.net
 127.0.0.1 update.kmpmedia.net

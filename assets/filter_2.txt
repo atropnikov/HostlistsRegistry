@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-04-16T14:17:09.909Z
+! Last modified: 2022-04-16T15:19:07.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2445,10 +2445,6 @@
 
 127.0.0.1 g2c.cloud-elements.com
 
-127.0.0.1 ailoganalyticsportal-eus.cloudapp.net
-
-127.0.0.1 bi-analytics.cloudapp.net
-
 127.0.0.1 bkt.clouddn.com
 
 127.0.0.1 metrics.cloudflarebolt.com
@@ -2456,8 +2452,6 @@
 127.0.0.1 static.cloudflareinsights.com
 
 127.0.0.1 us-central1-adaptive-growth.cloudfunctions.net
-
-127.0.0.1 us-central1-production-242307.cloudfunctions.net
 
 127.0.0.1 cloudmobi.net
 127.0.0.1 api.cloudmobi.net
@@ -5407,7 +5401,6 @@
 
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 advertise.bingads.microsoft.com
-127.0.0.1 c1.microsoft.com
 
 127.0.0.1 adtrack1.midasplayer.com
 
@@ -5836,7 +5829,6 @@
 127.0.0.1 ads2.msn.com
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 c.msn.com
-127.0.0.1 browser.events.data.msn.com
 127.0.0.1 mobileads.msn.com
 127.0.0.1 rads.msn.com
 127.0.0.1 srtb.msn.com
@@ -8883,8 +8875,6 @@
 
 127.0.0.1 analytics.wildtangent.com
 127.0.0.1 mobile.analytics.wildtangent.com
-
-127.0.0.1 optanon.blob.core.windows.net
 
 127.0.0.1 tracker.winudf.com
 

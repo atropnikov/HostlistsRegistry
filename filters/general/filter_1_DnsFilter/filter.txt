@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-17T12:30:42.922Z
+! Last modified: 2022-04-17T18:22:20.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22237,6 +22237,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ac.prism-world.jp.net^
+||analytics.liveact.cri-mw.jp^
 ||sdtagging.azureedge.net^
 ||sd-tagging.azurefd.net^
 ||metrics.pico.tools^
@@ -29723,7 +29725,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||actirinius.com^
 ||aimtell.com^
 ||alertme.news^
-||altmetric.com^
 ||aswpsdkeu.com^
 ||aswpsdkus.com^
 ||bildirt.com^
@@ -29736,7 +29737,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cracataum.com^
 ||danorenius.com^
 ||dengage.com^
-||dimensions.ai^
 ||feedify.net^
 ||feraciumus.com^
 ||fernomius.com^
@@ -31576,7 +31576,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracy.sadv.dadapro.com^
 ||vppst.iltrovatore.it^
 ||ad-beacon-v01.uliza.jp^
-||analytics.liveact.cri-mw.jp^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
@@ -36601,6 +36600,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adimp.excite.co.jp^
 ||adimpkwd.excite.co.jp^
 ||adingo.jp.eimg.jp^
+||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
 ||ad-web-ad.com^
 ||d1yt8zt4633tzi.cloudfront.net^
@@ -38773,6 +38773,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
+||tzxmhi.com^
+||tukkpixabay.com^
+||avased6.com^
+||nrxduw5.com^
+||sb6688.xyz^
+||celestebeverly.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^

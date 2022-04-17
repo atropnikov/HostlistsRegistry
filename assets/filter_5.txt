@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-04-17T05:17:06.117Z
+! Last modified: 2022-04-17T06:22:55.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34836,7 +34836,6 @@
 ||playasdechile.cl^
 ||player-telemetry.vimeo.com^
 ||player.avplayer.com^
-||player.daznservices.com^
 ||player.gliacloud.com^
 ||player.kmpmedia.net^
 ||player.movenetworks.com^
@@ -51348,3 +51347,4 @@
 ||zzyonghao.com^
 ||zzyytt.top^
 ||zzznews.ru^
+

@@ -2,7 +2,7 @@
 ! Title: Online Malicious URL Blocklist
 ! Description: A blocklist of malicious websites that are being used for malware distribution, based on the Database dump of Abuse.ch URLhaus.
 ! Homepage: https://gitlab.com/curben/urlhaus-filter
-! Last modified: 2022-04-20T01:52:23.072Z
+! Last modified: 2022-04-20T13:36:16.531Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41,9 +41,9 @@
 ||admin.classified.pointsource.ng^
 ||aduanasctpp.com^
 ||advogadogoiania.com.br^
+||afaqbh.com^
 ||afyonmagazin.com^
 ||agdm.ml^
-||agemn.co.za^
 ||agenciadesarrollorivera.com.uy^
 ||agenciaml.com.br^
 ||agilementory.com^
@@ -99,7 +99,6 @@
 ||arkidecture.com^
 ||arkpp.com^
 ||armandotechnology.com.br^
-||arshadbrother.com^
 ||arteetalentopg.com.br^
 ||artursemth.com^
 ||arushagems.com^
@@ -156,14 +155,13 @@
 ||bethelmbcarvada.org^
 ||beyondcarenursing.com^
 ||bhaagya.app^
-||bhaagyalakshmi.com^
+||bhumipolymers.in^
 ||bigmikesupplies.co.za^
 ||bigrussianfloppa.duckdns.org^
 ||biktahai.pk^
 ||binnuryetikdanismanlik.com.tr^
 ||bio-lelivre.com^
 ||bitlog.shop^
-||bitvgurukul.com^
 ||blanche.gr^
 ||bleskoindustries.com^
 ||blog.aeromus.com^
@@ -180,8 +178,8 @@
 ||boysofbangladesh.org^
 ||brasslineindia.com^
 ||brendancleary.net^
+||brideofmessiah.com^
 ||bridgetobalance.com^
-||brineshipping.com^
 ||britannicadreams.com^
 ||british-shorthair.es^
 ||britspizzeria.com^
@@ -198,6 +196,7 @@
 ||cagdaskadinlarkktc.com^
 ||cahayalc.com^
 ||caioaraujo.vip^
+||calina-crack.store^
 ||callswayroofco.com^
 ||calzadoyuyin.com^
 ||cameronwatches.com^
@@ -221,7 +220,6 @@
 ||cemechglobalnetwork.com^
 ||centralcdmx.gq^
 ||centrichotel.com^
-||cesehsa.com^
 ||ceysaenerji.com.tr^
 ||cfs10.blog.daum.net^
 ||cfs13.tistory.com^
@@ -237,7 +235,6 @@
 ||chicagosedanandsuv.com^
 ||childselect.com^
 ||chpopesco.com^
-||christianskaters.co.za^
 ||chuckozeas.com^
 ||cifeer.net^
 ||ciidental.com.ec^
@@ -330,7 +327,6 @@
 ||dezcom.com^
 ||dhakaunited.com^
 ||dijicom.net^
-||dinkovtips.ml^
 ||direct.credit-suisse.com.juckzgames.com.br^
 ||discoveryast.com^
 ||disweb.sk^
@@ -390,6 +386,7 @@
 ||easyrentbyowner.com^
 ||easyviettravel.vn^
 ||ecaampus.com^
+||ecafescuela.com^
 ||ecim.azneomedia.ro^
 ||ecoarch.com.tw^
 ||economizesa.com.br^
@@ -441,6 +438,8 @@
 ||f1cheats.org^
 ||faai-international.com^
 ||faitmaison.uk^
+||fardatech.com^
+||farmacia.eliteacademy.com.br^
 ||farschid.de^
 ||fashionbyprincessmelodicaah.com^
 ||fastsenteg.com^
@@ -533,7 +532,6 @@
 ||greycoconut.com^
 ||grimmcm.com^
 ||groundzeroinstitute.com^
-||group.dastai.com^
 ||gruzof.by^
 ||gs.monerorx.com^
 ||gt-max.com.my^
@@ -576,14 +574,12 @@
 ||hology.ub.ac.id^
 ||homeappliancerepairgroup.in^
 ||homehygienehealth.com^
-||hometolet.com.bd^
 ||homi-egypt.com^
 ||honaretun.ir^
 ||hongluosi.com^
 ||honours.com.ng^
 ||hookedupboatclub.com^
 ||hospital.shuleyanguonline.co.ke^
-||hospitaliaconsultaire.net^
 ||hostingbolivia.com^
 ||hostingparacolombia.com^
 ||hotelenchile.cl^
@@ -607,6 +603,7 @@
 ||ilpem-ar.com^
 ||images.jermiau.com^
 ||imaginationtoon.com^
+||imbueautoworx.co.za^
 ||immunotec.network^
 ||imobiles.pk^
 ||impactad.co.kr^
@@ -615,6 +612,7 @@
 ||indelsaci.com.py^
 ||indiamarriagebureau.in^
 ||indianjewellery.art^
+||indonesias.me^
 ||indrasbikaner.com^
 ||innosolv-idine.com^
 ||instratghs.com^
@@ -626,6 +624,7 @@
 ||isatechnology.com^
 ||itelitservicemacpple.com^
 ||izeltelekom.com^
+||j-globalcapital.org^
 ||j.xyzgamej.com^
 ||jabrs.org^
 ||jackytpload.su^
@@ -635,6 +634,7 @@
 ||jay.diamondrelationscrm.us^
 ||jcedu.org^
 ||jcon.in^
+||jdkems.com^
 ||jeffdahlke.com^
 ||jhayesconsulting.com^
 ||jmportafolio.com^
@@ -650,11 +650,13 @@
 ||jxwd.cc^
 ||jyk85mxc.z1001.net^
 ||kadigital.co.uk^
+||kalajigiftstationary.com^
 ||kamac.com.br^
 ||kaptured.io^
 ||karantinatahfizh.com^
 ||karee.asia^
 ||karer.by^
+||karolmoda.com^
 ||kdaoskdokaodkwldld.blogspot.com^
 ||keavamethod.com^
 ||kenaridjaja.com^
@@ -665,6 +667,7 @@
 ||kimyen.net^
 ||kingspalmhomes.com^
 ||kinmirai.org^
+||kiriku.co^
 ||kizunainternational.com^
 ||kjcpromo.com^
 ||kkmedia.in^
@@ -712,9 +715,9 @@
 ||lms.cstdevs.com^
 ||location-voitures.ma^
 ||lovedepositbox.com^
+||ls-droid.com^
 ||ltc.typoten.com^
 ||lucro.importsbr.com^
-||ludoincome.xyz^
 ||lumanate.xyz^
 ||luminouspneuma.com^
 ||lupusmarketing.com^
@@ -758,6 +761,7 @@
 ||members.westnet.com.au^
 ||memorycloud.in^
 ||meridianites.com^
+||metalcser.com^
 ||mfevr.com^
 ||michelo.org^
 ||mikhailmotoringschool.com^
@@ -832,7 +836,6 @@
 ||oms.pappai.com^
 ||omscoc.pappai.com^
 ||online.creedglobal.in^
-||onlinecasinosonfire.com^
 ||opolis.io^
 ||opornik55.ru^
 ||opqwes.top^
@@ -882,7 +885,6 @@
 ||pivot-to-virtual.com^
 ||pixelsperfectsolutions.com^
 ||plasfan.ind.br^
-||playasdechile.cl^
 ||plusspoint.com^
 ||poci.in^
 ||posmicrosystems.com^
@@ -913,7 +915,6 @@
 ||qamaraltaf.com^
 ||qingtianxcx.top^
 ||qmsled.com^
-||radarindustrials.com^
 ||radiianttacademy.com^
 ||rainbowisp.info^
 ||rakeshkhatri.in^
@@ -1017,13 +1018,11 @@
 ||skyscan.com^
 ||skyviewonlineltd.com^
 ||sleepstarlite-ozark.com^
-||slexams.com^
 ||smalaali.com^
 ||soft.110route.com^
 ||softguidecomputer.com^
 ||solenica.com^
 ||solotrainingcenter.com^
-||soomaal.softuvo.xyz^
 ||sorathlions.com^
 ||sota-france.fr^
 ||source3.boys4dayz.com^
@@ -1041,6 +1040,7 @@
 ||sshd.run^
 ||sspbluebox.com^
 ||stackdigital.co.uk^
+||stagesystems.ca^
 ||starcountry.net^
 ||static-201-163-99-83.alestra.net.mx^
 ||static.3001.net^
@@ -1058,7 +1058,6 @@
 ||suvdekho.com^
 ||swantutorsonline.com^
 ||swwbia.com^
-||sycsistemas.com^
 ||t.honker.info^
 ||tajir.com^
 ||tammymolnar.com^
@@ -1085,7 +1084,6 @@
 ||test2.marrenconstruction.ie^
 ||thanku.me^
 ||tharringtonsponsorship.com^
-||thegrovesandiego.com^
 ||thekitchengastronomy.com^
 ||themalaysianews.com^
 ||themodestfashions.com^
@@ -1124,6 +1122,7 @@
 ||treeleaf.sourcetaggers.com^
 ||trieutin.com^
 ||trinityglobalgroups.com^
+||trtmyanmar.com^
 ||trunchonburyfestival.com^
 ||trustb.net^
 ||tsms.ogcs-tn.com^
@@ -1146,7 +1145,6 @@
 ||upperdev.com^
 ||usant.edu.ph^
 ||used-bulldozer.com^
-||useuplifestyle.com.br^
 ||ushafilm.com^
 ||uvcsolutions.co.za^
 ||uxsingh.com^
@@ -1165,7 +1163,6 @@
 ||vksales.com^
 ||vocoptions.net^
 ||voiptrainers.com^
-||voyager.softuvo.xyz^
 ||vpts.co.za^
 ||vrstar-park.com^
 ||vrweld.com^
@@ -1177,7 +1174,6 @@
 ||webmk.de^
 ||webs-up.com^
 ||weinsteincounseling.com^
-||welber.adv.br^
 ||wellairhome.in^
 ||whizcraft.co.uk^
 ||wi522012.ferozo.com^

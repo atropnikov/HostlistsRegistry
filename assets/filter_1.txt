@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-20T06:25:28.624Z
+! Last modified: 2022-04-20T08:26:19.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3150,6 +3150,7 @@ www.llllllllllll.net^
 ||samsungads.com^
 ||samsungtvads.com^
 
+||rontent.pomvideo.cc^
 ||ads.thetimes.co.uk^
 ||am.titsx.com^
 ||d119hs7863lat.cloudfront.net^
@@ -22319,6 +22320,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sitealyse.de^
+||simplewebanalysis.com^
 ||wait.re^
 ||tn.flashb.id^
 ||ac.prism-world.jp.net^
@@ -26628,6 +26631,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||ymprove.gmx.net^
 ||events.release.narrativ.com^
 ||delog.afreecatv.com^
 ||ab.blogs.es^
@@ -31136,7 +31140,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||redretarget.com^
 ||reshin.de^
 ||scw.systems^
-||sitealyse.de^
 ||stats.de^
 ||stetic.com^
 ||toplist100.org^
@@ -46344,6 +46347,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||oa.tr.line.me^|
 @@||stash.roistat.com^|
 @@||measure.ic.tver.jp^|
 @@||static-v*.trbo.com^|

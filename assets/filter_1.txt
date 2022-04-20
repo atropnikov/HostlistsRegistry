@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-20T08:26:19.504Z
+! Last modified: 2022-04-20T12:36:58.922Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||potlikivmpaugt.com^
+||faglagose.pro^
+||zhej78i1an8w6ceu.com^
+||beqmwvupsowvls.com^
 ||vlogerads.com^
 ||flat-ads.com^
 ||goscsbefotbxy.com^
@@ -23,7 +27,6 @@
 ||affforce.com^
 ||splaim.com^
 ||glyphas.com^
-||zhej78i1an8w6ceu.com^
 ||psucnqdrke.com^
 ||oolraimt.net^
 ||mcvvhacopov.com^
@@ -21048,6 +21051,7 @@ vkcdnservice.appspot.com^
 ||trackvoluum.com^
 ||trackword.net^
 ||trackyourlinks.com^
+||tradedoubler.com^
 ||tradeexpert.net^
 ||tradplusad.com^
 ||traffboost.net^
@@ -22320,6 +22324,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||sitealyse.de^
 ||simplewebanalysis.com^
 ||wait.re^
@@ -25294,7 +25299,6 @@ vkcdnservice.appspot.com^
 ||tracktrk.net^
 ||trackword.biz^
 ||trackyourstats.com^
-||tradedoubler.com^
 ||tradelab.fr^
 ||tradescape.biz^
 ||traffic4u.nl^

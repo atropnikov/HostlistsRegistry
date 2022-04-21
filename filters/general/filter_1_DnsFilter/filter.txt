@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-21T12:34:47.797Z
+! Last modified: 2022-04-21T18:26:19.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||mbmrwxdwq.com^
+||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
+||dxckttdr.com^
 ||aaettsewpbyc.com^
 ||choachim.com^
 ||viavideo.digital^
@@ -3665,6 +3668,7 @@ vkcdnservice.appspot.com^
 ||1web.me^
 ||1xroom.com^
 ||2020mustang.com^
+||20239be1ae.com^
 ||206ads.com^
 ||20a840a14a0ef7d6.com^
 ||20dollars2surf.com^
@@ -4730,6 +4734,7 @@ vkcdnservice.appspot.com^
 ||aggressivefrequentneckquirky.com^
 ||aggressiveracketscout.com^
 ||aglai-tan.com^
+||agletmagilp.com^
 ||aglocobanners.com^
 ||agmtrk.com^
 ||agndmn.com^
@@ -6091,7 +6096,9 @@ vkcdnservice.appspot.com^
 ||bowerywill.com^
 ||bowlpaternity.com^
 ||bowmoolog.com^
+||bowpinfrow.com^
 ||bowsedsquiffy.com^
+||boxofficeliterally.com^
 ||boylesportsreklame.com^
 ||boyughaye.com^
 ||bplnskyetroo.xyz^
@@ -9822,6 +9829,7 @@ vkcdnservice.appspot.com^
 ||graveuniversalapologies.com^
 ||gravidtrekker.com^
 ||grayrecruitbrainwash.com^
+||grazajoba.com^
 ||graziefootier.com^
 ||grbandhlitu.top^
 ||greake.com^
@@ -10138,6 +10146,7 @@ vkcdnservice.appspot.com^
 ||helic3oniusrcharithonia.com^
 ||helltraffic.com^
 ||helodesdhoni.com^
+||helvesgraian.com^
 ||hematalmicast.com^
 ||hempunevenfeminist.com^
 ||hemquotedchamber.com^
@@ -12897,6 +12906,7 @@ vkcdnservice.appspot.com^
 ||nappybedcandid.com^
 ||narkalignevil.com^
 ||narrowperennialaffable.com^
+||nasrolaugers.com^
 ||nathanaeldan.pro^
 ||nationaldeliquencydeliquency.com^
 ||native-adserver.com^
@@ -14239,6 +14249,7 @@ vkcdnservice.appspot.com^
 ||piledarriving.com^
 ||pilgrimarym.club^
 ||pillageacting.com^
+||pillowspopes.com^
 ||pimpoopo.com^
 ||pinaukncec.one^
 ||pinballpublishernetwork.com^
@@ -15147,6 +15158,7 @@ vkcdnservice.appspot.com^
 ||quideo.men^
 ||quiltobserve.com^
 ||quintus-mil.com^
+||quinuaknife.com^
 ||quiptenrice.casa^
 ||quite-bag-seed-catch.xyz^
 ||quitebrace.com^
@@ -16059,6 +16071,7 @@ vkcdnservice.appspot.com^
 ||scoutdealingdrift.com^
 ||scowledmulticulturaldebauch.com^
 ||scowlsteering.com^
+||scramsaaron.com^
 ||scrapebust.com^
 ||screwdianasurgery.com^
 ||scribevideos.fun^
@@ -18219,6 +18232,7 @@ vkcdnservice.appspot.com^
 ||vaultwrite.com^
 ||vaureept.com^
 ||vawhigufi.com^
+||vawsmoocah.com^
 ||vax-boost.com^
 ||vax-now.com^
 ||vazlshyjp.com^
@@ -22372,6 +22386,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sdk.51.la^
+||adtriba.com^
+||acuityplatform.com^
+||cyberanalytics.nl^
 ||analytics.test.cheggnet.com^
 ||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||sitealyse.de^
@@ -29126,7 +29144,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||accdab.net^
 ||acsbap.com^
 ||acstat.com^
-||acuityplatform.com^
 ||acxiomapac.com^
 ||adabra.com^
 ||adalyser.com^
@@ -29420,6 +29437,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ipfind.com^
 ||ipgp.net^
 ||iplist.cc^
+||ipnoid.com^
 ||ippen.space^
 ||iproanalytics.com^
 ||iprotrk.com^
@@ -31167,7 +31185,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3ng6p6m0.de^
 ||adcrowd.com^
 ||adquality.ch^
-||adtriba.com^
 ||asadcdn.com^
 ||audienzz.ch^
 ||belboon.de^
@@ -38980,6 +38997,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||dncvj.cn^
+||vyjhr.cn^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -42074,6 +42092,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||turvpij.cn^
 ||ibeating.top^
 ||rights.wang^
+||rkudzqw.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2022-04-08T21:16:30.159Z
+! Last modified: 2022-04-23T01:36:23.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -143,8 +143,6 @@
 ||bedsteapoteksverige.com^
 ||betterbanners.org^
 ||betterbannerscloud.com^
-||big5-nigeria.bitkit.dk^
-||big5constructnigeria-staging.bitkit.dk^
 ||bilborsen.webannonse.no^
 ||billigesalg.com^
 ||biopaten.no^
@@ -158,7 +156,6 @@
 ||brandstudio.inventory.schibsted.io^
 ||brightertrade.com^
 ||brigitteheilmann.dk^
-||bromic-staging.bitkit.dk^
 ||campingnews.dk^
 ||caperforaciones.com^
 ||ccbuus.dk^

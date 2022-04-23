@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-04-16T07:17:49.457Z
+! Last modified: 2022-04-23T05:17:06.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -579,6 +579,7 @@
 127.0.0.1 openx.gamereactor.dk
 127.0.0.1 openx.jaktsidan.se
 127.0.0.1 optnmnstr.com
+127.0.0.1 otc-cdn.relevant-digital.com
 127.0.0.1 p.insplanet.com
 127.0.0.1 p.lp4.io
 127.0.0.1 p.pubmine.com
@@ -753,6 +754,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.healthcare.se
 127.0.0.1 stats.kaltura.com
+127.0.0.1 stats.poddtoppen.se
 127.0.0.1 stats.tipser.com
 127.0.0.1 stats.userneeds.com
 127.0.0.1 stats.wpmucdn.com

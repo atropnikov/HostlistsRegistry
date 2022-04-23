@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-04-23T09:17:54.665Z
+! Last modified: 2022-04-23T11:15:50.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1137,7 +1137,6 @@
 ||123cha.com^
 ||123compteur.com^
 ||123count.com^
-||123date.me^
 ||123found.com^
 ||123freeavatars.com^
 ||123fvd.com^
@@ -37485,7 +37484,6 @@
 ||sholke.com^
 ||shonretimus.com^
 ||shoofle.tv^
-||shoogloonetwork.com^
 ||shooksap.net^
 ||shooterpillar.com^
 ||shop-cdn.coccoc.com^
@@ -40361,7 +40359,6 @@
 ||t.dailymail.co.uk^
 ||t.dgm-au.com^
 ||t.dtscdn.com^
-||t.eharmony.com^
 ||t.etraveli.com^
 ||t.felmat.net^
 ||t.flix360.com^

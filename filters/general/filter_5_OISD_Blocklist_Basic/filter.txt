@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-04-23T15:19:52.347Z
+! Last modified: 2022-04-23T20:19:49.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41525,7 +41525,6 @@
 ||tkrecorder.aotter.net^
 ||tkshyp.com^
 ||tktracker.aotter.net^
-||tkx.mp.lura.live^
 ||tkxiavegstgq.com^
 ||tl.tradetracker.net^
 ||tl2go.com^
@@ -48232,3 +48231,4 @@
 ||zzyonghao.com^
 ||zzyytt.top^
 ||zzznews.ru^
+

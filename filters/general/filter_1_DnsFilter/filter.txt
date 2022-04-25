@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-24T18:22:14.110Z
+! Last modified: 2022-04-25T01:39:09.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19178,6 +19178,7 @@ vkcdnservice.appspot.com^
 ||xamaptapsu.com^
 ||xameleonads.com^
 ||xamephapse.com^
+||xanawet.com^
 ||xanykpkg.top^
 ||xaokiotravel.com^
 ||xapa.xyz^
@@ -20913,6 +20914,7 @@ vkcdnservice.appspot.com^
 ||quanta.la^
 ||quantum-advertising.com^
 ||quantumads.com^
+||quantumdex.io^
 ||questus.com^
 ||quinstreet.com^
 ||qwertize.com^
@@ -22518,7 +22520,6 @@ vkcdnservice.appspot.com^
 ||api.trueaudience.io^
 ||analytics-egain.com^
 ||owtracking.us-east-1.elasticbeanstalk.com^
-||quantumdex.io^
 ||thongke.vui.vn^
 ||cnt.trvdp.com^
 ||aghtag.tech^
@@ -29152,6 +29153,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nimbleswan.io^
 ||nxakpj4ac8gkd53.info^
 ||oppuz.com^
+||opti-digital.com^
 ||ostrichesica.com^
 ||p2r14.com^
 ||pdflive.org^
@@ -30480,6 +30482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.pagefly.io^
 ||analytics.performable.com^
 ||analytics.piksel.com^
+||analytics.pop2watch.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
 ||analytics.qualityunit.com^
@@ -31723,6 +31726,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
 ||stat.ws.126.net^
+||stats.hanmaker.com^
 ||sugs.m.sm.cn^
 ||t.hypers.com.cn^
 ||tce.alicdn.com^
@@ -42195,6 +42199,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||hntk.top^
 ||khlgdkxien.com^
+||jinrui.online^
+||kinleung.cn^
+||smartmuchang.com^
+||jmypaxioemnf.com^
 ||lawful.wang^
 ||65432.shop^
 ||xianggou.club^

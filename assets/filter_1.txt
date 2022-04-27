@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-27T09:20:07.096Z
+! Last modified: 2022-04-27T12:36:54.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||stoodgogas.xyz^
+||vrqsvrnjrhdmek.com^
+||nndkukagmos.com^
+||nvmjdpbjgrh.com^
 ||oufteens.com^
 ||nyhhnfsjo.com^
 ||hathyneglu.com^
@@ -18628,7 +18632,6 @@ vkcdnservice.appspot.com^
 ||vr4031.com^
 ||vriwjpzvh.com^
 ||vrptgslcxm.com^
-||vrqsvrnjrhdmek.com^
 ||vrsshsdaa.com^
 ||vrtzads.com^
 ||vs001t.com^
@@ -22546,6 +22549,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||track.storm.mg^
+||track.unidata.ai^
 ||bentonow.com^
 ||sdk.51.la^
 ||adtriba.com^
@@ -26863,6 +26868,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||analytics.fontanka.ru^
 ||dnh523js9661q.cloudfront.net^
 ||tr.discuss.com.hk^
 ||ymprove.gmx.net^
@@ -42300,6 +42306,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||fengfeng.fun^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

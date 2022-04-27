@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-04-26T15:20:41.871Z
+! Last modified: 2022-04-27T16:30:09.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6914,9 +6914,6 @@
 127.0.0.1 ads.roblox.com
 127.0.0.1 metrics.roblox.com
 
-127.0.0.1 rocketreach.co
-127.0.0.1 static.rocketreach.co
-
 127.0.0.1 analytics.rogersmedia.com
 
 127.0.0.1 p.ads.roku.com
@@ -6945,8 +6942,6 @@
 127.0.0.1 dmp.rtbsrv.com
 
 127.0.0.1 bidder.rtk.io
-
-127.0.0.1 my.rtmark.net
 
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 aws.rubiconproject.com
@@ -7011,10 +7006,6 @@
 127.0.0.1 prebid.s-onetag.com
 127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signal-metrics-collector-beta.s-onetag.com
-
-127.0.0.1 pixel.s3xified.com
-
-127.0.0.1 stats.sa-as.com
 
 127.0.0.1 api.safedk.com
 127.0.0.1 config.safedk.com

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-04-28T06:28:12.130Z
+! Last modified: 2022-04-28T12:39:29.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21238,6 +21238,7 @@ vkcdnservice.appspot.com^
 ||switchadhub.com^
 ||swoop.com^
 ||swpsvc.com^
+||synkd.life^
 ||tabunder.com^
 ||tacoda.net^
 ||tacrater.com^
@@ -26910,6 +26911,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||analytics-production.hapyak.com^
 ||mobile.slgnt.eu^
 ||eum*.instana.io^
 ||analytics.fontanka.ru^
@@ -30570,7 +30572,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
-||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics.30m.com^
@@ -42356,6 +42357,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ydygk.com^
 ||jurl.pw^
 ||keqiao.pw^
+||sahara.work^
+||gjy520.top^
+||sunriseoutdoor.cn^
+||cylwwyy.xyz^
+||fipvn.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

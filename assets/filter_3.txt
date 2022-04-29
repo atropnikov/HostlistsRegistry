@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-04-25T13:33:05.671Z
+! Last modified: 2022-04-29T11:16:30.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -692,7 +692,6 @@
 ||ads.yap.yahoo.com^
 ||ads.yimg.com^
 ||ads.yldmgrimg.net^
-||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
 ||ads1-adnow.com^
@@ -1830,7 +1829,6 @@
 ||franklybundlecarver.com^
 ||free-banners.com^
 ||free-counter.co.uk^
-||free-counters.co.uk^
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
@@ -1958,7 +1956,6 @@
 ||histats.com^
 ||historicalrequest.com^
 ||hit-parade.com^
-||hit.bg^
 ||hit.ua^
 ||hit.webcentre.lycos.co.uk^
 ||hitbox.com^
@@ -2992,6 +2989,7 @@
 ||sharethrough.com^
 ||sharppatch.com^
 ||sher.index.hu^
+||shermore.info^
 ||shinystat.com^
 ||shinystat.it^
 ||shockinggrass.com^
@@ -3219,6 +3217,7 @@
 ||takru.com^
 ||talentedsteel.com^
 ||tamgrt.com^
+||tangerinenet.biz^
 ||tangibleteam.com^
 ||tapad.com^
 ||tapfiliate.com^
@@ -3596,7 +3595,6 @@
 ||window.nixnet.cz^
 ||wintricksbanner.googlepages.com^
 ||wirecomic.com^
-||wirelesseuropebalmy.com^
 ||wisepops.com^
 ||witch-counter.de^
 ||wizaly.com^

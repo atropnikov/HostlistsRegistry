@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-04-29T22:19:53.723Z
+! Last modified: 2022-04-30T08:22:56.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30163,7 +30163,6 @@
 ||phonalytics.com^
 ||phone-analytics.com^
 ||phoneapplicationlabs.top^
-||phonearena.com^
 ||phoneboothslender.com^
 ||phonefilamentembarrassment.com^
 ||phonestar.info^

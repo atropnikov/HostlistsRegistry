@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-01T18:22:30.839Z
+! Last modified: 2022-05-02T11:17:13.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25220,6 +25220,7 @@
 ||hdsahfkja.top^
 ||hdsjk.cc^
 ||hdsrc-a.akamaihd.net^
+||hdtracker.ru^
 ||hdvcode.com^
 ||hdxxaq.cn^
 ||hdypw.com^
@@ -26098,6 +26099,7 @@
 ||hpyrdr.com^
 ||hpyue.com^
 ||hpyx365.cn^
+||hq-films.ws^
 ||hq.appsflyer.com^
 ||hq1.appsflyer.com^
 ||hq3x.com^
@@ -29432,6 +29434,7 @@
 ||kinmainly.com^
 ||kinmirai.org^
 ||kinoaction.ru^
+||kinoclub.org^
 ||kinohabr.net^
 ||kinoneeloign.com^
 ||kinoprofi.org^
@@ -50309,6 +50312,7 @@
 ||tracker.toolpg.com^
 ||tracker.tradedoubler.com^
 ||tracker.tubecj.com^
+||tracker.unbxdapi.com^
 ||tracker.uprinting.com^
 ||tracker.vgame.us^
 ||tracker.wigzopush.com^
@@ -52801,6 +52805,7 @@
 ||videoclick.ru^
 ||videoclientsservicescalls.outbrain.com^
 ||videoconverterhd.com^
+||videocop.com^
 ||videodeals.com^
 ||videoegg.com^
 ||videoevents.outbrain.com^

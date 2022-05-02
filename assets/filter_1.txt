@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-02T12:37:55.333Z
+! Last modified: 2022-05-02T18:23:27.015Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||qlowivucwh.com^
 ||homomqmfbomoy.com^
 ||kvcvonlakaigxwq.com^
 ||yaaqtujobgllwd.com^
@@ -2933,6 +2934,7 @@ www.llllllllllll.net^
 ||samsungads.com^
 ||samsungtvads.com^
 
+||qontent.pomvideo.cc^
 ||rontent.pomvideo.cc^
 ||ads.thetimes.co.uk^
 ||am.titsx.com^
@@ -37923,6 +37925,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adm.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
 ||admin.sothuchi.vn^
+||adms.phunusuckhoe.vn^
 ||adpostback.headlines.pw^
 ||ads-api.playfun.vn^
 ||ads-backend.nhadatmoi.net^
@@ -38167,6 +38170,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||core.vchat.vn^
 ||counter.24h.com.vn^
 ||counter.ntdvn.com^
+||counter.ntdvn.net^
 ||crm.bizfly.vn^
 ||crmbizfly.todo.vn^
 ||elink.nhanlucnganhluat.vn^
@@ -38182,6 +38186,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||invite.baomoi.com^
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
+||la.vnecdn.net^
+||la2.vnecdn.net^
+||la3.vnecdn.net^
 ||lg.lotus.vn^
 ||live.vnpgroup.net^
 ||log-collector.shopee.vn^
@@ -38194,6 +38201,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.batdongsan.com.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
+||log.bizlive.vn^
 ||log.daidoanket.vn^
 ||log.dantocmiennui.vn^
 ||log.doanhnhan.vn^
@@ -38226,6 +38234,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.vietnamplus.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
+||log.vneconomy.vn^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
@@ -38235,6 +38244,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logen.vietnamplus.vn^
 ||logg4u.cnnd.vn^
 ||logperf.vnexpress.net^
+||logs.docnhanh.com.vn^
 ||logs.giaoducthoidai.vn^
 ||logs.thethaovanhoa.vn^
 ||logs1.reatimes.vn^
@@ -38298,12 +38308,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.vio.edu.vn^
 ||tracker.anime47.com^
 ||tracker.bongngo.bar^
+||tracker.edupia.vn^
 ||tracker.fado.vn^
 ||tracker.gigaphim.com^
 ||tracker.nhandaovadoisong.vn^
+||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.thichxemphim.net^
 ||tracking-amp.vnexpress.net^
+||tracking-web.smobgame.com^
 ||tracking.appwifi.com^
 ||tracking.dantri.com.vn^
 ||tracking.fado.vn^
@@ -38338,6 +38351,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||za.baomoi.com^
 ||zigzag.vn^
 ||1126bet.com^
+||118kbet.com^
 ||11bet.club^
 ||11bet.com^
 ||11bet.life^
@@ -38348,6 +38362,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||123b.com^
 ||123b.org^
 ||123b333.com^
+||123b88.com^
 ||12b99.com^
 ||179bet.net^
 ||188thethao.com^
@@ -38364,6 +38379,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||50soc.com^
 ||5123b.com^
 ||520xiaojin.com^
+||5shbet.com^
 ||668kbet.com^
 ||68rich.com^
 ||68rich.org^
@@ -38390,6 +38406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8live.vip^
 ||8livevn.com^
 ||8xbet.com^
+||8xbet.fun^
 ||8xbet.games^
 ||8xbet.win^
 ||8xbet05.com^
@@ -38399,6 +38416,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8xbet71.com^
 ||8xbet96.com^
 ||92lottery.com^
+||978bet34.com^
 ||aa88.in^
 ||ae888.com^
 ||ae888i.com^
@@ -38431,6 +38449,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cacuoc79.com^
 ||casino86.club^
 ||casino888vn.com^
+||cfun68.biz^
 ||chat789bet.com^
 ||choingay88.com^
 ||choita88.club^
@@ -38440,6 +38459,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||corona999.com^
+||d1lzoljld5a2bc.cloudfront.net^
 ||dabet.me^
 ||datcuoc247.com^
 ||debet.com^
@@ -38451,6 +38471,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dola88.info^
 ||ee66.com^
 ||ee6611.com^
+||ee88.club^
+||ee88.com^
 ||ek8802.com^
 ||ek883.com^
 ||eurofun88.com^
@@ -38509,6 +38531,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||happy9luck.com^
 ||happynb.com^
 ||hotlive8.vip^
+||i8bet.org^
 ||i99906.com^
 ||ibet889.com^
 ||income88.com^
@@ -38527,6 +38550,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||k8vn03.com^
 ||keotot.net^
 ||kidslovemartialartsomahane.com^
+||kimsa338.com^
 ||kingbet86.com^
 ||kingbet86.info^
 ||ktokto.mobi^
@@ -38670,6 +38694,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sodo15.com^
 ||sodoviet.net^
 ||sodovn.net^
+||sol86.com^
+||solarbet.com^
+||solbet88.com^
 ||sun.win^
 ||sunvin.vin^
 ||sv88.club^
@@ -38864,7 +38891,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
-||kukanlm-lubu1.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -39929,6 +39955,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kt220.com^
 ||ktdlsb.com^
 ||ku9377.com^
+||kukanlm-lubu1.com^
 ||kukanlm-youeryuan.com^
 ||kuwoyy.com^
 ||kuxinqi.com^
@@ -41996,7 +42023,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||wuxie419.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -45709,6 +45735,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wulongqiyi.com^
 ||wutaixian.shop^
 ||wuxiap.xyz^
+||wuxie419.xyz^
 ||wuxiqiangheng.com^
 ||wuygmdi.cn^
 ||wuyoudan.cn^

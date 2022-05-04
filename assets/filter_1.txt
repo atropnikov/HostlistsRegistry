@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-04T06:25:58.226Z
+! Last modified: 2022-05-04T12:40:13.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3149,6 +3149,9 @@ www.llllllllllll.net^
 ||3myad.com^
 ||cdn.234doo.com^
 ||a.b.napiszar.com^
+||ban.bhol.co.il^
+||ext.bhol.co.il^
+||st1.bhol.co.il^
 ||pijama.*.elasticbeanstalk.com^
 ||ads.priel.co.kr^
 ||zumads.vrixon.com^
@@ -26570,6 +26573,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||logs.eu-west-1.amazonaws.com^
 ||ampltd.top.gg^
 ||gtm.vanmoof.com^
 ||pc3.vanmoof.com^
@@ -28868,6 +28872,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||upoll.umengcloud.com^
 ||utop.umengcloud.com^
 ||analy.qq.com^
+||api.safegraph.com^
 
 ||2022welcome.com^
 ||520886.xyz^
@@ -31866,6 +31871,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yestorrents.org^
 
 ||major-inpp-code.com^
+||lenta.sparrow.ru^
 ||stcvhf.com^
 ||pmi1yarhxx.com^
 ||heated-app.us^
@@ -42097,6 +42103,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||70we55s.cn^
 ||singledog.fun^
 ||ybxw.shop^
+||xerhibx.cn^
+||e48.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

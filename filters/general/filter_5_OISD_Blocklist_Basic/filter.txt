@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-05T18:23:40.968Z
+! Last modified: 2022-05-05T22:20:39.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1096,7 +1096,6 @@
 ||a.walla.co.il^
 ||a.watchomovies.com^
 ||a.wikia-beacon.com^
-||a.wyzmob.com^
 ||a.xanga.com^
 ||a.zdbb.net^
 ||a0152829.xsph.ru^
@@ -1484,7 +1483,6 @@
 ||ad-wheel.com^
 ||ad-x.co.uk^
 ||ad.2ch.live^
-||ad.3dpop.kr^
 ||ad.24h.com.vn^
 ||ad.71i.de^
 ||ad.886644.com^
@@ -1507,7 +1505,6 @@
 ||ad.at.doubleclick.net^
 ||ad.au.doubleclick.net^
 ||ad.auditude.com^
-||ad.autoview.co.kr^
 ||ad.bannerhost.ru^
 ||ad.batanga.com^
 ||ad.batanga.net^
@@ -1522,7 +1519,6 @@
 ||ad.bwise.ch^
 ||ad.ca.doubleclick.net^
 ||ad.caradisiac.com^
-||ad.cgv.co.kr^
 ||ad.ch.doubleclick.net^
 ||ad.chandrabindu.net^
 ||ad.chieuhoa.com^
@@ -1576,7 +1572,6 @@
 ||ad.hu.doubleclick.net^
 ||ad.hutor.ru^
 ||ad.icheck.com.vn^
-||ad.idnad.co.kr^
 ||ad.ie.doubleclick.net^
 ||ad.iloveinterracial.com^
 ||ad.in.doubleclick.net^
@@ -1677,7 +1672,6 @@
 ||ad.tencentmusic.com^
 ||ad.terra.doubleclick.net^
 ||ad.th.doubleclick.net^
-||ad.tjtune.com^
 ||ad.track.us.org^
 ||ad.traffique.net^
 ||ad.triplemind.com^
@@ -1809,7 +1803,6 @@
 ||adbidgo.com^
 ||adbit.biz^
 ||adbit.co^
-||adbiz3.co.kr^
 ||adblade.com^
 ||adblockanalytics.com^
 ||adblockervideo.com^
@@ -1904,6 +1897,7 @@
 ||addaim.com^
 ||addan.xyz^
 ||addapptr.com^
+||addata.mediacategory.com^
 ||addefend.com^
 ||addelive.com^
 ||addelivery.seedapp.jp^
@@ -7448,7 +7442,6 @@
 ||casterpretic.com^
 ||castpallium.com^
 ||cat.criteo.com^
-||catad5959.com^
 ||catalpaaxillae.com^
 ||catastropheillusive.com^
 ||catastrophetray.com^
@@ -7574,7 +7567,6 @@
 ||cdn.ads.fotoable.net^
 ||cdn.adsafeprotected.com^
 ||cdn.adswizz.com^
-||cdn.adtive.com^
 ||cdn.adtradr.com^
 ||cdn.adual.net^
 ||cdn.alistcloud.com^
@@ -8883,7 +8875,6 @@
 ||contentdigital.info^
 ||contentiq.com^
 ||contentjs.com^
-||contentlink.co.kr^
 ||contentr.net^
 ||contentsquare.net^
 ||contentstream.pl^
@@ -17821,7 +17812,6 @@
 ||mediaappletree.com^
 ||mediabistro.112.2o7.net^
 ||mediabistrocom.112.2o7.net^
-||mediacategory.com^
 ||mediaclick.com^
 ||mediacpm.com^
 ||mediad.asia^
@@ -18530,7 +18520,6 @@
 ||mobizme.net^
 ||mobnatives.com^
 ||mobnerve.offerstrack.net^
-||mobon.net^
 ||mobondhrd.appspot.com^
 ||mobotoolpush.moboapps.io^
 ||mobpartner.mobi^
@@ -19155,7 +19144,6 @@
 ||ncncu.xyz^
 ||nct1.logging.nextsmarty.com^
 ||ncurqchw.com^
-||nd-adkpf.newdaily.co.kr^
 ||ndct-data.video.iqiyi.com^
 ||ndejhe73jslaw093.com^
 ||ndha4sding6gf.com^
@@ -25518,7 +25506,6 @@
 ||ssl-vg03.met.vgwort.de^
 ||ssl.clickbank.net^
 ||ssl.eroscomix.com^
-||ssl.logger.co.kr^
 ||ssl.siteimprove.com^
 ||ssl.zoomanalytics.co^
 ||ssl2anyone3.com^

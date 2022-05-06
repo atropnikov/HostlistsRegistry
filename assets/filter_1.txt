@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-05T22:20:36.948Z
+! Last modified: 2022-05-06T01:25:26.728Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38728,6 +38728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
+||tlsgq.cn^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -41859,6 +41860,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||cna24.site^
+||yahe.fashion^
+||adroition.net^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

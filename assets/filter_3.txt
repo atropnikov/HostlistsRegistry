@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-05-06T11:16:44.910Z
+! Last modified: 2022-05-06T12:36:47.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2241,9 +2241,6 @@
 ||logsss.com^
 ||logua.com^
 ||longinglettuce.com^
-||look.djfiln.com^
-||look.ichlnk.com^
-||look.opskln.com^
 ||look.ufinkln.com^
 ||loopme.com^
 ||lop.com^
@@ -2947,6 +2944,7 @@
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||screechingstove.com^
+||scripte-monster.de^
 ||scrubswim.com^
 ||sdkfjxjertertry.com^
 ||seadform.net^
@@ -2983,7 +2981,6 @@
 ||sexlist.com^
 ||sextracker.com^
 ||shakegoldfish.com^
-||shakesea.com^
 ||shakesuggestion.com^
 ||shakytaste.com^
 ||shallowsmile.com^
@@ -3453,7 +3450,6 @@
 ||uarating.com^
 ||ucfunnel.com^
 ||udkcrj.com^
-||udncoeln.com^
 ||uib.ff.avast.com^
 ||ukoffzeh.com^
 ||ultimateclixx.com^

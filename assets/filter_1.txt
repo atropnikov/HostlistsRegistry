@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-08T01:43:47.566Z
+! Last modified: 2022-05-08T06:24:13.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||pwdxedmuutaok.com^
 ||kewhulawi.com^
 ||ourcommonnews.com^
 ||galopelikeantelope.com^
@@ -21581,6 +21582,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||x.babe.today^
 ||beacon.vertebrae-axis.com^
 ||analytics-coletor-site.ojc.com.br^
 ||scribe.wongnai.com^
@@ -26302,7 +26304,6 @@ vkcdnservice.appspot.com^
 ||telegraf.detmir-stats.ru^
 ||track.tproger.ru^
 ||stats.travelask.ru^
-||x.babe.today^
 ||prod-collector.bigbasket.com^
 ||tracking.game8.jp^
 ||lcs.modoo.at^
@@ -38299,6 +38300,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||00-gov.cn^
 ||000123456789.site^
+||23962340.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -41459,6 +41461,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiaodian.name^
 ||hx9.ink^
 ||beside-u.xyz^
+||ylty.online^
+||yangmengqiu.work^
+||mufoa6k.cn^
+||h04.xyz^
+||dcjfoei.cn^
+||ihtqqws.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

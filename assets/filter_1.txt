@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-09T01:48:22.480Z
+! Last modified: 2022-05-09T06:25:23.413Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6414,7 +6414,6 @@ vkcdnservice.appspot.com^
 ||cttghjfhsw.com^
 ||cubanetestoon.com^
 ||cubaordmvsslr.com^
-||cubics.com^
 ||cucalm.com^
 ||cuckooretire.com^
 ||cuculf.name^
@@ -19566,6 +19565,7 @@ vkcdnservice.appspot.com^
 ||ctrhub.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
+||cubics.com^
 ||cuelinks.com^
 ||currentlyobsessed.me^
 ||cybmas.com^
@@ -41554,6 +41554,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||qintian.ink^
+||8500.pro^
+||sosodo.xyz^
+||smfierf.xyz^
+||9284swk.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

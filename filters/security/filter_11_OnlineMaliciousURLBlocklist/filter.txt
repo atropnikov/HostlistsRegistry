@@ -2,7 +2,7 @@
 ! Title: Online Malicious URL Blocklist
 ! Description: A blocklist of malicious websites that are being used for malware distribution, based on the Database dump of Abuse.ch URLhaus.
 ! Homepage: https://gitlab.com/curben/urlhaus-filter
-! Last modified: 2022-05-11T01:52:12.092Z
+! Last modified: 2022-05-11T13:40:33.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,7 +20,6 @@
 ||360down7.miiyun.cn^
 ||420creditcardmachine.com^
 ||510medicaltrans.com^
-||5rambiental.com.br^
 ||7eminotopark.com^
 ||8box.8boxerp.com^
 ||8db3b91a-ea93-419b-b51b-0a69902759c5.usrfiles.com^
@@ -37,6 +36,7 @@
 ||adityasolsurf.in^
 ||admin.classified.pointsource.ng^
 ||aduanasctpp.com^
+||aearth.com^
 ||afyonmagazin.com^
 ||agdm.ml^
 ||agemn.co.za^
@@ -52,14 +52,13 @@
 ||allamapianoawards.com^
 ||alserhmedia.com^
 ||alshamlanqatar.com^
+||alternation.live^
 ||altoxi.com^
 ||amalgama-com.gq^
 ||amarteargentina.com.ar^
 ||amazingholidaysmaldives.com^
 ||amazingshowerdoor.ca^
 ||amooma.sourcetaggers.com^
-||amordeparede.com^
-||amorespasalon.com^
 ||anat-bar.co.il^
 ||andres.ug^
 ||andrewpharma.com^
@@ -77,6 +76,7 @@
 ||applepaybanker.com^
 ||apps.saintsoporte.com^
 ||appyhorsey.com^
+||aquavayuelements.com^
 ||ara-choob.com^
 ||areyoulivingwell.com^
 ||arkidecture.com^
@@ -108,7 +108,6 @@
 ||baf.com.sa^
 ||bangkok-orchids.com^
 ||bangplamahospital.com^
-||barkodsolutions.com^
 ||barnhart-studios.com^
 ||basbeigium.com^
 ||bawatingbarter.com^
@@ -119,11 +118,11 @@
 ||beachjeepsobx.com^
 ||beachwood.ug^
 ||beapassionjunkie.com^
+||bearcatpumps.com.cn^
 ||beeabouttown.com^
 ||belezapuracosmetica.com^
 ||bem.unja.ac.id^
 ||bencevendeghaz.hu^
-||benconry.com^
 ||benwellgroup.co.uk^
 ||berojgarengineers.com^
 ||bethelmbcarvada.org^
@@ -138,7 +137,9 @@
 ||blankcanvasproduction.com^
 ||bleskoindustries.com^
 ||blog.aeromus.com^
+||blog.dbbcasino.com^
 ||blog.laferre.co^
+||blog.searstownonline.com^
 ||blog.stetgzs.cn^
 ||blueprogress.org^
 ||blumer.com.br^
@@ -153,7 +154,6 @@
 ||boundbystarlight.co.uk^
 ||bowmancollection.com^
 ||boxtelreport.com^
-||braindeadrp.com^
 ||brasslineindia.com^
 ||brideofmessiah.com^
 ||bridgesfoundationrepair.com^
@@ -171,7 +171,6 @@
 ||burgermurger.com^
 ||buscascolegios.diit.cl^
 ||buyindigenous.ca^
-||buyurbest.com^
 ||c.oooooooooo.ga^
 ||cagataygunes.com.tr^
 ||caioaraujo.vip^
@@ -231,12 +230,10 @@
 ||compan.oss-cn-hongkong.aliyuncs.com^
 ||congtycamvinh.com^
 ||construlandia.com^
-||continentalgroup.net.in^
 ||coop-host.com^
 ||coopacredito.com^
 ||coordinarseguridad.co^
 ||cornerstonecreativestudios.com^
-||corpernaija.com^
 ||corpolevesuplementos.com.br^
 ||corpotechgroup.com^
 ||count.mail.163.com.impactmedfoundation.com^
@@ -273,7 +270,6 @@
 ||dating.khokhas.co.za^
 ||davidludlow.com^
 ||davidmcguinness.info^
-||dayyar.com^
 ||dcg.syncinteractive.com^
 ||ddl7.data.hu^
 ||ddl8.data.hu^
@@ -287,14 +283,13 @@
 ||dental.xiaoxiao.media^
 ||design-ed.com^
 ||destinocuenca.com^
-||destinymc.co.za^
 ||dev.crystalclearvapestore.co.uk^
 ||dev.sebpo.net^
 ||dev2-admin.ycbnt.net^
 ||dezcom.com^
 ||digitalmeva.com^
-||digitaltrustco.com^
 ||dijicom.net^
+||dinogo.vn^
 ||dipa14.web.id^
 ||discoveryast.com^
 ||disweb.sk^
@@ -309,7 +304,6 @@
 ||dmcontabilidade.com^
 ||doctorcasenave.com^
 ||documented.in^
-||documentos.seprin.com^
 ||dodsonimaging.com^
 ||dom.daf.free.fr^
 ||donbaham.com^
@@ -390,7 +384,6 @@
 ||esquiudigital.com^
 ||estiloymadera.com.py^
 ||estuaryresidental.com^
-||etechworld.in^
 ||etisalatbuyback.com^
 ||etoileinfosolutions.com^
 ||ets-touristic.com^
@@ -399,7 +392,6 @@
 ||exhaleconsulting.com^
 ||exilum.com^
 ||expansion360.net^
-||expresolv.com^
 ||exsmartblogxz.com^
 ||eznetb.synology.me^
 ||f.gogamef.com^
@@ -411,7 +403,6 @@
 ||fantasyclub.com.br^
 ||farinatocombustibili.com^
 ||farrjalsohaibi.com^
-||farsabeans.com^
 ||fashionbyprincessmelodicaah.com^
 ||fc.co.mz^
 ||fccatinsaat.com^
@@ -440,7 +431,6 @@
 ||foundationrepairhoustontx.net^
 ||foxeps.com.br^
 ||fpd.cl^
-||freedomokla.net^
 ||freereadmanga.com^
 ||freesoftwares.ml^
 ||fse.in.ua^
@@ -448,7 +438,6 @@
 ||fundustry.net^
 ||funletters.net^
 ||fxliquiditymarkets.com^
-||g.githubupdate.com^
 ||g.nxxxn.ga^
 ||galaxy-catering.com.vn^
 ||gan-n.cloud-downloader.com^
@@ -456,19 +445,18 @@
 ||gbpak.com^
 ||gbsports.theapplab.org^
 ||gccon.in^
+||gclub-gds.com^
 ||gees.com.pl^
 ||genccagdas.com.tr^
 ||gengxin.poxiaowy.com^
 ||geowf.ge^
 ||gethomevaluerestoration.com^
 ||ggwpcarry.com^
-||giadinhviet.com^
 ||giic-com.ga^
 ||gla.ge^
 ||globartmag.com^
 ||globoagronegocios.com.br^
 ||gnr.gtu.ge^
-||go.zgroupdigital.com^
 ||gocnhotaichinh.com^
 ||godfathersjunk.com^
 ||godubai.club^
@@ -498,6 +486,7 @@
 ||haircutbar.com^
 ||hangairsoft.com^
 ||hangaryapi.com.tr^
+||hardwarecomparison.com^
 ||harleyqueretaro.com^
 ||harperhouseproducts.com^
 ||hashtagmedia.co.in^
@@ -505,6 +494,7 @@
 ||heaventechnologies.com.pk^
 ||hellojohnwebb.com^
 ||helpdeskserver.epelcdn.com^
+||helpfoundation.uxgorilla.com^
 ||herchinfitout.com.sg^
 ||heyyou6013.lowjunnhoi.repl.co^
 ||hinduswayamvaram.org^
@@ -516,6 +506,7 @@
 ||hoccu.vn^
 ||hojefinancas.online^
 ||holidayonehotel.com^
+||hollomart.com^
 ||hollyspringsent.com^
 ||homeeflyer.com^
 ||hongluosi.com^
@@ -528,6 +519,7 @@
 ||hotelhansshimla.co.in^
 ||hotfiresix.s3.sa-east-1.amazonaws.com^
 ||houseatthebeachinoc.com^
+||houseproinspection.com^
 ||howebeautiful.com^
 ||hr2019.vrcom7.com^
 ||hseda.com^
@@ -535,11 +527,11 @@
 ||hugebonus.drfelipecosta.com^
 ||humvegetarian.w3.eyeteam.vn^
 ||hunggiang.vn^
+||ibet168mm.com^
 ||idea-time.com^
 ||igshop.net^
 ||ikejaclub.org^
 ||iloop.sourcetaggers.com^
-||ilpem-ar.com^
 ||imaginationtoon.com^
 ||imbueautoworx.co.za^
 ||immunotec.network^
@@ -583,7 +575,6 @@
 ||karinanoeljewelry.com^
 ||kenaridjaja.com^
 ||kenbrown-photo.com^
-||kensell.co.uk^
 ||keyesforsteuben.com^
 ||kickofflaos.com^
 ||kimjikuk.luxeone.cn^
@@ -606,7 +597,6 @@
 ||latinaked.club^
 ||laundrycompliance.com^
 ||laureates.in^
-||lceventos.net^
 ||ld.mediaget.com^
 ||ldgcorp.com^
 ||learnbharat.com^
@@ -615,7 +605,6 @@
 ||leasiacherise.com^
 ||legend.nu^
 ||lennart.serv.se^
-||lestesteux.ca^
 ||levelformation.fr^
 ||liasang-westasia.com^
 ||library.arihantmbainstitute.ac.in^
@@ -657,11 +646,10 @@
 ||marksidfgs.ug^
 ||marmaris.com.ua^
 ||marquesvogt.com^
-||massageviet.com.vn^
+||maximum-tech.com^
 ||mbgrm.com^
 ||mckinneytighe.com^
 ||medianews.ge^
-||medicalcardbajet.com^
 ||meeweb.com^
 ||mega918kiss.com^
 ||melaniegowen.com^
@@ -688,7 +676,6 @@
 ||mulmatdol.com^
 ||multilevelcarparkingindia.com^
 ||mwu.com.mx^
-||my.cloudme.com^
 ||mysouthbay.com^
 ||mysura.it^
 ||nagains.azurewebsites.net^
@@ -699,7 +686,9 @@
 ||nellyrac.do^
 ||nenlineasv.com^
 ||nerve.untergrund.net^
+||networkwheels.co.za^
 ||newdevjyq.devjyq.com^
+||newdiycrafts.com^
 ||newsite.ugbswebakenyaltd.com^
 ||nextlevelcoaches.com.au^
 ||ngdaycare.co.za^
@@ -720,14 +709,13 @@
 ||office365.bellboyindia.com^
 ||officeinsumos.com^
 ||offtec.cf^
-||ofilmywp.xyz^
 ||ohsewgorgeous.co.uk^
-||oknoplastik.sk^
 ||oleholeh.memangbeda.website^
 ||ombrapiatta.com^
 ||oms.pappai.com^
 ||omscoc.pappai.com^
 ||online.creedglobal.in^
+||onlinecasinosonfire.com^
 ||opolis.io^
 ||opornik55.ru^
 ||opqwes.top^
@@ -736,13 +724,11 @@
 ||oreokitkat.ddns.net^
 ||orientfinance.lk^
 ||orientgatewayltd.com^
-||orsan.gruporhynous.com^
 ||outdoortacklebox.com^
 ||ozemag.com^
 ||p2.d9media.cn^
 ||p3.zbjimg.com^
 ||p6.zbjimg.com^
-||pablobrothel.com.ar^
 ||pablopereirasilvaluis.com.br^
 ||pacwebdesigns.com^
 ||paparock.cl^
@@ -755,7 +741,6 @@
 ||patch2.51lg.com^
 ||patch2.99ddd.com^
 ||patch3.99ddd.com^
-||pathivaraonline.com^
 ||patriciamirapsicologa.com^
 ||pawnest.com^
 ||pay.ewalletgold.com^
@@ -771,7 +756,6 @@
 ||pikasho.com^
 ||pink99.com^
 ||pivot-to-virtual.com^
-||plasfan.ind.br^
 ||plastikiniailangaivilniuje.lt^
 ||plresende.com^
 ||posmicrosystems.com^
@@ -832,6 +816,7 @@
 ||rogerschultz.com^
 ||romanianpoints.com^
 ||roofing.galacticleads.com^
+||rosenberger.biz^
 ||rosenewshd.com^
 ||ruisgood.ru^
 ||rxquickpay.com^
@@ -842,12 +827,10 @@
 ||safecampus.net^
 ||saffronflourmill.com^
 ||saffrontheindiankitchen.com^
-||sainzim.co.za^
 ||samane-sana.com^
 ||sarahburrell.info^
 ||satyammould.com^
 ||saudihtn.org^
-||sbobetth.site^
 ||sbss.com.pk^
 ||scglobal.co.th^
 ||schoolofspanish.co.za^
@@ -880,12 +863,12 @@
 ||skyscan.com^
 ||skyviewonlineltd.com^
 ||sleepstarlite-ozark.com^
+||soft-hard-computer.com^
 ||soft.110route.com^
-||softguidecomputer.com^
+||solankistore.in^
 ||solenica.com^
 ||solotrainingcenter.com^
 ||sorathlions.com^
-||sota-france.fr^
 ||source3.boys4dayz.com^
 ||spaceframe.mobi.space-frame.co.za^
 ||sparcalabar.lightzillion.com^
@@ -900,7 +883,6 @@
 ||sspbluebox.com^
 ||st-florenceacademy.com^
 ||stackdigital.co.uk^
-||starcountry.net^
 ||static-201-163-99-83.alestra.net.mx^
 ||static.3001.net^
 ||static.cz01.cn^
@@ -909,6 +891,7 @@
 ||sterlitecamotech.com^
 ||sterongroup.com.ng^
 ||studionjproductions.com^
+||study-material.info^
 ||sudariocontabilidade.com.br^
 ||suhnsksoclothe.pages.dev^
 ||suncapitalmarkets.com^
@@ -922,21 +905,20 @@
 ||taxclubpk.com^
 ||tc.snpsresidential.com^
 ||teacherslearningassociation.com^
+||teamazmog.xyz^
 ||technlogy.net^
-||techwhitepages.com^
 ||techybhai.online^
 ||temptmag.com^
 ||terrazzaitaliana.mx^
 ||test.danielzrihen.co.il^
-||test.fontecsys.net^
 ||test.reachhealth.asia^
 ||test.typoten.com^
 ||test.ugbswebakenyaltd.com^
-||tetulungherbal.net^
+||thaisgutierres.com.br^
 ||tharringtonsponsorship.com^
 ||thegift.live^
 ||thehightechsecurity.ca^
-||thephdefense.com^
+||theoddbudstore.com^
 ||thesalons.in^
 ||thesitebuilders.in^
 ||thestartupexpcorps.com^
@@ -982,12 +964,12 @@
 ||unisoftcc.com^
 ||universalcustomdesigns.com^
 ||universalplastoind.com^
-||unknowndsl.com^
 ||unlockingdreamsfinancial.com^
 ||unwittingjaggeddebugging.neumatic.repl.co^
 ||useractiv.com^
 ||uxsingh.com^
 ||uyomall.lightzillion.com^
+||vallabhfood.in^
 ||verificacionvml.com.mx^
 ||vfocus.net^
 ||victorysanitizer.com^
@@ -997,7 +979,6 @@
 ||vksales.com^
 ||vmmalkvoice-view.pages.dev^
 ||vocoptions.net^
-||vpts.co.za^
 ||vrstar-park.com^
 ||walkindrivetoday.com^
 ||washatsanjose.com^
@@ -1006,7 +987,6 @@
 ||webmk.de^
 ||webrixtech.com^
 ||webs-up.com^
-||webterminal.ca^
 ||weinsteincounseling.com^
 ||weitzmedicalmanagement.com^
 ||welber.adv.br^

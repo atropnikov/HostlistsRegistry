@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-05-10T13:48:46.486Z
+! Last modified: 2022-05-11T16:30:23.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1284,6 +1284,7 @@
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-east-retail-direct.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 fls-eu.amazon-adsystem.com
@@ -1297,6 +1298,7 @@
 127.0.0.1 z-na.amazon-adsystem.com
 
 127.0.0.1 aan.amazon.com
+127.0.0.1 aax-us-east-retail-direct.amazon.com
 127.0.0.1 fls-na.amazon.com
 
 127.0.0.1 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com

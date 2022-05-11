@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-11T01:52:04.200Z
+! Last modified: 2022-05-11T06:28:17.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21646,6 +21646,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||px.mountain.com^
+||gs.mountain.com^
+||dx.mountain.com^
 ||noibu.com^
 ||gwmtracking.com^
 ||analytics.formstack.com^
@@ -29890,7 +29893,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
-||dx.mountain.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.bredg.com^
@@ -37909,8 +37911,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
+||xmmnsl.com^
 ||00-gov.cn^
 ||000123456789.site^
+||fakrg0e.cn^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -41089,6 +41093,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||coder-bts.site^
 ||1rongzi.cn^
+||ayuki.ink^
+||shilong.xyz^
+||njvfidke.xyz^
+||j49.xyz^
+||fktkwb.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

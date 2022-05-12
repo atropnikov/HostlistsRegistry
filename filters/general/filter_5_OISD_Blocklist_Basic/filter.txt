@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-12T01:50:25.922Z
+! Last modified: 2022-05-12T08:25:59.585Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31830,7 +31830,6 @@
 ||perigshfnon.com^
 ||periljuicywary.com^
 ||perilouslimb.com^
-||perimeterx.net^
 ||perinstallcash.com^
 ||periodicpocket.com^
 ||periodsalter.com^
@@ -37397,7 +37396,6 @@
 ||sieveinterposed.com^
 ||sifomedia.se^
 ||sift-campaign-creatives.sift.co^
-||sift.com^
 ||siftshortagepopped.com^
 ||sighash.info^
 ||sightjutfar.com^
@@ -48009,3 +48007,4 @@
 ||zzyonghao.com^
 ||zzyytt.top^
 ||zzznews.ru^
+

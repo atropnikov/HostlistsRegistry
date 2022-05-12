@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-12T08:25:59.585Z
+! Last modified: 2022-05-12T11:17:37.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12287,6 +12287,8 @@
 ||collector-hpn.cliqz.com^
 ||collector-hpn.ghostery.net^
 ||collector-px8fcgygk4.px-cloud.net^
+||collector-pxel3l4xih.perimeterx.net^
+||collector-pxuarm9b04.perimeterx.net^
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
@@ -23170,7 +23172,6 @@
 ||ism2trk.com^
 ||ismatlab.com^
 ||ismlks.com^
-||isnwkcxe.com^
 ||iso100.ru^
 ||isohits.com^
 ||isolationmildred.com^
@@ -24585,7 +24586,6 @@
 ||knk95.cn^
 ||knkqjmjyxzev.info^
 ||knkyeterla.cc^
-||knneqqbgxeot.top^
 ||knorex.com^
 ||knotkettle.com^
 ||knottysticks.com^
@@ -33752,6 +33752,7 @@
 ||pwrfcia.com^
 ||pwrlkyotm.com^
 ||pwwghcyzsn.info^
+||px-conf.perimeterx.net^
 ||px.dmp.zaloapp.com^
 ||px.dynamicyield.com^
 ||px.effirst.com^
@@ -35442,7 +35443,6 @@
 ||rnmd.net^
 ||rnnuw.com^
 ||rnotraff.com^
-||rnovhhli.com^
 ||rnwbrm.com^
 ||ro2.biz^
 ||ro7s8wo57qnb.com^
@@ -48007,4 +48007,3 @@
 ||zzyonghao.com^
 ||zzyytt.top^
 ||zzznews.ru^
-

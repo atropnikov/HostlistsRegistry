@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-05-12T11:17:35.385Z
+! Last modified: 2022-05-13T12:45:39.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -436,7 +436,6 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
-||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -656,6 +655,7 @@
 ||ads.tripod.lycos.de^
 ||ads.tripod.lycos.es^
 ||ads.tripod.lycos.it^
+||ads.tripod.lycos.nl^
 ||ads.tso.dennisnet.co.uk^
 ||ads.twitter.com^
 ||ads.twojatv.info^
@@ -1826,7 +1826,6 @@
 ||fpjs.io^
 ||fqtag.com^
 ||frailoffer.com^
-||franklybundlecarver.com^
 ||free-banners.com^
 ||free-counter.co.uk^
 ||freebanner.com^
@@ -1996,7 +1995,6 @@
 ||hueads.com^
 ||hueadsortb.com^
 ||hueadsxml.com^
-||huezzcjskf.site^
 ||hurricanedigitalmedia.com^
 ||hurtteeth.com^
 ||hydramedia.com^
@@ -3528,7 +3526,6 @@
 ||voluum.com^
 ||voluumtrk2.com^
 ||volvelle.tech^
-||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
 ||vs.tucows.com^

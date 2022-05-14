@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-14T01:58:22.332Z
+! Last modified: 2022-05-14T06:44:27.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26082,6 +26082,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||wa.gmx.net^
 ||sfp.safe.baidu.com^
 ||revi.rcs.it^
 ||counter.megagroup.ru^
@@ -37744,6 +37745,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
 ||zxse43.com^
+||pfiparts.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||29525187.com^
 ||17271819.com^
@@ -40938,6 +40940,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jinlijzbd.com^
 ||summerxzp.xyz^
 ||c0c.biz^
+||anabcd.xyz^
+||gxzxiww.com^
+||mobrkbb.com^
+||cyl3h68.cn^
+||fanst.club^
+||yguo.xyz^
 ||wty007.xyz^
 ||mathmodel.xyz^
 ||xyy9.xyz^

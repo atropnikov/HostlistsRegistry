@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-14T12:38:39.887Z
+! Last modified: 2022-05-14T16:26:57.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -122,7 +122,6 @@
 ||ytieylhxjlectp.com^
 ||desktopmessages.com^
 ||narnuefprlcp.com^
-||autoads.asia^
 ||hewmjifrn4gway.com^
 ||usyiqpbx.com^
 ||xbyapdeheux.com^
@@ -19492,6 +19491,7 @@ vkcdnservice.appspot.com^
 ||auctionnudge.com^
 ||audience2media.com^
 ||audiencerun.com^
+||autoads.asia^
 ||automatad.com^
 ||awsmer.com^
 ||axiaffiliates.com^
@@ -24257,7 +24257,6 @@ vkcdnservice.appspot.com^
 ||porngraph.com^
 ||portfold.com^
 ||posst.co^
-||postclickmarketing.com^
 ||powercount.com^
 ||pr-chart.com^
 ||pr-chart.de^
@@ -28742,6 +28741,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eolcdn.com^
 ||ep4p.com^
 ||escalated.io^
+||esputnik.com^
 ||etp-prod.com^
 ||excited.me^
 ||exorigos.com^
@@ -31256,7 +31256,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.matichon.co.th^
 ||st.tmgrup.com.tr^
 ||informers.sinoptik.ua^
-||tracker.esputnik.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zdn.vn^
@@ -37747,6 +37746,8 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||zxse43.com^
 ||pfiparts.com^
+||sunyujia.top^
+||kukanlm-my1.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||29525187.com^
 ||17271819.com^
@@ -40947,6 +40948,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cyl3h68.cn^
 ||fanst.club^
 ||yguo.xyz^
+||dmfjeu.xyz^
 ||wty007.xyz^
 ||mathmodel.xyz^
 ||xyy9.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-16T12:42:48.732Z
+! Last modified: 2022-05-16T18:25:32.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19507,6 +19507,7 @@ vkcdnservice.appspot.com^
 ||banner-rotation.com^
 ||bannerbank.ru^
 ||bannerbit.com^
+||bannerboo.com^
 ||bannerbridge.net^
 ||bannerconnect.com^
 ||bannerconnect.net^
@@ -21740,6 +21741,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||t.cotsta.ru^
+||0.code.cotsta.ru^
 ||adbp.online^
 ||sofire.bdstatic.com^
 ||gokwik.co^
@@ -31381,6 +31384,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||qhdhtd.com^
 ||fuyviz.com^
 ||ouo3ophlpm.ru^
 ||wcoeaykv78.ru^
@@ -32212,7 +32216,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wellbc6.website^
 ||vuwgt.com^
 ||4736.in^
-||bannerboo.com^
 ||prelstar.ru^
 ||dytupr.com^
 ||r5jpkacq.ru^
@@ -40900,6 +40903,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cggf.xyz^
 ||sinimb.top^
 ||mmhwxofnea.com^
+||niuhe.xyz^
+||vrzsw.com^
+||aihuihui.xyz^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^

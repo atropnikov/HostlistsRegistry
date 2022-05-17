@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-17T06:25:30.147Z
+! Last modified: 2022-05-17T12:40:29.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26137,6 +26137,7 @@ vkcdnservice.appspot.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||pix.boursorama.com^
 ||wa.mail.com^
 ||wa.gmx.
 ||sfp.safe.baidu.com^
@@ -28468,6 +28469,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
+||ccm19.de^
 ||click360.io^
 ||cloudwp.io^
 ||cybba.solutions^
@@ -30432,6 +30434,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.ssl0d.com^
 ||tracker.timesgroup.com^
 ||tracker.twenga.
 ||tracker.wigzopush.com^
@@ -40959,6 +40962,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yungetongxun.xyz^
 ||ikjocef.cn^
 ||xgsx.club^
+||cloudroad.shop^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^

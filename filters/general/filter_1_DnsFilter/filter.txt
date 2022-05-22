@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-22T12:33:26.752Z
+! Last modified: 2022-05-22T18:23:05.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2353,7 +2353,6 @@
 ||d1pozdfelzfhyt.cloudfront.net^
 ||d3rhktq8uy839j.cloudfront.net^
 ||s.worldofmacros.net^
-||dc08i221b0n8a.cloudfront.net^
 ||d1f5rbi95y1icu.cloudfront.net^
 ||d2wl3qmk54t3ha.cloudfront.net^
 ||dh0uktvqfaomb.cloudfront.net^
@@ -3200,6 +3199,7 @@ vkcdnservice.appspot.com^
 ||aaoomqpaydap.com^
 ||aaqiycetqwx.com^
 ||aasrs.info^
+||aawulszemel.com^
 ||aaxads.com^
 ||ab3yssin4i6an.com^
 ||ab470c8dd5.com^
@@ -4273,6 +4273,7 @@ vkcdnservice.appspot.com^
 ||arthahoonte.biz^
 ||arthyadtrack.online^
 ||arthyredir.com^
+||artisticbuoyemphasize.com^
 ||artmentm.one^
 ||artpever.com^
 ||artreconnect.com^
@@ -6706,6 +6707,7 @@ vkcdnservice.appspot.com^
 ||dcpxroykfpnnpm.xyz^
 ||dcqsvxuetj.com^
 ||dcvaxrdmdovrsgh.com^
+||ddajztoum.com^
 ||ddb85f4fd9.com^
 ||ddc08eb47c.com^
 ||dddomainccc.com^
@@ -7272,6 +7274,7 @@ vkcdnservice.appspot.com^
 ||dtqkuzuhzwklm.com^
 ||dtscout.com^
 ||dtsedge.com^
+||dtwangicrur.com^
 ||dtzads.com^
 ||dualaaldime.cam^
 ||dualizefriskin.com^
@@ -12139,6 +12142,7 @@ vkcdnservice.appspot.com^
 ||mutenessdollyheadlong.com^
 ||mutteredslashfolly.com^
 ||muvimtim.com^
+||muwootch.com^
 ||muyoozrkkyr.com^
 ||mv3kosrrlxa7.com^
 ||mvbwpkhsc.com^
@@ -18629,6 +18633,7 @@ vkcdnservice.appspot.com^
 ||xapa.xyz^
 ||xarqnuelxtvajgp.xyz^
 ||xauthorous.club^
+||xawmgspvdvyrnrd.com^
 ||xaxeupvn.com^
 ||xaxivaho.com^
 ||xaxo.xyz^
@@ -18877,6 +18882,7 @@ vkcdnservice.appspot.com^
 ||yg592gpmrh0q.com^
 ||ygamhusjtdzajm.com^
 ||ygcxcqgsnemsb.com^
+||ygetatleiomrrr.com^
 ||ygfwbczu.com^
 ||yggcfcirw.xyz^
 ||yggzrdiq.com^
@@ -21184,6 +21190,7 @@ vkcdnservice.appspot.com^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||dba9ytko5p72r.cloudfront.net^
 ||dbcdqp72lzmvj.cloudfront.net^
+||dc08i221b0n8a.cloudfront.net^
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||dc7e73byc1qpi.cloudfront.net^
 ||ddlh1467paih3.cloudfront.net^
@@ -37395,6 +37402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fun1118.com^
 ||fun705.com^
 ||fun7778.com^
+||fun881211.com^
 ||funtructuyen88.com^
 ||game88.pro^
 ||gameb52.live^
@@ -37877,6 +37885,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
+||tianqi1212.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -41089,6 +41098,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||ob3o3r7.cn^
+||mkscuty.cn^
+||simajl.top^
 ||dkfmhv.xyz^
 ||teqcdnk.cn^
 ||3r3ijsa.cn^

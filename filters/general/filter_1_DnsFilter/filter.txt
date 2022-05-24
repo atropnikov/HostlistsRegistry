@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-24T06:25:17.975Z
+! Last modified: 2022-05-24T12:39:36.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10471,6 +10471,7 @@ vkcdnservice.appspot.com^
 ||jsmpsi.com^
 ||jsnaktyxljsohwp.xyz^
 ||jsontdsexit.com^
+||jspop.xyz^
 ||jsretra.com^
 ||jssearch.net^
 ||jstatic.org^
@@ -18820,6 +18821,7 @@ vkcdnservice.appspot.com^
 ||xxxadv.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
+||xxxhd.cc^
 ||xxxiijmp.com^
 ||xxxijmp.com^
 ||xxxivjmp.com^
@@ -26238,6 +26240,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 
 ||tagman.britishairways.com^
+||ma.tarnkappe.info^
 ||iabusprivacy.pmc.com^
 ||pzd.rakuten.co.jp^
 ||d3plfjw9uod7ab.cloudfront.net^
@@ -28104,6 +28107,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+
 ||adeventtracker.spotify.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
@@ -28606,6 +28610,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||2022welcome.com^
 ||520886.xyz^
 ||8672.site^
+||acsbapp.com^
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
@@ -41149,6 +41154,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ihqcndm.cn^
 ||tumgcmu.cn^
 ||ospzbro.cn^
+||jzzd.ink^
+||djhrfus.xyz^
+||btcbto.com^
+||personallydf.com^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

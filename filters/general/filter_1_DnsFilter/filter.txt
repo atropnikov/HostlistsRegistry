@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-25T06:25:40.888Z
+! Last modified: 2022-05-25T12:38:44.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21976,6 +21976,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||reports.koalametrics.com^
+||js.go2sdk.com^
 ||dbfocus.jp^
 ||selphiu.com^
 ||tr.vitals.co^
@@ -26259,6 +26260,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 
 ||tagman.britishairways.com^
+||t.melhorplano.net^
 ||ma.tarnkappe.info^
 ||iabusprivacy.pmc.com^
 ||pzd.rakuten.co.jp^
@@ -30270,7 +30272,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.split.io^
 ||events.yourcx.io^
 ||eventtracker.videostrip.com^
-||exacttarget.com^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
@@ -37014,6 +37015,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
+||report.mediahub.vn^
+||report2.mediahub.vn^
 ||360.anatic.net^
 ||a.ladipage.com^
 ||a.vtvdigital.vn^
@@ -41181,6 +41184,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rqwnzbx.cn^
 ||papbp.com^
 ||hongbao456.ink^
+||handuwl.top^
+||keyi.mobi^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^

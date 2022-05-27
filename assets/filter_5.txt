@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-27T06:26:05.523Z
+! Last modified: 2022-05-27T13:39:09.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -233,6 +233,7 @@
 ||123cha.com^
 ||123compteur.com^
 ||123count.com^
+||123date.me^
 ||123found.com^
 ||123freeavatars.com^
 ||123fvd.com^
@@ -2638,7 +2639,6 @@
 ||ad.batanga.com^
 ||ad.batanga.net^
 ||ad.be.doubleclick.net^
-||ad.bench.utorrent.com^
 ||ad.beritasatumedia.com^
 ||ad.bg.doubleclick.net^
 ||ad.bharatstudent.com^
@@ -2952,7 +2952,6 @@
 ||ad2.bannerhost.ru^
 ||ad2.cooks.com^
 ||ad2.doubleclick.net^
-||ad2.gammae.com^
 ||ad2.hotels.com^
 ||ad2.iinfo.cz^
 ||ad2.lupa.cz^
@@ -5337,7 +5336,6 @@
 ||adultadvertising.com^
 ||adultadvertising.net^
 ||adultadworld.com^
-||adultblogtoplist.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
@@ -9431,7 +9429,6 @@
 ||banggongxia.xyz^
 ||bango.net^
 ||bangplamahospital.com^
-||bangready.com^
 ||bangtyranclank.com^
 ||bangxin.xyz^
 ||banhfw.cn^
@@ -12054,7 +12051,6 @@
 ||cambodiaoutsourcing.com^
 ||cambrianter.club^
 ||camel.headfarming.com^
-||cameracaseira.com^
 ||cameraunswing.com^
 ||camiocw.com^
 ||camisagrieko.com^
@@ -12406,7 +12402,6 @@
 ||ccm19.de^
 ||ccmcroads.com^
 ||ccmdgg.com^
-||ccmiocw.com^
 ||ccpa.psg.nexstardigital.net^
 ||ccqecqbdstaxc.com^
 ||ccrgaviscom.112.2o7.net^
@@ -12615,7 +12610,6 @@
 ||cdn.vlyby.com^
 ||cdn.wadawada-stop-report-us.com^
 ||cdn.webpushr.com^
-||cdn.welcome.pussysaga.com^
 ||cdn.wenzhangba.cn^
 ||cdn.wuyou.ca^
 ||cdn.yanews24.com^
@@ -21814,6 +21808,7 @@
 ||gamigoads.com^
 ||gammachug.com^
 ||gammadsp.com^
+||gammae.com^
 ||gammamaximum.com^
 ||gammamkt.com^
 ||gammaplatform.com^
@@ -24266,7 +24261,6 @@
 ||hodor-collect.arabam.com^
 ||hoegutvie.com^
 ||hoemasfat.site^
-||hoerbird.net^
 ||hogawn.com^
 ||hogilh.com^
 ||hognaivee.com^
@@ -26046,7 +26040,6 @@
 ||internal.750g.com^
 ||internal.fuckyoucash.com^
 ||internal.terrafemina.com^
-||internalads.gammae.com^
 ||internalsink.com^
 ||internet-cleaning-tool.capital-software.qarchive.org^
 ||internetfuel.com^
@@ -26348,7 +26341,6 @@
 ||istat24.com^
 ||istatistik.arabam.com^
 ||istatistik.trthaber.com^
-||istats.nl^
 ||istcs.top^
 ||istlandoll.com^
 ||istrack.com^
@@ -26580,7 +26572,6 @@
 ||jaubeebe.net^
 ||jauchuwa.net^
 ||jaumevie.com^
-||jav321.com^
 ||java8.xyz^
 ||javacript.cf^
 ||javacript.gq^
@@ -28403,7 +28394,6 @@
 ||lcwfab1.com^
 ||lcwfab2.com^
 ||lcwfab3.com^
-||lcwfabt1.com^
 ||lcwfabt2.com^
 ||lcwfabt3.com^
 ||lddpgn.cn^
@@ -40038,7 +40028,6 @@
 ||rose.ixbt.com^
 ||rosebudmorgue.com^
 ||rosebudsawservice.com.au^
-||roselip-fetish.com^
 ||rosenewshd.com^
 ||rosiedaulos.com^
 ||rosqb6vb1cqp.com^
@@ -41612,7 +41601,6 @@
 ||server.zombie-tv.org^
 ||server03new.dot.at^
 ||server1.beaconpush.com^
-||server1.extra-web.cz^
 ||server4ads.com^
 ||serveradobe.co.cc^
 ||serverads.net^
@@ -41935,6 +41923,7 @@
 ||sholombombic.com^
 ||shonretimus.com^
 ||shoofle.tv^
+||shoogloonetwork.com^
 ||shooksap.net^
 ||shooterpillar.com^
 ||shootoax.com^
@@ -45110,6 +45099,7 @@
 ||t.dailymail.co.uk^
 ||t.dgm-au.com^
 ||t.dtscdn.com^
+||t.eharmony.com^
 ||t.etraveli.com^
 ||t.felmat.net^
 ||t.fileplaneta.com^
@@ -47020,7 +47010,6 @@
 ||track.mobile-bt.com^
 ||track.mopo.de^
 ||track.moreniche.com^
-||track.mp4.center^
 ||track.mycliplister.com^
 ||track.netzero.net^
 ||track.nifty.com^
@@ -47324,7 +47313,6 @@
 ||tracking.jotform.com^
 ||tracking.komoot.de^
 ||tracking.krone.at^
-||tracking.ladies.de^
 ||tracking.leadlander.com^
 ||tracking.leeep.jp^
 ||tracking.legacyoffers.com^
@@ -47657,7 +47645,6 @@
 ||travelingturtleharmonious.com^
 ||travellingfate.com^
 ||travelnourhai.com^
-||travelogity.com^
 ||travels.cdtscorp.com^
 ||travelscream.com^
 ||traveltogandi.com^
@@ -48540,6 +48527,7 @@
 ||unblestrustic.com^
 ||unblockedtpb.pw^
 ||unblockia.com^
+||unblocksit.es^
 ||unblocktheship.org^
 ||unbodypestis.com^
 ||unbuttondeferinstalment.com^
@@ -52075,7 +52063,6 @@
 ||xmlterra.com^
 ||xmlwizard.com^
 ||xmmnsl.com^
-||xmorex.com^
 ||xmr.101010.pl^
 ||xmr.co^
 ||xmr.cool^

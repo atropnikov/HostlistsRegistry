@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-05-29T15:20:18.237Z
+! Last modified: 2022-05-29T18:23:20.225Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27912,6 +27912,7 @@
 ||inclinationwitchcraftafresh.com^
 ||inclk.com^
 ||incloak.com^
+||includecheck.oisd.nl^
 ||includemodal.com^
 ||includepurple.com^
 ||incluster.com^
@@ -45311,7 +45312,6 @@
 ||services.adtech.fr^
 ||services.adtech.us^
 ||services.bionika-digital.ru^
-||services.brightline.tv^
 ||services.coem.awem.com^
 ||services.hearstmags.com^
 ||services.krxd.net^
@@ -47539,7 +47539,6 @@
 ||starkhelperidentifier.com^
 ||starkpropagandaattacks.com^
 ||starlayer.com^
-||starlink.country^
 ||starsearchtool.com^
 ||starseed.fr^
 ||start-page.org^

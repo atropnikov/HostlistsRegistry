@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-30T06:29:52.989Z
+! Last modified: 2022-05-30T09:22:50.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25368,6 +25368,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||pleasantpump.com^
 ||automaticairplane.com^
 ||outstandingincome.com^
 ||teenytinyshirt.com^
@@ -27529,7 +27530,7 @@ vkcdnservice.appspot.com^
 ||front.optimonk.com^
 ||tracker.affirm.com^
 ||track.datescan.info
-||log.aliyuncs.com^
+||log*.aliyuncs.com^
 ||d10lpsik1i8c69.cloudfront.net^
 ||stg-data-collector.playbuzz.com^
 ||stats.walytics.com^
@@ -30049,7 +30050,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||piquantprice.com^
 ||planesorder.com^
 ||plantrelation.com^
-||pleasantpump.com^
 ||pricklydebt.com^
 ||propertypotato.com^
 ||punyplant.com^
@@ -30961,7 +30961,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||antillephone.com^
 ||beyondsecurity.com^
 ||cyveillance.com^
-||geotrust.com^
 ||nsg.symantec.com^
 ||privacy-policy.truste.com^
 ||scanverify.com^

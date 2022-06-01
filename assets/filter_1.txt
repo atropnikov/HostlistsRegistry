@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-05-31T18:24:54.607Z
+! Last modified: 2022-06-01T02:02:51.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26479,6 +26479,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 
 ||tagman.britishairways.com^
+||stats.zone-telechargement.click^
 ||dbfukofby5ycr.cloudfront.net^
 ||shtrack.kingsoft.jp^
 ||teralog.techhub.co.kr^
@@ -35751,6 +35752,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
 ||ttauri.livescience.com^
 
+||xydestygre.com^
+||kukachesy.pro^
 ||ukslphcgs.com^
 ||habrox.xyz^
 ||mystighty.info^
@@ -38209,14 +38212,9 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||00-gov.cn^
 ||000123456789.site^
+||kq7it3c6.club^
 ||0024aaaa.com^
 ||008844.cc^
-||lm467.com^
-||ztwf8lr.cn^
-||chinaanquan.net^
-||kq7it3c6.xyz^
-||kqiekmsq.world^
-||cclnuzn.cn^
 ||00xvppy.cn^
 ||01fen.com^
 ||022aifang.com^
@@ -38685,6 +38683,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cccccd.com^
 ||cchvc.net^
 ||ccjudian.com^
+||cclnuzn.cn^
 ||cctg.cc^
 ||cczuxie.com^
 ||cdhhbyy.cn^
@@ -38704,6 +38703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chengzhonghuxin.com^
 ||chenyanjiao.cn^
 ||cherryblossoms.top^
+||chinaanquan.net^
 ||chishenmeyanjiuyuan.top^
 ||chiuhua.com.cn^
 ||chromc.com^
@@ -39329,6 +39329,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kokofits.com^
 ||kolinay.com^
 ||koukou7.com^
+||kq7it3c6.xyz^
+||kqiekmsq.world^
 ||kqvkvc3.com^
 ||kt220.com^
 ||ktdlsb.com^
@@ -39402,6 +39404,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lm342.com^
 ||lm343.com^
 ||lm465.com^
+||lm467.com^
 ||lm553.com^
 ||lm663.com^
 ||lm665.com^
@@ -40309,6 +40312,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zswinwin.xyz^
 ||ztidu.com^
 ||ztvx8.com^
+||ztwf8lr.cn^
 ||zunxiangjiazheng07712444061.com^
 ||zuoss.net^
 ||zxdb123caducn.xyz^
@@ -41463,11 +41467,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||puchengrenli.com^
-||autorobot.city^
-||ddnzn.xyz^
-||imnmediatel.com^
-||cjhaoliao.xyz^
+||supernff.com^
+||nxhkkm.xyz^
+||zptxjlh.cn^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -41884,6 +41886,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atuehome.cn^
 ||austinareahomeschoolers.com^
 ||autobedo.com.cn^
+||autorobot.city^
 ||autumnleaf.ltd^
 ||avvr.club^
 ||awleo.cn^
@@ -42286,6 +42289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cike666.com^
 ||city009.com^
 ||cjde.xyz^
+||cjhaoliao.xyz^
 ||cjhbkj.cn^
 ||cjhd.site^
 ||cjy200107152004.ltd^
@@ -42456,6 +42460,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dddwz.cn^
 ||ddeyi.cn^
 ||ddg1277.com^
+||ddnzn.xyz^
 ||ddot.xyz^
 ||ddwant.cn^
 ||deskt.cn^
@@ -43336,6 +43341,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||imiek.com^
 ||imlidc.cn^
 ||immf.me^
+||imnmediatel.com^
 ||importcat.com^
 ||imspecial.club^
 ||increased.cn^
@@ -44443,6 +44449,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||psl93qx.site^
 ||ptujvmq.cn^
 ||pubcloud.pub^
+||puchengrenli.com^
 ||pulingmu.top^
 ||puqer.cn^
 ||purchathough.com^

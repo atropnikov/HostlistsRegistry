@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2022-05-30T01:50:51.330Z
+! Last modified: 2022-06-01T08:30:12.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1672,6 +1672,7 @@
 0.0.0.0 lp.cleanmymac.online
 0.0.0.0 lrt7a.coldcertainchannel.com
 0.0.0.0 lucklayed.info
+0.0.0.0 luxdiscount.zone
 0.0.0.0 m01.webwise.org
 0.0.0.0 m02.webwise.org
 0.0.0.0 mac-osx.message-warning.net

@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-03T18:22:21.401Z
+! Last modified: 2022-06-04T01:35:33.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ithyourretye.xyz^
+||tirreleaseavailan.xyz^
 ||cloudads.tv^
 ||watwait.com^
 ||phone-analyzer.com^
@@ -4606,6 +4608,7 @@ vkcdnservice.appspot.com^
 ||awptjmp.com^
 ||aws-ajax.com^
 ||awsatstb.com^
+||awscloudfront.ml^
 ||awsharproofed.com^
 ||awstaticdn.net^
 ||awsurveys.com^
@@ -6121,6 +6124,7 @@ vkcdnservice.appspot.com^
 ||clotezar.com^
 ||clothetow.com^
 ||cloudapp-s.store^
+||cloudcdn.ml^
 ||cloudflare.solutions^
 ||cloudfrale.com^
 ||cloudiiv.com^
@@ -7601,6 +7605,7 @@ vkcdnservice.appspot.com^
 ||ecominalber.club^
 ||economyobserver.com^
 ||ecortb.com^
+||ecossn.com^
 ||ecpmrocks.com^
 ||ecpms.net^
 ||ecqtaffcxggjwxf.com^
@@ -14073,6 +14078,7 @@ vkcdnservice.appspot.com^
 ||popsoffer.com^
 ||poptm.com^
 ||poptri.com^
+||poptube.fun^
 ||popularmedia.net^
 ||populis.com^
 ||populisengage.com^
@@ -15520,6 +15526,7 @@ vkcdnservice.appspot.com^
 ||runative-syndicate.com^
 ||runative.com^
 ||runbornto.com^
+||rundse.com^
 ||runecrispin.com^
 ||runetki.co^
 ||rungginlout.com^
@@ -31958,6 +31965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||fquqhe.com^
 ||zbtlgd.com^
 ||eozjqg.com^
 ||smi01.ru^
@@ -41563,15 +41571,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||lmjy.us^
-||lemoncai.xyz^
-||xiangwuquan.cn^
-||tangli.ltd^
-||xfdqxfpm.cn^
-||qgfwets.cn^
-||blingbling.wiki^
-||homeieped.cn^
-||ywsywh.cn^
+||coolfuture.xyz^
 ||000123456789.online^
 ||000123456789.space^
 ||01tn.cn^
@@ -42219,6 +42219,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||blackbar.cn^
 ||blb2s77r.cn^
 ||blcobmv.cn^
+||blingbling.wiki^
 ||blockai.me^
 ||blsenpg.cn^
 ||bmt4578.xyz^
@@ -43286,6 +43287,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||holidayhappy.online^
 ||holyyjs.xyz^
 ||homchang.site^
+||homeieped.cn^
 ||homfen.me^
 ||hongbao456.ink^
 ||hongdejituan.vip^
@@ -43909,6 +43911,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lejia.biz^
 ||lejlb.com^
 ||lemmotx.cn^
+||lemoncai.xyz^
 ||leoyan.top^
 ||lepaidaren.com^
 ||leqfgnb.cn^
@@ -43999,6 +44002,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||llii.club^
 ||lllfe.cn^
 ||llnsmu.com^
+||lmjy.us^
 ||lnalttc.com^
 ||lnflfbf.cn^
 ||lnque.xyz^
@@ -44604,6 +44608,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qgbtd.com^
 ||qgdvyvd.cn^
 ||qgfdqjf.cn^
+||qgfwets.cn^
 ||qgydhjh.cn^
 ||qhdmqzc.cn^
 ||qhdop.com^
@@ -45132,6 +45137,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tang-feiji.cn^
 ||tangequan.co^
 ||tanggoushequ.xyz^
+||tangli.ltd^
 ||tangxue.me^
 ||tanky.vip^
 ||tanshan.site^
@@ -45658,6 +45664,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xdwqq.cn^
 ||xeihy.com^
 ||xerhibx.cn^
+||xfdqxfpm.cn^
 ||xflz.xyz^
 ||xfnkds.com^
 ||xfvbs.cn^
@@ -45682,6 +45689,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiangkantv.cn^
 ||xianglong360.cn^
 ||xiangwangdesh.com^
+||xiangwuquan.cn^
 ||xiangyudj.cn^
 ||xianka.cloud^
 ||xiantai.xyz^
@@ -46049,6 +46057,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yvrpeky.cn^
 ||ywbwsm.com^
 ||ywqpgy.com^
+||ywsywh.cn^
 ||ywzkiug.cn^
 ||yxbyd.store^
 ||yxhjt.com^

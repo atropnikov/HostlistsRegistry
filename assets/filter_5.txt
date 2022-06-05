@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-05T13:24:04.683Z
+! Last modified: 2022-06-05T20:18:23.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32978,7 +32978,6 @@
 ||medusasglance.com^
 ||medyagundem.com^
 ||medyanet.net^
-||medyanetads.com^
 ||meegliwu.net^
 ||meelba.com^
 ||meendo.ru^

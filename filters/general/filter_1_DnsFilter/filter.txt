@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-06T06:24:38.390Z
+! Last modified: 2022-06-06T12:39:34.711Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6825,6 +6825,7 @@ vkcdnservice.appspot.com^
 ||dcpxroykfpnnpm.xyz^
 ||dcqsvxuetj.com^
 ||dcvaxrdmdovrsgh.com^
+||dcwkgvoeufhnm.com^
 ||ddajztoum.com^
 ||ddb85f4fd9.com^
 ||ddc08eb47c.com^
@@ -10466,6 +10467,7 @@ vkcdnservice.appspot.com^
 ||jebure.com^
 ||jechesmacaltont.info^
 ||jeclittrecheckrep.info^
+||jecoglegru.com^
 ||jecqhvrclrxe.com^
 ||jecumapu.com^
 ||jeehathu.com^
@@ -12716,6 +12718,7 @@ vkcdnservice.appspot.com^
 ||nmtdoyrjpieikj.com^
 ||nmwnlbeiykxina.xyz^
 ||nnkeajhamwoo.xyz^
+||nnlczheczlq.com^
 ||nnxugnisebisq.xyz^
 ||no2veeamggaseber.com^
 ||noagliph.com^
@@ -28508,6 +28511,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||webmetrics.mayoclinic.org^
+||tagdelivery.mayoclinic.org^
+||tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com^
+||maas-*.phunware.com^
+||events-stream-svc.cordial.com^
+||events-stream-svc.usw2.cordial.com^
+||message-hub-svc.usw2.cordial.com^
 ||stats.fifthstarlabs.io^
 ||collector.doordash.com^
 ||events.iap.unity3d.com^
@@ -31072,6 +31082,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d1r55yzuc1b1bw.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1wirc5qsdb1y5.cloudfront.net^
+||d1wix2gc2cgqis.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21y75miwcfqoq.cloudfront.net^
@@ -31977,6 +31988,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||dibjaahejdaeejhhaacd.ru^
 ||fquqhe.com^
 ||zbtlgd.com^
 ||eozjqg.com^
@@ -36933,6 +36945,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ys3e965d.top^
 ||zuyejecgb.com^
 
+||bongdadem.net^
 ||genmonet.com^
 ||dns.ladipage.com^
 ||a.ladipage.com^
@@ -37139,6 +37152,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zlog.zingmp3.vn^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||xl.plvb.xyz^
+||vb.plvb.xyz^
 ||ads.admatrix.vn^
 ||12signup.com^
 ||5734a40f2d.vws.vegacdn.vn^
@@ -37275,7 +37290,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bidgear-syndication.com^
 ||bluemaulpuffs.com^
 ||cdn-ads.thesaigontimes.vn^
-||cdn.bongdadem.net^
 ||cdn.rongzhouxing.com^
 ||cdn2.cache.vn^
 ||click.vieon.vn^
@@ -37623,6 +37637,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget.kyna.vn^
 ||za.baomoi.com^
 ||zigzag.vn^
+||789b.live^
+||789b.dev^
+||dafacai360.com^
+||nearom.com^
+||debet.info^
+||ek882.com^
+||33betf.com^
+||33betad.com^
+||aw8vn3.com^
+||vx88.live^
 ||ebet.com^
 ||tha.bet^
 ||v9betasia.com^
@@ -38325,6 +38349,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 
 ||souyou.org^
+||adtbcs.cn^
+||apohki.cn^
 ||taoquan365.net^
 ||00-gov.cn^
 ||000123456789.site^

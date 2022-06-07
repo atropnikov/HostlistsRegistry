@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-06T22:19:19.407Z
+! Last modified: 2022-06-07T06:23:10.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2100,7 +2100,6 @@
 ||aau9.xyz^
 ||aaucwbe.com^
 ||aax-us-east-retail-direct.amazon-adsystem.com^
-||aax-us-east-retail-direct.amazon.com^
 ||aaxads.com^
 ||aaxads.com.edgekey.net^
 ||aaxdetect.com^

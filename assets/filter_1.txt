@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-08T07:18:31.582Z
+! Last modified: 2022-06-08T08:26:39.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37012,6 +37012,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ys3e965d.top^
 ||zuyejecgb.com^
 
+||ads-cdn.fptplay.net^
+||sentry.fptplay.net^
 ||bongdadem.net^
 ||genmonet.com^
 ||dns.ladipage.com^
@@ -37219,6 +37221,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zlog.zingmp3.vn^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||ads.fptplay.vn^
 ||xl.plvb.xyz^
 ||vb.plvb.xyz^
 ||ads.admatrix.vn^
@@ -37251,7 +37254,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adpostback.headlines.pw^
 ||ads-api.playfun.vn^
 ||ads-backend.nhadatmoi.net^
-||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.247phim.com^
 ||ads.568play.vn^
@@ -37448,6 +37450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vnadssb.com^
 ||vnd247.vn^
 ||widget.headlines.pw^
+||sentry-mini.zalo.me^
 ||tracking.cystack.net^
 ||analytics.vnncdn.net^
 ||mautic.200lab.io^
@@ -37707,6 +37710,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget.kyna.vn^
 ||za.baomoi.com^
 ||zigzag.vn^
+||linkvaobw.info^
+||sieubong88.info^
 ||789b.live^
 ||789b.dev^
 ||dafacai360.com^
@@ -46598,6 +46603,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||bcicl.*.evergage.com^|
 @@||torimochi.line-apps.com^|
 @@|core.crazyegg.com^|
 @@|app.crazyegg.com^|

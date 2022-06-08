@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-08T08:26:39.218Z
+! Last modified: 2022-06-08T09:18:36.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31585,7 +31585,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contadordevisitas.es^
 ||contadorvisitasgratis.com^
 ||delidatax.net^
-||easysol.net^
 ||flags.es^
 ||mabaya.com^
 ||adten.eu^
@@ -32009,6 +32008,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contadorgratis.web-kit.org^
 ||controlsgc.prisacom.com^
 ||coolmobile.es^
+||detectca.easysol.net^
 ||direcionando.baixedetudo.net^
 ||diximedia.es^
 ||epartner.es^
@@ -32054,6 +32054,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||mxzijg.com^
 ||jelfmtsr5i.ru^
 ||dibjaahejdaeejhhaacd.ru^
 ||fquqhe.com^

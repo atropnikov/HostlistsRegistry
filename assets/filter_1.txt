@@ -2,11 +2,17 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-09T12:45:25.149Z
+! Last modified: 2022-06-09T18:22:50.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||d3rjndf2qggsna.cloudfront.net^
+||djidbagbacgfgbgdaace.ru^
+||searchboll.com^
+||shiryharu.pro^
+||jiphihizi.com^
+||web3ads.net^
 ||ads.sibernetworks.com^
 .devsystms.click^
 ||xbouyazk.com^
@@ -25649,6 +25655,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||fearlessfaucet.com^
 ||terrifictooth.com^
 ||parchedsofa.com^
 ||pleasantpump.com^
@@ -25660,7 +25667,6 @@ vkcdnservice.appspot.com^
 ||outstandingsnails.com^
 ||bedsberry.com^
 ||shrillspoon.com^
-||fearlessfaucet.com^
 ||nondescriptnote.com^
 ||tiresomethunder.com^
 ||sordidsmile.com^

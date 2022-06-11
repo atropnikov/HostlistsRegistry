@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-11T06:22:10.876Z
+! Last modified: 2022-06-11T15:18:20.281Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15659,7 +15659,6 @@
 ||connectionlead.com^
 ||connectionsenvisagehoarfrost.com^
 ||connectionzone.com^
-||connects.ch^
 ||connexionsafe.com^
 ||connexity.net^
 ||connexplace.com^

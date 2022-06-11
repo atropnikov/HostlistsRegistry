@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-11T06:22:07.541Z
+! Last modified: 2022-06-11T12:31:51.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3649,6 +3649,7 @@ vkcdnservice.appspot.com^
 ||adsgymleaden.com^
 ||adshack.com^
 ||adshexa.com^
+||adshoper.com^
 ||adshopping.com^
 ||adshort.space^
 ||adsignals.com^
@@ -6029,6 +6030,7 @@ vkcdnservice.appspot.com^
 ||citheekr.com^
 ||citizenshadowrequires.com^
 ||cityadspix.com^
+||citydsp.com^
 ||citysite.net^
 ||civadsoo.net^
 ||civicskirtblindness.com^
@@ -38604,6 +38606,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||opuik.com^
 ||awsxc.live^
 ||jtrgzj9.com^
+||666577.xyz^
 ||666576.xyz^
 ||u0065.com^
 ||00-gov.cn^
@@ -40856,7 +40859,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||atiws.aipai.com^
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
-||b.tukucc.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||baifen.music.baidu.com^
 ||besc.baidustatic.com^

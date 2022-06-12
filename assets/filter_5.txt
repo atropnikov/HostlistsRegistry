@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-12T17:16:33.423Z
+! Last modified: 2022-06-12T19:14:23.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2336,6 +2336,7 @@
 ||absurdwater.com^
 ||abtaurosa.club^
 ||abtest.alibaba.com^
+||abtest.mistat.xiaomi.com^
 ||abtesting.perfectcorp.com^
 ||abtracker.adultbouncer.com^
 ||abtrcking.com^
@@ -47050,6 +47051,7 @@
 ||stabx.net^
 ||staceydodge.com^
 ||stack-sonar.com^
+||stack9.collect.igodigital.com^
 ||stackadapt.com^
 ||stackattacka.com^
 ||stackdigital.co.uk^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-06-16T13:36:36.499Z
+! Last modified: 2022-06-17T11:16:10.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1139,6 +1139,7 @@
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
 ||bannerimage.com^
+||bannerlandia.com.ar^
 ||bannermall.com^
 ||bannermanager.bnr.bg^
 ||bannermarkt.nl^
@@ -1321,7 +1322,6 @@
 ||cashfiesta.com^
 ||cashpartner.com^
 ||cashstaging.me^
-||casinopays.com^
 ||casinorewards.com^
 ||casinotraffic.com^
 ||causecherry.com^
@@ -1628,6 +1628,7 @@
 ||doubtfulrainstorm.com^
 ||downloadr.xyz^
 ||dpbolvw.net^
+||dpgawov.com^
 ||dpu.samsungelectronics.com^
 ||dq95d35.com^
 ||drabsize.com^
@@ -1851,7 +1852,6 @@
 ||fwcdn2.com^
 ||fxstyle.net^
 ||ga.clearbit.com^
-||ga87z2o.com^
 ||gadsbee.com^
 ||galaxien.com^
 ||game-advertising-online.com^
@@ -2012,6 +2012,7 @@
 ||ientrymail.com^
 ||iesnare.com^
 ||ifa.tube8live.com^
+||ihogaetw.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
 ||illfatedsnail.com^
@@ -2529,7 +2530,6 @@
 ||openads.friendfinder.com^
 ||openads.org^
 ||openadsnetwork.com^
-||opentag-stats.qubit.com^
 ||openx.angelsgroup.org.uk^
 ||openx.cairo360.com^
 ||openx.kgmedia.eu^
@@ -3336,7 +3336,6 @@
 ||tracking.emilyclarkconsulting.com^
 ||tracking.epicgames.com^
 ||tracking.exipure.com^
-||tracking.gajmp.com^
 ||tracking.hyros.com^
 ||tracking.ibxlink.com^
 ||tracking.internetstores.de^

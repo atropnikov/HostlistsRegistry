@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-17T01:47:18.159Z
+! Last modified: 2022-06-17T06:23:55.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2308,6 +2308,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||ih1.fileforums.com^
 ||veih8bee.xhcdn.com^
 ||qontent.pomvideo.cc^
 ||rontent.pomvideo.cc^
@@ -31493,6 +31494,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
+||dn0qt3r0xannq.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dp64mxip2za0c.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
@@ -38806,6 +38808,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||drrzzl.cn^
 ||kkuuu.top^
 ||tangkai.ltd^
+||app0003.xyz^
 ||ijswq.com^
 ||kvkaa.com^
 ||kzeaa.com^
@@ -38823,6 +38826,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||taiwtp1.com^
 ||ybkjap.com^
 ||yukariyakumo.cn^
+||pvhgws7.com^
 ||17265111.com^
 ||22195976.com^
 ||32851897.com^
@@ -38836,6 +38840,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qbyyvg3.com^
 ||sosrom.cn^
 ||xtp01.com^
+||666589.xyz^
 ||666576.xyz^
 ||666577.xyz^
 ||666579.xyz^
@@ -38850,6 +38855,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinshizongqin.com^
 ||8686865554893.com^
 ||z4a.net^
+||fcgjewelry.com^
 ||kvhaa.com^
 ||8feichai.com^
 ||n0244.com^
@@ -42016,6 +42022,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wxtp.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||m1saka.love^
+||guixie.info^
 ||1kcx.hk^
 ||cfqc.me^
 ||cnpask.com^
@@ -42041,6 +42049,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tokay.pro^
 ||yyyyt.ltd^
 ||zhongmeigk.hk^
+||waikuai.vip^
 ||2329.ink^
 ||666video.asia^
 ||a19cd.xyz^
@@ -42067,6 +42076,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhflodsix.cn^
 ||zhuomengwangluo.com^
 ||zwgege.cn^
+||zhrrrec.cn^
+||dhtv6.xyz^
 ||172872.com^
 ||aa9q.cn^
 ||aa9u.cn^
@@ -42085,6 +42096,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||twtiq.xyz^
 ||xuekalun.com^
 ||yping.online^
+||blddnwt.cn^
 ||469716.top^
 ||bnux.store^
 ||defenga.top^
@@ -42098,8 +42110,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sjpoxe6.com^
 ||tianyao.site^
 ||zhjzjnb.xyz^
+||avtej.com^
 ||nanjian.ink^
 ||vz1m.com^
+||topnfm.com^
 ||bestnfq.com^
 ||kongbao.ren^
 ||qc-meta.com^

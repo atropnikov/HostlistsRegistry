@@ -2,11 +2,16 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-17T06:23:55.520Z
+! Last modified: 2022-06-17T12:38:08.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||viiadr.com^
+||chartlon.skin^
+||flashnetic.com^
+||acobnnvet.com^
+||bpmmqbtstmbf.com^
 ||soluth.com^
 ||exchak.com^
 ||britehostngco.xyz^
@@ -84,7 +89,6 @@
 ||beastbuying.com^
 ||advnotreviews.com^
 ||notificationsacademy.com^
-||chokupsupto.com^
 ||mbn-1.com^
 ||addthief.com^
 ||gettraffnews.com^
@@ -6003,6 +6007,7 @@ vkcdnservice.appspot.com^
 ||chocohjuanfhdhf.com^
 ||choconart.com^
 ||choksail.com^
+||chokupsupto.com^
 ||cholosfuhrer.com^
 ||chonenusi.com^
 ||choobinoobi.com^
@@ -22586,6 +22591,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tzegilo.com^
 ||agent.contentsanalyst.com^
 ||tangerine.io^
 ||b.sli-spark.com^
@@ -23088,7 +23094,6 @@ vkcdnservice.appspot.com^
 ||shopback.net^
 ||shopconvert.com.br^
 ||neemu.com^
-||ping.staticmoly.me^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||mci1.co.kr^
 ||analytics.sitewit.com^
@@ -29446,7 +29451,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||turboeagle.co^
 ||turbolion.io^
 ||tvpixel.com^
-||tzegilo.com^
 ||v1sts.me^
 ||venusrevival.com^
 ||videoplayerhub.com^
@@ -32370,7 +32374,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dhaheihfgiijeahhgcc.ru^
 ||vk-ads.ru^
 ||krut.link^
-||flashnetic.com^
 ||jcyjly.com^
 ||qhdhtd.com^
 ||9vzzijbj5f.com^
@@ -36492,6 +36495,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget-view.dmm.com^
 ||widget.zenback.jp^
 ||w.zenback.jp^
+||maillovelove.net^
 
 ||cockpit.symplr.de^
 ||afl-static-cdn.newbiz-prod.stroeerws.de^

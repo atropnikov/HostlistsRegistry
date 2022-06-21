@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-21T17:31:45.565Z
+! Last modified: 2022-06-21T19:15:00.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30959,7 +30959,6 @@
 ||lfdydk.com^
 ||lfeeder.com^
 ||lfg5jnbi.com^
-||lfjack.com^
 ||lflili.com^
 ||lflucky.com^
 ||lfov.net^
@@ -31866,7 +31865,6 @@
 ||logs.gaana.com^
 ||logs.giaoducthoidai.vn^
 ||logs.ironsrc.mobi^
-||logs.juspay.in^
 ||logs.locarta.co^
 ||logs.loggly.com^
 ||logs.logrocket.com^
@@ -38311,6 +38309,7 @@
 ||paperclipservice.com^
 ||paperfree.cx^
 ||paperg.com^
+||papi.tagger.opecloud.com^
 ||papilio3glauecus.com^
 ||papoptidu.pro^
 ||papoto.com^
@@ -40367,6 +40366,7 @@
 ||profield.ddns.net^
 ||profile.uproxx.com^
 ||profiles.segment.com^
+||profiles.tagger.opecloud.com^
 ||profilesnitch.com^
 ||profiliate.net^
 ||profiline-berlin.de^
@@ -42698,7 +42698,6 @@
 ||ressp.net^
 ||rest.dynamicyield.com^
 ||rest.iad-01.braze.com^
-||rest.iad-03.braze.com^
 ||rest.locuslabs.com^
 ||rest.sharethis.com^
 ||rest.wildstar-online.com^
@@ -44247,7 +44246,6 @@
 ||script-sh.d2cdm.jp^
 ||script.ag^
 ||script.anura.io^
-||script.ioam.de^
 ||scriptall.ml^
 ||scriptall.tk^
 ||scriptcc.cc^
@@ -48753,7 +48751,6 @@
 ||tagdelivery.mayoclinic.org^
 ||tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com^
 ||tagger.ope.scmp.com^
-||tagger.opecloud.com^
 ||taggify.net^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||taggyad.jp^
@@ -49172,7 +49169,6 @@
 ||techexpert.site^
 ||techgadgetsy.com^
 ||techitdoit.com^
-||techlab-cdn.com^
 ||technicalconsumerreports.com^
 ||technicalityplayground.com^
 ||technicallyambition.com^

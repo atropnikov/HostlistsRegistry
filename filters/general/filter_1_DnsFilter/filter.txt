@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-22T14:17:30.306Z
+! Last modified: 2022-06-22T18:24:46.870Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||deliverytraffnews.com^
+||rsnvboidrvqjso.com^
+||camsbanner.wtfgroup.co^
 ||uapekkgmhjxponr.com^
 ||sienns.com^
 ||koudov.com^
@@ -5244,6 +5247,7 @@ vkcdnservice.appspot.com^
 ||blessgarments.com^
 ||blinkadr.com^
 ||blinkedmanagementmoan.com^
+||blinkjork.com^
 ||blinnowther.com^
 ||blismedia.com^
 ||blissfuldes.com^
@@ -5789,6 +5793,7 @@ vkcdnservice.appspot.com^
 ||casinohacksforyou.com^
 ||casleygkqvkx.com^
 ||caspion.com^
+||casserolehunchcontract.com^
 ||cassettelancefriday.com^
 ||cassettepreceding.com^
 ||casterpretic.com^
@@ -6901,6 +6906,7 @@ vkcdnservice.appspot.com^
 ||darkenedshrine.com^
 ||darleygamball.cfd^
 ||dartarscuspids.casa^
+||dartg665moetyor.com^
 ||dartoverboardcoupon.com^
 ||dasfelynsaterr.webcam^
 ||dasfelynsaterr.win^
@@ -6942,6 +6948,7 @@ vkcdnservice.appspot.com^
 ||dcbnameapneas.com^
 ||dcdz5xfv4nws.com^
 ||dcfkalvbcs.com^
+||dcmgptcbcrogl.com^
 ||dcmosques.com^
 ||dcop4khjxsmg.com^
 ||dcpxroykfpnnpm.xyz^
@@ -8070,6 +8077,7 @@ vkcdnservice.appspot.com^
 ||eqiiqxpl.com^
 ||eqsstvfotd.com^
 ||equipmentshorterradiation.com^
+||eraserindecent.com^
 ||eravanquishultimate.com^
 ||erdeally.com^
 ||eredunass.club^
@@ -8286,6 +8294,7 @@ vkcdnservice.appspot.com^
 ||ezrvmxshalr.com^
 ||f00f00.bar^
 ||f01ed651eca.com^
+||f1a75ead16.com^
 ||f1f60d2ef1a4ed.com^
 ||f338113ad0.com^
 ||f3551539d6565853.com^
@@ -15486,6 +15495,7 @@ vkcdnservice.appspot.com^
 ||retreatregular.com^
 ||returnsflyswat.com^
 ||retyphuho.pro^
+||reukandthis.xyz^
 ||reundcwkqvctq.com^
 ||rev-stripe.com^
 ||rev2pub.com^
@@ -15618,6 +15628,7 @@ vkcdnservice.appspot.com^
 ||rips.icu^
 ||riptukri.net^
 ||riskelaborate.com^
+||riskoccur.com^
 ||risolk.com^
 ||risopsuphu.com^
 ||rithimyphu.com^
@@ -15741,6 +15752,7 @@ vkcdnservice.appspot.com^
 ||routeme.one^
 ||routemob.com^
 ||routemomentarilydiscovering.com^
+||routerhydrula.com^
 ||routeserve.info^
 ||rouvoute.net^
 ||rouwhapt.com
@@ -16255,6 +16267,7 @@ vkcdnservice.appspot.com^
 ||shawlyni.name^
 ||shawuh2a8nyam09.com^
 ||sheechoa.com^
+||sheeckaz.com^
 ||sheenaup.net^
 ||sheerbenchmeltdown.com^
 ||sheeroop.com^
@@ -18074,6 +18087,7 @@ vkcdnservice.appspot.com^
 ||ujocytgjobim.com^
 ||ukbanners.com^
 ||ukcomparends.pro^
+||ukfareputfea.xyz^
 ||ukfpibeyfjwhp.xyz^
 ||ukgkugxpzqvqk.com^
 ||ukhkcxmzesi.com^
@@ -18198,6 +18212,7 @@ vkcdnservice.appspot.com^
 ||unpleasantconcrete.com^
 ||unpredictableshell.com^
 ||unpredictablewatchpenalty.com^
+||unqhuyfkhbj.com^
 ||unreasonablecompatibledivorced.com^
 ||unresolveddrama.com^
 ||unripedredwud.com^
@@ -21978,6 +21993,7 @@ vkcdnservice.appspot.com^
 ||dlkfm8bqz0bpx.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
 ||dlrioxg1637dk.cloudfront.net^
+||dltqxz76sim1s.cloudfront.net^
 ||dlvds9i67c60j.cloudfront.net^
 ||dm0acvguygm9h.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
@@ -35844,6 +35860,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 
+||banners.tapclap.com^
 ||compare.meteoservice.ru^
 ||am.streamdj.ru^
 ||ad.megapeer.ru^

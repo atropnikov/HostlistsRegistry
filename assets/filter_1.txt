@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-24T07:17:59.811Z
+! Last modified: 2022-06-24T12:40:41.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||123camquiz.com^
+||evitingawabi.com^
+||gliffyfreaked.com^
+||bookbannershop.com^
 ||ssyajuhvf.com^
 ||vkgpnmrlexfws.com^
 ||deliverytraffnews.com^
@@ -21205,6 +21209,7 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||mintegral.com^
 ||x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com^
 ||skadsdk.appsflyer.com^
@@ -21796,6 +21801,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||elsa.memoinsights.com^
 ||j.mrpdata.net^
 ||cdn.mediatradecraft.com^
 ||wdfl.co^
@@ -28704,6 +28710,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||acsbap.com^
 ||acstat.com^
 ||acxiomapac.com^
+||ad1x.com^
 ||adabra.com^
 ||adalyser.com^
 ||adblockrelief.com^
@@ -29153,12 +29160,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pingometer.com^
 ||pipfire.com^
 ||piratepx.com^
+||pirsch.io^
 ||plerdy.com^
 ||pnstat.com^
 ||podfdch.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
+||posthog.com^
 ||pro6e.com^
 ||programmatictrader.com^
 ||propermessage.io^
@@ -38080,6 +38089,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||freebuy.top^
 ||asunbc.cn^
 ||wfkspcs.cn^
+||goldnfn.com^
+||pymby.top^
+||slieindy.top^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^

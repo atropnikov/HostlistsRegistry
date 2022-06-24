@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-06-17T11:16:10.320Z
+! Last modified: 2022-06-24T11:15:58.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -152,7 +152,6 @@
 ||ad.nozonedata.com^
 ||ad.nttnavi.co.jp^
 ||ad.nwt.cz^
-||ad.pandora.tv^
 ||ad.period-calendar.com^
 ||ad.preferances.com^
 ||ad.profiwin.de^
@@ -375,7 +374,6 @@
 ||ads.acpc.cat^
 ||ads.acrosspf.com^
 ||ads.activestate.com^
-||ads.ad-center.com^
 ||ads.adfox.ru^
 ||ads.administrator.de^
 ||ads.adred.de^
@@ -642,7 +640,6 @@
 ||ads.tmcs.net^
 ||ads.todoti.com.br^
 ||ads.toplayaffiliates.com^
-||ads.totallyfreestuff.com^
 ||ads.townhall.com^
 ||ads.travelaudience.com^
 ||ads.trinitymirror.co.uk^
@@ -1322,6 +1319,7 @@
 ||cashfiesta.com^
 ||cashpartner.com^
 ||cashstaging.me^
+||casinopays.com^
 ||casinorewards.com^
 ||casinotraffic.com^
 ||causecherry.com^
@@ -3449,7 +3447,6 @@
 ||userreplay.com^
 ||userreplay.net^
 ||users.maxcluster.net^
-||usingirritatecordial.com^
 ||utils.mediageneral.net^
 ||utl-1.com^
 ||uttermosthobbies.com^

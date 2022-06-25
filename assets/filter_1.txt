@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-24T18:25:16.875Z
+! Last modified: 2022-06-25T01:55:16.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dfbvccwdlsl.com^
 ||123camquiz.com^
 ||evitingawabi.com^
 ||gliffyfreaked.com^
@@ -2954,6 +2955,7 @@ vkcdnservice.appspot.com^
 ||3a57c13de7.com^
 ||3c76eee2407c7c1.com^
 ||3ca28642b714623b2.com^
+||3daed168ad.com^
 ||3ec9b1217d.com^
 ||3gporn.biz^
 ||3i1cx7b9nupt.com^
@@ -19745,6 +19747,7 @@ vkcdnservice.appspot.com^
 ||cryptotraffic.xyz^
 ||ctenetwork.com^
 ||ctrhub.com^
+||ctrip.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
 ||cubics.com^
@@ -30661,6 +30664,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget.quantcast.com^
 ||win.staticstuff.net^
 ||wren.condenastdigital.com^
+||wsmcdn.audioeye.com^
 ||x.disq.us^
 ||x.weather.com^
 ||xt.persosa.com^
@@ -38110,6 +38114,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhangzhiyang01.cn^
 ||zhetoutiao.top^
 ||zsgwed.cn^
+||nfwvip.com^
+||vhlret.cn^
+||very010.com^
+||lmcraft.pw^
+||dyjcydn.cloud^
+||fgopr.top^
+||666627.xyz^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^

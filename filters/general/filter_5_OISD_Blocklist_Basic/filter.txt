@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-26T14:16:01.585Z
+! Last modified: 2022-06-26T21:15:44.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -140,6 +140,7 @@
 ||0redirb.com^
 ||0redird.com^
 ||0rg.pw^
+||0s9dxlr07huu.com^
 ||0sntp7dnrr.com^
 ||0stats.com^
 ||0sywjs4r1x.com^
@@ -10145,7 +10146,6 @@
 ||b.stranamam.ru^
 ||b.sweet-hd.com^
 ||b.thanksearch.com^
-||b.trovagnocca.com^
 ||b.unjs.com^
 ||b00.xyz^
 ||b014381c95cb.com^
@@ -18860,7 +18860,6 @@
 ||dev2-admin.ycbnt.net^
 ||dev2pub.com^
 ||dev4enki.com^
-||devaje.pourfemme.it^
 ||devaluationlimetreedeadly.com^
 ||devaluationobserve.com^
 ||devaluestannum.com^
@@ -40116,7 +40115,6 @@
 ||plavix.shengen.ru^
 ||plavxml.com^
 ||play-poker-free.forsearch.net^
-||play.cineblog01.bid^
 ||play.entretenimientolz.com^
 ||play.estream.to^
 ||play.estream.xyz^
@@ -45988,7 +45986,6 @@
 ||shop-cdn.coccoc.com^
 ||shop.kicker.de^
 ||shop.mediasova.ru^
-||shop.sportal.it^
 ||shop.vnay.vn^
 ||shopalyst.com^
 ||shopathome.com^
@@ -58557,6 +58554,7 @@
 ||zplayer.trk.zapps.vn^
 ||zprelandappslab.com^
 ||zprk.io^
+||zptncsir.com^
 ||zptxjlh.cn^
 ||zpujlrylfvk.com^
 ||zpxw.vip^

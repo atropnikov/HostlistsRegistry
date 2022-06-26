@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-26T21:15:44.340Z
+! Last modified: 2022-06-26T22:17:25.116Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -43286,7 +43286,6 @@
 ||report.seznamzpravy.cz^
 ||report.smartcount.net^
 ||report.sport.cz^
-||report.uc.heytapmobi.com^
 ||report.vnay.vn^
 ||report02.adtech.fr^
 ||report02.adtech.us^
@@ -52932,6 +52931,7 @@
 ||ubuyanalytics.ubuy.com^
 ||ubxqerc.cn^
 ||uc-ap.yodo1api.com^
+||uc.heytapmobi.com^
 ||uc.ucweb.com^
 ||uc.xddi.ru^
 ||uc.zhuici.com^
@@ -58554,7 +58554,6 @@
 ||zplayer.trk.zapps.vn^
 ||zprelandappslab.com^
 ||zprk.io^
-||zptncsir.com^
 ||zptxjlh.cn^
 ||zpujlrylfvk.com^
 ||zpxw.vip^

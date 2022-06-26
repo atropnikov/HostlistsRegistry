@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-26T01:59:54.671Z
+! Last modified: 2022-06-26T06:21:59.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4037,6 +4037,7 @@ vkcdnservice.appspot.com^
 ||aj2208.online^
 ||aj2373.online^
 ||aj2397.online^
+||aj2430.online^
 ||ajarsubscriber.com^
 ||ajfnee.com^
 ||ajileuztnu.com^
@@ -29092,7 +29093,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadelephant.com^
 ||leadinfo.net^
 ||leadintel.io^
-||leadpages.net^
 ||leadsleap.com^
 ||leadspace.com^
 ||leadsrx.com^
@@ -29999,6 +29999,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.brandcrumb.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
+||analytics.cloud.coveo.com^
 ||analytics.cmn.com^
 ||analytics.convertlanguage.com^
 ||analytics.cynapse.com^
@@ -38164,6 +38165,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zhetoutiao.top^
 ||zsgwed.cn^
 ||666632.xyz^
+||cwphgqu.cn^
+||topnfj.com^
+||oyybgs.cn^
+||pfskzj.cn^
+||sliiindy.top^
+||letsread.club^
+||ntyrt.top^
+||helilong.xyz^
+||slcgngo.cn^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^

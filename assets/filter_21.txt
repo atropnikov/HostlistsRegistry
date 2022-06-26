@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2022-06-25T19:15:01.251Z
+! Last modified: 2022-06-26T11:15:39.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35834,7 +35834,6 @@
 ||stat.y.qq.com^
 ||statistic.qzone.qq.com^
 ||sv.aq.qq.com^
-||szlong.weixin.qq.com^
 ||tajs.qq.com^
 ||taobao.qq.com^
 ||tcss.qq.com^

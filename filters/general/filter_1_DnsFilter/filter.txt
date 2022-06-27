@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-06-27T06:27:32.069Z
+! Last modified: 2022-06-27T12:39:55.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||user-shield-check.com^
+||radull.com^
+||tag.winister.app^
 ||baledenseabbreviation.com^
 ||pnpvxlbrft.com^
 ||hjmreljsqhq.com^
@@ -26173,6 +26176,12 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 
 ||tagman.britishairways.com^
+||piwik.onlinecasino321.com^
+||analytics.unand.ac.id^
+||pwkrakanmet.met.gov.my^
+||stats.coursepad.com^
+||analytics.gate.co.id^
+||webstats.pixcell.ch^
 ||analytics.cloud.coveo.com^
 ||rum.condenastdigital.com^
 ||rt.t-online.de^
@@ -30852,6 +30861,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||blacktri.com^
 ||businessclick.ch^
 ||content-garden.com^
+||contiamo.com^
 ||count.im^
 ||dcmn.io^
 ||dl8.me^
@@ -31649,6 +31659,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||xvnitu.com^
+||edgdiihijhgcggjhacg.ru^
 ||aglurj.com^
 ||ndegj3peoh.com^
 ||ijkcmm.com^
@@ -38191,6 +38203,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ltht.tech^
 ||hbtyk.top^
 ||666637.xyz^
+||iirpvchv.cn^
 ||readysugerfree.top^
 ||jrhbhz.com^
 ||1kcx.hk^

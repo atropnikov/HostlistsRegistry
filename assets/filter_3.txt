@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-06-24T11:15:58.972Z
+! Last modified: 2022-06-28T08:27:15.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1368,6 +1368,7 @@
 ||click.bkdpt.com^
 ||click.cartsguru.io^
 ||click.cision.com^
+||click.classmates.com^
 ||click.e.progressive.com^
 ||click.em.blizzard.com^
 ||click.email.bbc.com^
@@ -3166,16 +3167,19 @@
 ||swimslope.com^
 ||swordfishdc.com^
 ||swordgoose.com^
+||t.armchairbookie.com^
 ||t.bawafx.com^
 ||t.carta.com^
 ||t.co^
 ||t.eloqua.com^
+||t.email.superdrug.com^
 ||t.en25.com^
 ||t.firstpromoter.com^
 ||t.insigit.com^
 ||t.irtyd.com^
 ||t.leady.com^
 ||t.news.browns-restaurants.co.uk^
+||t.notif-colissimo-laposte.info^
 ||t.salesmatemail.com^
 ||t.vacations.disneydestinations.com^
 ||t.visit.disneydestinations.com^
@@ -3302,10 +3306,12 @@
 ||track.flexlinkspro.com^
 ||track.freemmo2017.com^
 ||track.game18click.com^
+||track.homejobs.careers^
 ||track.lettingaproperty.com^
 ||track.mailalert.io^
 ||track.mailerlite.com^
 ||track.miro.com^
+||track.nationalgunrights.org^
 ||track.segmetrics.io^
 ||track.software-codes.com^
 ||track.themaccleanup.info^
@@ -3401,6 +3407,7 @@
 ||trkn.us^
 ||trknths.com^
 ||trkoptimizer.com^
+||trkpnt.ongage.net^
 ||trmit.com^
 ||truckstomatoes.com^
 ||truehits.net^

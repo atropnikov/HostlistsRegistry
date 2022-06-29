@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2022-06-20T23:18:21.889Z
+! Last modified: 2022-06-29T23:19:05.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5165,6 +5165,7 @@
 0.0.0.0 blu.mobileads.msn.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluediamondoffers.com
+0.0.0.0 blueeyesintelligence.org
 0.0.0.0 bm.alimama.cn
 0.0.0.0 bmgiventures.com
 0.0.0.0 bmvip.alimama.cn
@@ -6530,6 +6531,8 @@
 0.0.0.0 larivieracasino.com
 0.0.0.0 larossola.it
 0.0.0.0 lastmeasure.zoy.org
+0.0.0.0 latticescience.com
+0.0.0.0 latticescipub.com
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 layer-ads.de
 0.0.0.0 ldglob01.adtech.fr
@@ -8448,6 +8451,7 @@
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
 0.0.0.0 workaccount.free.bg
+0.0.0.0 worldmedpilldeliver.com
 0.0.0.0 worry-free-savings.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wppluginspro.com

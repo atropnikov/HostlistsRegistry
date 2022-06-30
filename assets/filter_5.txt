@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-06-30T04:41:51.749Z
+! Last modified: 2022-06-30T18:27:20.660Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33298,7 +33298,6 @@
 ||mail.pmo.ac.cn^
 ||mail.radar.imgsmail.ru^
 ||mail.tropmet.res.in^
-||mail.tsinghua.edu.cn^
 ||mailboxleadsphone.com^
 ||mailboxmeeting.com^
 ||mailguardonline.net^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-06-28T13:40:28.202Z
+! Last modified: 2022-07-01T11:15:51.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -75,6 +75,7 @@
 ||aboardlevel.com^
 ||abruptroad.com^
 ||absentstream.com^
+||absoluteclickscom.com^
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||absurdwater.com^
@@ -550,7 +551,6 @@
 ||ads.mic.com^
 ||ads.mmania.com^
 ||ads.mobilebet.com^
-||ads.motor-forum.nl^
 ||ads.msn.com^
 ||ads.multimania.lycos.fr^
 ||ads.muslimehelfen.org^
@@ -866,7 +866,6 @@
 ||adtriplex.com^
 ||adultadvertising.com^
 ||adv-adserver.com^
-||adv-banner.libero.it^
 ||adv.cooperhosting.net^
 ||adv.donejty.pl^
 ||adv.freeonline.it^
@@ -1252,7 +1251,6 @@
 ||bongacash.com^
 ||boomads.com^
 ||boomtrain.com^
-||boost-my-pr.de^
 ||boredcrown.com^
 ||boringcoat.com^
 ||boudja.com^
@@ -1942,7 +1940,6 @@
 ||highfalutinroom.com^
 ||hightrafficads.com^
 ||hilariouszinc.com^
-||hilltopads.net^
 ||histats.com^
 ||historicalrequest.com^
 ||hit-parade.com^
@@ -1993,7 +1990,6 @@
 ||hyprmx.com^
 ||hystericalcloth.com^
 ||hystericalhelp.com^
-||i-clicks.net^
 ||i-i.lt^
 ||i1img.com^
 ||i1media.no^
@@ -2159,7 +2155,6 @@
 ||lemmatechnologies.com^
 ||lemnisk.co^
 ||lettucelimit.com^
-||levelrate.de^
 ||lever-analytics.com^
 ||lfeeder.com^
 ||lfstmedia.com^
@@ -2619,7 +2614,6 @@
 ||picadmedia.com^
 ||piet2eix3l.com^
 ||pietexture.com^
-||pilotaffiliate.com^
 ||pimproll.com^
 ||ping.ublock.org^
 ||pipedream.wistia.com^
@@ -3468,7 +3462,6 @@
 ||valueclickmedia.com^
 ||valuecommerce.com^
 ||vanfireworks.com^
-||variablefitness.com^
 ||vcommission.com^
 ||veille-referencement.com^
 ||velismedia.com^

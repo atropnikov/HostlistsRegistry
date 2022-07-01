@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-01T12:40:44.289Z
+! Last modified: 2022-07-01T18:25:45.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20901,6 +20901,7 @@ vkcdnservice.appspot.com^
 ||partners.autotrader.co.uk^
 ||partners.betus.com^
 ||partners.dogtime.com^
+||partners.etoro.com^
 ||partners.hostgator.com^
 ||partners.rochen.com^
 ||partners.wrike.com^
@@ -26304,6 +26305,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||sp-trk.com^
 ||acelogger.heraldcorp.com^
 ||t.hypers.com.cn^
 ||log.ycapp.yiche.com^
@@ -35709,6 +35711,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+||ad.xrea.com^
 ||advision-adnw.jp^
 ||librogratis.info^
 ||best-lucky-cat.xyz^
@@ -38441,6 +38444,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nfhtech.com^
 ||uyzdcun.cn^
 ||scktmdv.cn^
+||mbxsku.cn^
+||badeniop.top^
+||kmvbre.com^
+||xiaodongrui.com^
+||weicun.xyz^
+||badcniop.top^
+||axt.cool^
+||zhe8000.pw^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -45324,6 +45335,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
+||jab88.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-01T06:25:15.839Z
+! Last modified: 2022-07-01T12:40:44.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27255,6 +27255,7 @@ vkcdnservice.appspot.com^
 ||m.trb.com^
 ||ma.news.naver.com^
 ||ma.tarnkappe.info^
+||posthog.tarnkappe.info^
 ||ma.zoho.eu^
 ||mamka.aviasales.ru^
 ||marketing.modalife.com^
@@ -28101,7 +28102,6 @@ vkcdnservice.appspot.com^
 ||trck.bdi-services.de^
 ||trck.cyberport.de^
 ||trck.spoteffects.net^
-||treg.hearstnp.com^
 ||triggertag.gorillanation.com^
 ||trk.10ru.pt^
 ||trk.i0.cz^

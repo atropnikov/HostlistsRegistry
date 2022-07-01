@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-01T02:05:52.188Z
+! Last modified: 2022-07-01T06:25:15.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11233,7 +11233,6 @@ vkcdnservice.appspot.com^
 ||linicom.co.il^
 ||linicom.co.uk^
 ||linkbuddies.com^
-||linkclicks.com^
 ||linkedgraceless.com^
 ||linkedprepenseprepense.com^
 ||linkeinvitable.site^
@@ -20764,6 +20763,7 @@ vkcdnservice.appspot.com^
 ||weborama.io^
 ||webtrafic.ru^
 ||webwap.org^
+||whatfinger.com^
 ||whizzco.com^
 ||widgetly.com^
 ||winadx.com^
@@ -28767,6 +28767,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
+||captcha-display.com^
 ||cdnhst.xyz^
 ||click360.io^
 ||cloudwp.io^
@@ -28847,6 +28848,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nimblebird.co^
 ||nimbleswan.io^
 ||nxakpj4ac8gkd53.info^
+||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
 ||ostrichesica.com^
@@ -28874,6 +28876,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||speedyrhino.co^
 ||spinnaker-js.com^
 ||stat.ovh^
+||superpointlesshamsters.com^
 ||tagcachedataxrt.com^
 ||tatpek.com^
 ||test.vast^
@@ -29097,6 +29100,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dotaki.com^
 ||dotjs.com^
 ||driv-analytics.com^
+||dropboxfingerprintjs.com^
 ||dtxngr.com^
 ||dvnfo.com^
 ||dynatracesaas.com^
@@ -38433,6 +38437,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||666645.xyz^
 ||gfvip06al.com^
 ||mmrrk.top^
+||txie.club^
+||nfhtech.com^
+||uyzdcun.cn^
+||scktmdv.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

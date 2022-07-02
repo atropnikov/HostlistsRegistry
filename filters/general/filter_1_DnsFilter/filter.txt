@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-02T01:54:08.585Z
+! Last modified: 2022-07-02T06:23:26.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30896,6 +30896,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
 ||d1igp3oop3iho5.cloudfront.net^
+||d1k8sb4xbepqao.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -38314,23 +38315,33 @@ charlestownwyllie.oaklawnnonantum.com^
 ||666638.xyz^
 ||666642.xyz^
 ||666643.xyz^
+||666645.xyz^
 ||abbqhst.cn^
+||aizhigu.tv^
 ||ajzs.xyz^
 ||ajzsa.xyz^
 ||aoxiang.fun^
 ||asdqwe.ltd^
 ||asunbc.cn^
+||axt.cool^
 ||ayst.love^
 ||azfrij.cn^
+||badcniop.top^
+||baddniop.top^
+||badeniop.top^
+||badhniop.top^
 ||btaawy.cn^
 ||byfft.top^
 ||byqiu.xyz^
 ||caimei.me^
+||ce33m7.com^
 ||china-india.wang^
 ||cwphgqu.cn^
+||dabaicai.ink^
 ||daibu.me^
 ||danaoren.shop^
 ||dhrfnyw.xyz^
+||dididi.love^
 ||dkxobcs.cn^
 ||dyjcydn.cloud^
 ||etxggi.cn^
@@ -38340,7 +38351,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fhsiqk.xyz^
 ||fmzxing.pw^
 ||freebuy.top^
+||gfvip06ab.com^
 ||gfvip06af.com^
+||gfvip06al.com^
 ||gfvip08af.com^
 ||gfvip08as.com^
 ||gfvip09aa.com^
@@ -38358,12 +38371,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ifvpetu.cn^
 ||iirpvchv.cn^
 ||iusnajah.cn^
+||jintan.fun^
 ||jpnbhyba.xyz^
 ||k31bpzf.xyz^
 ||kengi.top^
 ||kgsz.cn^
 ||khdry.top^
 ||kj-gov.cn^
+||kmvbre.com^
 ||krkcryk.cn^
 ||kzecc.com^
 ||l14.xyz^
@@ -38377,9 +38392,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lianliankanms.top^
 ||lingke03.top^
 ||lmcraft.pw^
+||lomo.cool^
 ||ltht.tech^
 ||lyggt.top^
+||mbxsku.cn^
 ||mgtcw.top^
+||mmrrk.top^
+||nfhtech.com^
 ||nfpplus.com^
 ||nfqhome.com^
 ||nfwvip.com^
@@ -38390,11 +38409,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||piilvhtu.cn^
 ||pxfeiws.cn^
 ||pymby.top^
+||qianyan.love^
 ||qichegongxiang.xyz^
 ||rqkfhquz.cn^
 ||rrkky.top^
+||scktmdv.cn^
 ||sdutmedia.com^
 ||shzq8888.com^
+||sl6.top^
 ||slcgngo.cn^
 ||slieindy.top^
 ||sliiindy.top^
@@ -38408,18 +38430,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||topnfj.com^
 ||topnfw.com^
 ||trznrug.cn^
+||txie.club^
 ||unypud.cn^
 ||uquholhm.cn^
+||uyzdcun.cn^
 ||very010.com^
 ||vhlret.cn^
 ||vppvp.com^
 ||vvpingtai.com^
+||wangduoduo.pw^
 ||wangjunyan.xyz^
+||weicun.xyz^
 ||wephone.club^
 ||wfkspcs.cn^
 ||wqyloitd.cn^
 ||wy123.fun^
 ||xhkvff.cn^
+||xiaodongrui.com^
 ||xiaomilingjing.com^
 ||xmsrd.com^
 ||xox8956.com^
@@ -38435,28 +38462,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yyttc.top^
 ||yzsbpp.top^
 ||zhangzhiyang01.cn^
+||zhe8000.pw^
 ||zhetoutiao.top^
 ||zhoudm.love^
 ||zsgwed.cn^
 ||zzycj.com^
-||jintan.fun^
-||sl6.top^
-||wangduoduo.pw^
-||666645.xyz^
-||gfvip06al.com^
-||mmrrk.top^
-||txie.club^
-||nfhtech.com^
-||uyzdcun.cn^
-||scktmdv.cn^
-||mbxsku.cn^
-||badeniop.top^
-||kmvbre.com^
-||xiaodongrui.com^
-||weicun.xyz^
-||badcniop.top^
-||axt.cool^
-||zhe8000.pw^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -45340,7 +45350,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
-||jab88.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -45835,6 +45844,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||j.diangon.com^
 ||j.imdb.cn^
 ||j1.piaobing.com^
+||jab88.com^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
 ||jbdmb1.ynztzh.com^

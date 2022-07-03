@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-07-03T11:15:59.561Z
+! Last modified: 2022-07-03T16:25:16.915Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20922,7 +20922,6 @@
 ||geoidd.vip^
 ||geoinfo.i2w.io^
 ||geoinventory.com^
-||geoip-js.com^
 ||geoip-lookup.vice.com^
 ||geoip.al.com^
 ||geoip.boredpanda.com^

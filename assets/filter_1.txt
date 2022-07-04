@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-04T06:29:16.236Z
+! Last modified: 2022-07-04T12:38:27.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||eighes.com^
 ||accusationcollegeload.com^
 ||cruced.com^
 ||pumeu25uj.xyz^
@@ -2354,6 +2355,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||champagne.futurecdn.net^
 ||d2juccxzu13rax.cloudfront.net^
 ||ih1.fileforums.com^
 ||veih8bee.xhcdn.com^
@@ -21982,6 +21984,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ujm.hansel.io^
+||webtrafficsource.com^
 ||feathr.co^
 ||automizely-analytics.com^
 ||metrics.dominos.com.tr^
@@ -28807,6 +28811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fpaux.net^
 ||fpavx.net^
 ||fpaxu.net^
+||fpcdn.io^
 ||fpxau.net^
 ||g11686975765.co^
 ||g1188506010.co^
@@ -29627,7 +29632,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webeyez.com^
 ||webstat.fr^
 ||webtrackingservices.com^
-||webtrafficsource.com^
 ||webtrends-optimize.com^
 ||wecantrack.com^
 ||wgsas.com^
@@ -30575,6 +30579,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||perf.dugout.com^
 ||perf.hsforms.com^
 ||perso.aws.arc.pub^
+||pets.channeladvisor.com^
 ||pi.ispot.tv^
 ||ping-dot-acp-magento.appspot.com^
 ||ping.dozuki.com^
@@ -31822,6 +31827,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yestorrents.org^
 
 ||xvnitu.com^
+||4mlhn1ocg4.com^
+||pgusgyzdfpj.ru^
 ||edgdiihijhgcggjhacg.ru^
 ||aglurj.com^
 ||ndegj3peoh.com^
@@ -38531,6 +38538,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hlww66.site^
 ||neornad.cn^
 ||wchh.online^
+||666649.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-06T06:23:53.536Z
+! Last modified: 2022-07-06T12:42:21.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||griksoud.net^
+||koocoofy.com^
+||jomtingi.net^
 ||neutralityrecommendstretched.com^
 ||ationsuchasr.xyz^
 ||nthaitingsh.buzz^
@@ -10537,7 +10540,6 @@ vkcdnservice.appspot.com^
 ||jolic2.com^
 ||jollyfirmexterminate.com^
 ||jollytestpartying.com^
-||jomtingi.net^
 ||joneighbourlyisabella.com^
 ||jonquilpapered.com^
 ||joobuste.com^
@@ -28945,6 +28947,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pjstat.com^
 ||procroanalytics.com^
 ||progmxs.com^
+||pzimff.com^
 ||quantserve.com^
 ||quickanalytics.ca^
 ||quickkoala.io^
@@ -30250,6 +30253,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yamstamp.com
 ||youthfulnoise.com^
 ||zestycrime.com^
+||zipperxray.com^
 
 ||100widgets.com^
 ||3p-geo.yahoo.com^
@@ -38689,6 +38693,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hfzq1600.com^
 ||kimiaexirteb.com^
 ||yiuspekmn.bar^
+||mttty.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: AdAway Default Blocklist
 ! Description: AdAway is an open source ad blocker for Android using the hosts file.
 ! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2022-06-20T17:23:33.197Z
+! Last modified: 2022-07-07T22:19:24.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4069,8 +4069,6 @@
 
 127.0.0.1 server.idreams.pl
 
-127.0.0.1 mpsnare.iesnare.com
-
 127.0.0.1 adlog.ifood.tv
 127.0.0.1 log.ifood.tv
 
@@ -4391,9 +4389,6 @@
 127.0.0.1 solutions.invocacdn.com
 
 127.0.0.1 ads.iosappsworld.com
-
-127.0.0.1 ci-mpsnare.iovation.com
-127.0.0.1 first.iovation.com
 
 127.0.0.1 api.iperceptions.com
 127.0.0.1 collect.iperceptions.com

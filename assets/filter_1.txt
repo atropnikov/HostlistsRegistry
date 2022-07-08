@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-08T12:38:21.863Z
+! Last modified: 2022-07-08T18:24:19.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||shigaxapo.com^
+||chyxyrothi.com^
 ||lawhulophe.com^
 ||zypanafo.pro^
 ||jotocyxe.xyz^
@@ -5802,6 +5804,7 @@ vkcdnservice.appspot.com^
 ||ccjrapjmxq.com^
 ||ccjysdii.xyz^
 ||ccksdwtuzmadx.com^
+||ccurhtsytwyjjr.com^
 ||cd239ecf15.com^
 ||cd490573c64f3f.com^
 ||cd828.com^
@@ -7236,6 +7239,7 @@ vkcdnservice.appspot.com^
 ||disploot.com^
 ||dispop.com^
 ||disrootaffa.com^
+||dissimilarakin.com^
 ||dissipatecombinedcolon.com^
 ||dissolveddittoteaspoon.com^
 ||dissolvedhaunch.com^
@@ -16993,6 +16997,7 @@ vkcdnservice.appspot.com^
 ||thuate.com^
 ||thubyjemi.pro^
 ||thudywhamy.com^
+||thully.com^
 ||thumac.com^
 ||thumpssleys.com^
 ||thuqqyggwc.com^
@@ -17273,6 +17278,7 @@ vkcdnservice.appspot.com^
 ||trdnewsnow.net^
 ||treacherousaccentbruise.com^
 ||treacherouslongingjunkie.com^
+||treasureravenvulgar.com^
 ||treasuresensignron.com^
 ||treateryowler.com^
 ||treatlaurelbud.com^
@@ -26442,6 +26448,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||cnt.hd21.com^
 ||ubuyanalytics.ubuy.com^
 ||hit.c97.org^
 ||c.rzk-m.com^

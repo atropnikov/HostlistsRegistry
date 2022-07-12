@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-12T02:02:41.228Z
+! Last modified: 2022-07-12T06:24:33.706Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||premiumdata.org^
 ||akutapro.com^
 ||familialsimulation.com^
 ||hisxeywwpquys.top^
@@ -2370,6 +2371,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||d3t3bxixsojwre.cloudfront.net^
 ||dn0qt3r0xannq.cloudfront.net^
 ||champagne.futurecdn.net^
 ||d2juccxzu13rax.cloudfront.net^
@@ -20063,7 +20065,6 @@ vkcdnservice.appspot.com^
 ||cryptotraffic.xyz^
 ||ctenetwork.com^
 ||ctrhub.com^
-||ctrip.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
 ||cubics.com^
@@ -29145,6 +29146,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ampush.io^
 ||amxdt.com^
 ||analitycs.net^
+||analytically.net^
 ||analyticschecker.com^
 ||analyticson.com^
 ||angorch-cdr7.com^
@@ -29277,6 +29279,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||datasteam.io^
 ||datazoom.io^
 ||ddm.io^
+||deep-content.io^
 ||deepattention.com^
 ||deepchannel.com^
 ||defacto-analytics.net^
@@ -38896,6 +38899,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ixihet.cn^
 ||v34ffs.site^
 ||fjlpyz.cn^
+||hust.cx^
+||meilmei.xyz^
+||gndunbix.rest^
+||yelmlrq.cn^
+||666683.xyz^
+||uwdspsh.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -46436,6 +46445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||public-cis.exponea.com^|
 @@||anwb.webpower.eu^|
 @@||eum-blue-saas.instana.io^|
 @@||bcicl.*.evergage.com^|

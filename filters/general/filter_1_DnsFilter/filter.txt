@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-11T18:24:54.148Z
+! Last modified: 2022-07-12T02:02:41.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22145,6 +22145,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||affil.top4football.com^
 ||zerostats.com^
 ||track.coherentpath.com^
 ||qlitics.com^
@@ -29031,6 +29032,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mors22.com^
 ||mt48.net^
 ||n0909.com^
+||native-track.com^
 ||niblewren.co^
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
@@ -29921,7 +29923,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pushmaster-cdn.xyz^
 ||pushnami.com^
 ||pushprofit.ru^
-||pushpushgo.com^
 ||pushwoosh.com^
 ||reconditerespect.com^
 ||reprocautious.com^
@@ -31453,7 +31454,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rentracks.jp^
 ||smart-counter.net^
 ||speee-ad.jp^
-||team-rec.jp^
 ||tgknt.com^
 ||thench.net^
 ||trackfeed.com^
@@ -38892,6 +38892,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||hkedve.cn^
+||ixihet.cn^
+||v34ffs.site^
+||fjlpyz.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

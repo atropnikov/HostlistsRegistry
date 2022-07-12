@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-12T12:42:30.042Z
+! Last modified: 2022-07-12T18:24:24.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||alpha-protect.org^
+||dmojfaerxpqn.top^
 ||98tang.lol^
 ||tomboy.lol^
 ||premiumdata.org^
@@ -127,7 +129,6 @@
 ||rimpirbtmxg.com^
 ||wibeaetmh.com^
 ||begasuthy.com^
-||f3udfa7nfguhni.com^
 ||yorage.com^
 ||cncflpfw.com^
 ||ecgmdxoucsnrmq.com^
@@ -7309,6 +7310,7 @@ vkcdnservice.appspot.com^
 ||dmaaxglcr.com^
 ||dmlkicqupnjfryv.com^
 ||dmnprx.com^
+||dmojfaerxpqn.com^
 ||dmshlhnzvzu.com^
 ||dmvbdfblevxvx.com^
 ||dmxftmoqz.com^
@@ -8200,6 +8202,7 @@ vkcdnservice.appspot.com^
 ||f338113ad0.com^
 ||f3551539d6565853.com^
 ||f3f1317bda.com^
+||f3udfa7nfguhni.com^
 ||f4906b7c15ba.com^
 ||f5080f5cee5a00.com^
 ||f5f84f4d83.com^
@@ -9655,6 +9658,7 @@ vkcdnservice.appspot.com^
 ||hgzuqrtzt.com^
 ||hhit.xyz^
 ||hhklc.com^
+||hhkld.com^
 ||hhllryxtfgypz.com^
 ||hhtpcsgl.com^
 ||hhunvu.com^
@@ -13568,6 +13572,7 @@ vkcdnservice.appspot.com^
 ||pc2ads.com^
 ||pcdnlt.com^
 ||pclk.name^
+||pcmclks.com^
 ||pcnp.xyz^
 ||pcsyendormup.com^
 ||pctlwm.com^
@@ -17517,6 +17522,7 @@ vkcdnservice.appspot.com^
 ||tyewrukjyjyl.com^
 ||tygafso.com^
 ||tyingatmosphericprocess.com^
+||tyiqebrbpxc.com^
 ||tyjawhesu.com^
 ||tylistedpro.xyz^
 ||tylosischewer.com^
@@ -18707,6 +18713,7 @@ vkcdnservice.appspot.com^
 ||woredi.com^
 ||worersie.com^
 ||workmanceremony.com^
+||workplaceidenticalincompetent.com^
 ||workplacelimetree.com^
 ||workroomsplittingtrashy.com^
 ||workshirty.club^
@@ -19307,6 +19314,7 @@ vkcdnservice.appspot.com^
 ||zeasis.com^
 ||zebraicrudista.com^
 ||zebruisiacu.com^
+||zebumpes.net^
 ||zeechumy.com^
 ||zeegreen.net^
 ||zeeshith.net^
@@ -20188,6 +20196,7 @@ vkcdnservice.appspot.com^
 ||geo-idm.fr^
 ||geopromos.com^
 ||geovisite.com^
+||germaniavid.com^
 ||gestionpub.com^
 ||get.com^
 ||getadjacent.com^
@@ -32055,6 +32064,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||na0z0thlap.com^
+||rqnvci.com^
 ||inlive.link^
 ||lodenbud.com^
 ||llyvjs.com^
@@ -37069,7 +37080,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aistolsu.net^
 ||aufr67i8sten.com^
 ||fmjvsmavummyjnc.com^
-||tyiqebrbpxc.com^
 ||dsvkgvrftkpds.com^
 ||esoeoanl.com^
 ||fpefaoxbmkpgc.com^
@@ -38921,6 +38931,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||666683.xyz^
 ||uwdspsh.cn^
 ||yinxi888.com^
+||goasdfa.top^
+||gneunbiy.rest^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -45410,7 +45422,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baifen.music.baidu.com^
 ||besc.baidustatic.com^
 ||biz.gexing.com^
-||bk9gun.vpser.net^
 ||boardx.huanqiu.com^
 ||btn.onlylady.com^
 ||btn.pchome.net^

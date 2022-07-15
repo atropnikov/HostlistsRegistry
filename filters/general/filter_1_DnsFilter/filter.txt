@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-14T18:24:32.694Z
+! Last modified: 2022-07-15T02:09:16.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||adcarousel.pl^
+||bmcdn4.com^
 ||cdn.optmn.cloud^
 ||programattik.com^
 ||coccup.com^
@@ -21881,7 +21883,6 @@ vkcdnservice.appspot.com^
 ||feathr.co^
 ||automizely-analytics.com^
 ||metrics.dominos.com.tr^
-||salesloft.com^
 ||ctags.cn^
 ||gridsumdissector.com^
 ||app-measurement.com^
@@ -38672,6 +38673,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||mywei.love^
+||gfnormal07ae.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -45026,6 +45029,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cb.baidu.com^
 ||cbjs.baidu.com^
 ||cpro.baidustatic.com^
+||d3t3z4teexdk2r.cloudfront.net^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||drmcmm.baidu.com^
 ||duiwai.baidu.com^

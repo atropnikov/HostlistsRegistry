@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-07-08T13:49:03.650Z
+! Last modified: 2022-07-15T12:41:58.975Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -701,7 +701,6 @@
 ||ads2.gamecity.net^
 ||ads2.hsoub.com^
 ||ads2.net-communities.co.uk^
-||ads2.oneplace.com^
 ||ads2.rne.com^
 ||ads2.techads.info^
 ||ads2.virtual-nights.com^
@@ -1422,7 +1421,6 @@
 ||cloisteredhydrant.com^
 ||closedcows.com^
 ||cloudcoins.biz^
-||cloudflare-dacdn.visualwebsiteoptimizer.com^
 ||cloudflareinsights.com^
 ||cloudiq.com^
 ||clrstm.com^
@@ -2049,7 +2047,6 @@
 ||innocentwax.com^
 ||innovid.com^
 ||inquisitiveinvention.com^
-||inringtone.com^
 ||insgly.net^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -2134,6 +2131,7 @@
 ||ktu.sv2.biz^
 ||kubient.com^
 ||l1.britannica.com^
+||l6b587txj1.com^
 ||lakequincy.com^
 ||lameletters.com^
 ||lanistaads.com^

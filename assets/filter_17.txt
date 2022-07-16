@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-07-11T11:22:23.653Z
+! Last modified: 2022-07-16T06:23:01.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -588,6 +588,7 @@
 127.0.0.1 nvpx.adhost.se
 127.0.0.1 oas.market.se
 127.0.0.1 oasc-eu1.247realmedia.com
+127.0.0.1 offer-go.com
 127.0.0.1 omni-ad-blocket.herokuapp.com
 127.0.0.1 onetag-sys.com
 127.0.0.1 online.adservicemedia.dk

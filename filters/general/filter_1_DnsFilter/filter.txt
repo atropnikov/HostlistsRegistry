@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-17T12:33:45.350Z
+! Last modified: 2022-07-17T18:22:04.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||crexojhuhtqoh.com^
 ||sshopee.beauty^
 ||adsfcdn.com^
 ||ttyyeastfeukuf.xyz^
@@ -6594,7 +6595,6 @@ vkcdnservice.appspot.com^
 ||crestfallenwall.com^
 ||cretgate.com^
 ||crewelkain.com^
-||crexojhuhtqoh.com^
 ||criantsleck.com^
 ||cribbolts.com^
 ||cricketunbutton.com^
@@ -38785,6 +38785,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cfhlrai.cn^
 ||doremi.ink^
 ||xixhx.com^
+||renxinghuan.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

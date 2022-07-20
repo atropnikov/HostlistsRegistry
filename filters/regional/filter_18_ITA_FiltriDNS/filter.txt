@@ -2,7 +2,7 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2022-07-16T15:18:56.385Z
+! Last modified: 2022-07-20T17:24:57.930Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -201,6 +201,7 @@
 0.0.0.0 okincontri.com
 0.0.0.0 premiogiusto.com
 0.0.0.0 record.betpartners.it
+0.0.0.0 record.starcasino.it
 
 
 0.0.0.0 adnxs.com

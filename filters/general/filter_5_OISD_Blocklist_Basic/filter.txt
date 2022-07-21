@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-07-21T10:24:19.670Z
+! Last modified: 2022-07-21T13:41:54.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7009,6 +7009,7 @@
 ||anybest.site^
 ||anycast.static.adsafeprotected.com^
 ||anyclip-media.com^
+||anyclip.com^
 ||anydiscourteousinsure.com^
 ||anyfiles.ru^
 ||anyihuan.com^
@@ -33569,7 +33570,6 @@
 ||pixel.adswizz.com^
 ||pixel.advertising.com^
 ||pixel.ampry.com^
-||pixel.anyclip.com^
 ||pixel.biano.cz^
 ||pixel.biano.ro^
 ||pixel.blivenyc.com^

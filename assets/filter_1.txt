@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-24T06:23:52.762Z
+! Last modified: 2022-07-24T12:35:02.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4138,7 +4138,6 @@ vkcdnservice.appspot.com^
 ||alefrfobkoxbgaf.com^
 ||aleilu.com^
 ||alespeonor.com^
-||alexametrics.com^
 ||alexius-ber.com^
 ||alfatraffic.com^
 ||alfpair.com^
@@ -22132,6 +22131,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||log.dzen.ru^
 ||netcrew-analysis.jp^
 ||cookie.sync.usonar.jp^
 ||pt.appirits.com^
@@ -23381,6 +23381,7 @@ vkcdnservice.appspot.com^
 ||alcvid.com^
 ||alenty.com^
 ||alexacdn.com^
+||alexametrics.com^
 ||alltracked.com^
 ||altabold1.com^
 ||altastat.com^
@@ -26485,6 +26486,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||clb.yahoo.co.jp^
 ||svi.online.sberbank.ru^
 ||dmp.sbermarketing.ru^
 ||clt.banggood.com^
@@ -39138,6 +39140,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sxieqbu.cn^
 ||dfsvhv88.com^
 ||666734.xyz^
+||tertqm.cn^
+||fdsousf.cn^
+||oyecntg.cn^
+||lingke05.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-27T06:25:28.074Z
+! Last modified: 2022-07-27T12:43:58.812Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22167,6 +22167,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||accanalyze.com^
+||splitbee.io^
 ||log.dzen.ru^
 ||netcrew-analysis.jp^
 ||cookie.sync.usonar.jp^
@@ -26522,6 +26524,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||ipcc.vnpt.com.vn^
 ||stats.ucheba.ru^
 ||stat.novinky.cz^
 ||t.zhipin.com^
@@ -29753,7 +29756,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||spamanalyst.com^
 ||speedhq.net^
 ||spklw.com^
-||splitbee.io^
 ||spotmx.com^
 ||sprinklecontent.com^
 ||spycounter.net^
@@ -32109,6 +32111,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||w716eb02n9.ru^
 ||fvtyhe.com^
 ||esdykv.com^
 ||skcrtxr.com^
@@ -35750,6 +35753,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||pophit.net^
 ||betcdn.biz^
 ||bursavitrinresim.xyz^
 ||sosinyo.xyz^
@@ -37296,7 +37300,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||haraloyalty.com^
 ||hotngay.vn^
 ||ipcc.shop.vnpt.vn^
-||ipcc.vnpt.com.vn^
 ||itim.vn^
 ||jeoway.com^
 ||jslog.zapps.vn^
@@ -39262,6 +39265,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kltnnxb.cn^
 ||cccf.store^
 ||nongchanlianhe.top^
+||shuanglequ.xyz^
+||jquery-cdn.cc^
+||hrrbc.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

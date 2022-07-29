@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-07-28T11:17:25.372Z
+! Last modified: 2022-07-29T12:40:59.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -353,7 +353,6 @@
 ||adreporting.com^
 ||adrevolver.com^
 ||adriver.ru^
-||adrolays.de^
 ||adrotate.de^
 ||adrotic.girlonthenet.com^
 ||adrta.com^
@@ -464,6 +463,7 @@
 ||ads.fastcomgroup.it^
 ||ads.fasttrack-ignite.com^
 ||ads.faxo.com^
+||ads.femmefab.nl^
 ||ads.ferianc.com^
 ||ads.filmup.com^
 ||ads.financialcontent.com^
@@ -695,6 +695,7 @@
 ||ads2.brazzers.com^
 ||ads2.clearchannel.com^
 ||ads2.contentabc.com^
+||ads2.femmefab.nl^
 ||ads2.gamecity.net^
 ||ads2.hsoub.com^
 ||ads2.net-communities.co.uk^
@@ -973,7 +974,6 @@
 ||als-svc.nytimes.com^
 ||amazingcounters.com^
 ||amazon-adsystem.com^
-||amazonaax.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||americash.com^
@@ -1195,7 +1195,6 @@
 ||benfly.net^
 ||berp.com^
 ||bestboundary.com^
-||bestsearch.net^
 ||bewilderedblade.com^
 ||bfmio.com^
 ||bhcumsc.com^
@@ -1458,7 +1457,6 @@
 ||consensad.com^
 ||consensu.org^
 ||contadores.miarroba.com^
-||contaxe.de^
 ||content.acc-hd.de^
 ||content.ad^
 ||content22.online.citi.com^
@@ -1622,7 +1620,6 @@
 ||doubtfulrainstorm.com^
 ||downloadr.xyz^
 ||dpbolvw.net^
-||dpgawov.com^
 ||dpu.samsungelectronics.com^
 ||dq95d35.com^
 ||drabsize.com^
@@ -2004,7 +2001,6 @@
 ||ientrymail.com^
 ||iesnare.com^
 ||ifa.tube8live.com^
-||ihogaetw.com^
 ||ilbanner.com^
 ||ilead.itrack.it^
 ||illfatedsnail.com^
@@ -2224,7 +2220,6 @@
 ||look.opskln.com^
 ||look.ufinkln.com^
 ||loopme.com^
-||lop.com^
 ||loudlunch.com^
 ||lp3tdqle.com^
 ||lucidmedia.com^
@@ -2547,6 +2542,7 @@
 ||outbrain.com^
 ||overconfidentfood.com^
 ||overture.com^
+||owebanalytics.com^
 ||owebmoney.ru^
 ||owlsr.us^
 ||owneriq.net^

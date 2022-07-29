@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-28T18:26:15.081Z
+! Last modified: 2022-07-29T02:08:00.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2229,7 +2229,6 @@
 ||eclkmpsa.com^
 ||eclkspbn.com^
 ||emediate.apmmedia.net^
-||engine.adtidy.net^
 ||epom.com^
 ||evolutionmedia.bbelements.com
 ||exitintel.com^
@@ -2342,7 +2341,6 @@
 ||softexcellence.com^
 ||sourcengo.com^
 ||srvpub.com^
-||static.adtidy.net^
 ||strands.com^
 ||super-promo.cyme.info^
 ||syndication.jsadapi.com^
@@ -7852,7 +7850,6 @@ vkcdnservice.appspot.com^
 ||ekgloczbsblg.com^
 ||ekmas.com^
 ||ekrvemsgktkcihp.com^
-||eksiup.com^
 ||ekskbldmgjhfvl.com^
 ||ekttkwbkfbr.com^
 ||elasticad.net^
@@ -20171,6 +20168,7 @@ vkcdnservice.appspot.com^
 ||egadvertising.com^
 ||egamingonline.com^
 ||egamiplatform.tv^
+||eksiup.com^
 ||elefantsearch.com^
 ||ematicsolutions.com^
 ||emberads.com^
@@ -22210,6 +22208,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tracking.emerse.com^
 ||master-shopify-tracker.s3.amazonaws.com^
 ||analytics.m7g.twitch.tv^
 ||kmp.twbymc.cn^
@@ -26575,6 +26574,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||middleware.p7s1.io^
+||player-feedback.p7s1video.net^
 ||stats.rustica.fr^
 ||analytics.e1.ru^
 ||ipcc.vnpt.com.vn^
@@ -39350,6 +39351,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||ryumrc.cn^
+||dongsonn.uno^
+||354664.top^
+||oqfdan.cn^
+||aihkjz.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

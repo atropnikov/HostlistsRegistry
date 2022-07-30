@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-07-30T01:57:01.929Z
+! Last modified: 2022-07-30T06:24:09.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10350,7 +10350,6 @@ vkcdnservice.appspot.com^
 ||irtya.com^
 ||irtyf.com^
 ||irvuyekrdga.com^
-||isbnrs.com^
 ||isboost.co.jp^
 ||iscosta.ru^
 ||isdbjvok.xyz^
@@ -20116,7 +20115,6 @@ vkcdnservice.appspot.com^
 ||ctrhub.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
-||cubics.com^
 ||cuelinks.com^
 ||currentlyobsessed.me^
 ||cybmas.com^
@@ -39379,6 +39377,18 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fhaixh.cn^
 ||oslixj.cn^
 ||chuntian.buzz^
+||asuijm.cn^
+||hengbalp.fun^
+||tianmenshan.top^
+||eiykmtb.cn^
+||wsuxjqr.cn^
+||chengdayong.in^
+||zoujitea.hk^
+||xiatian.buzz^
+||uhyhdrh.cn^
+||gz7pz.com^
+||supanchor.co^
+||atixxzd.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

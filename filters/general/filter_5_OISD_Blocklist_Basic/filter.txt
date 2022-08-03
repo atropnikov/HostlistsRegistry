@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-03T13:41:18.901Z
+! Last modified: 2022-08-03T14:17:25.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6292,7 +6292,6 @@
 ||analytics.move.ru^
 ||analytics.moz.com^
 ||analytics.msnbc.msn.com^
-||analytics.myfinance.com^
 ||analytics.newscred.com^
 ||analytics.nextopia.net^
 ||analytics.nhattao.com^
@@ -29011,6 +29010,7 @@
 ||myfastcounter.com^
 ||myfengyi.xyz^
 ||myfidevs.io^
+||myfinance.com^
 ||myfishsoup.com^
 ||myfood.ltd^
 ||myfreshspot.com^
@@ -44515,7 +44515,6 @@
 ||vungle.com.edgekey.net^
 ||vupload.duowan.com^
 ||vupulse.com^
-||vuryua.ru^
 ||vutudm.com^
 ||vuuwd.com^
 ||vuwgt.com^

@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-04T01:53:39.663Z
+! Last modified: 2022-08-04T06:27:27.386Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||aucked.com^
+||r2b2.io^
 ||qdcusfff.com^
 ||xhhuhdgbk.com^
 ||diritymirkish.com^
@@ -23230,6 +23232,7 @@ vkcdnservice.appspot.com^
 ||steadfastsystem.com^
 ||monetate.net^
 ||sitelabweb.com^
+||jixie.io^
 ||mc.yandex.ru^
 ||mc.yandex.com^
 ||track.segmentstream.com^
@@ -29687,7 +29690,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||itracker360.com^
 ||itracmediav4.com^
 ||janrain.xyz^
-||jixie.io^
 ||journity.com^
 ||jumplead.com^
 ||jumplead.io^
@@ -29857,7 +29859,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||quartic.pl^
 ||quintesse.io^
 ||quitsnap-blue.com^
-||r2b2.io^
 ||radiateb2b.com^
 ||rampanel.com^
 ||ravelin.click^
@@ -31507,7 +31508,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||3ng6p6m0.de^
 ||adcrowd.com^
 ||adquality.ch^
-||altruja.de^
 ||asadcdn.com^
 ||audienzz.ch^
 ||belboon.de^
@@ -39631,6 +39631,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ialmwof.cn^
 ||tkngckh.cn^
 ||666744.xyz^
+||kdsnw.today^
+||zuliglsa.space^
+||anppseo.cn^
+||zyl520zh.online^
+||mengbalh.fun^
+||bvfmdoo.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-06T20:19:15.704Z
+! Last modified: 2022-08-06T21:17:16.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8453,6 +8453,7 @@
 ||app.sbz.workers.dev^
 ||app.segment.com^
 ||app.ssp.yahoo.com^
+||app.trackonomics.net^
 ||app.us.adjust.com^
 ||app.yesware.com^
 ||app0003.xyz^
@@ -49324,7 +49325,6 @@
 ||trackmyusers.com^
 ||trackmyweb.net^
 ||trackocean.com^
-||trackonomics.net^
 ||trackpath.biz^
 ||trackpush.com^
 ||tracks.arubamediamarketing.it^
@@ -52489,7 +52489,6 @@
 ||webcounter.together.net^
 ||webcounter.ws^
 ||webdissector.com^
-||webengage.com^
 ||weberotic.net^
 ||webest.info^
 ||webeyemob.com^

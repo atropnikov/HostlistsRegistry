@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-07T01:59:55.982Z
+! Last modified: 2022-08-07T06:23:26.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22609,7 +22609,6 @@ vkcdnservice.appspot.com^
 ||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||sitealyse.de^
 ||wait.re^
-||tn.flashb.id^
 ||ac.prism-world.jp.net^
 ||analytics.octaglobal.com^
 ||analytics.liveact.cri-mw.jp^
@@ -29711,6 +29710,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fdxstats.xyz^
 ||fixel.ai^
 ||flaghit.com^
+||flashb.id^
 ||flexlinkspro.com^
 ||flyspy.co^
 ||fndrsp.net^
@@ -39677,6 +39677,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mdsop.com^
 ||hljcq.xyz^
 ||vuliglsf.space^
+||kingleo.hk^
+||666748.xyz^
+||u0075.com^
+||ajxukah.cn^
+||maaijun.top^
+||qcyunnan.cn^
+||zdhfff.xyz^
+||xsjh002.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

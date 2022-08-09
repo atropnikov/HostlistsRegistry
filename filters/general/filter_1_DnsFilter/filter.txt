@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-09T06:26:28.178Z
+! Last modified: 2022-08-09T12:43:22.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2657,6 +2657,7 @@
 ||widget.tippebannere.no^
 ||deema.agency^
 ||cdn.sanjagh.com^
+||linkdoni.soft98.ir^
 ||sabavision.com^
 ||llog.pl^
 ||bsxmuny.wp.pl^
@@ -22480,6 +22481,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||c212.net^
 ||imp.xmax.jp^
 ||analytics.audionow.de^
 ||oaprodlogging.yo-digital.com^
@@ -25819,6 +25821,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||pocketfaucet.com^
 ||childlikecrowd.com^
 ||stretchsister.com^
 ||tastelesstrucks.com^
@@ -29597,7 +29600,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btncdn.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
-||c212.net^
 ||cactusglobal.io^
 ||cactusmedia.com^
 ||callreports.com^
@@ -39730,6 +39732,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tuotianxia.top^
 ||culiglsm.space^
 ||rgbsl.com^
+||yuhuka.cc^
+||51grow.club^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

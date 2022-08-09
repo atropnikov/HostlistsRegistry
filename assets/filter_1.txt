@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-09T12:43:22.302Z
+! Last modified: 2022-08-09T18:23:33.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20435,7 +20435,6 @@ vkcdnservice.appspot.com^
 ||egadvertising.com^
 ||egamingonline.com^
 ||egamiplatform.tv^
-||eksiup.com^
 ||elefantsearch.com^
 ||ematicsolutions.com^
 ||emberads.com^
@@ -26850,6 +26849,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.vpplayer.tech^
+||h.seznam.cz^
+||stat.cncenter.cz^
 ||metrics.roblox.com^
 ||t.xoom.com^
 ||monorail-edge.shopifysvc.com^
@@ -32019,7 +32021,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bnr.alza.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
-||h.seznam.cz^
 ||hit.skrz.cz^
 ||i.imedia.cz^
 ||log.cpex.cz^
@@ -32027,7 +32028,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pixel.biano.cz^
 ||pixel.cpex.cz^
 ||ssp.seznam.cz^
-||stat.cncenter.cz^
 ||stat.ringier.cz^
 ||t.leady.com^
 ||t.leady.cz^
@@ -36172,6 +36172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yx-ads6.com^
 ||zafrc.5780.site^
 
+||cdn.eksiup.com^
 ||url.isimsepeti.net^
 ||ads.gencgazete.net^
 ||a.doganburda.com^

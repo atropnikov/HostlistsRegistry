@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-10T22:19:15.283Z
+! Last modified: 2022-08-11T10:21:50.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39968,7 +39968,6 @@
 ||shopexclu.fr^
 ||shopimind.com^
 ||shoplytics.com^
-||shopmyshelf.us^
 ||shopnetic.com^
 ||shoppanda.co^
 ||shopperapproved.com^

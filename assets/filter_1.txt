@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-12T07:17:52.443Z
+! Last modified: 2022-08-12T12:36:53.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||shoresmmrnews.com^
+||ticaframeofm.xyz^
 ||casualdatingisreal.life^
 ||hot-dating-here.life^
 ||idreamed.com^
@@ -21335,6 +21337,7 @@ vkcdnservice.appspot.com^
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
 ||cas.clickability.com^
+||chicoryapp.com^
 ||clarity.abacast.com^
 ||cloud.setupad.com^
 ||commercial.daznservices.com^
@@ -30884,7 +30887,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cgicounter.puretec.de^
 ||chanalytics.merchantadvantage.com^
 ||check.deadlinefunnel.com^
-||chicoryapp.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
 ||click.appinthestore.com^
@@ -39795,6 +39797,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vptjabo.cn^
 ||zhuxin.link^
 ||bhicxb.cn^
+||ezmppjg.cn^
+||wogukcd.xyz^
+||lpjms.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-12T15:21:46.801Z
+! Last modified: 2022-08-12T16:32:11.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -44656,7 +44656,6 @@
 ||smartclicks.com^
 ||smartclip-services.com^
 ||smartclip.com^
-||smartclip.net^
 ||smartcontext.pl^
 ||smartconvert.co^
 ||smartctr.com^
@@ -56195,3 +56194,4 @@
 ||zzyytt.top^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

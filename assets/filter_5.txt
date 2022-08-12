@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-12T16:32:11.115Z
+! Last modified: 2022-08-12T17:25:27.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3312,6 +3312,7 @@
 ||ad.sg.doubleclick.net^
 ||ad.simgames.net^
 ||ad.slashgear.com^
+||ad.smartclip.net^
 ||ad.smartmediarep.com^
 ||ad.snappea.com^
 ||ad.sp.mbga.jp^
@@ -3319,6 +3320,7 @@
 ||ad.style^
 ||ad.sunflower.vn^
 ||ad.sweb.ru^
+||ad.sxp.smartclip.net^
 ||ad.tehno-rating.ru^
 ||ad.tencentmusic.com^
 ||ad.terra.com^
@@ -31145,6 +31147,7 @@
 ||logger.ntracecloud.com^
 ||logger.rm.uol.com.br^
 ||logger.snackly.co^
+||logger.tv.telstra.com.au^
 ||logger.tvchosun.com^
 ||logger.unsplash.com^
 ||loggerbunty.com^
@@ -46241,8 +46244,10 @@
 ||stats.shopify.com^
 ||stats.shoppydoo.com^
 ||stats.slideshare.net^
+||stats.smartclip.net^
 ||stats.someecards.com^
 ||stats.streamhub.io^
+||stats.sxp.smartclip.net^
 ||stats.tamdiem247.com^
 ||stats.tazeros.com^
 ||stats.tehila.gov.il^
@@ -47129,6 +47134,7 @@
 ||sync.pulseradius.com^
 ||sync.sharethis.com^
 ||sync.shinobi.jp^
+||sync.sxp.smartclip.net^
 ||sync.taboola.com^
 ||sync.tv^
 ||sync.userreport.com^
@@ -56194,4 +56200,3 @@
 ||zzyytt.top^
 ||zzz.pissrip.net^
 ||zzznews.ru^
-

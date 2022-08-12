@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-12T13:41:57.085Z
+! Last modified: 2022-08-12T14:17:48.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11589,8 +11589,6 @@
 ||blueeyesintelligence.org^
 ||bluejayfacette.com^
 ||bluejaysilene.com^
-||bluekai.com^
-||bluekai.com.edgekey.net^
 ||bluelithium.com^
 ||bluemaulpuffs.com^
 ||bluemountain1.com^
@@ -43945,7 +43943,6 @@
 ||shootoax.com^
 ||shootpatagainjogging.com^
 ||shop-cdn.coccoc.com^
-||shop.kicker.de^
 ||shop.sportal.it^
 ||shop.vnay.vn^
 ||shopalyst.com^
@@ -56130,3 +56127,4 @@
 ||zzyytt.top^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

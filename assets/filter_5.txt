@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-13T12:33:03.146Z
+! Last modified: 2022-08-13T14:17:24.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4468,7 +4468,6 @@
 ||ads-cloud.rovio.com^
 ||ads-connect.com^
 ||ads-d.viber.com^
-||ads-de.spray.net^
 ||ads-delivery.gameforge.com^
 ||ads-delivery.gunosy.com^
 ||ads-dev.pinterest.com^
@@ -10309,7 +10308,6 @@
 ||banners.tempobet.com^
 ||banners.todoconsolas.com^
 ||banners.toeto.com^
-||banners.toteme.com^
 ||banners.tribute.ca^
 ||banners.truecash.com^
 ||banners.unibet.com^
@@ -20998,7 +20996,6 @@
 ||exceedinglydiscovered.com^
 ||exceedmintpoker.com^
 ||excellaskiju.xyz^
-||excellence-quebec.com^
 ||excellenceads.com^
 ||excellernod.xyz^
 ||excelsales.co.in^
@@ -45579,6 +45576,7 @@
 ||spr-rtr.com^
 ||spr.bild.de^
 ||spr.welt.de^
+||spray.net^
 ||sprayswisha.com^
 ||spreadcreative.club^
 ||spreadingmulticultural.com^

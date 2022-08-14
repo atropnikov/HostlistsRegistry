@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-14T17:18:38.972Z
+! Last modified: 2022-08-14T18:22:42.135Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25679,7 +25679,6 @@
 ||hits.dealer.com^
 ||hits.e.cl^
 ||hits.eluniversal.com.mx^
-||hits.guardian.co.uk^
 ||hits.informer.com^
 ||hits.sys.lv^
 ||hits.tf.rs^
@@ -31293,7 +31292,6 @@
 ||lomo.cool^
 ||loneday.com^
 ||lonelyfix.com^
-||lonelywifehookup.com^
 ||long-space.com^
 ||longaboo.com^
 ||longchengtg.com^

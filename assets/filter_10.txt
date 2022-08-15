@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2022-08-12T04:33:40.485Z
+! Last modified: 2022-08-15T04:14:51.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -54,6 +54,7 @@
 ||breakshirts.com^
 ||buddhakind.com^
 ||burgershirt.com^
+||buzzazone.com^
 ||candlesbymadison.com^
 ||canjaume.com^
 ||carmenfloral.com^
@@ -305,7 +306,6 @@
 ||skincheap.com^
 ||skins-store.net^
 ||skinszone.net^
-||skonmdnorge.com^
 ||smartpower4all.org^
 ||smartproduct.site^
 ||sodipi.com^
@@ -381,7 +381,6 @@
 ||unifully.com^
 ||uniqueetee.com^
 ||ureashi.com^
-||uredaka.com^
 ||usasport247.com^
 ||vavaname.com^
 ||vegamartz.com^

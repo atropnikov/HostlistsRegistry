@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-15T06:26:16.879Z
+! Last modified: 2022-08-15T12:40:44.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22508,6 +22508,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metaversn.site^
 ||c212.net^
 ||imp.xmax.jp^
 ||analytics.audionow.de^
@@ -26873,6 +26874,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||perf.hsforms.com^
 ||tr.www.cloudflare.com^
 ||client-metrics.chess.com^
 ||stat.kwikmotion.com^
@@ -30766,6 +30768,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affiliates.minglematch.com^
 ||air.audioeye.com^
 ||alexandria.marfeelcdn.com^
+||am.i.mullvad.net^
 ||amplify.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||an.yandex.ru^
@@ -31156,7 +31159,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pap.qualityunit.com^
 ||partner.cynapse.com^
 ||pegasus.unifygroup.com^
-||perf.hsforms.com^
 ||perso.aws.arc.pub^
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
@@ -37229,6 +37231,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
 ||newsupdatewe.info^
+||offdeck.telkomsel.com^
 ||offerjuice.me^
 ||onigagalai.ru^
 ||openadserving.com^
@@ -39873,6 +39876,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||itbwq.xyz^
 ||mrshw.mobi^
 ||vgrovkb.cn^
+||rbgfxxt.cn^
+||xsjh001.xyz^
+||gznxodg.cn^
+||jyuyjxx.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-14T18:22:38.120Z
+! Last modified: 2022-08-15T02:03:57.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21335,6 +21335,7 @@ vkcdnservice.appspot.com^
 ||ads.audio.thisisdax.com^
 ||ads.sportradar.com^
 ||adserving.unibet.com^
+||adv.r7.com^
 ||advast.sibnet.ru^
 ||adzmoney.linkyqueen.ga^
 ||aff.bstatic.com^
@@ -31920,6 +31921,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.loop-cloud.de^
 ||analytics.media-proweb.de^
 ||analytics.praetor.im^
+||artemis-cdn.ocdn.eu^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
 ||cdntrf.de^
@@ -32155,6 +32157,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
 ||track.e7r.com.br^
+||tracker.tolvnow.com^
+||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
 ||pixel.biano.ro^
 ||profiling.avandor.com^
@@ -32336,6 +32340,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||zxwnlg.com^
 ||fcjfijejhjfefgfaaadc.ru^
 ||futureocto.com^
 ||newnns.com^
@@ -39855,6 +39860,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||nkevca.cn^
+||sghmvum.cn^
+||rorlsblm.cyou^
+||666758.xyz^
+||yfunkgk.cn^
+||corlsblt.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

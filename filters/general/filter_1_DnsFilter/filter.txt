@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-16T11:15:09.798Z
+! Last modified: 2022-08-16T12:35:08.351Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26883,6 +26883,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||mcs-va.tiktok.com^
 ||perf.hsforms.com^
 ||tr.www.cloudflare.com^
 ||client-metrics.chess.com^
@@ -28361,7 +28362,6 @@ vkcdnservice.appspot.com^
 ||stats.mehrnews.com^
 ||stats.mirror.co.uk^
 ||stats.muasamcong.gov.vn^
-||stats.norton.com^
 ||stats.nymag.com^
 ||stats.olark.com^
 ||stats.opoloo.de^
@@ -31031,7 +31031,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fcmatch.youtube.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
-||firebaselogging-pa.googleapis.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
 ||flashstats.libsyn.com^
 ||flixgvid.flix360.io^
@@ -31129,7 +31128,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
 ||mcdp-*.outbrain.com^
-||mcs-va.tiktok.com^
 ||measure.refinery89.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^

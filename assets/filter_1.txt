@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-16T07:15:23.072Z
+! Last modified: 2022-08-16T11:15:09.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||samazd.com^
+||mpaphqjb.com^
+||ruogesfshygsj.com^
+||disurm.com^
 ||imilroshoors.com^
 ||thathechoxe.com^
 ||glaichid.net^
@@ -22510,6 +22514,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||signalayer.com^
 ||tags.refinery89.com^
 ||statsigapi.net^
 ||metaversn.site^
@@ -23945,7 +23950,6 @@ vkcdnservice.appspot.com^
 ||btstatic.com^
 ||btttag.com^
 ||bubblestat.com^
-||bugherd.com^
 ||burstbeacon.com^
 ||burt.io^
 ||bux1le001.com^
@@ -25849,6 +25853,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||flowerstreatment.com^
 ||pocketfaucet.com^
 ||childlikecrowd.com^
 ||stretchsister.com^
@@ -30603,7 +30608,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fangfeeling.com^
 ||fastenfather.com^
 ||fifthborder.com^
-||flowerstreatment.com^
 ||frailfruit.com^
 ||frantictrail.com^
 ||fronttoad.com^
@@ -31306,7 +31310,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.sharethis.com^
-||t.signalayer.com^
 ||t.smile.eu^
 ||t.spot.im^
 ||t2.t2b.click^
@@ -39896,6 +39899,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vivachina.co^
 ||sxbexrv.cn^
 ||zzyl.mobi^
+||accentneglectporter.com^
+||666759.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

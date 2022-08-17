@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-16T18:27:19.697Z
+! Last modified: 2022-08-17T02:10:19.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22548,6 +22548,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||svibeacon.onezapp.com^
 ||signalayer.com^
 ||tags.refinery89.com^
 ||statsigapi.net^
@@ -26917,6 +26918,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||p.ura.news^
 ||statsapi.tiendeo.com.tr^
 ||perf.hsforms.com^
 ||tr.www.cloudflare.com^
@@ -31162,7 +31164,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
 ||mcdp-*.outbrain.com^
-||mcs-va.tiktok.com^
 ||measure.refinery89.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
@@ -31328,7 +31329,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
 ||surveywall-api.survata.com^
-||svibeacon.onezapp.com^
 ||sync.outbrain.com^
 ||systemmonitoring.badgeville.com^
 ||t.a3cloud.net^
@@ -39937,6 +39937,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zyl520zh.online^
 ||zzycj.com^
 ||zzyl.mobi^
+||eisafniw.space^
+||ubktmlk.cn^
+||pnirrb.cn^
+||jisafnia.space^
+||qmbnkdh.cn^
+||666762.xyz^
+||dajewoi.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

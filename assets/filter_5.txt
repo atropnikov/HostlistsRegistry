@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-17T17:25:46.005Z
+! Last modified: 2022-08-17T21:17:51.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35383,7 +35383,6 @@
 ||prmtracking.com^
 ||prmtracks.com^
 ||prnetwork.de^
-||prnhpe.pro^
 ||prnx.net^
 ||pro-100news.ru^
 ||pro-ads.club^

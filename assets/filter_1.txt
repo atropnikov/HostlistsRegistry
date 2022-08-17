@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-17T06:27:11.455Z
+! Last modified: 2022-08-17T11:16:50.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||effolk.com^
+||thrube.com^
 ||samazd.com^
 ||mpaphqjb.com^
 ||ruogesfshygsj.com^
@@ -5302,6 +5304,7 @@ vkcdnservice.appspot.com^
 ||bitpcn.com^
 ||bitvnvjfakrik.xyz^
 ||bitx.tv^
+||bizmavosndi.com^
 ||bizographics.com^
 ||bizrotator.com^
 ||bj1110.online^
@@ -6286,6 +6289,7 @@ vkcdnservice.appspot.com^
 ||cliand.com^
 ||clic2pub.com^
 ||clicadu.com^
+||click-cdn.com^
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
@@ -8520,6 +8524,7 @@ vkcdnservice.appspot.com^
 ||feadrope.net^
 ||fearfuldiscoverlads.com^
 ||fearpeaceoversight.com^
+||fearwild.com^
 ||feastoffortuna.com^
 ||featassuage.com^
 ||featbooksterile.com^
@@ -11203,6 +11208,7 @@ vkcdnservice.appspot.com^
 ||kouraija.net^
 ||koutobey.net^
 ||koxeebee.net^
+||kozuyzcciaygg.com^
 ||kpavslwqfgtm.com^
 ||kpmmthnpqoc.xyz^
 ||kpnbrxtxyqqn.com^
@@ -11907,6 +11913,7 @@ vkcdnservice.appspot.com^
 ||mainapiary.com^
 ||mainauko.net^
 ||mainroll.com^
+||majestydeference.com^
 ||majomalonic.com^
 ||majorgeorgiana.com^
 ||majorinryesop.lol^
@@ -17171,6 +17178,7 @@ vkcdnservice.appspot.com^
 ||tedropkinthenligh.pro^
 ||teeglimu.com^
 ||teelikeableaspirant.com^
+||teemingaymoro.com^
 ||teemooge.net^
 ||teensexgfs.com^
 ||teenstiffen.com^
@@ -18535,6 +18543,7 @@ vkcdnservice.appspot.com^
 ||vogeto.com^
 ||vogo-vogo.ru^
 ||vogueoatgap.com^
+||vogulprecast.com^
 ||vohhall71.com^
 ||vohhall81.com^
 ||vohhall91.com^
@@ -26923,6 +26932,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||intg.snapchat.com^
 ||p.ura.news^
 ||statsapi.tiendeo.com.tr^
 ||perf.hsforms.com^
@@ -29570,7 +29580,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
 ||z0uolej1qnxzub1.info^
-||zenaps.com^
 ||zhctrack.net^
 ||zippyfrog.co^
 ||zononi.com^
@@ -39961,6 +39970,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chiyan.group^
 ||qqxfybt.cn^
 ||zzeblsg.cn^
+||citstmc.cn^
+||hsywzx.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

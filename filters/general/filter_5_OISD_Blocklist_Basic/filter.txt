@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-18T19:16:26.493Z
+! Last modified: 2022-08-18T21:17:36.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5119,7 +5119,6 @@
 ||ads.wineenthusiast.com^
 ||ads.winsite.com^
 ||ads.world-fusigi.net^
-||ads.worldstarhiphop.com^
 ||ads.wwe.biz^
 ||ads.x17online.com^
 ||ads.xedoisong.vn^
@@ -5891,7 +5890,6 @@
 ||adtracker.mkjigsaw.com^
 ||adtracker.oilpainting.colorbynumber.veraxen.com^
 ||adtracker2.com^
-||adtracking.vinden.nl^
 ||adtrackingflow.pro^
 ||adtrade.net^
 ||adtrader.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-18T06:25:15.042Z
+! Last modified: 2022-08-18T12:41:38.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26956,6 +26956,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||event-collector.prd.data.s.joyn.de^
+||clanker-events.squarespace.com^
 ||analytics.newscred.com^
 ||analytics.digitalpfizer.com^
 ||intg.snapchat.com^
@@ -36593,6 +36595,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||w.zenback.jp^
 ||maillovelove.net^
 
+||widget.marktjagd.de^
 ||cwi.re^
 ||a.zdg.de^
 ||cockpit.symplr.de^
@@ -38055,6 +38058,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||ema.hostvn.net^
+||event.filum.ai^
 ||event.headlines.pw^
 ||fa.fpt.shop^
 ||facebookinbox-omni-onapp.haravan.com^
@@ -40013,6 +40017,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bhny.asia^
 ||d7y5grtl.site^
 ||iumnxwvh.ink^
+||5hte21mz.com^
+||oldulgk.cn^
+||qimooc.wang^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

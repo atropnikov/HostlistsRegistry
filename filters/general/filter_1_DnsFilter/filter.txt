@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-19T06:27:55.747Z
+! Last modified: 2022-08-19T12:38:26.585Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2437,6 +2437,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||cdnads.geeksforgeeks.org^
 ||0a0d-d3l1vr.b-cdn.net^
 ||mailderef.mail.com^
 ||d3t3bxixsojwre.cloudfront.net^
@@ -26969,6 +26970,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.helpukrainewinwidget.org^
 ||ninja.data.olxcdn.com^
 ||event-collector.prd.data.s.joyn.de^
 ||clanker-events.squarespace.com^
@@ -29004,6 +29006,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||clog.mirrativ.com^
 ||teleport.soom.la^
 ||logs1407.xiti.com^
 ||log1.apkomega.com^
@@ -40060,6 +40063,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mumnxwvn.ink^
 ||deeplearning.red^
 ||gjeonh.cn^
+||gwzqbnh.cn^
+||neokbu.cn^
+||vwocvgr.cn^
+||zkqfrti.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

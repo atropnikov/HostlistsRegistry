@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-19T12:38:26.585Z
+! Last modified: 2022-08-19T18:27:34.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||encesprincipl.one^
+||ileesidesu.hair^
+||elepts.com^
 ||effolk.com^
 ||thrube.com^
 ||samazd.com^
@@ -22599,6 +22602,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||agent.contentsanalyst.com^
 ||analytics.partcommunity.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
@@ -22662,7 +22666,6 @@ vkcdnservice.appspot.com^
 ||cdn.stroeerdigitalgroup.de^
 ||uplift-platform.com^
 ||lmepbq.com^
-||agent.contentsanalyst.com^
 ||tangerine.io^
 ||b.sli-spark.com^
 ||tracker-rec.smart-bdash.com^
@@ -47164,6 +47167,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||link.androidauthority.com^|
 @@||stcblink.nypost.com^|
 @@||link.morningbrew.com^|
 @@||click.appcast.io^|

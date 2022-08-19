@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-08-17T11:16:51.356Z
+! Last modified: 2022-08-19T11:17:13.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1271,7 +1271,6 @@
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
 ||bs.yandex.ru^
-||btez8.xyz^
 ||btrll.com^
 ||bttrack.com^
 ||bucketbean.com^
@@ -2929,7 +2928,6 @@
 ||separatesilver.com^
 ||serv0.com^
 ||servads.net^
-||servadsdisrupt.com^
 ||serve.tercept.com^
 ||servedby-buysellads.com^
 ||servedbyadbutler.com^
@@ -3543,7 +3541,6 @@
 ||whiskyqueue.com^
 ||whispa.com^
 ||whisperingcrib.com^
-||whisperingflesh.com^
 ||whoisonline.net^
 ||wickedreports.com^
 ||widespace.com^

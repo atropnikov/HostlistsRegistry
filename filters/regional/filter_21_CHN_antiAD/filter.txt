@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2022-08-16T19:15:55.088Z
+! Last modified: 2022-08-19T04:06:48.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -68,6 +68,7 @@
 @@||torproject.org^
 @@||api.browser.miui.com^
 @@||pixel.prime.amazon.dev^
+@@||ku.dk^
 @@||track.landmarkglobal.com^
 @@||microsoftazuresponsorships.com^
 @@||metrics.icloud.com^
@@ -945,6 +946,7 @@
 ||2329.ink^
 ||233wo.com^
 ||assets.2343sdxs.com^
+||2345.cc^
 ||2345.cn^
 ||2345.com^
 ||23456dj.com^
@@ -3678,7 +3680,6 @@
 ||adnxs1.com^
 ||adnyg.com^
 ||adnz.co^
-||adobe-campaign.com^
 ||cimage.adobe.com^
 ||data.email-discovery.cjm.adobe.com^
 ||data.email-disney.cjm.adobe.com^
@@ -29014,7 +29015,6 @@
 ||bmodjx.mgos.jp^
 ||mgtcw.top^
 ||apperr.log.mgtv.com^
-||as.mgtv.com^
 ||audit.aaa.mgtv.com^
 ||cmop.mgtv.com^
 ||imgaliyun.da.mgtv.com^
@@ -49935,6 +49935,7 @@
 ||yepteaswont.com^
 ||yeribi.com^
 ||yes-messenger.com^
+||yes115.com^
 ||yesadsrv.com^
 ||xls.yeschool.info^
 ||milk.yesky.com.cn^

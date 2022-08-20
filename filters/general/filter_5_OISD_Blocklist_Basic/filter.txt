@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-20T18:22:57.168Z
+! Last modified: 2022-08-20T19:15:24.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7365,7 +7365,6 @@
 ||api.arity.com^
 ||api.atdmt.com^
 ||api.attentivemobile.com^
-||api.autopilothq.com^
 ||api.batch.com^
 ||api.bitmango.com^
 ||api.bitp.it^
@@ -50496,3 +50495,4 @@
 ||zzyytt.top^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

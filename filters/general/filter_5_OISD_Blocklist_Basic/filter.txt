@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-08-23T07:22:36.478Z
+! Last modified: 2022-08-23T20:20:36.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14318,7 +14318,6 @@
 ||crash.163.com^
 ||crasheye.cn^
 ||crashlytics.163.com^
-||crashlyticsreports-pa.googleapis.com^
 ||crashnoodle.com^
 ||cratecamera.com^
 ||craveandlamb.com^
@@ -38195,7 +38194,6 @@
 ||s2sterra.com^
 ||s2strk.info^
 ||s3-analytics-events.easybrain.com^
-||s3-iad-2.cf.dash.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3.addthis.com^
 ||s3.lightboxcdn.com^
@@ -50615,3 +50613,4 @@
 ||zzyytt.top^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-23T06:33:03.921Z
+! Last modified: 2022-08-23T12:38:25.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2957,6 +2957,7 @@ vkcdnservice.appspot.com^
 ||1re.re^
 ||1redira.com^
 ||1redirb.com^
+||1redirc.com^
 ||1rx.io^
 ||1rxntv.io^
 ||1talking.net^
@@ -17672,6 +17673,7 @@ vkcdnservice.appspot.com^
 ||trackingzen.com^
 ||trackmundo.com^
 ||trackspeeder.com^
+||tracksystem.online^
 ||trackvoluum.com^
 ||trackytrack02.com^
 ||tracot.com^
@@ -31114,6 +31116,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||counter.tldw.me^
 ||counters.freewebs.com^
 ||creator.zmags.com^
+||crta.and.co.uk^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
 ||csp.archant.co.uk^
@@ -40180,6 +40183,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8910.la^
 ||ywbmed.cn^
 ||ylc.ink^
+||orysogsik.uno^
+||clzw.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

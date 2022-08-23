@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-23T02:07:36.449Z
+! Last modified: 2022-08-23T06:33:03.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13545,6 +13545,7 @@ vkcdnservice.appspot.com^
 ||orbitcarrot.com^
 ||orbmehcerqxamdy.com^
 ||orbsclawand.com^
+||orbsrv.com^
 ||orcept.com^
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
@@ -31157,6 +31158,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
 ||event-listener.air.tv^
+||event-logger.tagboard.com^
 ||event-service.letslinc.com^
 ||event.api.drift.com^
 ||eventgateway.soundcloud.com^
@@ -40174,6 +40176,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||helloworldisbeautiful.net^
 ||572k3.com^
 ||666772.xyz^
+||ptnxa.xyz^
+||8910.la^
+||ywbmed.cn^
+||ylc.ink^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

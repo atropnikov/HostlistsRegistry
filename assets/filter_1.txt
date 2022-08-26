@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-26T06:46:15.866Z
+! Last modified: 2022-08-26T12:39:07.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3067,6 +3067,7 @@ vkcdnservice.appspot.com^
 ||39d1d397c97730.com^
 ||3a1be44ca9.com^
 ||3a57c13de7.com^
+||3adae883b0.com^
 ||3c92e2040f.com^
 ||3ca28642b714623b2.com^
 ||3d406f3a14.com^
@@ -3274,6 +3275,7 @@ vkcdnservice.appspot.com^
 ||7e625f490775b155.com^
 ||7eaf2aa8c1.com^
 ||7f19b1713b43f7db.com^
+||7f403e402a.com^
 ||7f59b515a6.com^
 ||7fkm2r4pzi.com^
 ||7hor9gul4s.com^
@@ -15982,6 +15984,7 @@ vkcdnservice.appspot.com^
 ||salinasbhut.com^
 ||sallyfundamental.com^
 ||salsifyballone.com^
+||saltateblit.com^
 ||saltinourhairtv.com^
 ||saltscorn.com^
 ||saltycarboninsulting.com^
@@ -16111,6 +16114,7 @@ vkcdnservice.appspot.com^
 ||sdbqiynix.com^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||sdnihyxlqiws.com^
 ||sdrbxvpoglmbz.com^
 ||sduptpppm.com^
 ||sdxqusoze.com^
@@ -36462,6 +36466,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yx-ads6.com^
 ||zafrc.5780.site^
 
+||ad.hepsiburada.com^
 ||ad.reklm.com^
 ||ads.motosiklet.net^
 ||ad.sigortagundem.biz^
@@ -37598,6 +37603,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shiiticprating.com^
 ||tidnqztumpnk.com^
 ||trendlope.com^
+||uamrnaakv.com^
 ||uieoogjarimcey.com^
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
@@ -40333,6 +40339,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gbpofla.cn^
 ||sifang.info^
 ||xxrsxs.cn^
+||whxva.com^
+||zykwnj.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

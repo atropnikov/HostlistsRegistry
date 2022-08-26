@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-26T18:24:25.980Z
+! Last modified: 2022-08-26T19:16:08.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30328,7 +30328,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rumpelstiltskinhead.com^
 ||s7target.ru^
 ||safe-click.net^
-||sailthru.com^
 ||salemove.com^
 ||salesmanago.pl^
 ||salesviewer.com^
@@ -37653,6 +37652,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||upoint.id^
 ||welcome.indihome.co.id^
 ||darts-ads.telkom.co.id^
+||oagudole.net^
 ||fmjvsmavummyjnc.com^
 ||jqxqddvyw.com^
 ||dsvkgvrftkpds.com^
@@ -47458,8 +47458,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
-@@||link.androidauthority.com^|
-@@||stcblink.nypost.com^|
 @@||link.morningbrew.com^|
 @@||click.appcast.io^|
 @@||public-cis.exponea.com^|

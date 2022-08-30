@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-08-30T12:43:14.257Z
+! Last modified: 2022-08-30T18:24:46.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5350,6 +5350,7 @@ vkcdnservice.appspot.com^
 ||bkembwdgujzp.com^
 ||bkfupfeyv.com^
 ||bkl72.com^
+||bkrpldhartngvh.com^
 ||bksijiunc.com^
 ||blaasopdive.com^
 ||blabhorol.com^
@@ -7354,6 +7355,7 @@ vkcdnservice.appspot.com^
 ||diamondmodapk.com^
 ||diamondtraff.com^
 ||dianomioffers.co.uk^
+||diaperhumanpurify.com^
 ||diaryeavesdropdecipher.com^
 ||diasciaplatly.com^
 ||dibjaahejdaeejhhaacd.ru^
@@ -14838,6 +14840,7 @@ vkcdnservice.appspot.com^
 ||ptagnair.com^
 ||ptaiksah.com^
 ||ptaimpeerte.com^
+||ptainses.com^
 ||ptairtug.net^
 ||ptaissud.com^
 ||ptapjmp.com^
@@ -18433,6 +18436,7 @@ vkcdnservice.appspot.com^
 ||utirev.com^
 ||utkuslbdpwehmr.com^
 ||utmostsecond.com^
+||utndln.com^
 ||utokapa.com^
 ||utoumine.net^
 ||utpvfpoar.com^
@@ -19729,6 +19733,7 @@ vkcdnservice.appspot.com^
 ||yim3eyv5.top^
 ||yinteukrestina.xyz^
 ||yiopse.com^
+||yipkgpvrm.com^
 ||yitcmu.com^
 ||yiydtredbofv.com^
 ||yjbauton.com^
@@ -19947,6 +19952,7 @@ vkcdnservice.appspot.com^
 ||zetamm.com^
 ||zeusopuh.com^
 ||zewhpnrmykj.com^
+||zewoagoo.com^
 ||zeyappland.com^
 ||zferral.com^
 ||zfrnzzkpwjb.com^
@@ -22812,6 +22818,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ip2c.landscape.co.jp^
 ||analytics.clientify.net^
 ||stats.darkreader.app^
 ||t.adbr.io^
@@ -27185,6 +27192,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||collect.asics.com^
 ||log.ohou.se^
 ||ab-log.datahou.se^
 ||cdn.sgmntfy.com^
@@ -32457,7 +32465,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bvr.snva.jp^
 ||counter2.blog.livedoor.com^
 ||imgstat.ameba.jp^
-||ip2c.landscape.co.jp^
 ||log.f-tra.com^
 ||omt.shinobi.jp^
 ||reproio.com^
@@ -36325,6 +36332,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||sportframe.org^
 ||cokemoke.cf^
 ||reklamdor.com^
 ||pophit.net^
@@ -40494,6 +40502,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||my1688.shop^
 ||mtlsari.cn^
 ||65211351892.com^
+||zwlikv.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -46517,8 +46526,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adshows.21cn.com^
 ||adv-sv-show.focus.cn^
 ||afp.chinanews.com^
-||afp.wasu.cn^
-||afpcreative.wasu.cn^
 ||ai.bioon.com^
 ||alitui.weibo.com^
 ||am.szhome.com^

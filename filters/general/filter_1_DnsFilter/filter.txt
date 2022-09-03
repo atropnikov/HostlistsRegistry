@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-02T18:25:09.412Z
+! Last modified: 2022-09-03T06:24:09.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20624,6 +20624,7 @@ vkcdnservice.appspot.com^
 ||advon.net^
 ||advpoints.com^
 ||advsnx.net^
+||adwebone.com^
 ||adwebster.com^
 ||adwires.com^
 ||adworkmedia.com^
@@ -21781,6 +21782,7 @@ vkcdnservice.appspot.com^
 ||wordego.com^
 ||worthathousandwords.com^
 ||x4300tiz.com^
+||xgpub.com^
 ||xmlmonetize.com^
 ||xtendadvert.com^
 ||xtendmedia.com^
@@ -32564,6 +32566,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
+||dcbpm.suning.cn^
 ||epro.sogou.com^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
@@ -32575,6 +32578,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p.tencentmind.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
+||ssac.suning.com^
 ||stat.ws.126.net^
 ||stats.hanmaker.com^
 ||sugs.m.sm.cn^
@@ -40755,6 +40759,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||jy5izgies.xyz^
+||uwogldt.top^
+||haitan.site^
+||oi1b.top^
+||lexlufv.cn^
+||cmblom.cn^
+||ahp3.site^
+||jy7izgie.xyz^
+||azfqoeq.cn^
+||maijijo.com^
+||2mfx.cn^
+||minmin.buzz^
+||vl1m.cn^
+||4m5t.cn^
+||666792.xyz
+||afryxia.cn^
+||dabao.run^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

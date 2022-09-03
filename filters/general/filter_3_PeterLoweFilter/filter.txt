@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-09-02T11:18:01.853Z
+! Last modified: 2022-09-03T20:20:14.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2068,7 +2068,6 @@
 ||intelliads.com^
 ||intelligenceadx.com^
 ||intellitxt.com^
-||intentsify.io^
 ||interactive.forthnet.gr^
 ||intercom-clicks.com^
 ||intergi.com^
@@ -3358,6 +3357,7 @@
 ||tracking.exipure.com^
 ||tracking.hyros.com^
 ||tracking.ibxlink.com^
+||tracking.intentsify.io^
 ||tracking.internetstores.de^
 ||tracking.intl.miui.com^
 ||tracking.jiffyworld.com^

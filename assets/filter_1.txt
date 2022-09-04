@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-04T06:23:34.479Z
+! Last modified: 2022-09-04T12:38:16.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30348,6 +30348,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||escalated.io^
 ||esputnik.com^
 ||etp-prod.com^
+||evorra.net^
 ||excited.me^
 ||exorigos.com^
 ||extole.io^
@@ -40858,6 +40859,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ahp4.site^
 ||5t15.cn^
 ||5lpt.cn^
+||bingtuo.mobi^
+||dchxxvk.cn^
+||wxlide.ink^
+||wlczx.com^
+||0272bb.com^
+||xpahu.com^
+||guagua.buzz^
+||bqg99.cc^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -43558,7 +43567,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jrrxbz.net^
 ||js-tencent.com^
 ||js-tianqilm.com^
-||js.xiao7cdn.com^
 ||jsboom.cn^
 ||jschuangnuo.com^
 ||jscsd.cn^
@@ -46998,7 +47006,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xdyjt.com^
-||xinjscn.oss-cn-hangzhou.aliyuncs.com^
 ||xs.houyi.baofeng.net^
 ||ya*.dwstatic.com^
 ||yktj.yzz.cn^

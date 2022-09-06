@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-09-05T06:02:44.586Z
+! Last modified: 2022-09-06T09:20:25.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -552,6 +552,7 @@
 127.0.0.1 matomo.lulea.se
 127.0.0.1 matomo.mindbite.cloud
 127.0.0.1 matomo.studio.se
+127.0.0.1 matomo.vibb.ax
 127.0.0.1 matomo-sysutv.goteborg.se
 127.0.0.1 maxetise.net
 127.0.0.1 mcgtrack.herokuapp.com

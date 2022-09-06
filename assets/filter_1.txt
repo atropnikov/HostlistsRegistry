@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-06T08:26:46.471Z
+! Last modified: 2022-09-06T12:42:45.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||selectmedia.asia^
 ||aukirtoo.com^
 ||oebwcdrmpx.com^
 ||ewoutosh.com^
@@ -7690,6 +7691,7 @@ vkcdnservice.appspot.com^
 ||diningprefixmyself.com^
 ||dinnerlithegladly.com^
 ||dinnerweather.com^
+||dinosaurrestore.com^
 ||dinterperson.xyz^
 ||dionax.com^
 ||dipegrathy.com^
@@ -9020,6 +9022,7 @@ vkcdnservice.appspot.com^
 ||finestflirtcudgel.com^
 ||fingahvf.top^
 ||fingsmelis.pro^
+||finisheddaysflamboyant.com^
 ||finized.co^
 ||finkelorcine.com^
 ||finnan2you.com^
@@ -10759,6 +10762,7 @@ vkcdnservice.appspot.com^
 ||infectedobnoxiousfavorite.com^
 ||infercapture.com^
 ||infesthazardous.com^
+||infestpaddle.com^
 ||infinitytrk.com^
 ||infirmaryglare.com^
 ||inflameemanent.cam^
@@ -10807,6 +10811,7 @@ vkcdnservice.appspot.com^
 ||insanityoh.com^
 ||insectadvertisesecretly.com^
 ||insectdatabasesignificantly.com^
+||inseparablelunchwasted.com^
 ||inshelmetan.com^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -11642,6 +11647,7 @@ vkcdnservice.appspot.com^
 ||ksdqhiaythajdv.com^
 ||ksharu.com^
 ||ksiywrjwvkmat.com^
+||ksznidltg.com^
 ||kt5850pjz0.com^
 ||ktautdkiixlunl.com^
 ||kthwaalso.xyz^
@@ -13186,6 +13192,7 @@ vkcdnservice.appspot.com^
 ||ncesspervice.co^
 ||nckwgmbfdwrj.xyz^
 ||ncncu.xyz^
+||ncqolgndrirg.com^
 ||nctylivpwhpby.com^
 ||ncyveuecqsan.com^
 ||ndbspfpgynbt.com^
@@ -15649,6 +15656,7 @@ vkcdnservice.appspot.com^
 ||reagend.com^
 ||reajyu.net^
 ||realignassiez.xyz^
+||reallyteenageotter.com^
 ||realmatch.com^
 ||realmedia.com^
 ||realmpallduns.com^
@@ -15661,6 +15669,7 @@ vkcdnservice.appspot.com^
 ||rearedimmortal.com^
 ||reariikosin.com^
 ||rearrangeapostrophemargarita.com^
+||reasonablelandmark.com^
 ||reasonsteamconcrete.com^
 ||reate.info^
 ||rebel.ai^
@@ -17130,6 +17139,7 @@ vkcdnservice.appspot.com^
 ||spectato.com^
 ||spectserjol.xyz^
 ||speeb.com^
+||speechfountaindigestion.com^
 ||speedsagesleepy.com^
 ||speedsupermarketdonut.com^
 ||spellingreasoningexamine.com^
@@ -17708,6 +17718,7 @@ vkcdnservice.appspot.com^
 ||tdehrjyyxhl.com^
 ||tdkrevfg.com^
 ||tdtxjhel.com^
+||tdyjngvyycaeop.com^
 ||teads.tv^
 ||teakreese.com^
 ||teambetaffiliates.com^
@@ -17890,6 +17901,7 @@ vkcdnservice.appspot.com^
 ||thistocapsy.com^
 ||thistracknet.com^
 ||thizamocu.pro^
+||thjjurggthdu.com^
 ||thoaltie.net^
 ||thoartuw.com^
 ||thodowaro.com^
@@ -18711,6 +18723,7 @@ vkcdnservice.appspot.com^
 ||unvexedmehari.com^
 ||unwartortlean.com^
 ||unwarydebite.com^
+||unwillingsnick.com^
 ||unwiseoccasionalinscribe.com
 ||unworthytongue.com^
 ||unwroteorcinus.com^
@@ -23197,6 +23210,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||poeticmetric.com^
 ||getstats.org^
 ||log-sg.bytegsdk.com^
 ||gpm-mon-sg.bytegsdk.com^
@@ -30725,7 +30739,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||plerdy.com^
 ||pnstat.com^
 ||podfdch.com^
-||poeticmetric.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
@@ -30803,7 +30816,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securitytrfx.com^
 ||seeip.org^
 ||seevolution.com^
-||selectmedia.asia^
 ||sellebrity.com^
 ||sellpoint.net^
 ||semantic-finder.com^

@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-07T07:41:58.926Z
+! Last modified: 2022-09-07T12:41:48.190Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||vuwmxjusucnh.com^
+||fssuqbylk.com^
+||tartwo.com^
 ||psapsiph.net^
 ||selectmedia.asia^
 ||aukirtoo.com^
@@ -9316,7 +9319,6 @@ vkcdnservice.appspot.com^
 ||fsalfrwdr.com^
 ||fsitel.com^
 ||fsobjvtkew.com^
-||fssuqbylk.com^
 ||fsswokpc.com^
 ||fstexydzode.com^
 ||ftalymniyqmbuyg.com^
@@ -19276,7 +19278,6 @@ vkcdnservice.appspot.com^
 ||vupyepafn.com^
 ||vutudm.com^
 ||vuuwd.com^
-||vuwmxjusucnh.com^
 ||vvmvpitjqr.com^
 ||vvqknwws.com^
 ||vvvcpueydsm.com^
@@ -22631,6 +22632,8 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||daxuetong.zone^
+||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
 ||turbo.adsbynimbus.com^
@@ -27611,6 +27614,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||ef.fanatical.com^
 ||analytics.kurocore.com^
 ||metricus.artlebedev.ru^
 ||pipe-collect.ebu.io^
@@ -41081,6 +41085,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||epdchc.cn^
 ||wujrx.xyz^
 ||dqh.ink^
+||ptzkjko.cn^
+||showcoopdb.xyz^
+||7v46.icu^
+||ykg5.cn^
+||9as3.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

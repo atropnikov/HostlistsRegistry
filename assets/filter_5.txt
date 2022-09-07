@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-09-07T13:53:46.736Z
+! Last modified: 2022-09-07T15:22:19.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1145,7 +1145,6 @@
 ||42fd278b95.com^
 ||43137c93a82b0e81da.com^
 ||4399.space^
-||43bb.activation.thepowerofhiswhisper.com^
 ||4480dy.net^
 ||4484986022.com^
 ||448kbet.com^
@@ -2984,6 +2983,7 @@
 ||actionteaser.ru^
 ||actirinius.com^
 ||activa-ghana.com^
+||activation.thepowerofhiswhisper.com^
 ||active-tracking.de^
 ||active-trk7.com^
 ||active24stats.nl^
@@ -25289,7 +25289,6 @@
 ||hide.ovh^
 ||hidebux.com^
 ||hidelen.com^
-||hidlbdcovfq.com^
 ||hieramuriel.com^
 ||hierarchymicrophonerandom.com^
 ||hieroglyph.freeuk.com^
@@ -38055,7 +38054,6 @@
 ||plightbudgethem.com^
 ||plissewali.com^
 ||plkjia.top^
-||pllofqcgpcxmx.com^
 ||plocap.com^
 ||plokr.com^
 ||plotparent.com^

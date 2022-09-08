@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-09-06T09:20:25.989Z
+! Last modified: 2022-09-08T06:02:11.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -111,6 +111,7 @@
 127.0.0.1 adtraction.com
 127.0.0.1 advert.livesportmedia.eu
 127.0.0.1 advert.rabaldermedia.se
+127.0.0.1 advertiser.adtraction.com
 127.0.0.1 adx.adform.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 af.analytics.elx.cloud

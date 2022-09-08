@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-08T02:12:07.186Z
+! Last modified: 2022-09-08T07:33:18.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||grunoaph.net^
 ||vuwmxjusucnh.com^
 ||fssuqbylk.com^
 ||tartwo.com^
@@ -30152,6 +30153,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1cros.net^
 ||2022welcome.com^
 ||2l6ddsmnm.de^
+||2smt6mfgo.de^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
@@ -30197,11 +30199,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||enthusiastgaming.net^
 ||eqy.link^
 ||ezstat.ru^
+||f27tltnd.de^
 ||fairdatacenter.de^
 ||fastemu.co^
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
+||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
 ||fpaux.net^
@@ -30227,13 +30231,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||g9706132415.co^
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
 ||glimr.io^
 ||glookup.info^
 ||googleoptimize.com^
+||hdmtools.com^
 ||hsadspixel.net^
+||hsleadflows.net^
 ||i218435.net^
 ||idx.lat^
 ||impactcdn.com^
@@ -30291,6 +30298,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbgsodufuosmmvsdf.info^
 ||seadform.net^
 ||site24x7rum.eu^
+||sitedataprocessing.com^
 ||sixtrk.com^
 ||sjpf.io^
 ||speedyfox.io^
@@ -30330,7 +30338,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||15gifts.com^
 ||247-inc.com^
 ||247-inc.net^
-||2smt6mfgo.de^
 ||3enm.com^
 ||720-trail.co.uk^
 ||a4b-tracking.com^
@@ -30552,7 +30559,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||f92j5.com^
 ||faktor.io^
 ||fdxstats.xyz^
-||fixel.ai^
 ||flaghit.com^
 ||flashb.id^
 ||flexlinkspro.com^
@@ -30609,7 +30615,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||h4k5.com^
 ||haloscan.com^
 ||havasedge.com^
-||hdmtools.com^
 ||heatmap.services^
 ||heyhelga.net^
 ||heylink.com^
@@ -30624,7 +30629,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hospitality-optimizer.com^
 ||hotjar.io^
 ||hscta.net^
-||hsleadflows.net^
 ||hudb.pl^
 ||humanpresence.app^
 ||iaudienc.com^
@@ -30895,7 +30899,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||simpleanalyticsbadge.com^
 ||simpleheatmaps.com^
 ||sirdata.io^
-||sitedataprocessing.com^
 ||siteimproveanalytics.io^
 ||siteplug.com^
 ||siteswithcontent.com^
@@ -41131,6 +41134,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jq6b.top^
 ||taozen.cn^
 ||ahp8.site^
+||666797.xyz^
+||otjkz.xyz^
+||1lx.co^
+||amtwcvh.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

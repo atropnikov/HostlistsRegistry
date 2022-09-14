@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-14T07:34:37.841Z
+! Last modified: 2022-09-14T10:24:28.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||paudaups.net^
+||ibcmwndkntf.com^
 ||mbiifzdvhexj.com^
 ||vbonyifq.com^
 ||tkrpdcjcdgucx.com^
@@ -28423,7 +28425,6 @@ vkcdnservice.appspot.com^
 ||api-analytics.rozetka.com.ua^
 ||api-stg.ensonhaber.com^
 ||api.calq.io^
-||api.data.ciceksepeti.com^
 ||api.exc.mob.com^
 ||api.flocktory.com^
 ||api.iterative.ly^
@@ -28888,6 +28889,7 @@ vkcdnservice.appspot.com^
 ||events*.cre.ma^
 ||eventstream.dodopizza.com^
 ||eventtracker.elitedaily.com^
+||evs.data.ciceksepeti.com^
 ||evt.houzz.com^
 ||exacttarget.api.mashery.com^
 ||exc.ns.nl^
@@ -32302,6 +32304,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||djibeacon.djns.com^
+||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -37311,6 +37314,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||banlamaartikoce.ml^
 ||betstadyum.com^
 ||sportframe.org^
 ||cokemoke.cf^
@@ -39686,6 +39690,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eurofun88.com^
 ||eurowin.top^
 ||f8bet0.com^
+||f8bet5.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
@@ -39949,6 +39954,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ric.win^
 ||rik.vip^
 ||rik.win^
+||rikbet789.club^
 ||rikgame.live^
 ||rikkk.net^
 ||rikvip.uk^
@@ -41748,6 +41754,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cedon2bea.xyz^
 ||nxlidc.ink^
 ||furrnbb.cn^
+||ysstnh.com^
+||seallife.club^
+||duaoxbg.cn^
+||hehehe.buzz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

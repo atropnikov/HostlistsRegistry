@@ -2,11 +2,16 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-14T12:45:04.078Z
+! Last modified: 2022-09-14T15:23:17.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||utxfajlxjbkmue.com^
+||zadauque.net^
+||skwvioutxdv.com^
+||focump.com^
+||jads.co^
 ||paudaups.net^
 ||ibcmwndkntf.com^
 ||mbiifzdvhexj.com^
@@ -11263,7 +11268,6 @@ vkcdnservice.appspot.com^
 ||jadcenter.com^
 ||jadeepso.net^
 ||jadout.com^
-||jads.co^
 ||jaftouja.net^
 ||jailershowmen.com^
 ||jainafashing.com^
@@ -12756,6 +12760,7 @@ vkcdnservice.appspot.com^
 ||mcdncoiw.com^
 ||mcdnmv.com^
 ||mcdotjezqozu.com^
+||mcmo22.com^
 ||mcning.com^
 ||mcpuwpush.com^
 ||mctotpcjwxali.com^
@@ -17548,6 +17553,7 @@ vkcdnservice.appspot.com^
 ||speop.com^
 ||sperans-beactor.com^
 ||spewyelks.com^
+||spider.ad^
 ||spidersmerithenceforward.com^
 ||spidersprimary.com^
 ||spigotsmetonym.cam^
@@ -18237,6 +18243,7 @@ vkcdnservice.appspot.com^
 ||tfdnncmhx.com^
 ||tfeluikknbiq.com^
 ||tffavlypd.xyz^
+||tffkroute.com^
 ||tfiph.com^
 ||tfjdafegolwrcr.xyz^
 ||tfla.xyz^
@@ -22663,6 +22670,7 @@ vkcdnservice.appspot.com^
 ||public.porn.fr^
 ||qsearch-a.akamaihd.net^
 ||res3.feedsportal.com^
+||revboostprocdnadsprod.azureedge.net^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
@@ -37870,6 +37878,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||twiago.com^
 ||bauernative.com^
 
+||wildwist.com^
+||d1pmhihatyvp1k.cloudfront.net^
 ||876920.com^
 ||api.sdffwef11.com^
 ||mc.mwgpg.cn^
@@ -41758,6 +41768,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||seallife.club^
 ||duaoxbg.cn^
 ||hehehe.buzz^
+||rxlidz.ink^
+||dexinyi.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -47914,6 +47926,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||iuou.myadobe.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

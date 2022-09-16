@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-09-14T07:34:43.498Z
+! Last modified: 2022-09-16T07:30:21.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -257,6 +257,7 @@
 127.0.0.1 cdn.convertbox.com
 127.0.0.1 cdn.cxense.com
 127.0.0.1 cdn.foxpush.net
+127.0.0.1 cdn.gravitec.net
 127.0.0.1 cdn.hubvisor.io
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.izooto.com

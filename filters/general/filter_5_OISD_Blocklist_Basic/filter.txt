@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-09-16T16:30:16.402Z
+! Last modified: 2022-09-16T20:23:05.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3967,7 +3967,6 @@
 ||adnium.com^
 ||adnmore.co.kr^
 ||adnoble.com^
-||adnotbad.com^
 ||adnotch.com^
 ||adnova.ru^
 ||adnow.com^
@@ -6515,7 +6514,6 @@
 ||amp.vg^
 ||ampclicks.com^
 ||ampcr.io^
-||ampl.cinotes.com^
 ||amplify-imp.outbrain.com^
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
@@ -13281,7 +13279,6 @@
 ||collector.vhx.tv^
 ||collector.wawlabs.com^
 ||collector.xhamster.com^
-||collector.xhwebsite.com^
 ||collector.xhwide1.com^
 ||collector1.afreecatv.com^
 ||collector1.xhamster.com^
@@ -13792,7 +13789,6 @@
 ||copperpolygraphforthwith.com^
 ||copush.com^
 ||copycarpenter.com^
-||copyhomework.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||copytitle.com^
@@ -13989,7 +13985,6 @@
 ||courageousartery.com^
 ||courierregistered.com^
 ||couriersticky.com^
-||coursecopy.com^
 ||courthouseworseflaw.com^
 ||cousingypsy.com^
 ||coverapparatus.com^
@@ -23625,7 +23620,6 @@
 ||icon2count.com^
 ||iconcnd.net^
 ||iconstadper.com^
-||icontent.us^
 ||icoocash.com^
 ||icorp.ro^
 ||icotrack.net^
@@ -25476,7 +25470,6 @@
 ||jsecoin.com^
 ||jsf.cnlinfo.net^
 ||jsfeedadsget.com^
-||jsfuel.com^
 ||jsfuz.com^
 ||jshbdjhfsdf77.monster^
 ||jshdbfjsdf122.monster^
@@ -27436,7 +27429,6 @@
 ||lngtd.com^
 ||lnhsjob.com^
 ||lnkfast.com^
-||lnkr.us^
 ||lnkrdr.com^
 ||lnque.xyz^
 ||lnscxrqgfyxgs.xyz^
@@ -29275,7 +29267,6 @@
 ||metrics.scribblelive.com^
 ||metrics.sp0n.io^
 ||metrics.spbtv.com^
-||metrics.surinenglish.com^
 ||metrics.tbliab.net^
 ||metrics.ted.com^
 ||metrics.timewarnercable.com^
@@ -35662,8 +35653,6 @@
 ||qinvaris.com^
 ||qinzhihao.com^
 ||qinzigenjudi.com^
-||qip.ng^
-||qip.ru^
 ||qiqipower.com^
 ||qiqivv.com^
 ||qiqiww.com^
@@ -35889,8 +35878,6 @@
 ||quitsnap-blue.com^
 ||quitzon.net^
 ||quiz.marquiz.ru^
-||quizlookup.com^
-||quiztoolbox.com^
 ||quizzicalzephyr.com^
 ||qujishu.com^
 ||quliushang.xyz^
@@ -36146,7 +36133,6 @@
 ||rat.rakuten.co.jp^
 ||rate.ru^
 ||rategeisteryc.xyz^
-||ratexchange.net^
 ||ratherdroverather.com^
 ||rathergist.com^
 ||rating.in^
@@ -38698,7 +38684,6 @@
 ||server1.extra-web.cz^
 ||server4ads.com^
 ||serveradobe.co.cc^
-||serverads.net^
 ||serverbid.com^
 ||serverscurtain.com^
 ||serversfrenchruse.com^
@@ -41034,7 +41019,6 @@
 ||stats.vk-portal.net^
 ||stats.vulture.com^
 ||stats.walytics.com^
-||stats.webgames.io^
 ||stats.webs.com^
 ||stats.webstarts.com^
 ||stats.wired.com^
@@ -41362,7 +41346,6 @@
 ||studabsently.com^
 ||studiedclovefury.com^
 ||studiostack.com^
-||studyeffect.com^
 ||studytest.icu^
 ||stuff.wikiporno.org^
 ||stuffedprofessional.com^
@@ -42196,7 +42179,6 @@
 ||takelnk.com^
 ||takeoverpushy.com^
 ||takeoverrings.com^
-||takethatad.com^
 ||takidd.site^
 ||takingbackjuly.com^
 ||takinginscriptionsit.com^
@@ -42305,6 +42287,7 @@
 ||targeting.influencemobile.com^
 ||targeting.tbt.arcpublishing.com^
 ||targeting.voxus.tv^
+||targeting.washpost.nile.works^
 ||targetingnow.com^
 ||targetix.net^
 ||targetman.ru^
@@ -42605,7 +42588,6 @@
 ||testamentfendsounding.com^
 ||testamentstrand.com^
 ||testamenttakeoutkill.com^
-||testbooksolutions.com^
 ||testcentre.vn^
 ||testcombatverge.com^
 ||testcommon.soundrussian.com^
@@ -43545,7 +43527,6 @@
 ||tr.ds.kakao.com^
 ||tr.gunosy.com^
 ||tr.infopanel.jp^
-||tr.jianshu.com^
 ||tr.junaroad.com^
 ||tr.lfeeder.com^
 ||tr.line.me^
@@ -44106,7 +44087,6 @@
 ||tradbypass.com^
 ||trade46-q.com^
 ||tradeadexchange.com^
-||tradeadsexchange.com^
 ||tradecraft.s.llnwi.net^
 ||tradeexpert.net^
 ||tradelab.fr^
@@ -45658,7 +45638,6 @@
 ||v9betasia.com^
 ||v9jvn.com^
 ||va-endpoint.com^
-||va.huya.com^
 ||vacaneedasap.com^
 ||vacationambulancekin.com^
 ||vacwrite.com^
@@ -46810,7 +46789,6 @@
 ||washingfueltorn.com^
 ||washingsuperb.com^
 ||washpiggyabdomen.com^
-||washpost.nile.works^
 ||wasm.stream^
 ||wasoffspring.com^
 ||wasp-182b.com^

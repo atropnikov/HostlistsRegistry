@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-09-21T15:23:12.772Z
+! Last modified: 2022-09-21T18:30:16.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14724,7 +14724,6 @@
 ||cmm.xmfish.com^
 ||cmmeglobal.com^
 ||cmn1lsm2.beliefnet.com^
-||cmnops.com^
 ||cmntjzf.cn^
 ||cmp.acronymfinder.com^
 ||cmp.advertising.com^
@@ -31571,7 +31570,6 @@
 ||lsyz.xyz^
 ||lszwj.top^
 ||lt.angelfire.com^
-||lt.welcos.com.pk^
 ||lt991.com^
 ||ltaaazb.cn^
 ||ltaome.cn^

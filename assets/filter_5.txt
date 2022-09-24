@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-09-24T08:26:54.747Z
+! Last modified: 2022-09-24T10:22:46.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17449,7 +17449,6 @@
 ||enmbg.com^
 ||enodiarahnthedon.com^
 ||enohb.com^
-||enoratraffic.com^
 ||enormousearth.com^
 ||enot.fyi^
 ||enot.k-yroky.ru^
@@ -17636,7 +17635,6 @@
 ||ersfyt.xyz^
 ||erstartirrel.buzz^
 ||ertdsi.cc^
-||ertya.com^
 ||ertyvaluation.lol^
 ||eru5tdmbuwxm.com^
 ||eruple.com^
@@ -20064,6 +20062,7 @@
 ||geo-targetly.com^
 ||geo.adobe.com^
 ||geo.adpushup.com^
+||geo.ertya.com^
 ||geo.go2s.co^
 ||geo.gorillanation.com^
 ||geo.hltv.org^
@@ -47158,7 +47157,6 @@
 ||wwwbigfoot.com^
 ||wwwbluelight.com^
 ||wwwbudget.com^
-||wwwcdnow.com^
 ||wwwcnnnews.com^
 ||wwwdollar.com^
 ||wwwgmacmortgage.com^

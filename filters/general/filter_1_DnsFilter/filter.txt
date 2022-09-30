@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-09-30T07:42:42.428Z
+! Last modified: 2022-09-30T12:49:32.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22971,7 +22971,6 @@ vkcdnservice.appspot.com^
 ||ads.sportradar.com^
 ||adsales.snidigital.com^
 ||adserving.unibet.com^
-||adv.r7.com^
 ||advast.sibnet.ru^
 ||adzmoney.linkyqueen.ga^
 ||aff.bstatic.com^
@@ -42468,6 +42467,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tpqokqi.cn^
 ||qwertyuadf.com^
 ||wdjptto.cn^
+||qiaohuailong.work^
+||gwwsevy.cn^
+||pajirosandal.com^
+||chenfoo.cn^
+||yumingroot.xyz^
+||q0ibic08.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2022-09-20T20:24:10.226Z
+! Last modified: 2022-10-01T17:27:43.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -219,6 +219,9 @@
 0.0.0.0 toroadvertising.com
 0.0.0.0 v1n7c.com
 0.0.0.0 yeabble.com
+0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 blueconic.net
+0.0.0.0 evolok.net
 0.0.0.0 ippen.space
 0.0.0.0 lightboxcdn.com
 0.0.0.0 onecount.net

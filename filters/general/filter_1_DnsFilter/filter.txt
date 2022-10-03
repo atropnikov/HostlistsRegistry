@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-03T06:38:03.584Z
+! Last modified: 2022-10-03T12:49:19.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3634,6 +3634,7 @@ vkcdnservice.appspot.com^
 ||adhimunc.com^
 ||adhoc4.net^
 ||adiquity.com^
+||adjaco.com^
 ||adjoincomprise.com^
 ||adjoiningrolesuspicious.com^
 ||adjointeen.com^
@@ -4339,7 +4340,6 @@ vkcdnservice.appspot.com^
 ||aluationiam.com^
 ||alwayspainfully.com^
 ||alwsbnvialll.com^
-||alwys.net^
 ||alxbgo.com^
 ||alxsite.com^
 ||alypremistand.xyz^
@@ -8621,6 +8621,7 @@ vkcdnservice.appspot.com^
 ||enginedriverhaw.com^
 ||engineseeker.com^
 ||englandhogmane.com^
+||englandrelent.com^
 ||englerbraw.com^
 ||englingedrxa.club^
 ||englishheadlight.com^
@@ -9979,6 +9980,7 @@ vkcdnservice.appspot.com^
 ||gnawinstruct.com^
 ||gnciikwdvdrbg.com^
 ||gnehataj.xyz^
+||gnkpvpjjeyrhx.com^
 ||gnoyvsielusbi.xyz^
 ||gntwnrdui.xyz^
 ||gnyergfy.com^
@@ -10225,6 +10227,7 @@ vkcdnservice.appspot.com^
 ||gtructinde.xyz^
 ||gtsads.com^
 ||gttcsifqbmqjiy.com^
+||gtxqkkxlvqmiysl.com^
 ||guabmobil.site^
 ||guaded.com^
 ||gualacaharm.com^
@@ -10295,6 +10298,7 @@ vkcdnservice.appspot.com^
 ||h3helgf2g7k8.com^
 ||h3lw971ym6.com^
 ||h5tjj3loy2.com^
+||h8brccv4zf5h.com^
 ||h8vzwpv.com^
 ||haaseavy.one^
 ||hacbfyvvsw.com^
@@ -12523,6 +12527,7 @@ vkcdnservice.appspot.com^
 ||lockfireshimself.com^
 ||lockhosts.com^
 ||lockingadmitted.com^
+||locold.com^
 ||locomotiveconvenientriddle.com^
 ||loctic.com^
 ||lodder6.biz^
@@ -12747,6 +12752,7 @@ vkcdnservice.appspot.com^
 ||machings.com^
 ||machogodynamis.com^
 ||macouwou.com^
+||maculedfalls.com^
 ||madadsmedia.com^
 ||madampassenger.com^
 ||madcpms.com^
@@ -31120,7 +31126,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
+||aaxwall.com^
 ||acsbapp.com^
+||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
 ||adnext.co^
 ||adrtx.net^
 ||adscore.com^
@@ -32648,7 +32656,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aorta.clickagy.com^
 ||api.wipmania.com^
 ||apple.www.letv.com^
-||applicationinsights.azure.com^
 ||argos.citruserve.com^
 ||attributiontrackingga.googlecode.com^
 ||audience.newscgp.com^
@@ -32885,6 +32892,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jly24aw29n5m-a.akamaihd.net^
 ||k.streamrail.com^
 ||kalstats.kaltura.com^
+||kinesis.eu-west-1.amazonaws.com^
 ||kiwi.mdldb.net^
 ||klm-ea.jscrambler.com^
 ||l.fairblocker.com^
@@ -42544,6 +42552,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||5s34y422.cn^
 ||xcaqa.xyz^
 ||ks9f.top^
+||qingshu.live^
+||qzthueo.cn^
+||strnguz.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -48694,6 +48705,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||o.027eat.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

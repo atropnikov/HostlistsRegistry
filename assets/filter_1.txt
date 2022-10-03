@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-03T01:56:27.464Z
+! Last modified: 2022-10-03T06:38:03.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17177,6 +17177,7 @@ vkcdnservice.appspot.com^
 ||sayingcoxy.com^
 ||saylnk.com^
 ||sb4you1.com^
+||sb89347.com^
 ||sbajozhyozjky.com^
 ||sbeforeuka.xyz^
 ||sbfsdvc.com^
@@ -28598,6 +28599,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||stats.video.globo.com^
 ||webstats.indigo-net.com^
 ||twstat.lifenewsjr.com^
 ||adstatistics.av380.net^
@@ -42540,6 +42542,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||05fc725q.cn^
 ||moes3quba.cyou^
 ||5s34y422.cn^
+||xcaqa.xyz^
+||ks9f.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

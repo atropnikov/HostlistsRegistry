@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-03T12:49:19.835Z
+! Last modified: 2022-10-03T13:57:59.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24881,6 +24881,7 @@ vkcdnservice.appspot.com^
 ||trackerhqu.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
+||tracker.metricool.com^
 ||counter.daara.kr^
 ||log22.makeshop.co.kr^
 ||piclick.kr^
@@ -31710,7 +31711,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediaweaver.jp^
 ||memo.co^
 ||metricode.com^
-||metricool.com^
 ||miadates.com^
 ||mixi.mn^
 ||mkt6333.com^
@@ -42555,6 +42555,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qingshu.live^
 ||qzthueo.cn^
 ||strnguz.cn^
+||wydnbnni.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

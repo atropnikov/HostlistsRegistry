@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-05T12:50:47.655Z
+! Last modified: 2022-10-05T16:52:11.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27766,6 +27766,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||trek.powtoon.com^
 ||biv.gazeta.pl^
 ||analytics.ngs55.ru^
 ||dgcollector.evidon.com^
@@ -29822,6 +29823,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||logs.gshopper.com^
 ||airlytics.airlock.twcmobile.weather.com^
 ||track.midway.run^
 ||tdid.m.qq.com^
@@ -33318,6 +33320,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||cdn.neon.click^
 ||news.truth.delivery^
 ||swfly744.info^
 ||brocode3s.com^
@@ -48833,7 +48836,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@|app.crazyegg.com^|
 @@||oa.tr.line.me^|
 @@||stash.roistat.com^|
-@@||measure.ic.tver.jp^|
 @@||static-v*.trbo.com^|
 @@||api-v*.trbo.com^|
 @@||brm-core-*.brsrvr.com^|

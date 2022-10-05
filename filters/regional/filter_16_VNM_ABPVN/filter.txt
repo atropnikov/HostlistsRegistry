@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2022-10-04T08:31:47.879Z
+! Last modified: 2022-10-05T05:50:59.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11674,6 +11674,9 @@
 0.0.0.0 ads-admin.hubs.vn
 0.0.0.0 mautic.hubs.vn
 0.0.0.0 tracking.hubs.vn
+0.0.0.0 logg4u.cnnd.vn
+0.0.0.0 sharefb.cnnd.vn
+0.0.0.0 v20.cnnd.vn
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -12066,7 +12069,6 @@
 0.0.0.0 log.zamba.vn
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logapi.misa.com.vn
-0.0.0.0 logg4u.cnnd.vn
 0.0.0.0 logging.kinhtedothi.vn
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logs.docnhanh.com.vn
@@ -12095,7 +12097,6 @@
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 sentry-track.vietnamworks.com
-0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 st-a.vtvdigital.vn

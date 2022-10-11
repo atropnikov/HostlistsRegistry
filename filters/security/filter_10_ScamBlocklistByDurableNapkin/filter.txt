@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2022-10-10T04:46:21.869Z
+! Last modified: 2022-10-11T04:43:30.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -318,9 +318,6 @@
 ||spreadstores.com^
 ||startjacket.com^
 ||startuplatte.com^
-||steamgateways.com^
-||steamunlock.com^
-||steamunlock.gifts^
 ||stellaszone.com^
 ||stingcool-com.myshopify.com^
 ||stingcool.com^
@@ -338,7 +335,6 @@
 ||supercutestuff.com^
 ||superfacehoodie.com^
 ||supperbrand.company.site^
-||surprisesandgifts.com^
 ||survivalcatsupply.com^
 ||swellsup.com^
 ||tadarick.com^

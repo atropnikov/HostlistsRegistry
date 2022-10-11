@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-10T18:34:11.637Z
+! Last modified: 2022-10-11T02:09:28.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -897,7 +897,6 @@
 ||pandanetwork.club^
 ||aj1603.online^
 ||newhigee.net^
-||agxclick.com^
 ||uptopop.com^
 ||adslop.com^
 ||holexknw.loan^
@@ -1460,12 +1459,10 @@
 ||zminer.zaloapp.com^
 vkcdnservice.appspot.com^
 ||vkcdnservice.com^
-||dexim.space^
 ||directprimal.com^
 ||acbp0020171456.page.tl^
 ||vuryua.ru^
 ||minexmr.stream^
-||gitgrub.pro^
 ||d8acddffe978b5dfcae6.date^
 ||staticsfs.host^
 ||crypta.js^
@@ -1480,12 +1477,8 @@ vkcdnservice.appspot.com^
 ||pon.ewtuyytdf45.com^
 ||appelamule.com^
 ||hhb123.tk^
-||bhzejltg.info^
-||pzoifaum.info^
-||dzizsih.ru^
 ||silimbompom.com^
 ||gasolina.ml^
-||8jd2lfsq.me^
 ||adless.io^
 ||afflow.18-plus.net^
 ||afminer.com^
@@ -1495,11 +1488,7 @@ vkcdnservice.appspot.com^
 ||bablace.com^
 ||becanium.com^
 ||brominer.com^
-||butcalve.com^
-||cdn-analytics.pl^
 ||cdn.jquery-uim.download^
-||cdn.static-cnt.bid^
-||cloudcdn.gdn^
 ||coin-have.com^
 ||coin-service.com^
 ||coinblind.com^
@@ -1515,7 +1504,6 @@ vkcdnservice.appspot.com^
 ||go.bestmobiworld.com^
 ||goldoffer.online^
 ||gridiogrid.com^
-||hallaert.online^
 ||hashing.win^
 ||hemnes.win^
 ||host.d-ns.ga^
@@ -1533,7 +1521,6 @@ vkcdnservice.appspot.com^
 ||miner.pr0gramm.com^
 ||minero.pw^
 ||minescripts.info^
-||minr.pw^
 ||monero-miner.com^
 ||nametraff.com^
 ||noblock.pro^
@@ -1543,26 +1530,20 @@ vkcdnservice.appspot.com^
 ||papoto.com^
 ||party-vqgdyvoycc.now.sh^
 ||pertholin.com^
-||playerassets.info^
 ||ppoi.org^
 ||premiumstats.xyz^
 ||projectpoi.com^
 ||questionfly.com^
-||rintinwa.com^
 ||rocks.io^
-||salamaleyum.com^
 ||serie-vostfr.com^
 ||smartoffer.site^
-||terethat.ru^
 ||thewhizproducts.com^
 ||thewise.com^
 ||traffic.tc-clicks.com^
 ||tulip18.com^
-||vcfs6ip5h6.bid^
 ||web.dle-news.pw^
 ||webmine.cz^
 ||webmining.co^
-||wp-monero-miner.de^
 ||wtm.monitoringservice.co^
 ||xbasfbno.info^
 ||xy.nullrefexcep.com^
@@ -31615,6 +31596,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||minero.cc^
 ||mining.best^
 ||mininghub.club^
+||minr.pw^
 ||mmpool.org^
 ||mollnia.com^
 ||monerise.com^
@@ -31673,6 +31655,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webmine.pro^
 ||webxmr.com^
 ||wordc.ga^
+||wp-monero-miner.de^
 ||wtmtrack.com^
 ||xfast.host^
 ||xmrpool.net^
@@ -42056,6 +42039,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qiej445.top^
 ||q7tl.icu^
 ||beryl3.cc^
+||olsynmlk.fun^
+||yywvruv.cn^
+||vcwcrd.cn^
+||hmcpub.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-11T20:26:46.760Z
+! Last modified: 2022-10-12T02:26:40.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -956,7 +956,6 @@
 ||admaster.com.cn^
 ||dup.baidustatic.com^
 ||evhj9.52av.tv^
-||ruifeng99.com^
 ||youle55.com^
 ||download.350.com^
 ||tt.biquge.la^
@@ -1164,8 +1163,6 @@
 ||rdsa2012.com^
 ||redichat.com^
 ||referrer.website^
-||restoring.club^
-||rhtag.com^
 ||rtbpopd.com^
 ||s1.adguard.com^
 ||serve.williamhill.com^
@@ -1452,7 +1449,6 @@
 ||gramombird.com^
 ||pampopholf.com^
 ||malictuiar.com^
-||proofly.win^
 ||zminer.zaloapp.com^
 vkcdnservice.appspot.com^
 ||vkcdnservice.com^
@@ -42079,6 +42075,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||niik9494.top^
 ||rxuwtiv.cn^
 ||zdx11.site^
+||elsynmlw.fun^
+||gxkfmjk.cn^
+||rmbsmxz.cn^
+||mateul.top^
+||roeaasi.cyou^
+||zdx12.site^
+||em1g.top^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

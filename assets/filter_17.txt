@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-10-10T07:39:54.477Z
+! Last modified: 2022-10-12T06:36:41.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -225,6 +225,7 @@
 127.0.0.1 cache6.riedta.com
 127.0.0.1 cameraeushop.com
 127.0.0.1 capi.connatix.com
+127.0.0.1 cargodisplayads.com
 127.0.0.1 carneoam.com
 127.0.0.1 casinotoplists.com
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io

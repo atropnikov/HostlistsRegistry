@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-10-12T18:33:12.162Z
+! Last modified: 2022-10-14T12:49:17.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -659,7 +659,6 @@
 ||ads.virtuopolitan.com^
 ||ads.vnumedia.com^
 ||ads.walkiberia.com^
-||ads.waps.cn^
 ||ads.wapx.cn^
 ||ads.watson.ch^
 ||ads.weather.ca^
@@ -1210,6 +1209,7 @@
 ||bigclicks.com^
 ||bigreal.org^
 ||billboard.cz^
+||biosda.com^
 ||bitmedianetwork.com^
 ||bizad.nikkeibp.co.jp^
 ||bizarrebaseball.com^
@@ -1657,6 +1657,7 @@
 ||edaa.eu^
 ||edgexads.com^
 ||educationdynamics.com^
+||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||eiv.baidu.com^
 ||ejyymghi.com^
@@ -2561,7 +2562,6 @@
 ||outbrain.com^
 ||overconfidentfood.com^
 ||overture.com^
-||owebanalytics.com^
 ||owebmoney.ru^
 ||owlsr.us^
 ||owneriq.net^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-17T02:32:23.144Z
+! Last modified: 2022-10-17T12:52:55.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23240,6 +23240,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||events.il.fi^
+||network.screen13.com^
 ||tracker.gleanview.com^
 ||pahtag.tech^
 ||rtc.dymatrix.cloud^
@@ -27647,6 +27649,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics-tracking.meetup.com^
 ||beacon.dropbox.com^
 ||log.hypebeast.com^
 ||tracker.remp-beam.golem.de^
@@ -31847,6 +31850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||djibeacon.djns.com^
+||dl.episerver.net^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -33049,6 +33053,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dbex-tracker-v2.driveback.ru^
 ||delivery.hunterycity.com^
 ||error.videonow.ru^
+||log.kslogs.ru^
 ||metrics.aviasales.ru^
 ||piper.amocrm.ru^
 ||s.agava.ru^
@@ -38033,6 +38038,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pronostici.app^
 ||prontocampaign.com^
 ||publy.net^
+||pushly.it^
+||raddoppia-bitcoin.click^
 ||raddoppia-bitcoin.pro^
 ||radxcomm.com^
 ||rcsadv.it^
@@ -41855,6 +41862,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||weiaati.cyou^
 ||hwanjia.com^
 ||zo6g.top^
+||jingdoudou.shop^
+||xgbqbdp.cn^
+||xleqs.xyz^
+||dahaifa.com^
+||sm45k.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -47555,6 +47567,8 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||news.imgsina.com^
+||datas.tianqistatic.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

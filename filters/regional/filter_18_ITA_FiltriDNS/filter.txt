@@ -2,7 +2,7 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2022-10-02T04:41:04.834Z
+! Last modified: 2022-10-18T08:37:01.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -101,6 +101,8 @@
 0.0.0.0 pronostici.app
 0.0.0.0 prontocampaign.com
 0.0.0.0 publy.net
+0.0.0.0 pushly.it
+0.0.0.0 raddoppia-bitcoin.click
 0.0.0.0 raddoppia-bitcoin.pro
 0.0.0.0 radxcomm.com
 0.0.0.0 rcsadv.it

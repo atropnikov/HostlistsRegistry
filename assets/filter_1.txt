@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-18T18:37:15.647Z
+! Last modified: 2022-10-19T02:19:46.552Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27752,6 +27752,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||event.csdn.net^
 ||telem.sre.gopuff.com^
 ||clarice.streema.com^
 ||mstm.motorsport.com^
@@ -29661,7 +29662,6 @@ vkcdnservice.appspot.com^
 ||ui.oix.net^
 ||uid.mavencoalition.io^
 ||uie.data.cbc.ca^
-||user-rating.burda-forward.de^
 ||ut.gamersyde.com^
 ||ut.o2.pl^
 ||uue2.destinia.ir^
@@ -32254,6 +32254,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.itweb.co.za^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
+||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
 ||stats.ozwebsites.biz^
@@ -42019,6 +42020,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzpwwbf.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||lqrvkxk.cn^
+||yowbbxi.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

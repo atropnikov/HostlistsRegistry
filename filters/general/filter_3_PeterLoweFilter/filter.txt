@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-10-14T16:34:55.746Z
+! Last modified: 2022-10-21T11:21:14.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -317,7 +317,6 @@
 ||adnet.biz^
 ||adnet.de^
 ||adnet.ru^
-||adnetinteractive.com^
 ||adnetwork.net^
 ||adnetworkperformance.com^
 ||adnews.maddog2000.de^
@@ -557,7 +556,6 @@
 ||ads.newmedia.cz^
 ||ads.newsint.co.uk^
 ||ads.newsquest.co.uk^
-||ads.ninemsn.com.au^
 ||ads.nj.com^
 ||ads.nola.com^
 ||ads.nordichardware.com^
@@ -2059,7 +2057,6 @@
 ||insightexpress.com^
 ||insightexpressai.com^
 ||inskinad.com^
-||inslco.bar^
 ||inspectlet.com^
 ||install.365-stream.com^
 ||instantmadness.com^
@@ -2464,6 +2461,7 @@
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
+||newsadsppush.com^
 ||newsletter-link.com^
 ||newstarads.com^
 ||newt1.adultadworld.com^
@@ -2564,6 +2562,7 @@
 ||outbrain.com^
 ||overconfidentfood.com^
 ||overture.com^
+||owebanalytics.com^
 ||owebmoney.ru^
 ||owlsr.us^
 ||owneriq.net^
@@ -2630,7 +2629,6 @@
 ||piet2eix3l.com^
 ||pietexture.com^
 ||pimproll.com^
-||ping.ublock.org^
 ||pipedream.wistia.com^
 ||pippio.com^
 ||piquantpigs.com^
@@ -2654,7 +2652,6 @@
 ||pluckypocket.com^
 ||pluckytaste.com^
 ||plugrush.com^
-||pocketmath.com^
 ||pointlesshour.com^
 ||pointroll.com^
 ||pokkt.com^
@@ -3419,7 +3416,6 @@
 ||trickycelery.com^
 ||triplelift.com^
 ||triptease.io^
-||trk.bad-tool-tell-doubt.xyz^
 ||trk.bc.shutterfly.com^
 ||trk.bee-data.com^
 ||trk.pinterest.com^

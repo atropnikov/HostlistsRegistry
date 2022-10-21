@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-21T06:40:12.779Z
+! Last modified: 2022-10-21T12:50:03.950Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4505,6 +4505,7 @@ vkcdnservice.appspot.com^
 ||bleaborahm.one^
 ||bleachfamouszinc.com^
 ||bleandworld.xyz^
+||bleedingofficecontagion.com^
 ||bleinu.com^
 ||blendorbraker.com^
 ||blenkbenched.casa^
@@ -7873,6 +7874,7 @@ vkcdnservice.appspot.com^
 ||f00f00.bar^
 ||f01ed651eca.com^
 ||f1721037a5.com^
+||f19013235f.com^
 ||f1a75ead16.com^
 ||f250b19813.com^
 ||f270d8d863.com^
@@ -8424,6 +8426,7 @@ vkcdnservice.appspot.com^
 ||fraudclatterflying.com^
 ||frbyvuxzvmqpb.com^
 ||freakspybad.com^
+||frecketbouser.com^
 ||free-domain.net^
 ||freebiesurveys.com^
 ||freecouponbiz.com^
@@ -11279,6 +11282,7 @@ vkcdnservice.appspot.com^
 ||laydowngabriel.com^
 ||layer-ad.org^
 ||layerloop.com^
+||layingprocuregather.com^
 ||lazieslapp.com^
 ||lazyovertime.com^
 ||lbampvjuvfv.com^
@@ -11483,6 +11487,7 @@ vkcdnservice.appspot.com^
 ||linkrotation.ru^
 ||linksecurecd.com^
 ||linksoftbox.ru^
+||linnechaya.com^
 ||linurk.com^
 ||liofypwnko.com^
 ||liongetme.com^
@@ -14559,6 +14564,7 @@ vkcdnservice.appspot.com^
 ||poundaroseflight.com^
 ||pouneeso.com^
 ||pourdear.com^
+||poutauge.net^
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
@@ -15292,6 +15298,7 @@ vkcdnservice.appspot.com^
 ||r66net.com^
 ||r66net.net^
 ||r932o.com^
+||rabidamoral.com^
 ||rablinhiphape.com^
 ||raccourir.xyz^
 ||racesstuffing.com^
@@ -32885,6 +32892,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trugaze.io^
 ||2222.ro^
 ||2parale.ro^
+||attr-2p.com^
 ||profitshare.ro^
 ||zontera.com^
 ||24smi.info^
@@ -33398,6 +33406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||nkstkp.com^
 ||riseup-t-code.com^
 ||fartmoda.com^
 ||feneteko.com^
@@ -42531,6 +42540,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jz8b.top^
 ||zcrui.com^
 ||gangtabli.top^
+||sanlida.asia^
+||byrprsi.cn^
+||jsnignsa.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

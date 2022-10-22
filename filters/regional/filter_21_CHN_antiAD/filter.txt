@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2022-10-21T11:21:19.996Z
+! Last modified: 2022-10-22T07:25:43.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -221,7 +221,6 @@
 ||duomeng*.*^
 ||dwtrack*.*^
 ||guanggao*.*^
-||lianmeng*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
@@ -1292,6 +1291,7 @@
 ||agd.p.360.cn^
 ||agd2.p.360.cn^
 ||api.shuaji.360.cn^
+||lianmeng.360.cn^
 ||c.sayhi.360.cn^
 ||click.stat.hao.360.cn^
 ||cm.dmp.360.cn^
@@ -29120,6 +29120,8 @@
 ||lianka.cn^
 ||lianle.com^
 ||lianliankanms.top^
+||lianmeng.com^
+||img3.lianmengma.com^
 ||lianruntang.cn^
 ||lianwangtech.com^
 ||dm.lianzhixiu.com^

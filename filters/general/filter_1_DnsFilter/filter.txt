@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-24T06:59:11.410Z
+! Last modified: 2022-10-24T12:52:32.151Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||cosatoos.com^
+||jcdhgpqglpjwh.xyz^
 ||favorable-sample.com^
 ||wrigin.com^
 ||yljyjadlx.com^
@@ -15602,7 +15604,6 @@ vkcdnservice.appspot.com^
 ||rayrecollect.com^
 ||razdvabm.com^
 ||razuphyju.com^
-||rb.gy^
 ||rbnt.org^
 ||rboundgypster.com^
 ||rbthre.work^
@@ -21797,6 +21798,7 @@ vkcdnservice.appspot.com^
 ||javbuzz.com^
 ||jewishcontentnetwork.com^
 ||jivox.com^
+||jobbio.com^
 ||jubna.com^
 ||juicyads.com^
 ||kaprila.com^
@@ -21894,6 +21896,7 @@ vkcdnservice.appspot.com^
 ||mp3zik.net^
 ||mpuls.ru^
 ||multiview.com^
+||musody.com^
 ||myaffiliates.com^
 ||myopenads.com^
 ||n2s.co.kr^
@@ -22077,6 +22080,7 @@ vkcdnservice.appspot.com^
 ||registered-spotters-build.com^
 ||relytec.com^
 ||republer.com^
+||resetoff.pl^
 ||revcontent.com^
 ||revenueflex.com^
 ||revenuegiants.com^
@@ -22423,6 +22427,7 @@ vkcdnservice.appspot.com^
 ||webgains.com^
 ||weborama.fr^
 ||weborama.io^
+||webshark.pl^
 ||webtrafic.ru^
 ||webwap.org^
 ||whatfinger.com^
@@ -23726,6 +23731,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||f4cebacks.com^
 ||pixmg.com^
 ||serveipqs.com^
 ||insights-collector.newrelic.com^
@@ -24581,7 +24587,6 @@ vkcdnservice.appspot.com^
 ||analytics.jst.ai^
 ||freshmarketer.com^
 ||pepperjam.com^
-||pj.l.a8723.com^
 ||causecherry.com^
 ||agreeabletouch.com^
 ||popt.in^
@@ -28139,6 +28144,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||click.e.change.org^
 ||cryo.socialblade.com^
 ||sp.welcometothejungle.com^
 ||analytics.evolution-x.org^
@@ -30680,6 +30686,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
+||a8723.com^
 ||aaxwall.com^
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
@@ -48497,7 +48504,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hiad.vmall.com^
 ||hz.shouyoutv.com^
 ||hzhyhm.com^
-||i.wuhaolin.cn^
 ||iads.xinmin.cn^
 ||idcot.com^
 ||img.3sjt.com^

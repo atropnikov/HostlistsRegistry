@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-24T12:52:32.151Z
+! Last modified: 2022-10-24T15:28:47.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23731,6 +23731,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pixel.ipinfo.io^
 ||f4cebacks.com^
 ||pixmg.com^
 ||serveipqs.com^
@@ -24259,6 +24260,8 @@ vkcdnservice.appspot.com^
 ||giocdn.com^
 ||rum.conde.io^
 ||ana.mediable.info^
+||campaigns-collector.albacross.com^
+||new-collect.albacross.com^
 ||pv.kuaizhan.com^
 ||eventsapi.grocerkey.com^
 ||dc-tag.jp^
@@ -28144,6 +28147,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||mxpl.9gag.com^
 ||click.e.change.org^
 ||cryo.socialblade.com^
 ||sp.welcometothejungle.com^
@@ -28625,6 +28629,7 @@ vkcdnservice.appspot.com^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect-test.arabam.com^
+||collect.albacross.com^
 ||collect.data.tm-awx.com^
 ||collect.igodigital.com^
 ||collect.tianya.cn^
@@ -30602,6 +30607,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.analytics.omgpop.com^
 ||api.appsee.com^
 ||api.apptentive.com^
+||api.branch.io^
+||api2.branch.io^
 ||api.crittercism.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
@@ -38527,7 +38534,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affiliatemedia.speedybet.com^
 ||affiliator.com^
 ||ai.idg.se^
-||albacross.com^
 ||ambassador.referralhero.com^
 ||amd.sellingsimplified.net^
 ||analytics.ciseway.se^
@@ -38571,7 +38577,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmbstatic.blob.core.windows.net^
 ||boost-cdn.manatee.dk^
 ||borsvarlden-banners.azurewebsites.net^
-||branch.io^
 ||brandy.bonniernewslifestyle.se^
 ||brews.marketale.com^
 ||browser.covatic.io^
@@ -38615,7 +38620,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cision.com^
 ||claremontspringstreet.com^
 ||classic.avantlink.com^
-||clickdimensions.com^
 ||cmp.network-n.com^
 ||collect.breakit.se^
 ||collector.cint.com^
@@ -38675,7 +38679,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||investerarbrevet.se^
 ||inxy.run^
 ||ion.btcswe.com^
-||ipinfo.io^
 ||js.pafpartners.com^
 ||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
@@ -38693,7 +38696,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leiki-doubleclick-proxy.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
-||litix.io^
 ||ljuskompaniet.se^
 ||loader.wisepops.com^
 ||log.cookieyes.com^
@@ -38784,7 +38786,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.ntv.io^
 ||sak.userreport.com^
 ||salesbooster.ai^
-||salesmanago.pl^
 ||sannsyn.com^
 ||sbs.deliveryengine.adswizz.com^
 ||science.omni.se^
@@ -38850,7 +38851,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tr.apsisforms.com^
 ||track.addevent.com^
 ||track.postkodlotteriet.se^
-||trackcmp.net^
 ||tracker.gamedock.io^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
@@ -38861,7 +38861,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trafikstyrelsen.com^
 ||trckr1.nordiskemedier.dk^
 ||trn.ninja^
-||try.abtasty.com^
 ||ubembed.com^
 ||umami.nordiskehandel.cloud^
 ||unformsy.mobi^
@@ -42925,6 +42924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||esnignsw.xyz^
 ||x29l.top^
 ||shangrongxin.cn^
+||nrjzkj.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -49449,26 +49449,21 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cnt.vivatube.com^
 ||collect.sas.com^
 ||collect2.sas.com^
-||log.optimizely.com^
 ||log.prezi.com^
 ||logdev.openload.co^
 ||logger-*.dailymotion.com^
 ||metric*.rediff.com^
 ||pixel.redditmedia.com^
 ||s2.youtube.com^
-||sa.bbc.co.uk^
-||sa.bbc.com^
 ||sp.usatoday.com^
 ||stats.redditmedia.com^
 ||stats.wwitv.com^
 ||t.9gag.com^
-||t.appsflyer.com^
 ||t.delfi.
 ||t.vimeo.com^
 ||track.zalando.
 ||tracking.olx.
 ||adocean.cz^
-||tt.onthe.io^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||vahufapave.com^
 ||cewegncr.com^
@@ -49519,7 +49514,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||thumbnail.thench.net^|
 @@||validate.perfdrive.com^|
 @@||ia.hit.interia.pl^|
-@@||r.sascdn.com^|
 @@||analytics.amplitude.com^|
 @@|adsterra.com^|
 @@|ads.adsterra.com^|
@@ -49583,7 +49577,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||cindyholbrook.lpages.co^|
 @@||pagead.l.doubleclick.net^|
 @@||www.googleadservices.com^|
-@@||googleadapis.l.google.com^|
 @@||my.tealiumiq.com^|
 @@||artifactory.appodeal.com^|
 @@||www.jdoqocy.com^|
@@ -49593,13 +49586,11 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||forum.notebookreview.com^|
 @@||radiofrance.targetspot.com^|
 @@||awin1.com^|
-@@||app.adjust.com^|
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||guce.advertising.com^
 @@||blog.logrocket.com^|
 @@||a.adwolf.ru^|
-@@||imasdk.googleapis.com^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
 @@||ads.tdbank.com^
@@ -49610,5 +49601,4 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||str.hit.gemius.pl^|
 @@||track.rutarget.ru^|
 @@||5471782.fls.doubleclick.net^|
-@@||h-sdk.online-metrix.net^|
 @@||omniture.walmart.com^|

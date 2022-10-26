@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-10-26T14:25:40.558Z
+! Last modified: 2022-10-26T19:16:47.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5672,7 +5672,6 @@
 ||ads.rediff.com^
 ||ads.register.com^
 ||ads.rekmob.com^
-||ads.revjet.com^
 ||ads.roanoke.com^
 ||ads.roblox.com^
 ||ads.roiserver.com^
@@ -48170,7 +48169,6 @@
 ||rm.aarki.net^
 ||rm.recs.richrelevance.com^
 ||rm4b.top^
-||rma.homedepot.com^
 ||rmads.msn.com^
 ||rmarketing.com.br^
 ||rmawm7mw.top^

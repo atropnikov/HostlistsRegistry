@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-25T18:53:51.913Z
+! Last modified: 2022-10-26T02:01:45.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22901,6 +22901,7 @@ vkcdnservice.appspot.com^
 ||d347nuc6bd1dvs.cloudfront.net^
 ||d34rdvn2ky3gnm.cloudfront.net^
 ||d359wjs9dpy12d.cloudfront.net^
+||d35kbxc0t24sp8.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
@@ -28197,6 +28198,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||intake-analytics.wikimedia.org^
+||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
 ||click.e.change.org^
@@ -32511,7 +32514,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||insights.plista.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
-||intake-analytics.wikimedia.org^
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||ipapi.tmbi.com^
@@ -42993,6 +42995,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzycj.com^
 ||zzyl.mobi^
 ||zzzhuoxiaqu.online^
+||egnlaigw.fun^
+||wvubjgl.cn^
+||udeoenm.cn^
+||jmged.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

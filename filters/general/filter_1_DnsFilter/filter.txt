@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-26T12:49:51.873Z
+! Last modified: 2022-10-26T15:23:00.836Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||appalspowters.com^
+||htthereflewove.xyz^
 ||viaqoo.tech^
 ||hisurnhuh.com^
 ||scentedindication.com^
@@ -23782,6 +23784,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tracking3.vnncdn.net^
+||analytics.dap-networks.de^
+||analytics.algolia.com^
+||t.360.audion.fm^
 ||withcabin.com^
 ||pixel.ipinfo.io^
 ||f4cebacks.com^
@@ -28199,6 +28205,10 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||lists.ccmbg.com^
+||track-srv.vietnamnet.vn^
+||stats.zone-telechargement.
+||stats.tirexo.blue^
 ||cnt.streamz.ws^
 ||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
@@ -29782,8 +29792,6 @@ vkcdnservice.appspot.com^
 ||stats.wwd.com^
 ||stats.ynet.co.il^
 ||stats.zmags.com^
-||stats.zone-telechargement.click^
-||stats.zone-telechargement.work^
 ||stats01.20min.ch^
 ||stats1.wpmudev.com^
 ||stats2.arstechnica.com^
@@ -33453,7 +33461,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
 ||stats.ipmgroup.be^
-||t.360.audion.fm^
 ||t.ofsys.com^
 ||tag.goldenbees.fr^
 ||tag.leadplace.fr^
@@ -33681,7 +33688,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||informers.sinoptik.ua^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
-||tracking3.vnncdn.net^
 ||za.zdn.vn^
 
 ||publi.atresmediapublicidad.com^
@@ -40792,7 +40798,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||toppage.vn^
 ||tr.topdevvn.com^
 ||tracer.concung.com^
-||track-srv.vietnamnet.vn^
 ||track.adshay.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^

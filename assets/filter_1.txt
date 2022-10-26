@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-26T06:30:13.814Z
+! Last modified: 2022-10-26T12:49:51.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||viaqoo.tech^
 ||hisurnhuh.com^
 ||scentedindication.com^
 ||eiyoatxbrbyu.com^
@@ -28198,6 +28199,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||cnt.streamz.ws^
 ||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
@@ -32551,6 +32553,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lore.circulate.com^
 ||lucid.mjhassoc.com^
 ||lunametrics.wpengine.netdna-cdn.com^
+||m.stripe.com^
 ||ma.logsss.com^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
@@ -32637,6 +32640,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
+||r.stripe.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||refer.ccbill.com^
@@ -33434,6 +33438,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zs.dhl.de^
 ||affiliation.planethoster.info^
 ||analytics.valiuz.com^
+||at.360.audion.fm^
 ||btstats.devtribu.fr^
 ||calotag.com^
 ||collect-v6.51.la^
@@ -33448,6 +33453,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
 ||stats.ipmgroup.be^
+||t.360.audion.fm^
 ||t.ofsys.com^
 ||tag.goldenbees.fr^
 ||tag.leadplace.fr^
@@ -33675,8 +33681,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||informers.sinoptik.ua^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
+||tracking3.vnncdn.net^
 ||za.zdn.vn^
 
+||publi.atresmediapublicidad.com^
 ||landings.zcoptry.com^
 ||banners.inforchannel.com.br^
 ||popunder.online^
@@ -33881,7 +33889,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||byevkj.com^
 ||y8lsyibocd.ru^
 ||major-t-code.com^
-||viaqoo.tech^
 ||chicgar.info^
 ||iwe.ktvgv.com^
 ||mowunai.ru^
@@ -39595,7 +39602,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracking.tv.zing.vn^
 ||tracking.vnncdn.net^
 ||tracking2.vnncdn.net^
-||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
 ||urekamedia.com^
 ||v20.cnnd.vn^
@@ -43008,6 +43014,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qsnignsy.xyz^
 ||kl87n.xyz^
 ||682891.com^
+||wk4y.cn^
+||srbzw.cn^
+||6v6.work^
+||u0082.com^
+||bj-gov-cn.website^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -43413,7 +43424,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||8zhou.wang^
 ||90158js.com^
 ||910weixin.com^
-||9136.com^
 ||9191919199.com^
 ||91cy.top^
 ||91eto.xyz^

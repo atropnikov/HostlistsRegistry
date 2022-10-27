@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-27T06:27:43.455Z
+! Last modified: 2022-10-27T12:48:43.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||grootcho.com^
+||zausosti.net^
+||kwyuivlaychxe.com^
 ||sonic-ui.highereducation.com^
 ||appalspowters.com^
 ||htthereflewove.xyz^
@@ -9318,7 +9321,6 @@ vkcdnservice.appspot.com^
 ||groomoub.com^
 ||grooptie.com^
 ||grooseem.net^
-||grootcho.com^
 ||groowzer.com^
 ||gropsanyda.com^
 ||grosseaffiche.com^
@@ -28216,6 +28218,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||track1.avplayer.com^
+||sgtm.simoahava.com^
 ||lists.ccmbg.com^
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
@@ -37231,6 +37235,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 
+||relap.mail.ru^
 ||api.ucheba.ru^
 ||banners.tapclap.com^
 ||compare.meteoservice.ru^
@@ -37434,6 +37439,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vozer.voffka.com^
 ||vw.onlinia.net^
 
+||ini.sm-nat.com^
 ||smi24.kz^
 ||virtonnews.com^
 ||top-js-metrics.top.my.ua^

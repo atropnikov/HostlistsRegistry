@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-10-21T11:21:14.484Z
+! Last modified: 2022-10-28T12:47:09.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -911,6 +911,7 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
+||adzones.com^
 ||adzrevads.com^
 ||aerserv.com^
 ||af-ad.co.uk^
@@ -1493,7 +1494,6 @@
 ||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
-||cp.abbp1.pw^
 ||cpalead.com^
 ||cpays.com^
 ||cpmstar.com^
@@ -1613,7 +1613,6 @@
 ||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsponsor.com^
-||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
@@ -2085,7 +2084,6 @@
 ||is-tracking-pixel-api-prod.appspot.com^
 ||itop.cz^
 ||its-that-easy.com^
-||iubzka.online^
 ||ivwbox.de^
 ||ivykiosk.com^
 ||iyfnzgb.com^
@@ -2199,6 +2197,7 @@
 ||linkrain.com^
 ||linkreferral.com^
 ||links-ranking.de^
+||linkshighway.com^
 ||linkstorms.com^
 ||linkswaper.com^
 ||linktarget.com^
@@ -2576,7 +2575,6 @@
 ||padsbrown.com^
 ||pagead.l.google.com^
 ||pagefair.com^
-||pagefair.net^
 ||pagerank-ranking.de^
 ||pageranktop.com^
 ||paleleaf.com^
@@ -3403,7 +3401,6 @@
 ||tranquilside.com^
 ||travis.bosscasinos.com^
 ||trck.a8.net^
-||trcked.me^
 ||trcklion.com^
 ||treasuredata.com^
 ||trekdata.com^
@@ -3416,6 +3413,7 @@
 ||trickycelery.com^
 ||triplelift.com^
 ||triptease.io^
+||trk.bad-tool-tell-doubt.xyz^
 ||trk.bc.shutterfly.com^
 ||trk.bee-data.com^
 ||trk.pinterest.com^

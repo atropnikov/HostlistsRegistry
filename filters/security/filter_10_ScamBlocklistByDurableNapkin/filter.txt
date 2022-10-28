@@ -2,11 +2,12 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2022-10-27T04:50:47.400Z
+! Last modified: 2022-10-28T05:30:48.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dizcord.gift^
 ||1stireland.com^
 ||1sttheworld.com^
 ||acquatee.com^

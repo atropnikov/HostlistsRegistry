@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-31T06:27:34.408Z
+! Last modified: 2022-10-31T10:24:30.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -29305,6 +29305,7 @@ vkcdnservice.appspot.com^
 ||host*.nti.nl^
 ||host*.polaroid.com^
 ||host*.rvshare.com^
+||host*.rigbyandpeller.com^
 ||howmanyview.com^
 ||hrumpoc.hotels.com^
 ||hstats.hepsiburada.com^
@@ -38911,7 +38912,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d9v72urx9pbbc.cloudfront.net^
 ||d33s3ffr7fotas.cloudfront.net^
 ||dackpartner-web.s3.amazonaws.com^
-||dash.sparkloop.app^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
 ||di.insplanet.com^
@@ -43300,6 +43300,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eysgrje.cn^
 ||oqshoyd.cn^
 ||jieshareme.xyz^
+||vrmgwvz.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -49868,6 +49869,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||js.monitor.azure.com^|
 @@||link.morningbrew.com^|
 @@||click.appcast.io^|
 @@||public-cis.exponea.com^|

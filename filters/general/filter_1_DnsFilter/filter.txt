@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-10-31T12:46:59.705Z
+! Last modified: 2022-10-31T15:22:48.293Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5801,6 +5801,7 @@ vkcdnservice.appspot.com^
 ||cmnfybfjn.xyz^
 ||cmpgns.net^
 ||cmrdr.com^
+||cms100.xyz^
 ||cmtrsrlyyiche.com^
 ||cncflpfw.com^
 ||cndeccsqtmjyh.com^
@@ -16279,6 +16280,7 @@ vkcdnservice.appspot.com^
 ||rivulussati.com^
 ||rixaka.com^
 ||riycecerfpjreyx.xyz^
+||rjduwnkfxuumg.com^
 ||rjhbcghmln.com^
 ||rjoawidlneitc.com^
 ||rjstusbx.com^
@@ -38854,7 +38856,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||annonsera.kyrkanstidning.se^
 ||anonymousdemographics.com^
 ||api.getlevelten.com^
-||api.ipify.org^
 ||app.converdiant.com^
 ||apps.shareaholic.com^
 ||aquaplatform.com^
@@ -43323,6 +43324,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||oqshoyd.cn^
 ||jieshareme.xyz^
 ||vrmgwvz.cn^
+||ognlaigk.fun^
+||lpxmall.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

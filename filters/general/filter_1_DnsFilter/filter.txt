@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-01T06:32:02.840Z
+! Last modified: 2022-11-01T12:49:07.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28484,6 +28484,10 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||log.etoday.co.kr^
+||u.zhugeapi.net^
+||ubak.zhugeapi.net^
+||zgsdk.zhugeio.com^
 ||track1.avplayer.com^
 ||sgtm.simoahava.com^
 ||lists.ccmbg.com^
@@ -37758,6 +37762,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||jetv.xyz^
 ||lider90.com^
 ||diken.xyz^
 ||likevertising.com^
@@ -43392,6 +43397,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||txzlc.cn^
 ||ftanya.ltd^
 ||shouyefrom.xyz^
+||ixuchch.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

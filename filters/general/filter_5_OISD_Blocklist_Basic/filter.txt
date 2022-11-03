@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-03T18:31:29.891Z
+! Last modified: 2022-11-03T23:22:20.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9422,6 +9422,7 @@
 ||ad.wz.cz^
 ||ad.xbooks.to^
 ||ad.xdomain.ne.jp^
+||ad.xiaomi.com^
 ||ad.xrea.com^
 ||ad.yemeksepeti.com^
 ||ad.za.doubleclick.net^
@@ -14700,7 +14701,6 @@
 ||api.abcxs.org^
 ||api.accengage.com^
 ||api.ad-locus.com^
-||api.ad.xiaomi.com^
 ||api.adcalls.nl^
 ||api.addthis.com^
 ||api.adintext.net^
@@ -20909,8 +20909,6 @@
 ||cheap-xanax-here.blogspot.com^
 ||cheapapartmentsaroundme.com^
 ||cheapenleaving.com^
-||cheapestcbdcapsule.com^
-||cheaphighcbdrolls.com^
 ||cheaptop.ru^
 ||cheatingagricultural.com^
 ||cheatingbelievesseem.com^
@@ -27313,7 +27311,6 @@
 ||e-webtrack.net^
 ||e-zeitung.de^
 ||e.60sk.ru^
-||e.ad.xiaomi.com^
 ||e.apsalar.com^
 ||e.baidu.com^
 ||e.cquotient.com^
@@ -29319,7 +29316,6 @@
 ||fabet77.net^
 ||fabet88.net^
 ||fabetvn.com^
-||fabricanacionaldemunecos.com^
 ||fabricmedia.ru^
 ||fabrifolder.com^
 ||fabrkrup.com^
@@ -32231,7 +32227,6 @@
 ||globaladmedia.net^
 ||globaladsales.com^
 ||globaladv.net^
-||globalapi.ad.xiaomi.com^
 ||globalautoland.com.np^
 ||globalbuffer.com^
 ||globalcharge.com^
@@ -40384,7 +40379,6 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log-vietnamplus-vn.cdn.ampproject.org^
-||log.ad.xiaomi.com^
 ||log.ads-m.net^
 ||log.ajunews.com^
 ||log.anninhthudo.vn^
@@ -54242,7 +54236,6 @@
 ||sdk.streamrail.com^
 ||sdk.zadn.vn^
 ||sdkapi.netmera.com^
-||sdkconfig.ad.xiaomi.com^
 ||sdkfjxjertertry.com^
 ||sdklog.tvstore.opera.com^
 ||sdks.stats-locations.com^
@@ -60966,7 +60959,6 @@
 ||track.99acres.com^
 ||track.accesstrade.vn^
 ||track.ad.nl^
-||track.ad.xiaomi.com^
 ||track.adition.com^
 ||track.adshay.vn^
 ||track.adspire.io^
@@ -61716,7 +61708,6 @@
 ||trailheadapp.com^
 ||trailjim.com^
 ||training.globodyinc.biz^
-||trainingin-chennai.co.in^
 ||trainspersuasiveknitting.com^
 ||trainsregardless.com^
 ||traiteuraya.com^
@@ -68170,7 +68161,6 @@
 ||zeti.com^
 ||zettapetta.com^
 ||zeulo.anime-extremo.com^
-||zeus.ad.xiaomi.com^
 ||zeus.developershed.com^
 ||zeusclicks.com^
 ||zeusopuh.com^

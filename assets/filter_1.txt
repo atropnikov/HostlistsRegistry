@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-03T06:26:48.590Z
+! Last modified: 2022-11-03T12:42:49.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||aglagzoq.com^
+||monkeysloveyou.com^
+||robsardri.com^
+||morningglory101.io^
 ||3c5.com^
 ||kzsfip3v.cfd^
 ||lephaush.net^
@@ -13208,7 +13212,6 @@ vkcdnservice.appspot.com^
 ||moneycosmos.com^
 ||moneymakercdn.com^
 ||monkeybroker.net^
-||monkeysloveyou.com^
 ||monksentrance.com^
 ||monkyank.com^
 ||monocotwhorry.com^
@@ -28978,6 +28981,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.mall.tv^
 ||log.etoday.co.kr^
 ||u.zhugeapi.net^
 ||ubak.zhugeapi.net^
@@ -38261,6 +38265,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||referans.xyz^
 ||jetv.xyz^
 ||lider90.com^
 ||diken.xyz^
@@ -43911,6 +43916,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ezxws.cyou^
 ||xcvhy.xyz^
 ||fafa1688.xyz^
+||rawgsjd.cn^
+||mingtians.top^
+||kuaile789.ink^
+||qstzar.cn^
+||rsnignsz.xyz^
+||qnieo.fun^
+||simi456.me^
+||simi567.me^
+||smtwm61.com^
+||lgnlaigl.fun^
+||vciddepi.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^

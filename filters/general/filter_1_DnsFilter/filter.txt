@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-09T02:00:01.985Z
+! Last modified: 2022-11-09T06:31:51.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||iigmlx.com^
 ||maturecodes.com^
 ||ojqbnqdwycws.com^
 ||mpmqqbinaakpsqu.xyz^
@@ -41299,7 +41300,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adsbanner.game.zing.vn^
 ||adsota.com^
 ||adsplay.net^
-||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
@@ -41400,7 +41400,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
 ||matomo.*.vn^
-||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
@@ -41659,6 +41658,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bigwinvietnam.com^
 ||bk8.live^
 ||bk8c.com^
+||bk8p.com^
 ||bk8vietnam.com^
 ||bk8vnd.com^
 ||bogcuoc.com^
@@ -41711,6 +41711,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dk8.games^
 ||dk8.link^
 ||dk802.com^
+||dk8815.com^
 ||dola88.info^
 ||ebet.com^
 ||eclbet02.com^
@@ -42775,6 +42776,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dsfhr.xyz^
 ||u09.xyz^
 ||516624.com^
+||i46.xyz^
+||renxingganwu.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

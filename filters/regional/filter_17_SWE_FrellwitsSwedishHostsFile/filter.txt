@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-11-07T12:44:22.177Z
+! Last modified: 2022-11-10T07:18:49.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -216,6 +216,7 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 bs.serving-sys.com
+127.0.0.1 btloader.com
 127.0.0.1 bulletproof-analytics.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
@@ -848,6 +849,7 @@
 127.0.0.1 tags.adnuntius.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.smilewanted.com
 127.0.0.1 tags.webtraffic.se

@@ -2,7 +2,7 @@
 ! Title: MKD: Macedonian Pi-hole Blocklist
 ! Description: This is a list to block unwanted domains that serve ads on Macedonian websites.
 ! Homepage: https://github.com/cchevy/macedonian-pi-hole-blocklist
-! Last modified: 2022-01-11T20:21:12.098Z
+! Last modified: 2022-11-10T14:33:43.396Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27,6 +27,7 @@ ads.crnobelo.mk
 ads.deca.mk
 ads.ekipa.mk
 ads.emedia.mk
+ads.epp.mk
 ads.exdynsrv.com
 ads.faktor.mk
 ads.fakulteti.mk
@@ -71,6 +72,7 @@ ads.vrabotuvanje.com.mk
 adsdms.mk
 adserver.mk
 adserver.neotel.mk
+adserver.piksel.mk
 adservice.google.com
 adservice.google.mk
 advertiseserve.com

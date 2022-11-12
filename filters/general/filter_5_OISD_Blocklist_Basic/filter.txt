@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-12T08:25:04.893Z
+! Last modified: 2022-11-12T10:20:27.473Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2185,7 +2185,6 @@
 ||abc.esprit.de^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
-||abc.pema.cl^
 ||abc.rwpt.top^
 ||abc.yebaike.com^
 ||abc88866.com^
@@ -36098,6 +36097,7 @@
 ||pelis24.com.es^
 ||pelisnetwork.com^
 ||pem.tamboys.pics^
+||pema.cl^
 ||pendulumkeg.com^
 ||pendulumtemporary.com^
 ||pengenanu.files.im^

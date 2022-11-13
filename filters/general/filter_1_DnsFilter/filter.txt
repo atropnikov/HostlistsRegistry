@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-12T18:23:36.793Z
+! Last modified: 2022-11-13T06:24:26.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23052,6 +23052,7 @@ vkcdnservice.appspot.com^
 ||affiliategroove.com^
 ||afrikad.com^
 ||afy11.net^
+||afyads.com^
 ||ahvclick.com^
 ||aim4media.com^
 ||akavita.com^
@@ -42670,6 +42671,18 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xwdsp.com^
 ||ygcn.ltd^
 ||z66ggsh.top^
+||qqnggnsy.fun^
+||fiwyjar.cn^
+||zw2b9.cn^
+||ljlg.xyz^
+||epmf4.cn^
+||pyyhkn.com^
+||zdy1.xyz^
+||fvtrx.cyou^
+||venulaevavs.com^
+||sjjk.ltd^
+||usbkngf.cn^
+||qzngisyy.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

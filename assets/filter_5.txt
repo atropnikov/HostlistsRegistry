@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-13T17:19:00.165Z
+! Last modified: 2022-11-13T18:23:46.824Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1852,6 +1852,7 @@
 ||a.emwstore.xyz^
 ||a.epicgoo.com^
 ||a.exam58.com^
+||a.fapcat.com^
 ||a.fapster.xxx^
 ||a.fileplaneta.com^
 ||a.fuckamouth.com^
@@ -18822,7 +18823,6 @@
 ||fanyorgagetn.buzz^
 ||fanza.cc^
 ||fanzhuang.net.cn^
-||fapcat.com^
 ||fapmeth.com^
 ||fapp.pw^
 ||faracoon.com^

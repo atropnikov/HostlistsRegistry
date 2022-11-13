@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-13T05:19:35.243Z
+! Last modified: 2022-11-13T09:19:11.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1916,7 +1916,6 @@
 ||a.emwstore.xyz^
 ||a.epicgoo.com^
 ||a.exam58.com^
-||a.fapcat.com^
 ||a.fapster.xxx^
 ||a.fileplaneta.com^
 ||a.fuckamouth.com^
@@ -5111,6 +5110,7 @@
 ||adserwer.xwords.pl^
 ||adsessionserv.com^
 ||adsettings.com^
+||adsexse.com^
 ||adsfac.eu^
 ||adsfac.net^
 ||adsfac.us^
@@ -5454,6 +5454,7 @@
 ||adultadvertising.com^
 ||adultadvertising.net^
 ||adultadworld.com^
+||adultblogtoplist.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
@@ -8363,6 +8364,7 @@
 ||arswabluchan.com^
 ||art-offer.com^
 ||artbluesea.xyz^
+||artcomix.com^
 ||artefact.is^
 ||arteisabello.space^
 ||artemis-cdn.ocdn.eu^
@@ -8942,6 +8944,7 @@
 ||auspiceguile.com^
 ||auspiceunworthy.com^
 ||auspiciousyard.com^
+||auspolice.com^
 ||aussiemethod.com^
 ||austinareahomeschoolers.com^
 ||autand.com^
@@ -9570,6 +9573,7 @@
 ||bangland-akil.com^
 ||bango.net^
 ||bangplamahospital.com^
+||bangready.com^
 ||bangtopads.com^
 ||bangtyranclank.com^
 ||banht.com^
@@ -9719,7 +9723,6 @@
 ||banners.freett.com^
 ||banners.friendfinder.com^
 ||banners.fuckbookhookups.com^
-||banners.getiton.com^
 ||banners.haqqin.az^
 ||banners.idolbucks.com^
 ||banners.img.uol.com.br^
@@ -9749,6 +9752,7 @@
 ||banners.thomsonlocal.com^
 ||banners.todoconsolas.com^
 ||banners.toeto.com^
+||banners.toteme.com^
 ||banners.tribute.ca^
 ||banners.truecash.com^
 ||banners.utilo.nl^
@@ -10633,6 +10637,7 @@
 ||big88.one^
 ||bigappboi.com^
 ||bigbangads.go2cloud.org^
+||bigbangempire.com^
 ||bigbangmedia.com^
 ||bigbolha.com.br^
 ||bigbolz.com^
@@ -10706,6 +10711,7 @@
 ||bilqi-omv.com^
 ||bilsyndication.com^
 ||bimathyphy.com^
+||bimbim.com^
 ||bimg.abv.bg^
 ||bimlocal.com^
 ||bimpagno.com^
@@ -10740,6 +10746,7 @@
 ||bionicskamsins.com^
 ||biosagentplus.com^
 ||biowebb-data.s3.amazonaws.com^
+||bioxtubes.com^
 ||bipjiza.com^
 ||biptolyla.com^
 ||birchwigkidney.com^
@@ -11273,6 +11280,7 @@
 ||bong99.live^
 ||bong99.vip^
 ||bongacams7.com^
+||bongacash.com^
 ||bongdadem.net^
 ||bongobono.com^
 ||bonitrust.de^
@@ -12023,6 +12031,7 @@
 ||c-on-text.com^
 ||c-points.de^
 ||c-rings.net^
+||c-stat.eu^
 ||c.28rv.com^
 ||c.amazinglybrilliant.com.au^
 ||c.anytrx.com^
@@ -12229,6 +12238,7 @@
 ||cafe-log.myshoplus.com^
 ||cafe58cc6d0ac.com^
 ||cafecoc.com^
+||cafecoquin.com^
 ||cafegraha.com^
 ||cafehanimeli.com^
 ||cagadgfihecfiigbgbc.ru^
@@ -15178,20 +15188,28 @@
 ||counter.zerohedge.com^
 ||counter1.bravenet.com^
 ||counter1.fc2.com^
+||counter1.sextracker.be^
 ||counter10.bravenet.com^
+||counter10.sextracker.be^
 ||counter11.bravenet.com^
 ||counter11.sextracker.be^
 ||counter12.bravenet.com^
+||counter12.sextracker.be^
 ||counter13.bravenet.com^
+||counter13.sextracker.be^
 ||counter14.bravenet.com^
+||counter14.sextracker.be^
 ||counter15.bravenet.com^
+||counter15.sextracker.be^
 ||counter16.bravenet.com^
+||counter16.sextracker.be^
 ||counter17.bravenet.com^
 ||counter18.bravenet.com^
 ||counter19.bravenet.com^
 ||counter2.blog.livedoor.com^
 ||counter2.bravenet.com^
 ||counter2.freeware.de^
+||counter2.sextracker.be^
 ||counter20.bravenet.com^
 ||counter21.bravenet.com^
 ||counter22.bravenet.com^
@@ -15205,6 +15223,7 @@
 ||counter28.bravenet.com^
 ||counter29.bravenet.com^
 ||counter3.bravenet.com^
+||counter3.sextracker.be^
 ||counter30.bravenet.com^
 ||counter31.bravenet.com^
 ||counter32.bravenet.com^
@@ -15216,6 +15235,7 @@
 ||counter38.bravenet.com^
 ||counter39.bravenet.com^
 ||counter4.bravenet.com^
+||counter4.sextracker.be^
 ||counter40.bravenet.com^
 ||counter41.bravenet.com^
 ||counter42.bravenet.com^
@@ -15230,11 +15250,16 @@
 ||counter4all.dk^
 ||counter4u.de^
 ||counter5.bravenet.com^
+||counter5.sextracker.be^
 ||counter50.bravenet.com^
 ||counter6.bravenet.com^
+||counter6.sextracker.be^
 ||counter7.bravenet.com^
+||counter7.sextracker.be^
 ||counter8.bravenet.com^
+||counter8.sextracker.be^
 ||counter9.bravenet.com^
+||counter9.sextracker.be^
 ||counterbot.com^
 ||countercentral.com^
 ||countercity.de^
@@ -20617,6 +20642,7 @@
 ||fanyorgagetn.buzz^
 ||fanza.cc^
 ||fanzhuang.net.cn^
+||fapcat.com^
 ||fapmeth.com^
 ||fapp.pw^
 ||faracoon.com^
@@ -21763,6 +21789,7 @@
 ||freebiesurveys.com^
 ||freebloghitcounter.com^
 ||freecamsecrets.com^
+||freecamsexposed.com^
 ||freecontent.date^
 ||freecontent.party^
 ||freecontent.science^
@@ -22739,6 +22766,7 @@
 ||gethomevaluerestoration.com^
 ||getibo.com^
 ||getintodevice.xyz^
+||getiton.com^
 ||getkel.com^
 ||getlink.pw^
 ||getloan.com^
@@ -22763,6 +22791,7 @@
 ||getrockerbox.com^
 ||getrpahqya.com^
 ||getrxhere.co^
+||getscorecash.com^
 ||getscriptjs.com^
 ||getsgroup.cn^
 ||getsidecar.com^
@@ -27421,6 +27450,7 @@
 ||johnlewis.112.2o7.net^
 ||join.finevisit.com^
 ||join.megaphonetv.com^
+||join.xlgirls.com^
 ||join1.winhundred.com^
 ||joinads.me^
 ||joincreditexpert.co.uk^
@@ -27683,6 +27713,7 @@
 ||juste.ru^
 ||justearn.it^
 ||justgetitfaster.com^
+||justhookup.com^
 ||justiceintegral.com^
 ||justicejudo.com^
 ||justickedukil.club^
@@ -29447,6 +29478,7 @@
 ||liveagent.mobilbonus.cz^
 ||liveappgirl.net^
 ||liveburst.com^
+||livecamgirls.streamray.com^
 ||livecheersharder.com^
 ||liveclix.net^
 ||livecounter.dk^
@@ -31337,6 +31369,7 @@
 ||megrezvans.guru^
 ||mehebborc.com^
 ||mehndidesignssimple.com^
+||meiluziai.info^
 ||meimei.buzz^
 ||meinlist.com^
 ||meirafruits.com.br^
@@ -35871,6 +35904,7 @@
 ||parkwooddoors.co.nz^
 ||parlorscenes.com^
 ||parlorsuperhero.com^
+||parnuxi.biz^
 ||parrable.com^
 ||parringepigene.com^
 ||parrot.binarymoon.co.uk^
@@ -36144,6 +36178,7 @@
 ||peacefullymenitch.com^
 ||peacefullyoverwhelmingthoroughfare.com^
 ||peachsquat.com^
+||peachy18.com^
 ||peacock.davidlevai.com^
 ||peacockdienook.com^
 ||peacto.com^
@@ -42280,6 +42315,7 @@
 ||sexmoney.com^
 ||sexnimfa.ru^
 ||sexpalace.gs^
+||sexpartnerx.com^
 ||sexpennyauctions.com^
 ||sexplaycam.com^
 ||sexsponsors.com^
@@ -47308,7 +47344,6 @@
 ||top-ro.ro^
 ||top-site-list.com^
 ||top-staging.mail.ru^
-||top.c-stat.eu^
 ||top.elec.ru^
 ||top.gigmir.net^
 ||top.hsdn.org^
@@ -47527,6 +47562,7 @@
 ||tour.brazzers.com^
 ||tour.cineble.com^
 ||tour.sweetdiscreet.com^
+||tour.xxxblackbook.com^
 ||tourclass.com.br^
 ||tourn.co^
 ||tourn.se^
@@ -48811,6 +48847,7 @@
 ||tube8vidszyj.ddns.name^
 ||tubeadvertising.eu^
 ||tubeadvisor.com^
+||tubealliance.com^
 ||tubeaware.com^
 ||tubebazaar.com^
 ||tubebrand.com^
@@ -49320,6 +49357,7 @@
 ||unblestrustic.com^
 ||unblockfacebook.co.uk^
 ||unblockia.com^
+||unblocksit.es^
 ||unbodypestis.com^
 ||unbuttondeferinstalment.com^
 ||unbuttontumorbaloney.com^
@@ -50326,6 +50364,7 @@
 ||videoads-cloud.rovio.com^
 ||videoamp.com^
 ||videoanimaker.net^
+||videobox.com^
 ||videocampaign.co^
 ||videocap.org^
 ||videocdn.name^
@@ -51495,6 +51534,7 @@
 ||wel-wel-fie.com^
 ||welcome.faptitans.com^
 ||welcome.indihome.co.id^
+||welcome.pussysaga.com^
 ||welcomeneat.pro^
 ||welcometo.conversantmedia.com^
 ||welfarefit.com^
@@ -52776,6 +52816,7 @@
 ||xmlv4.chameleostudios.com^
 ||xmlv4.mobuppsrtb.com^
 ||xmlv6.aimkweb.com^
+||xmorex.com^
 ||xmrepair.com^
 ||xmrpool.net^
 ||xmsflzmygw.com^
@@ -52917,6 +52958,7 @@
 ||xxn3wman3w.com^
 ||xxslu.space^
 ||xxssyndic.com^
+||xxx-babes.org^
 ||xxx-hunt-er.xyz^
 ||xxx18.ucoz.com^
 ||xxxadv.com^
@@ -52926,6 +52968,7 @@
 ||xxxiijmp.com^
 ||xxxjmp.com^
 ||xxxlove.rooski.net^
+||xxxnations.com^
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
 ||xxxtent.com^
@@ -53866,6 +53909,7 @@
 ||zoophil.com^
 ||zoopsame.com^
 ||zoopy.xyz^
+||zoosexart.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zootravel.com^

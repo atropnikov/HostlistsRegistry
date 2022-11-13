@@ -2,7 +2,7 @@
 ! Title: MKD: Macedonian Pi-hole Blocklist
 ! Description: This is a list to block unwanted domains that serve ads on Macedonian websites.
 ! Homepage: https://github.com/cchevy/macedonian-pi-hole-blocklist
-! Last modified: 2022-11-10T14:33:43.396Z
+! Last modified: 2022-11-13T12:37:12.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -110,6 +110,7 @@ googlesyndication.com
 hipersushiads.com
 httpool.com
 httpool.com.mk
+iab.mk
 ib.adnxs.com
 images.taboola.com
 img.revcontent.com

@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-14T06:26:32.717Z
+! Last modified: 2022-11-14T12:47:51.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||push-sdk.net^
+||anzu.io^
 ||compulsionspotsbeacon.com^
 ||searchmarquis.com^
 ||tegronews.com^
@@ -14700,7 +14702,6 @@ vkcdnservice.appspot.com^
 ||notifypicture.info^
 ||notifysrv.com^
 ||notionnalisent.xyz^
-||notix.io^
 ||notorietycheerypositively.com^
 ||noucoush.net^
 ||nougacoush.com^
@@ -30004,6 +30005,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||events.data.microsoft.com^
 ||prd-collector-platform.ex.co^
 ||pixel.ex.co^
 ||ad*.ettoday.net^
@@ -32263,7 +32265,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
 ||api.telemetry.watchabc.go.com^
-||browser.events.data.microsoft.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
 ||pipe.aria.microsoft.com^
@@ -33564,6 +33565,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||notify.solutions^
 ||notiks.io^
 ||notiksio.com^
+||notix.io^
 ||olgtex.com^
 ||on-push.com^
 ||onepush.app^
@@ -41734,6 +41736,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet109.com^
+||i9bet111.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
@@ -42769,6 +42772,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fkjdz.cyou^
 ||clvkg.xyz^
 ||lihuan.store^
+||bvwxfok.cn^
+||chengduda.top^
+||kba8i.icu^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

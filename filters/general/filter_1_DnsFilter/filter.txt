@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-15T06:24:02.895Z
+! Last modified: 2022-11-15T12:38:37.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||weatherplllatform.com^
 ||push-sdk.net^
 ||anzu.io^
 ||compulsionspotsbeacon.com^
@@ -24997,6 +24998,7 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||hb.rayjump.com^
 ||ad.snaptube.app^
 ||gdl.i9dhjx.ru^
 ||mobidriven.com^
@@ -30037,6 +30039,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||genesis.malwarebytes.com^
 ||real-feedback.toros.daum.net^
 ||pingback.giphy.com^
 ||utsssl.auction.co.kr^
@@ -34339,7 +34342,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ganon.yahoo.com^
 ||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
-||genesis.malwarebytes.com^
 ||geo.ertya.com^
 ||geo.gorillanation.com^
 ||geo.mezr.com^
@@ -39330,6 +39332,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||my.urdreama.cfd^
 ||referans.xyz^
 ||jetv.xyz^
 ||lider90.com^
@@ -40598,6 +40601,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||images.passendo.com^
 ||img06.en25.com^
 ||insight.nikkasystems.com^
+||interactions.sesamy.com^
 ||investerarbrevet.se^
 ||inxy.run^
 ||ion.btcswe.com^
@@ -42825,6 +42829,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ertjo.xyz^
 ||dktoo.site^
 ||uzngisyt.xyz^
+||1108jiuba2022.xyz^
+||wocexaa.cn^
+||86o0h.top^
+||qicewar.cn^
+||bvpaovs.cn^
+||albyprd.cn^
+||hxapafn.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

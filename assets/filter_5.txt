@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-15T11:15:58.021Z
+! Last modified: 2022-11-15T12:38:45.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -737,6 +737,7 @@
 ||2vaxwkujrfwh.info^
 ||2vccc34khitd.top^
 ||2vulkan.com^
+||2x-spacex.org^
 ||2x2mfeed.com^
 ||2x8p4mtjtm63.top^
 ||2xclick.ru^
@@ -8343,9 +8344,11 @@
 ||arizonapuzzle.com^
 ||ark-btc.live^
 ||ark-event.pro^
+||ark2.us^
 ||ark2give.org^
 ||arkalealb.site^
 ||arkayne.com^
+||arkbtcx2.info^
 ||arkcrypt.org^
 ||arkelon22.info^
 ||arketh.pro^
@@ -8357,6 +8360,7 @@
 ||arkjust.info^
 ||arknow.live^
 ||arkspace.live^
+||arkspecial.com^
 ||arkstart.net^
 ||arkusdt.com^
 ||arlime.com^
@@ -11802,6 +11806,7 @@
 ||btagmedia.com^
 ||btalbot.plus.com^
 ||btbuckets.com^
+||btc-up.org^
 ||btcadtop.com^
 ||btcark.pro^
 ||btcscloudmining.com^
@@ -13163,6 +13168,7 @@
 ||centuryplydelaership.com^
 ||centwrite.com^
 ||ceorlsrajasic.com^
+||ceospacex.net^
 ||cepasvirtual.com.ar^
 ||cephalanthuseoccidu4entalis.com^
 ||cephalopod.hometechnology.news^
@@ -18963,7 +18969,6 @@
 ||e.qq.com^
 ||e.tw.cx^
 ||e.viously.com^
-||e09f3e4ceda.com^
 ||e0a42e1a21669b.com^
 ||e1.addthis.com^
 ||e13085e58935e6.com^
@@ -20215,6 +20220,7 @@
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||event.wedobest.com.cn^
+||event2btc.org^
 ||eventapi.afreecatv.com^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
 ||eventgateway.soundcloud.com^
@@ -23188,6 +23194,7 @@
 ||giturn.com^
 ||gitwnd.cn^
 ||give12.com^
+||giveark.io^
 ||givekeeperstirring.com^
 ||givemecarforbuying.com^
 ||givemysoft.ru^
@@ -29779,6 +29786,7 @@
 ||liveads.jp^
 ||liveagent.mobilbonus.cz^
 ||liveappgirl.net^
+||liveark.io^
 ||liveburst.com^
 ||livecamgirls.streamray.com^
 ||livecheersharder.com^
@@ -38235,6 +38243,7 @@
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
 ||prod-collecticon.outlookmobile.com^
 ||prod-collector.bigbasket.com^
+||prod-origin.truendo.com^
 ||prod-plague-bacon.miniclippt.com^
 ||prod-pre.fns.tunein.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
@@ -38398,7 +38407,6 @@
 ||promotionpopup.sapoapps.vn^
 ||promotions.sportingbet.com^
 ||promotools.islive.nl^
-||promotools.vpscash.nl^
 ||promoviral.com^
 ||promoworld.pw^
 ||pronetadvertising.com^
@@ -46538,6 +46546,7 @@
 ||tajir.com^
 ||tajxgs.com^
 ||takeallsoft.ru^
+||takeark.io^
 ||takebiggainsurvey.top^
 ||takechaukr.com^
 ||takelnk.com^
@@ -47010,14 +47019,22 @@
 ||terttalkinhitin.pro^
 ||terytelevel.xyz^
 ||tesgir.pl^
+||tesla-em.com^
 ||tesla-future.com^
 ||tesla-invest22.com^
+||tesla-rt.com^
+||tesla-x2back.com^
 ||tesla2rich.com^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||teslabtc.net^
 ||teslacorpmechanics.com^
 ||teslaeth.io^
+||teslaget.io^
 ||teslagift.io^
+||teslagiftx2.net^
+||teslamany.com^
+||teslarich.com^
+||teslax2win.net^
 ||tesouroencantado.com.br^
 ||test.besstidniki.ru^
 ||test.ishvara-yoga.com^
@@ -49539,6 +49556,8 @@
 ||twitter22.io^
 ||twitterceo.com^
 ||twitterchief.com^
+||twitterinvest22.com^
+||twitterinvest22.net^
 ||twitterjoin.net^
 ||twittwe.com^
 ||twk20rw5v1.com^
@@ -54487,7 +54506,6 @@
 ||zoophil.com^
 ||zoopsame.com^
 ||zoopy.xyz^
-||zoosexart.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zootravel.com^

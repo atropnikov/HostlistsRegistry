@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-16T12:38:09.561Z
+! Last modified: 2022-11-16T15:20:11.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||b094e3477d.com^
 ||banhq.com^
 ||masturbaseinvegas.com^
 ||internalpound.com^
@@ -28414,6 +28415,7 @@ vkcdnservice.appspot.com^
 ||onestat.com^
 ||onetag-sys.com^
 ||ongsono.com^
+||online-metrix.net^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
 ||opbandit.com^
@@ -30332,6 +30334,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.tn.kz^
+||counter.tengrinews.kz^
 ||inlog01.hket.com^
 ||event.hket.com^
 ||genesis.malwarebytes.com^
@@ -32445,6 +32449,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||arcspire.io^
 ||t.adx.opera.com^
 ||sensors.snaptube.app^
 ||analytics.kongregate.io^
@@ -43142,6 +43147,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ozngisyk.xyz^
 ||pinkboy.fun^
 ||nhtieoo.cn^
+||362728tdg.com^
+||nveuiqh.cn^
+||wyqaafplm.live^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -51521,4 +51529,5 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||str.hit.gemius.pl^|
 @@||track.rutarget.ru^|
 @@||5471782.fls.doubleclick.net^|
+@@||h-sdk.online-metrix.net^|
 @@||omniture.walmart.com^|

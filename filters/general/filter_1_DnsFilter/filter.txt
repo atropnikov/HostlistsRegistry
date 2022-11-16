@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-16T06:24:23.267Z
+! Last modified: 2022-11-16T12:38:09.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||banhq.com^
 ||masturbaseinvegas.com^
 ||internalpound.com^
 ||concernedcommon.com^
@@ -43140,6 +43141,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ljrot.icu^
 ||ozngisyk.xyz^
 ||pinkboy.fun^
+||nhtieoo.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

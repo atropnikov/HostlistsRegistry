@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-18T01:49:27.055Z
+! Last modified: 2022-11-18T12:36:16.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||peekslap.com^
 ||b094e3477d.com^
 ||banhq.com^
 ||masturbaseinvegas.com^
@@ -15996,7 +15997,6 @@ vkcdnservice.appspot.com^
 ||pedisp.com^
 ||peefeehu.com^
 ||peekipaiw.com^
-||peekslap.com^
 ||peelismsenoras.com^
 ||peemee.com^
 ||peensthapes.cam^
@@ -40240,6 +40240,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||twiago.com^
 ||bauernative.com^
 
+||qlogo.cn^
+||baiducdnimages.com^
+||528791725.com^
+||8499223.com^
 ||sx.fakjkwp.cn^
 ||vx4n.icu^
 ||img.x965.xyz^
@@ -43159,6 +43163,22 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iuerxw.xyz^
 ||qdc7y9x.xyz^
 ||9795x.com^
+||bzngisyv.xyz^
+||hbcl.ltd^
+||049uing.com^
+||1106yh.com^
+||dsfsdft4324.xyz^
+||dvaimso.cn^
+||txnwq.xyz^
+||s4ls9.top^
+||wfhuzaj.cn^
+||kmjbwejnr.xyz^
+||ijkqwopm.xyz^
+||jknmsdpo.xyz^
+||kjanfwss.xyz^
+||qzos9ou.xyz^
+||5ilss.top^
+||027dir.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

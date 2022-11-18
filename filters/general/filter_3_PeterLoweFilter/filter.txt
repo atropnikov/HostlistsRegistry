@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-11-18T12:36:18.088Z
+! Last modified: 2022-11-18T13:36:56.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1277,7 +1277,6 @@
 ||buzzonclick.com^
 ||bwp.download.com^
 ||c.bigmir.net^
-||c1.nowlinux.com^
 ||c1exchange.com^
 ||c212.net^
 ||calculatingcircle.com^
@@ -1390,6 +1389,7 @@
 ||clickonometrics.pl^
 ||clicks.deliveroo.co.uk^
 ||clicks.equantum.com^
+||clicks.eventbrite.com^
 ||clicks.mods.de^
 ||clicks.monzo.com^
 ||clickserve.cc-dt.com^
@@ -1485,7 +1485,6 @@
 ||counter.dreamhost.com^
 ||counter.mirohost.net^
 ||counter.mojgorod.ru^
-||counter.nowlinux.com^
 ||counter.rambler.ru^
 ||counter.search.bg^
 ||counter.snackly.co^
@@ -2542,7 +2541,6 @@
 ||openx.smcaen.fr^
 ||openx2.kytary.cz^
 ||operationchicken.com^
-||operationkettle.com^
 ||opienetwork.com^
 ||opmnstr.com^
 ||oppuz.com^

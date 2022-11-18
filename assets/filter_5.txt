@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-18T01:49:31.970Z
+! Last modified: 2022-11-18T06:24:39.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14473,7 +14473,6 @@
 ||clicmanager.fr^
 ||clicqueame.com^
 ||clicvortex.com^
-||client-analytics.braintreegateway.com^
 ||client-analytics.mts.ru^
 ||client-metrics.chess.com^
 ||client.botchk.net^

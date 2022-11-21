@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-21T06:26:11.310Z
+! Last modified: 2022-11-21T12:38:20.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||rubymillsnpro.com^
+||itecoust.com^
+||pasbaqxxact.com^
 ||jaelejgwiu.xyz^
 ||nyfoknamlrqxc.com^
 ||daudejuw.com^
@@ -1279,6 +1282,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||rek5.savefrom.net^
 ||creative.live.missav.com^
 ||ad.apl164.me^
 ||ad.mediaprimaplus.com.my^
@@ -25379,6 +25383,9 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||thecatmachine.com^
+||blueduckredapple.com^
+||cdn.mobilefuse.com^
 ||ad.mobiuspace.net^
 ||api-ad-callback.mobiuspace.net
 ||hb.rayjump.com^
@@ -30430,6 +30437,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||pclog.3u.com^
 ||udgrbq.malwarebytes.com^
 ||analytics.tn.kz^
 ||counter.tengrinews.kz^
@@ -31216,6 +31224,7 @@ vkcdnservice.appspot.com^
 ||eum*.instana.io^
 ||ev.api.bdg.com^
 ||ev.kck.st^
+||events.popinfo.jp^
 ||event-action.popinfo.jp^
 ||event-collector.analytics.onedio.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -32546,6 +32555,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||ets.easybrain.com^
 ||tracking-widget.fillr.com^
 ||api.data-analytics.pokemon.com^
 ||arcspire.io^
@@ -40289,8 +40299,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||twiago.com^
 ||bauernative.com^
 
-||qlogo.cn^
-||baiducdnimages.com^
 ||528791725.com^
 ||8499223.com^
 ||sx.fakjkwp.cn^
@@ -43078,6 +43086,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xmadsapi.joboko.com^
 ||zigzag.vn^
 
+||zhizhizhizhi.oss-*.aliyuncs.com^
 ||027dir.com^
 ||02asdf.com^
 ||035caop.com^
@@ -43262,6 +43271,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iddhui.com^
 ||xf2pf.top^
 ||tptp001.buzz^
+||zhhgmh.mobi^
+||mbtpzcb.cn^
+||rzngisyz.xyz^
+||vjianshen1688.com^
+||eapsmnw.cyou^
+||toijr.xyz^
+||b4jy.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

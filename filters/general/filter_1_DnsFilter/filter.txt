@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-24T01:40:09.317Z
+! Last modified: 2022-11-24T06:22:36.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35097,6 +35097,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
 ||stats.twistage.com^
+||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
 ||stats.webs.com^
@@ -35255,6 +35256,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vstat.borderlessbd.com^
 ||w4o7aea80ss3-a.akamaihd.net^
 ||wco.crownpeak.com^
+||web-tracker.smsbump.com^
 ||web1.51.la^
 ||webcare.byside.com^
 ||weblogger-dynamic-lb.playdom.com^
@@ -43430,6 +43432,18 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jmm8a.xyz^
 ||egrnmic.cn^
 ||lhare.xyz^
+||qzsfmbt.cn^
+||058tyfg.com^
+||064ioio.com^
+||eganilglw.cyou^
+||0smg.top^
+||zgfckf.mobi^
+||h12h.fun^
+||b53.xyz^
+||vagvedi.cn^
+||fsdnp.cyou^
+||65688qp.com^
+||1158tp.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

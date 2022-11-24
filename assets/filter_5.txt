@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-24T10:19:09.869Z
+! Last modified: 2022-11-24T11:14:56.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5207,6 +5207,7 @@
 ||adv-sv-stat.focus.cn^
 ||adv.440network.com^
 ||adv.a8.net^
+||adv.abv.bg^
 ||adv.ads2.bid^
 ||adv.all-free-download.com^
 ||adv.anhsangvacuocsong.vn^
@@ -5219,6 +5220,7 @@
 ||adv.ettoday.net^
 ||adv.freeonline.it^
 ||adv.gazeta.pl^
+||adv.gepime.com^
 ||adv.hwupgrade.it^
 ||adv.lampsplus.com^
 ||adv.livedoor.com^
@@ -9565,6 +9567,7 @@
 ||banners.fuckbookhookups.com^
 ||banners.haqqin.az^
 ||banners.idolbucks.com^
+||banners.igloro.info^
 ||banners.img.uol.com.br^
 ||banners.ims.nl^
 ||banners.inforchannel.com.br^
@@ -11003,6 +11006,7 @@
 ||bmn.lpmpbanten.id^
 ||bmnr.pw^
 ||bmrg.reflected.net^
+||bms.creativepartner.lt^
 ||bmsdigital.com.br^
 ||bmst.pw^
 ||bmtbima.co.id^
@@ -39084,6 +39088,7 @@
 ||r.browser.miui.com^
 ||r.clicktale.net^
 ||r.cquotient.com^
+||r.dir.bg^
 ||r.existenz.se^
 ||r.filmizlesene.vip^
 ||r.inbox.lv^
@@ -42964,6 +42969,7 @@
 ||sknkwpvrkz.com^
 ||skocz.pl^
 ||skoovyads.com^
+||skpiramide.lt^
 ||sks.com.pk^
 ||sksupermarchedrc.com^
 ||skuasnudish.com^
@@ -49548,6 +49554,7 @@
 ||uppardjets.com^
 ||uppro.ru^
 ||uppsyduckan.com^
+||uppyads.com^
 ||upravel.com^
 ||upregisteelon.com^
 ||uprightmidsummer.com^

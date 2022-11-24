@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-24T18:22:53.610Z
+! Last modified: 2022-11-24T20:18:14.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -47267,6 +47267,7 @@
 ||tools.ascontentcloud.com^
 ||tools.ranker.com^
 ||toon-families.com^
+||toonfamilies.net^
 ||toonikab.com^
 ||toonoost.net^
 ||toorebutheh.xyz^
@@ -48242,6 +48243,7 @@
 ||traffer.net^
 ||trafffgen.rambler.ru^
 ||traffic-bam.link^
+||traffic-delivery.com^
 ||traffic-exchange.com^
 ||traffic-exchange.tv^
 ||traffic-go.com^

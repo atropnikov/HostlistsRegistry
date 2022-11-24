@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-24T09:17:25.197Z
+! Last modified: 2022-11-24T12:36:34.470Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||bulky-battle.com^
+||sizokiwhe.pro^
 ||upset.xsuffer.com^
 ||anorrecenturybr.com^
 ||thomasbarlowpro.com^
@@ -1337,6 +1339,7 @@
 ||ad.phaserep.com^
 ||tontent.pouvideo.cc^
 ||a.streamoupload.com^
+||vast.holmesmind.com^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||tontent.powv1deo.cc^
@@ -43447,6 +43450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rss9f.top^
 ||bjws.xyz^
 ||oicvvnm.cn^
+||rmm7ss.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

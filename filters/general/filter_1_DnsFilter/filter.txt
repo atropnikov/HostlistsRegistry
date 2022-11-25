@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-25T15:18:10.494Z
+! Last modified: 2022-11-25T18:22:28.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dsb6jelx4yhln.cloudfront.net^
+||pemainedperio.com^
+||engingsecondu.com^
 ||jpovulldaghw.com^
 ||sgnetwork.co^
 ||bulky-battle.com^
@@ -8453,6 +8456,7 @@ vkcdnservice.appspot.com^
 ||drishneheqn.com^
 ||drivecareveryday.com^
 ||driverpartially.com^
+||drizzlerules.com^
 ||drjgjngf.com^
 ||drkkydnkdvfosd.xyz^
 ||drkness.net^
@@ -11649,6 +11653,7 @@ vkcdnservice.appspot.com^
 ||ietyofedinj89yewtburgh.com^
 ||ifinaukncecaf.xyz^
 ||ifjyo.com^
+||ifknittedhurtful.com^
 ||ifpwnlncxiikdd.com^
 ||iframe.mediaplazza.com^
 ||ifsmatbeg.site^
@@ -25386,7 +25391,6 @@ vkcdnservice.appspot.com^
 ||drulilqe8wg66.cloudfront.net^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
-||dsb6jelx4yhln.cloudfront.net^
 ||dscex7u1h4a9a.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
 ||dsie7h4lo9wxu.cloudfront.net^
@@ -25498,10 +25502,10 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
-||dbankcloud.cn^
-||dbankcloud.ru^
-||dbankcloud.eu^
-||dbankcloud.asia^
+||adx-*.dbankcloud.
+||ad-*.appacc.dbankedge.cn^
+||adx-*.dbankedge.cn^
+||adx-*.op.dbankcloud.com.edgekey.net^
 ||thecatmachine.com^
 ||blueduckredapple.com^
 ||cdn.mobilefuse.com^
@@ -32686,6 +32690,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||logservice-*.platform.dbankcloud.cn^
+||ubacollect-*.cloud.dbankcloud.cn^
+||datacollector-*.dt.dbankcloud.cn^
 ||mobile-events.eservice.emarsys.net^
 ||stat.gspaceteam.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
@@ -43236,6 +43243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||035caop.com^
 ||049uing.com^
 ||053tyfg.com^
+||056opui.com^
 ||058tyfg.com^
 ||064ioio.com^
 ||065yuyu.com^
@@ -43251,6 +43259,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||516624.com^
 ||51fa.shop^
 ||5ilss.top^
+||5pe6.fun^
 ||65688qp.com^
 ||678tktp.com^
 ||6u4j.icu^
@@ -43281,6 +43290,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cvcddno.cn^
 ||cvemhco.cn^
 ||d86.xyz^
+||dbmcmhh.cn^
 ||dharkyu.cn^
 ||dinyqgv.cn^
 ||dktoo.site^
@@ -43312,6 +43322,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||h12h.fun^
 ||hbcl.ltd^
 ||hjgrc.xyz^
+||hnws.xyz^
+||hqdfh.mobi^
 ||hxapafn.cn^
 ||i46.xyz^
 ||iatf16949.pw^
@@ -43334,6 +43346,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||joh4t.cn^
 ||jpai.xyz^
 ||jqnggnsa.fun^
+||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kjanfwss.xyz^
@@ -43345,6 +43358,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||knmwrkw.xyz^
 ||koojsc.cn^
 ||kvtlll.top^
+||kxizloe.cn^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
 ||lgjxw.xyz^
@@ -43352,6 +43366,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lihuan.store^
 ||ljlg.xyz^
 ||ljrot.icu^
+||lkjrx.xyz^
 ||lksdj.com^
 ||love-yy.company^
 ||lpaysfr.cn^
@@ -43374,6 +43389,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nveuiqh.cn^
 ||nypswiu.cn^
 ||nzvpewi.cn^
+||odfykc.cn^
 ||oicvvnm.cn^
 ||oivgqnt.cn^
 ||ok-11-cai.cc^
@@ -43448,11 +43464,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wapsmne.cyou^
 ||weilin.xin^
 ||wfhuzaj.cn^
+||wganilgle.cyou^
 ||wgdacc.com^
 ||wglbx.ltd^
 ||wgpsfdg.cn^
 ||whrc.xyz^
 ||wocexaa.cn^
+||wpozwh.com^
 ||wqnggnse.fun^
 ||wyqaafplm.live^
 ||wzdy.xyz^
@@ -43464,8 +43482,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinzhanggui.wang^
 ||xlhnkpw.cn^
 ||xpdjsd.cn^
+||xqcjfcb.cn^
 ||xwdsp.com^
 ||y88m2.top^
+||yfue99.xyz^
 ||ygcn.ltd^
 ||yijfdsu.cn^
 ||ynyikk.com^
@@ -43482,19 +43502,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||kapsmnd.cyou^
-||odfykc.cn^
-||kxizloe.cn^
-||hnws.xyz^
-||lkjrx.xyz^
-||wganilgle.cyou^
-||wpozwh.com^
-||5pe6.fun^
-||hqdfh.mobi^
-||yfue99.xyz^
-||dbmcmhh.cn^
-||xqcjfcb.cn^
-||056opui.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50882,7 +50889,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-||abn.lczk.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -51082,6 +51088,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||abcdcfasda.gushiwen.cn^
 ||abcj.dooccn.com^
 ||abds.pingpingw.com^
+||abn.lczk.cn^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-11-21T06:26:13.232Z
+! Last modified: 2022-11-25T12:35:13.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -114,7 +114,6 @@
 ||ad.auditude.com^
 ||ad.bitmedia.io^
 ||ad.bizo.com^
-||ad.bnmla.com^
 ||ad.bondage.com^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
@@ -498,7 +497,6 @@
 ||ads.icq.com^
 ||ads.ign.com^
 ||ads.imagistica.com^
-||ads.img.co.za^
 ||ads.imgur.com^
 ||ads.independent.com.mt^
 ||ads.infi.net^
@@ -1100,7 +1098,6 @@
 ||banner.eurogrand.com^
 ||banner.finzoom.ro^
 ||banner.goldenpalace.com^
-||banner.img.co.za^
 ||banner.inyourpocket.com^
 ||banner.linux.se^
 ||banner.media-system.de^
@@ -2625,6 +2622,7 @@
 ||piet2eix3l.com^
 ||pietexture.com^
 ||pimproll.com^
+||ping.ublock.org^
 ||pipedream.wistia.com^
 ||pippio.com^
 ||piquantpigs.com^

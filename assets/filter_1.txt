@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-25T13:26:55.659Z
+! Last modified: 2022-11-25T15:18:10.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30557,6 +30557,14 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||recv-jnn.tbs.co.jp^
+||recv-entry.tbs.co.jp^
+||beat.yourtv.jp^
+||d-log.asahi.co.jp^
+||d-log.bs-asahi.tv^
+||d.tv-asahi.co.jp^
+||d-log.tv-asahi.co.jp^
+||view.fujitv.co.jp^
 ||analytics.*.sky.com^
 ||analytics.htmedia.in^
 ||xp.apple.com^
@@ -50874,6 +50882,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||abn.lczk.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -51757,6 +51766,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||e.customeriomail.com^|
 @@||partner.everydays.de^|
 @@||login.eki-net.com^|
 @@||api.docodoco.jp^|

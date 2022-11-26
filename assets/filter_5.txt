@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-26T10:17:35.628Z
+! Last modified: 2022-11-26T11:13:53.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22699,7 +22699,6 @@
 ||googe.com^
 ||googele.com^
 ||googfle.com^
-||google-analytics.com^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -35430,7 +35429,6 @@
 ||permato.com^
 ||permenor.xyz^
 ||permittedswift.com^
-||permutive.com^
 ||peropusparmese.com^
 ||perpetratoronpour.com^
 ||perpetualpail.com^
@@ -35895,7 +35893,6 @@
 ||pixel.4pcdn.de^
 ||pixel.4players.de^
 ||pixel.ad^
-||pixel.adsafeprotected.com^
 ||pixel.adssafeprotected.com^
 ||pixel.adswizz.com^
 ||pixel.advertising.com^
@@ -52775,3 +52772,5 @@
 ||zzxxli.club^
 ||zzz.pissrip.net^
 ||zzznews.ru^
+
+

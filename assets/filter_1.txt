@@ -2,11 +2,18 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-26T06:21:26.347Z
+! Last modified: 2022-11-26T12:31:30.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ofchildr.buzz^
+||regadsacademy.com^
+||eraltradiansid.com^
+||jeehaish.com^
+||jmpcfxhkpf.com^
+||reprey.com^
+||syncbanjo.com^
 ||adsmatcher.com^
 ||dsb6jelx4yhln.cloudfront.net^
 ||pemainedperio.com^
@@ -17726,7 +17733,6 @@ vkcdnservice.appspot.com^
 ||refutationexcessiveglamour.com^
 ||refutationoverwhelming.com^
 ||refutationtiptoe.com^
-||regadsacademy.com^
 ||regadspro.com^
 ||regadsworld.com^
 ||regardedsaid.com^
@@ -43530,6 +43536,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lxrhw.xyz^
 ||qganilgly.cyou^
 ||hqqpw.mobi^
+||kufmbwm.cn^
+||s93isp.top^
+||lejso.com^
+||oapsmnk.cyou^
+||kq7k.icu^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

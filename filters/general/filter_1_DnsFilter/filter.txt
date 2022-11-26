@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-26T01:25:07.377Z
+! Last modified: 2022-11-26T06:21:26.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42836,7 +42836,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ads.home.vn^
 ||ads.homedy.net^
 ||ads.ictnews.vn^
-||ads.khoahocdoisong.vn^
 ||ads.kiemsat.vn^
 ||ads.lamchame.vn^
 ||ads.laodongbinhduong.org.vn^
@@ -42868,7 +42867,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
-||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -42946,7 +42944,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.sbz.workers.dev^
 ||avoadsservices.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
-||banhtv.org^
 ||banner.5giay.vn^
 ||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
@@ -42955,7 +42952,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bgadx.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
-||bluemaulpuffs.com^
 ||btrack.homedy.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
@@ -43532,6 +43528,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pmcppla.cn^
 ||simi1234.com^
 ||lxrhw.xyz^
+||qganilgly.cyou^
+||hqqpw.mobi^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

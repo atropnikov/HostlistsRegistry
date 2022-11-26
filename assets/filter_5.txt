@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-25T19:13:58.315Z
+! Last modified: 2022-11-26T01:25:11.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1861,6 +1861,7 @@
 ||abmaxdigital.com^
 ||abmpyramid.com^
 ||abmr.net^
+||abn.lczk.cn^
 ||abnegatedigging.com^
 ||abnegatespitefulweep.com^
 ||abnegationbanquet.com^
@@ -3198,7 +3199,6 @@
 ||admost.com^
 ||admoxi.com^
 ||admozartxml.com^
-||admp-tc.delfi.ee^
 ||admp-tc.delfi.lv^
 ||adms.phunusuckhoe.vn^
 ||admsapi.businessweekly.com.tw^
@@ -8561,7 +8561,6 @@
 ||banners.oxiads.fr^
 ||banners.passion.com^
 ||banners.penthouse.com^
-||banners.perfectgonzo.com^
 ||banners.prikol.ru^
 ||banners.resultonline.com^
 ||banners.sublimedirectory.com^
@@ -8949,6 +8948,7 @@
 ||beastbuying.com^
 ||beastintruder.com^
 ||beastsclassbiscuit.com^
+||beat.yourtv.jp^
 ||beataemusky.com^
 ||beatbase.live^
 ||beatifulapplabland.com^
@@ -14152,6 +14152,9 @@
 ||d-agency.net^
 ||d-bi.fr^
 ||d-collector.jennifersoft.com^
+||d-log.asahi.co.jp^
+||d-log.bs-asahi.tv^
+||d-log.tv-asahi.co.jp^
 ||d-markets.net^
 ||d-stats.com^
 ||d-test.39.net^
@@ -14172,6 +14175,7 @@
 ||d.shareaholic.com^
 ||d.sondakika.com^
 ||d.tocat.co^
+||d.tv-asahi.co.jp^
 ||d.wi-fi.ru^
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
@@ -16377,6 +16381,7 @@
 ||driverpartially.com^
 ||drivingdirt.com^
 ||drivotracker.com^
+||drizzlerules.com^
 ||drjayabalan.com^
 ||drjgjngf.com^
 ||drkness.net^
@@ -17430,6 +17435,7 @@
 ||engineeringcoaching.com^
 ||enginenetwork.com^
 ||engineseeker.com^
+||engingsecondu.com^
 ||englandhogmane.com^
 ||englandrelent.com^
 ||englerbraw.com^
@@ -17616,7 +17622,6 @@
 ||erraticreaction.com^
 ||erringcrambly.com^
 ||error.videonow.ru^
-||errors.perfectgonzo.com^
 ||errors.snackly.co^
 ||erstartirrel.buzz^
 ||ert.eiwagggg.com^
@@ -22980,6 +22985,7 @@
 ||ieurop.net^
 ||ifa.tube8live.com^
 ||ifinaukncecaf.xyz^
+||ifknittedhurtful.com^
 ||iframepay.com^
 ||iframes.perfectgonzo.com^
 ||iframes.pornprosnetwork.com^
@@ -32420,6 +32426,7 @@
 ||pelisnetwork.com^
 ||peltaush.click^
 ||pem.tamboys.pics^
+||pemainedperio.com^
 ||pendulumkeg.com^
 ||pendulumtemporary.com^
 ||pengenanu.files.im^
@@ -34508,6 +34515,7 @@
 ||pushorg.com^
 ||pushosub.com^
 ||pushosubk.com^
+||pushowl.com^
 ||pushplay.com^
 ||pushprofit.net^
 ||pushprofit.ru^
@@ -35436,6 +35444,8 @@
 ||recs.shareaholic.com^
 ||recuerdard.com^
 ||recurseagin.com^
+||recv-entry.tbs.co.jp^
+||recv-jnn.tbs.co.jp^
 ||recyclingbees.com^
 ||red.hatena.ne.jp^
 ||red.st-hatena.com^
@@ -45242,6 +45252,7 @@
 ||view-flix.com^
 ||view.adjust.com^
 ||view.atdmt.com^
+||view.fujitv.co.jp^
 ||view4cash.de^
 ||viewablemedia.net^
 ||viewclc.com^

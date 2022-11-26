@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-25T18:22:28.822Z
+! Last modified: 2022-11-26T01:25:07.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||adsmatcher.com^
 ||dsb6jelx4yhln.cloudfront.net^
 ||pemainedperio.com^
 ||engingsecondu.com^
@@ -1682,6 +1683,7 @@ vkcdnservice.appspot.com^
 ||0c257610de.com^
 ||0c4bc6060b.com^
 ||0c6fb44787.com^
+||0d356de9ef.com^
 ||0d68d359dc.com^
 ||0dc77eb60d.com^
 ||0dcde44a41.com^
@@ -2232,6 +2234,7 @@ vkcdnservice.appspot.com^
 ||82a89f6527.com^
 ||82dbb7897b.com^
 ||82eb361582.com^
+||83032d92a4.com^
 ||840df00e08.com^
 ||8429a46b31.com^
 ||843acfbeb0.com^
@@ -3349,6 +3352,7 @@ vkcdnservice.appspot.com^
 ||ahhdsply.com^
 ||ahidsply.com^
 ||ahjdsply.com^
+||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahlhsxdxy.com^
 ||ahmcklossjab.com^
@@ -8207,6 +8211,7 @@ vkcdnservice.appspot.com^
 ||dispelsbashara.com^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
+||displayfly.com^
 ||displayformatcontent.com^
 ||displayformatrevenue.com^
 ||displaynetworkcontent.com^
@@ -8784,6 +8789,7 @@ vkcdnservice.appspot.com^
 ||ediqmvjebecbqx.xyz^
 ||editchee.com^
 ||edition25.com^
+||editionlingerexpanded.com^
 ||edlilu.com^
 ||edlqhrbgs.com^
 ||ednewsbd.com^
@@ -9608,6 +9614,7 @@ vkcdnservice.appspot.com^
 ||fenixm.com^
 ||fer2oxheou4nd.com^
 ||ferdictivesone.xyz^
+||feridgiuntelic.com^
 ||fermentsinewencase.com^
 ||fermolo.info^
 ||feroffer.com^
@@ -10791,6 +10798,7 @@ vkcdnservice.appspot.com^
 ||gripetravel.com^
 ||grirault.net^
 ||gristleupanaya.com^
+||gritaware.com^
 ||gritchuw.com^
 ||grivupie.net^
 ||grjjngkemtpjqp.com^
@@ -11290,6 +11298,7 @@ vkcdnservice.appspot.com^
 ||hlooojak.com^
 ||hloprhawmswdb.com^
 ||hlstjquaax.com^
+||hlunlean.com^
 ||hmafhczsos.com^
 ||hmbxsalezde.com^
 ||hmcfuqtjrhb.com^
@@ -11503,6 +11512,7 @@ vkcdnservice.appspot.com^
 ||humsoolt.net^
 ||hunchbackimpulse.com^
 ||hunchmotherhooddefine.com^
+||hungryrise.com^
 ||hunoso.com^
 ||hunter-hub.com^
 ||huntingarroyo.website^
@@ -12026,6 +12036,7 @@ vkcdnservice.appspot.com^
 ||iovgoexkassuwy.com^
 ||ioxiyaff.xyz^
 ||ipakjhcfbh.com^
+||ipalam.com^
 ||ipewadbdsfjnuv.com^
 ||iphonehub.info^
 ||iphumiki.com^
@@ -13782,6 +13793,7 @@ vkcdnservice.appspot.com^
 ||marapcana.online^
 ||marathongenerositypremiere.com^
 ||marbil24.co.za^
+||marchingsmug.com^
 ||marerajahcopied.com^
 ||marezzojubate.com^
 ||margarinereverend.com^
@@ -14288,6 +14300,7 @@ vkcdnservice.appspot.com^
 ||mokierokiloki.com^
 ||mokklachookla.com^
 ||mol18.biz^
+||moleconcern.com^
 ||moltedouttire.com^
 ||moltingcasher.tech^
 ||molttenglobins.casa^
@@ -15127,6 +15140,7 @@ vkcdnservice.appspot.com^
 ||nucleo.online^
 ||nucljzgvzlyj.com^
 ||nuctcflay.com^
+||nudxhwneoyqyxc.com^
 ||nuevonoelmid.com^
 ||nufuglou.net^
 ||nuggetschou.com^
@@ -15575,6 +15589,7 @@ vkcdnservice.appspot.com^
 ||ooq5z.com^
 ||ooredi.com^
 ||oorierenegue.com^
+||oortnidbfpdigt.com^
 ||oorunsey.com^
 ||ootchoft.com^
 ||oovilsol.com^
@@ -16016,6 +16031,7 @@ vkcdnservice.appspot.com^
 ||pasaltair.com^
 ||pascaf.com^
 ||paservices.tech^
+||pasiac.com^
 ||paslsa.com^
 ||pasquinzippy.com^
 ||passagefacingdime.com^
@@ -18326,6 +18342,7 @@ vkcdnservice.appspot.com^
 ||runnersgunpowder.com^
 ||runnyamowt.com^
 ||runreferences.com^
+||runtedforcut.com^
 ||runtnc.net^
 ||runwaff.com^
 ||ruogesfshygsj.com^
@@ -19304,6 +19321,7 @@ vkcdnservice.appspot.com^
 ||sousefulhea.buzz^
 ||souvamoo.net^
 ||souvenirsattachedcountenance.com^
+||souvenirsflex.com^
 ||souvoana.xyz^
 ||souwhair.com^
 ||spaceshipads.com^
@@ -20067,6 +20085,7 @@ vkcdnservice.appspot.com^
 ||teflontomelet.com^
 ||tehole.com^
 ||tehseelareolas.com^
+||tehwthhmytrf.com^
 ||teicdn.com^
 ||teindsrangier.com^
 ||tel-tel-fie.com^
@@ -20701,6 +20720,7 @@ vkcdnservice.appspot.com^
 ||trk-consulatu.com^
 ||trk-epicurei.com^
 ||trk-imps.com^
+||trk023.com^
 ||trk4.com^
 ||trkad.network^
 ||trkinator.com^
@@ -21374,6 +21394,7 @@ vkcdnservice.appspot.com^
 ||uxxfierq.xyz^
 ||uyaly.com^
 ||uyechyymr.com^
+||uyfxovlyxrf.com^
 ||uynpzvdvcnpd.com^
 ||uyooouxjcngyuvc.com^
 ||uytwvgrshiakd.xyz^
@@ -22754,6 +22775,7 @@ vkcdnservice.appspot.com^
 ||yanend.com^
 ||yantrasbarges.com^
 ||yapsteasers.com^
+||yarbthermos.com^
 ||yardperformedtraumatize.com^
 ||yardr.net^
 ||yarerescalin.com^
@@ -23015,6 +23037,7 @@ vkcdnservice.appspot.com^
 ||yuqnibpyn.com^
 ||yuubuslvsqhopkk.com^
 ||yvgqtrnncvearx.xyz^
+||yvlrtashsid.com^
 ||yvmads.com^
 ||yvoria.com^
 ||yvzgazds6d.com^
@@ -25257,6 +25280,7 @@ vkcdnservice.appspot.com^
 ||d3f1wcxz2rdrik.cloudfront.net^
 ||d3f4nuq5dskrej.cloudfront.net^
 ||d3fkv551xkjrmm.cloudfront.net^
+||d3flai6f7brtcx.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
@@ -33401,7 +33425,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adoric-om.com^
 ||adregain.com^
 ||adregain.ru^
-||adsmatcher.com^
 ||adtector.com^
 ||adtrackers.net^
 ||advalo.com^
@@ -43502,6 +43525,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||sapsmnb.cyou^
+||ycyipha.cn^
+||bjfc.xyz^
+||tffytdo.cn^
+||pmcppla.cn^
+||simi1234.com^
+||lxrhw.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

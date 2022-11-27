@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2022-11-27T10:18:03.653Z
+! Last modified: 2022-11-27T16:23:50.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11605,6 +11605,8 @@
 0.0.0.0 la.vnecdn.net
 0.0.0.0 la2.vnecdn.net
 0.0.0.0 la3.vnecdn.net
+0.0.0.0 ff.imacdn.com
+0.0.0.0 sponsor.imacdn.com
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -11755,7 +11757,6 @@
 0.0.0.0 deqik.com
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 duamilsyr.com
-0.0.0.0 ff.imacdn.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 gamma.cachefly.net
 0.0.0.0 ghimc.vn

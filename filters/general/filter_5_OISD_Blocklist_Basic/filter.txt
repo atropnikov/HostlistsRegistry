@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-28T06:23:40.797Z
+! Last modified: 2022-11-28T11:15:18.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8398,7 +8398,6 @@
 ||bans.bride.ru^
 ||banshop.gruntovik.ru^
 ||banstat.nadavi.net^
-||banstex.com^
 ||bantercubicle.com^
 ||bantgoau.com^
 ||banxc.com^
@@ -26656,7 +26655,6 @@
 ||megrezvans.guru^
 ||mehebborc.com^
 ||meibiisheng.com^
-||meiluziai.info^
 ||meimei.buzz^
 ||meinlist.com^
 ||meirafruits.com.br^
@@ -37672,6 +37670,7 @@
 ||static.retirementcommunitiesfyi.com^
 ||static.rtbserve.io^
 ||static.rtbwire.com^
+||static.scarabresearch.com^
 ||static.topsolutionsmedia.com^
 ||static.trackuity.com^
 ||static.trbo.com^
@@ -39921,7 +39920,6 @@
 ||toolbarwizard.vmn.net^
 ||tools.ranker.com^
 ||tools.spylog.ru^
-||toon-families.com^
 ||toonikab.com^
 ||toonoost.net^
 ||toorebutheh.xyz^
@@ -45676,4 +45674,3 @@
 ||zzxhx.com^
 ||zzxxli.club^
 ||zzz.pissrip.net^
-

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-27T23:18:35.422Z
+! Last modified: 2022-11-28T06:23:40.797Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35184,7 +35184,6 @@
 ||scan-scan.com^
 ||scanmedios.com^
 ||scanscout.com^
-||scarabresearch.com^
 ||scarcecomplicate.com^
 ||scarcesign.com^
 ||scarcestream.com^
@@ -41114,7 +41113,6 @@
 ||trutstapps.com^
 ||trvelocity.com^
 ||trwl1.com^
-||trx-hub.com^
 ||trx625.com^
 ||trybulgingcoefficient.com^
 ||trymynewspirit.com^
@@ -45678,3 +45676,4 @@
 ||zzxhx.com^
 ||zzxxli.club^
 ||zzz.pissrip.net^
+

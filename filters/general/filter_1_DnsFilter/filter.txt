@@ -2,11 +2,17 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-28T01:27:00.958Z
+! Last modified: 2022-11-28T12:34:57.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||wugabts.com^
+||flaxim.com^
+||booptuwa.net^
+||mtdkhfguafqijx.com^
+||oodrampi.com^
+||sameplace.lol^
 ||ofchildr.buzz^
 ||regadsacademy.com^
 ||eraltradiansid.com^
@@ -15621,7 +15627,6 @@ vkcdnservice.appspot.com^
 ||onxquxhoygaji.com^
 ||oo00.biz^
 ||oocdqgado.xyz^
-||oodrampi.com^
 ||oodraune.com^
 ||oodroglu.net^
 ||oodsauns.net^
@@ -18541,7 +18546,6 @@ vkcdnservice.appspot.com^
 ||salync.com^
 ||samage-bility.icu^
 ||samazd.com^
-||sameplace.lol^
 ||samghasps.com^
 ||samplerpouch.com^
 ||samsienshrivel.com^
@@ -25603,6 +25607,8 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||sitewithg.me^
+||bugs2022.com^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
 ||adx-*.dbankedge.cn^
@@ -30662,6 +30668,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tracking.shopstyle.co.uk^
 ||recv-jnn.tbs.co.jp^
 ||recv-entry.tbs.co.jp^
 ||beat.yourtv.jp^
@@ -43646,6 +43653,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ocive.xyz^
 ||qptnew.com^
 ||szzb.xyz^
+||weeuqek.cn^
+||clw99.mobi^
+||i7x3.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

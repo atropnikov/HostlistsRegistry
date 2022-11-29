@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-29T01:35:12.280Z
+! Last modified: 2022-11-29T12:35:03.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26292,6 +26292,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tieszhu.com^
 ||sensorsdata.cn^
 ||counter.dev^
 ||pro-web-metrics.alias.s24cloud.net^
@@ -30726,6 +30727,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||web-device-id.banggood.com^
 ||dotcounter.douyucdn.cn^
 ||dotserver.douyucdn.cn^
 ||sensorsdata*.read.duokan.com^
@@ -33692,7 +33694,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cloudiq.com^
 ||cnwebperformance.biz^
 ||cobaltgroup.com^
-||coefficy.com^
 ||cognativex.com^
 ||cognitivlabs.com^
 ||cohesionapps.com^
@@ -34116,6 +34117,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||siteplug.com^
 ||siteswithcontent.com^
 ||smadex.com^
+||smart-data-systems.com^
 ||smart-dmp.com^
 ||smartclip-services.com^
 ||smartology.co^
@@ -43729,6 +43731,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yhzm.xyz^
 ||abenshishabi.com^
 ||oehhq.xyz^
+||shouzhi.biz^
+||bdhcpll.cn^
+||66668aaa.com^
+||gfqfjau.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

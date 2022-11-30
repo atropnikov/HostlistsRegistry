@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-11-30T12:36:51.337Z
+! Last modified: 2022-11-30T18:22:44.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dnhyakcwoedah.com^
+||meebofoo.com^
 ||arthwhilearthu.com^
 ||cutopporting.com^
 ||get-partner.life^
@@ -96,7 +98,6 @@
 ||dersoova.net^
 ||icsamghkxdv.com^
 ||aglagzoq.com^
-||monkeysloveyou.com^
 ||robsardri.com^
 ||morningglory101.io^
 ||kzsfip3v.cfd^
@@ -1322,7 +1323,6 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
-||d1zjr9cc2zx7cg.cloudfront.net^
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
 ||creative.live.missav.com^
@@ -14412,6 +14412,7 @@ vkcdnservice.appspot.com^
 ||moneymakercdn.com^
 ||monitorinflictmotivation.com^
 ||monkeybroker.net^
+||monkeysloveyou.com^
 ||monksentrance.com^
 ||monksplatane.com^
 ||monkyank.com^
@@ -25283,6 +25284,7 @@ vkcdnservice.appspot.com^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1ybdlg8aoufn.cloudfront.net^
+||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
 ||d204slsrhoah2f.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
@@ -27042,7 +27044,6 @@ vkcdnservice.appspot.com^
 ||volvelle.tech^
 ||audiencemanager.de^
 ||event.getblue.io^
-||docodoco.jp^
 ||mieru-ca.com^
 ||nlog.nethru.io^
 ||uc.xddi.ru^
@@ -30771,7 +30772,6 @@ vkcdnservice.appspot.com^
 ||view.fujitv.co.jp^
 ||analytics.*.sky.com^
 ||analytics.htmedia.in^
-||xp.apple.com^
 ||tracking.immobilienscout24.de^
 ||pclog.3u.com^
 ||udgrbq.malwarebytes.com^
@@ -36420,6 +36420,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||hjheaijhafgfgbaaaei.ru^
 ||hjcbehchdddcegcfaaei.ru^
 ||pb.plat.services^
 ||ouqyid.com^
@@ -42776,6 +42777,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9795x.com^
 ||99997aaa.com^
 ||9eu7c.top^
+||a78wt.top^
 ||abenshishabi.com^
 ||aiedwhb.cn^
 ||aiupiyd.cn^
@@ -42785,6 +42787,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||baiduhaoba.com^
 ||bdhcpll.cn^
 ||bendan.shop^
+||benditao.biz^
 ||bfsqtsn.cn^
 ||bjfc.xyz^
 ||bjws.xyz^
@@ -42804,6 +42807,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cvemhco.cn^
 ||d86.xyz^
 ||dbmcmhh.cn^
+||dfkd.xyz^
 ||dharkyu.cn^
 ||dinyqgv.cn^
 ||dktoo.site^
@@ -42814,6 +42818,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eganilglw.cyou^
 ||egrnmic.cn^
 ||eidphap.cn^
+||epfmfqh.cn^
 ||epmf4.cn^
 ||eqnggnsw.fun^
 ||eqyzc.cyou^
@@ -42840,10 +42845,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hnws.xyz^
 ||hqdfh.mobi^
 ||hqqpw.mobi^
+||hsypwju.cn^
 ||hxapafn.cn^
 ||i46.xyz^
 ||i7x3.fun^
 ||iatf16949.pw^
+||iblimq.xyz^
 ||iddhui.com^
 ||ifautzg.cn^
 ||iftjwuu.cn^
@@ -42940,6 +42947,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qiangqi.shop^
 ||qicewar.cn^
 ||qmpkoiv.cn^
+||qowg.top^
 ||qptnew.com^
 ||qq2ux.top^
 ||qqnggnsy.fun^
@@ -42973,6 +42981,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sjjk.ltd^
 ||sm3nq.cn^
 ||sqnggnsb.fun^
+||summer5188.com^
 ||szngisyb.xyz^
 ||szzb.xyz^
 ||t34kk9.top^
@@ -43000,6 +43009,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vadypb.cn^
 ||vagvedi.cn^
 ||vggzftw.cn^
+||vibber.download^
 ||vjianshen1688.com^
 ||vqdjcy.com^
 ||vqjxlie.cn^
@@ -43015,6 +43025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wocexaa.cn^
 ||wpozwh.com^
 ||wqnggnse.fun^
+||wxumevd.cn^
 ||wyqaafplm.live^
 ||wzdy.xyz^
 ||wzngisye.xyz^
@@ -43025,6 +43036,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xhsrw.xyz^
 ||xianzhice.com^
 ||xiaohui.ink^
+||xinrern.cn^
 ||xinzhanggui.wang^
 ||xlhnkpw.cn^
 ||xpdjsd.cn^
@@ -43032,6 +43044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xwdsp.com^
 ||y88m2.top^
 ||ycyipha.cn^
+||yes-24-go.cc^
 ||yfue99.xyz^
 ||ygcn.ltd^
 ||ygwdai.cn^
@@ -43053,16 +43066,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||wxumevd.cn^
-||dfkd.xyz^
-||epfmfqh.cn^
-||qowg.top^
-||iblimq.xyz^
-||benditao.biz^
-||hsypwju.cn^
-||yes-24-go.cc^
-||summer5188.com^
-||xinrern.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -50465,6 +50468,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||1.66law.cn^
 ||1.78500.cn^
 ||1.800400.net^
+||1.95ye.com^
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-11-30T23:18:44.632Z
+! Last modified: 2022-12-01T06:23:48.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3272,7 +3272,6 @@
 ||ads.uc.cn^
 ||ads.uigc.net^
 ||ads.uknetguide.co.uk^
-||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
 ||ads.univision.com^
 ||ads.usatoday.com^
@@ -35665,7 +35664,6 @@
 ||track.tproger.ru^
 ||track.uc.cn^
 ||track.ugamezone.com^
-||track.ultimate-guitar.com^
 ||track.ultragaming.biz^
 ||track.unidata.ai^
 ||track.veedio.it^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-11-30T19:14:56.784Z
+! Last modified: 2022-12-02T12:32:06.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1001,7 +1001,6 @@
 ||analytics.posttv.com^
 ||analytics.samdd.me^
 ||analytics.santander.co.uk^
-||analytics.siliconexpert.com^
 ||analytics.swiggy.com^
 ||analytics.tiktok.com^
 ||analytics.xelondigital.com^
@@ -1077,7 +1076,6 @@
 ||avazutracking.net^
 ||avenuea.com^
 ||avocet.io^
-||avpa.javalobby.org^
 ||awakebird.com^
 ||awempire.com^
 ||awesomeagreement.com^
@@ -1461,7 +1459,6 @@
 ||consensad.com^
 ||consensu.org^
 ||contadores.miarroba.com^
-||contaxe.de^
 ||content.acc-hd.de^
 ||content.ad^
 ||content22.online.citi.com^
@@ -1616,6 +1613,7 @@
 ||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsponsor.com^
+||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
@@ -2152,7 +2150,6 @@
 ||lead-analytics.nl^
 ||leadboltads.net^
 ||leadclick.com^
-||leadingedgecash.com^
 ||leadplace.fr^
 ||leadspace.com^
 ||leadzupc.com^
@@ -2284,7 +2281,6 @@
 ||mathtag.com^
 ||matomo.activate.cz^
 ||matomo.crossiety.app^
-||matomo.hdweb.ru^
 ||mautic.com^
 ||max.i12.de^
 ||maximiser.net^

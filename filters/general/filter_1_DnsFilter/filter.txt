@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-02T06:21:32.316Z
+! Last modified: 2022-12-02T12:32:05.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||vpnsafebrowsing.com^
+||qwtag.com^
 ||dnhyakcwoedah.com^
 ||meebofoo.com^
 ||arthwhilearthu.com^
@@ -26363,6 +26365,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||data.hicloud.com^
 ||cdn.mavi.digital^
 ||tieszhu.com^
 ||sensorsdata.cn^
@@ -29753,6 +29756,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||threetruck.com^
 ||superficialspring.com^
 ||retargetapp.com^
 ||crashchance.com^
@@ -30798,6 +30802,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||zc.adswizz.com^
 ||collect.nature.com^
 ||analytics-api.dvdfab.*^
 ||servo-report.dvdfab.*^
@@ -34835,7 +34840,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||teststocking.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
-||threetruck.com^
 ||tinytendency.com^
 ||trapteaching.com^
 ||tzwaw.pw^
@@ -35567,7 +35571,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
-||data.hicloud.com^
 ||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
@@ -43140,6 +43143,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bmmogb.xyz^
 ||htkk2.top^
 ||bh2q.fun^
+||gyhyhyq.website^
+||wotmvdc.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-02T01:23:00.389Z
+! Last modified: 2022-12-02T06:21:32.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3184,6 +3184,7 @@ vkcdnservice.appspot.com^
 ||aezhvlybcijv.com^
 ||afa9bdfa63bf7.com^
 ||afaaugct.com^
+||afcnuchxgo.com^
 ||afcontent.net^
 ||afcyhf.com^
 ||afdads.com^
@@ -34903,6 +34904,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
 ||analytics.foresee.com^
+||analytics.googlepeer.cloud^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
@@ -36129,6 +36131,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.leadplace.fr^
 ||track.byzon.swelen.net^
 ||track.kyoads.com^
+||track.myli.io^
 ||tracking.ecookie.fr^
 ||trk.adbutter.net^
 ||visitping.rossel.be^
@@ -43136,6 +43139,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lbzx.xyz^
 ||bmmogb.xyz^
 ||htkk2.top^
+||bh2q.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

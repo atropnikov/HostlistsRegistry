@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-12-04T13:20:20.892Z
+! Last modified: 2022-12-04T15:15:58.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4971,6 +4971,7 @@
 ||adultadvertising.com^
 ||adultadvertising.net^
 ||adultadworld.com^
+||adultblogtoplist.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
@@ -20184,6 +20185,7 @@
 ||freebiesurveys.com^
 ||freebloghitcounter.com^
 ||freecamsecrets.com^
+||freecamsexposed.com^
 ||freecontent.date^
 ||freecontent.party^
 ||freecontent.science^
@@ -27295,6 +27297,7 @@
 ||liveappgirl.net^
 ||liveark.io^
 ||liveburst.com^
+||livecamgirls.streamray.com^
 ||livecheersharder.com^
 ||liveclix.net^
 ||livecounter.dk^
@@ -44105,6 +44108,7 @@
 ||tour.brazzers.com^
 ||tour.cineble.com^
 ||tour.sweetdiscreet.com^
+||tour.xxxblackbook.com^
 ||tourn.co^
 ||tourn.se^
 ||tournamentplot.com^
@@ -46760,6 +46764,7 @@
 ||videoadextradata.outbrain.com^
 ||videoads-cloud.rovio.com^
 ||videoamp.com^
+||videobox.com^
 ||videocampaign.co^
 ||videocap.org^
 ||videocdn.name^
@@ -50110,7 +50115,6 @@
 ||zoophil.com^
 ||zoopsame.com^
 ||zoopy.xyz^
-||zoosexart.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zootravel.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-12-05T11:14:07.036Z
+! Last modified: 2022-12-05T12:33:15.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -29742,7 +29742,6 @@
 ||sdhzstone.net^
 ||sdin.mr^
 ||sdjjr.com^
-||sdk-api-v1.singular.net^
 ||sdk-diagnostics.prd.mz.internal.unity3d.com^
 ||sdk-diagnostics.stg.mz.internal.unity3d.com^
 ||sdk-log-inter.youdao.com^

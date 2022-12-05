@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-05T06:21:31.632Z
+! Last modified: 2022-12-05T12:33:11.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16773,6 +16773,7 @@ vkcdnservice.appspot.com^
 ||plungebackyard.com^
 ||pluraldispersegranary.com^
 ||plusclick.biz^
+||plutil.com^
 ||plutonactg.com^
 ||plutothejewel.com^
 ||plxserve.com^
@@ -23401,6 +23402,7 @@ vkcdnservice.appspot.com^
 ||ypopaycisqh.com^
 ||yppreudkgmya.xyz^
 ||ypreferred.com^
+||ypring.com^
 ||yqanlvekcrfkd.xyz^
 ||yqeuu.com^
 ||yqmhehotfy.xyz^
@@ -29978,6 +29980,8 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||sugarfriction.com^
+||fortunatemark.com^
 ||threetruck.com^
 ||superficialspring.com^
 ||retargetapp.com^
@@ -34928,7 +34932,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fastenfather.com^
 ||fifthborder.com^
 ||foretellfifth.com^
-||fortunatemark.com^
 ||frailfruit.com^
 ||frantictrail.com^
 ||fronttoad.com^
@@ -40380,6 +40383,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||storj.cloud^
+||clbanners9.com^
 ||my.urdreama.cfd^
 ||referans.xyz^
 ||lider90.com^
@@ -40573,7 +40578,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smrtbnr.top^
 ||static-ads.akamaized.net^
 ||stopblyat.tk^
-||storj.cloud^
 ||sw1block.com^
 ||tagon.co^
 ||tarpitbar.com^
@@ -43402,6 +43406,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kldtmki.cn^
 ||qczj.xyz^
 ||folgsl.xyz^
+||lambda.center^
+||iisymgs.cn^
+||guanhoulz.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

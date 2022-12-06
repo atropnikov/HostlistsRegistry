@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2022-12-03T16:22:13.786Z
+! Last modified: 2022-12-06T04:20:19.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1819,6 +1819,8 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtcss.qq.com
+0.0.0.0 analytics.map.qq.com
+0.0.0.0 cc.map.qq.com
 0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alogs.umeng.com
@@ -10420,6 +10422,11 @@
 0.0.0.0 jadspro.live
 0.0.0.0 static.jadspro.live
 0.0.0.0 www.jadspro.live
+0.0.0.0 bifrost-api.hotstar.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 videoads.hotstar.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-08T18:20:42.587Z
+! Last modified: 2022-12-09T01:24:51.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3472,6 +3472,7 @@ vkcdnservice.appspot.com^
 ||ahhdsply.com^
 ||ahidsply.com^
 ||ahjdsply.com^
+||ahjopnbimr.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahlhsxdxy.com^
@@ -6672,6 +6673,7 @@ vkcdnservice.appspot.com^
 ||ceilidhgrazier.com^
 ||ceknunhwa.com^
 ||celeb-ads.com^
+||celebritybulk.com^
 ||celebsreflect.com^
 ||celeritascdn.com^
 ||celign.com^
@@ -6900,6 +6902,7 @@ vkcdnservice.appspot.com^
 ||chosesleptcattish.com^
 ||chottsapocha.com^
 ||choultie.com^
+||choupaig.xyz^
 ||choupsee.com^
 ||chpfgx.com^
 ||chpok.pw^
@@ -10524,6 +10527,7 @@ vkcdnservice.appspot.com^
 ||gatetotrustednetwork.com^
 ||gatheringtherealiases.com^
 ||gaupremob.cf^
+||gaused.com^
 ||gauvaiho.net^
 ||gavialspackers.com^
 ||gavnogeeygaika.com^
@@ -12402,6 +12406,7 @@ vkcdnservice.appspot.com^
 ||iptautup.com^
 ||iqbkkhhsgk.com^
 ||iqdflfpchlmtnt.com^
+||iqqxhgekch.xyz^
 ||iqtest365.online^
 ||iqzgqivb.com^
 ||iranismepode.com^
@@ -13836,6 +13841,7 @@ vkcdnservice.appspot.com^
 ||locatc.com^
 ||locatioiranic.digital^
 ||locationsreverenceaid.com^
+||lochts.com^
 ||lockercpa.pl^
 ||lockerdomecdn.com^
 ||lockersatelic.cam^
@@ -16996,6 +17002,7 @@ vkcdnservice.appspot.com^
 ||plissewali.com^
 ||plkatdmeje.com^
 ||plkjljrabdt.com^
+||plmcmgjq.com^
 ||plocap.com^
 ||plordi.com^
 ||plottercatnap.digital^
@@ -18455,6 +18462,7 @@ vkcdnservice.appspot.com^
 ||retargeter.com^
 ||retauwhu.com^
 ||retcyy.com^
+||retentrhason.com^
 ||retiremely.com^
 ||retirementlash.com^
 ||retiringvarieties.com^
@@ -18736,6 +18744,7 @@ vkcdnservice.appspot.com^
 ||romepoptahul.com^
 ||rompuwit.net^
 ||rongseavy.com^
+||ronrecheclo.com^
 ||roofprison.com^
 ||roojouma.com^
 ||rookmemorizevoluntary.com^
@@ -19631,6 +19640,7 @@ vkcdnservice.appspot.com^
 ||sippansy.com^
 ||sippingsunned.com^
 ||siredonlacs.com^
+||sirepisode.com^
 ||sireundermineoperative.com^
 ||sisewepod.com^
 ||sitdoobly.com^
@@ -20777,6 +20787,7 @@ vkcdnservice.appspot.com^
 ||terminuspaganscience.com^
 ||termitekalinga.com^
 ||terningpail.com^
+||terperbelomo.com^
 ||terra8nb.com^
 ||terraclicks.com^
 ||terralink.xyz^
@@ -23318,6 +23329,7 @@ vkcdnservice.appspot.com^
 ||xduufkgoprmdjq.com^
 ||xdvsijtlhr.com^
 ||xebadu.com^
+||xeeqpuzd.com^
 ||xegluwate.com^
 ||xegroxenu.com^
 ||xekychacu.com^
@@ -26121,6 +26133,7 @@ vkcdnservice.appspot.com^
 ||d3t3z4teexdk2r.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
 ||d3tfz9q9zlwk84.cloudfront.net^
+||d3tjml0i5ek35w.cloudfront.net^
 ||d3tozt7si7bmf7.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
 ||d3uqm14ppr8tkw.cloudfront.net^
@@ -31392,6 +31405,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||trace.51jingying.com^
 ||ss.webdock.io^
 ||events.webdock.io^
 ||t.wayfair.de^
@@ -43837,6 +43851,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||capldfw.cn^
+||jpgtpbl.cn^
+||vmax-ktv.com^
+||gogfhq.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-09T14:15:09.668Z
+! Last modified: 2022-12-09T17:15:40.466Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||vmzqwmbrip.com^
 ||theupgradedata.com^
 ||theloveapproach.com^
 ||neeladou.net^
@@ -41626,6 +41627,29 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
 
+||adrequest.net^
+||adshim.com^
+||affiliatepartners.com^
+||affiliateprogramma.eu^
+||believe-the-hype.be^
+||botndm.nl^
+||crnsgngrpj.nl^
+||dntblckmpls.nl^
+||ds1.nl^
+||dt51.net^
+||dt71.net^
+||gratis-neuken.com^
+||nojazz.eu^
+||nonstoppartner.net^
+||online-banners.nl^
+||optoutadvertising.com^
+||sponsorkliks.com^
+||static-dscn.net^
+||tools.islive.nl^
+||travelads.be^
+||vpscash.nl^
+||xpartners.nl^
+
 ||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
@@ -41804,7 +41828,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||network-marketing24.com^
 ||network-media.info^
 ||networx.me^
-||nonstoppartner.net^
 ||notenpartner.de^
 ||nwave.de^
 ||onlymega.com^
@@ -43520,6 +43543,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bvpaovs.cn^
 ||bvwxfok.cn^
 ||bzngisyv.xyz^
+||capldfw.cn^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -43559,6 +43583,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ertjo.xyz^
 ||eskay.cn^
 ||ezngisyw.xyz^
+||faw7.top^
 ||fdxpfeb.cn^
 ||fiwyjar.cn^
 ||fkjdz.cyou^
@@ -43579,6 +43604,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gkofzfi.cn^
 ||glovemall.cn^
 ||gmkmkn.xyz^
+||gogfhq.xyz^
 ||gpsncbo.cn^
 ||guanggao1257.com^
 ||guanhoulz.com^
@@ -43626,11 +43652,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jnkmwr.xyz^
 ||joh4t.cn^
 ||jpai.xyz^
+||jpgtpbl.cn^
 ||jqnggnsa.fun^
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kdegznb.cn^
+||kecms.xyz^
 ||kjanfwss.xyz^
 ||kjcvw.xyz^
 ||kjhxw.xyz^
@@ -43651,6 +43679,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kzngisyd.xyz^
 ||lambda.center^
 ||lapsmnl.cyou^
+||lbjc.xyz^
 ||lbzx.xyz^
 ||lejso.com^
 ||lezbrja.cn^
@@ -43668,6 +43697,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||luotuoma.xin^
 ||lwhqa.xyz^
 ||lxrhw.xyz^
+||lzcgsbe.cn^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
@@ -43756,6 +43786,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
 ||qzsfmbt.cn^
+||rebies.xyz^
 ||renxingganwu.com^
 ||renzw.xyz^
 ||rgfqcly.cn^
@@ -43796,16 +43827,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||skfjd1.com^
 ||skfjd1.xyz^
 ||sm3nq.cn^
+||somaliainc.com^
 ||sqnggnsb.fun^
 ||summer5188.com^
 ||szngisyb.xyz^
 ||szzb.xyz^
 ||t34kk9.top^
+||taotaogeren.xyz^
 ||tchpniy.cn^
 ||techgcr.cn^
 ||tfaftemail.com^
 ||tffytdo.cn^
 ||tian-ting.ink^
+||tinymarket.store^
 ||toijr.xyz^
 ||toskmisway.com^
 ||tptp001.buzz^
@@ -43836,6 +43870,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vggzftw.cn^
 ||vibber.download^
 ||vjianshen1688.com^
+||vmax-ktv.com^
 ||vqdjcy.com^
 ||vqjxlie.cn^
 ||wapsmne.cyou^
@@ -43899,17 +43934,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||capldfw.cn^
-||jpgtpbl.cn^
-||vmax-ktv.com^
-||gogfhq.xyz^
-||rebies.xyz^
-||faw7.top^
-||tinymarket.store^
-||taotaogeren.xyz^
-||somaliainc.com^
-||kecms.xyz^
-||lzcgsbe.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

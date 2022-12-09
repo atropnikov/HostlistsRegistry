@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-09T12:31:21.670Z
+! Last modified: 2022-12-09T14:15:09.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||theupgradedata.com^
+||theloveapproach.com^
 ||neeladou.net^
 ||blfoddifghcmeyc.com^
 ||tauwoumo.net^
@@ -33761,7 +33763,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
 ||api.telemetry.watchabc.go.com^
-||browser.events.data.microsoft.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
 ||pipe.aria.microsoft.com^
@@ -37134,6 +37135,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||temporarympay.com^
 ||hjheaijhafgfgbaaaei.ru^
 ||hjcbehchdddcegcfaaei.ru^
 ||pb.plat.services^
@@ -37331,7 +37333,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zkbkat.com^
 ||uqystk.com^
 ||j1oxqq05ry.ru^
-||temporarympay.com^
 ||1qi.info^
 ||aomngb.com^
 ||q0mn5t187u.ru^
@@ -51605,6 +51606,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||c.office.com^|
 @@||surveymyopinion.researchnow.com^|
 @@||e.customeriomail.com^|
 @@||partner.everydays.de^|

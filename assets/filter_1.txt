@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-09T06:21:05.383Z
+! Last modified: 2022-12-09T12:31:21.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||neeladou.net^
+||blfoddifghcmeyc.com^
 ||tauwoumo.net^
 ||wisehowronspar.com^
 ||ld.myrciawaapa.com^
@@ -31442,6 +31444,11 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||s.360.cn^
+||sp*.baidu.com^
+||analytics.map.qq.com^
+||zhihu-web-analytics.zhihu.com^
+||sugar.zhihu.com^
 ||trace.51jingying.com^
 ||ss.webdock.io^
 ||events.webdock.io^
@@ -42016,6 +42023,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cmp.network-n.com^
 ||collect.breakit.se^
 ||collector.cint.com^
+||collector-pxrf8vapwa.pxchk.net^
+||collector-pxrf8vapwa.px-cdn.net^
+||collector-pxrf8vapwa.px-cloud.net^
 ||collector.houston-analytics.com^
 ||collect-metrics.aquro.com^
 ||connectio.s3.amazonaws.com^
@@ -43896,6 +43906,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||faw7.top^
 ||tinymarket.store^
 ||taotaogeren.xyz^
+||somaliainc.com^
+||kecms.xyz^
+||lzcgsbe.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

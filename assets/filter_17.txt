@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-12-11T18:20:16.117Z
+! Last modified: 2022-12-17T14:13:15.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -337,6 +337,7 @@
 127.0.0.1 creative.prf.hn
 127.0.0.1 creatives.bidtheatre.com
 127.0.0.1 creative-serving.com
+127.0.0.1 creatopy-adtag-production.b-cdn.net
 127.0.0.1 cs.ns1p.net
 127.0.0.1 ctx.matchads.net
 127.0.0.1 curedonswab.com

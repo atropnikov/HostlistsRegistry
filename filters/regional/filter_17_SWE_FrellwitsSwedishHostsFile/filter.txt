@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2022-12-17T14:13:15.908Z
+! Last modified: 2022-12-19T10:19:30.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -430,6 +430,7 @@
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eu.npario-inc.net
 127.0.0.1 events-collector.spot.im
+127.0.0.1 evtr.nordiskemedier.dk
 127.0.0.1 exitintel.com
 127.0.0.1 expo.ads.ramsalt.com
 127.0.0.1 extern.prisjakt.nu

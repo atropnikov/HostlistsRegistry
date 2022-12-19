@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-19T06:20:48.810Z
+! Last modified: 2022-12-19T12:31:30.977Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||amltaqap.com^
 ||pumpaiss.net^
 ||fb960dbd5f.com^
 ||oneegrou.net^
@@ -20370,6 +20371,7 @@ vkcdnservice.appspot.com^
 ||cuelinks.com^
 ||currentlyobsessed.me^
 ||cybmas.com^
+||czilladx.com^
 ||dable.io^
 ||dailystuffall.com^
 ||datawrkz.com^
@@ -37726,6 +37728,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
 ||eteppy.com^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
+||evtr.nordiskemedier.dk^
 ||expo.ads.ramsalt.com^
 ||extern.prisjakt.nu^
 ||external.reseguiden.se^
@@ -39717,6 +39720,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zenknho.cn^
 ||fqsokh.xyz^
 ||hztv.xyz^
+||lubao-food.mobi^
+||zzwzsic.cn^
+||81cdn.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

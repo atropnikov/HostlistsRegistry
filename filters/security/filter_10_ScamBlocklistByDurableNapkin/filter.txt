@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2022-12-19T05:15:13.355Z
+! Last modified: 2022-12-21T05:15:02.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -140,6 +140,7 @@
 ||gearstastic.com^
 ||gearstastics.com^
 ||gearver.com^
+||gemlis.com^
 ||giftyweb.com^
 ||gizmopage.com^
 ||gladiadormalas.com.br^

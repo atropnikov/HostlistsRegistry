@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2022-12-25T21:13:29.733Z
+! Last modified: 2022-12-26T08:20:50.060Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9533,7 +9533,6 @@
 ||bebasads.com^
 ||bebaytowns.com^
 ||bebi.com^
-||beboo.ru^
 ||bebreloomr.com^
 ||becaa.org^
 ||becameaimcap.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-26T06:20:57.688Z
+! Last modified: 2022-12-26T12:29:57.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22847,6 +22847,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||t.influ2.com^
 ||trk.adbutter.net^
 ||oribi.io^
 ||eoapxl.com^
@@ -27296,6 +27297,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||stat.airdroid.com^
 ||tracker.ranker.com^
 ||unagi*.amazon.
 ||c.salon24.pl^
@@ -40009,6 +40011,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hqoqbs.xyz^
 ||monzexn.cn^
 ||kxgo.xyz^
+||runn.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47710,6 +47713,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||check2.tsb.co.uk^|
 @@||c.office.com^|
 @@||surveymyopinion.researchnow.com^|
 @@||e.customeriomail.com^|

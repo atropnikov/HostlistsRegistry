@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-26T12:29:57.039Z
+! Last modified: 2022-12-26T18:19:14.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22847,6 +22847,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||gateway.foresee.com^
+||analytics.foresee.com^
+||hatmiso.net^
 ||t.influ2.com^
 ||trk.adbutter.net^
 ||oribi.io^
@@ -26247,6 +26250,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||chubbycreature.com^
 ||restrainstorm.com^
 ||sugarfriction.com^
 ||fortunatemark.com^
@@ -27297,6 +27301,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.crea.ca^
 ||stat.airdroid.com^
 ||tracker.ranker.com^
 ||unagi*.amazon.
@@ -31421,7 +31426,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.foresee.com^
 ||analytics.googlepeer.cloud^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
@@ -31663,7 +31667,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ga-beacon.appspot.com^
 ||ga.webdigi.co.uk^
 ||ganon.yahoo.com^
-||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
 ||geo.ertya.com^
 ||geo.gorillanation.com^
@@ -36927,6 +36930,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+||promolayer.io^
 ||googleailesi.com^
 ||bartinkizogrenciyurdu.com^
 ||ratel-ad.com^
@@ -40012,6 +40016,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monzexn.cn^
 ||kxgo.xyz^
 ||runn.fun^
+||abgxxc.com^
+||vqhifd.xyz^
+||cja-1223.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47051,7 +47058,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||at*.doubanio.com^
 ||b.kouke5.com^
 ||b.unjs.com^
-||b1.027art.com^
+||static.rongkao.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.b2b168.com^

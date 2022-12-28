@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2022-12-27T18:19:28.862Z
+! Last modified: 2022-12-28T01:18:27.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2178,6 +2178,7 @@ vkcdnservice.appspot.com^
 ||5da55619e0.com^
 ||5daf6a375c.com^
 ||5dd044e588.com^
+||5dec6805a0.com^
 ||5e00bd6c36.com^
 ||5ee16260b9.com^
 ||5ef80ae889.com^
@@ -2220,6 +2221,7 @@ vkcdnservice.appspot.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
 ||64134c91b6.com^
+||645f89f33c.com^
 ||64ffcfdec2.com^
 ||6521d79e42.com^
 ||65mjvw6i1z.com^
@@ -2463,6 +2465,7 @@ vkcdnservice.appspot.com^
 ||a26662f21f.com^
 ||a2c653c4d145fa5f96a.com^
 ||a2cfb6f626.com^
+||a2d3d13c41.com^
 ||a2tw6yoodsag.com^
 ||a3141de4a0.com^
 ||a353364ec1bd19a.com^
@@ -5279,6 +5282,7 @@ vkcdnservice.appspot.com^
 ||boozingtawney.com^
 ||bop-bop-bam.com^
 ||bopvetgel.com^
+||borary.com^
 ||boreasinflash.com^
 ||boredactress.com^
 ||boredomsidion.com^
@@ -7906,6 +7910,7 @@ vkcdnservice.appspot.com^
 ||endorsebilateralpancreas.com^
 ||endream.buzz^
 ||enebut.com^
+||eneffe.com^
 ||enemieshemisphere.com^
 ||energeticholder.com^
 ||eneverthewin.xyz^
@@ -9620,6 +9625,7 @@ vkcdnservice.appspot.com^
 ||haribdathesea.com^
 ||harmlesstacticalhonorable.com^
 ||harmonycanyon.com^
+||harn8.info^
 ||harpiesong8.com^
 ||harrenmedianetwork.com^
 ||harrietproverb.com^
@@ -11442,6 +11448,7 @@ vkcdnservice.appspot.com^
 ||lessite.pro^
 ||lessonhumoral.uno^
 ||lessonis.com^
+||lessonpunk.com^
 ||letchooz.net^
 ||leucan3thegm6um.com^
 ||leukemianarrow.com^
@@ -11729,6 +11736,7 @@ vkcdnservice.appspot.com^
 ||ltassrv.com^
 ||ltbbfotur.xyz^
 ||ltengronsa.com^
+||ltibabjux.com^
 ||ltijuzoqm.com^
 ||lturerpartm.com^
 ||ltyabkihjsecl.xyz^
@@ -12752,6 +12760,7 @@ vkcdnservice.appspot.com^
 ||ndweandthe.xyz^
 ||neads.delivery^
 ||neague.com^
+||nearbyforcedirty.com^
 ||neasal.com^
 ||nebulouslostpremium.com^
 ||nebwvbpelobi.com^
@@ -13652,6 +13661,7 @@ vkcdnservice.appspot.com^
 ||ourl.link^
 ||ourscience.info^
 ||oursgorefreshing.com^
+||oursiignaboaord.xyz^
 ||ourteeko.com^
 ||ourzitemu.com^
 ||ouseoopers.co^
@@ -14339,6 +14349,7 @@ vkcdnservice.appspot.com^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podosupsurge.com^
+||podsklzegshmnd.com^
 ||podsolnu9hi10.com^
 ||poembetray.com^
 ||poeticgum.com^
@@ -16243,6 +16254,7 @@ vkcdnservice.appspot.com^
 ||seriy2sviter11o9.com^
 ||serpentdusks.com^
 ||serumbosses.com^
+||serv01001.xyz^
 ||servedbyadbutler.com^
 ||servehub.info^
 ||serverbid.com^
@@ -16488,6 +16500,7 @@ vkcdnservice.appspot.com^
 ||sireundermineoperative.com^
 ||sirpmqmrrett.xyz^
 ||sisewepod.com^
+||siswensaidoh.xyz^
 ||sitdoobly.com^
 ||sitecham.xyz^
 ||sitefeytout.com^
@@ -16644,6 +16657,7 @@ vkcdnservice.appspot.com^
 ||snugslackmakeup.com^
 ||snurpsermon.space^
 ||snwpqybkb.com^
+||snxewpxrhegslq.com^
 ||snxujyyw.com^
 ||soaheeme.net^
 ||soalonie.com^
@@ -18687,6 +18701,7 @@ vkcdnservice.appspot.com^
 ||vg4u8rvq65t6.com^
 ||vgtsmwlwlcui.xyz^
 ||vgw35hwr4w6x.com^
+||vhildeiygwnwoo.com^
 ||vhmjevcgc.xyz^
 ||vhsogsyxhfl.xyz^
 ||viabagona.com^
@@ -19312,6 +19327,7 @@ vkcdnservice.appspot.com^
 ||wonderfullytumultbizarre.com^
 ||wonderhsjnsd.com^
 ||wonderlandads.com^
+||wondervids.xyz^
 ||wonsegax.net^
 ||wontonsnosite.com^
 ||woodbeesdainty.com^
@@ -21932,6 +21948,7 @@ vkcdnservice.appspot.com^
 ||d35kbxc0t24sp8.cloudfront.net^
 ||d362plazjjo29c.cloudfront.net^
 ||d36gnquzy6rtyp.cloudfront.net^
+||d36s9tmu0jh8rd.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
@@ -30521,6 +30538,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadsrx.com^
 ||lemnisk.co^
 ||leokross.com^
+||listenlayer.com^
 ||livesegmentservice.com^
 ||livesession.io^
 ||livetrafficfeed.com^
@@ -32413,6 +32431,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||speee-ad.jp^
 ||tgknt.com^
 ||thench.net^
+||thesmilingpencils.com^
 ||trackfeed.com^
 ||acrosspf.com^
 ||adpick.co.kr^
@@ -32739,6 +32758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
+||tr.c-tag.net^
 ||track.thebase.in^
 ||tracker.520call.me^
 ||userdive.com^
@@ -32794,6 +32814,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dbex-tracker-v2.driveback.ru^
 ||delivery.hunterycity.com^
 ||error.videonow.ru^
+||ip.up66.ru^
 ||log.kslogs.ru^
 ||metrics.aviasales.ru^
 ||piper.amocrm.ru^
@@ -40043,6 +40064,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
+||brmzopt.cn^
+||xxvkwuk.cn^
+||dongya.org^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

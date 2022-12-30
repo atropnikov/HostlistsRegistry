@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2022-12-30T12:28:59.748Z
+! Last modified: 2022-12-30T13:20:07.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -649,7 +649,6 @@
 ||ads.virtuopolitan.com^
 ||ads.vnumedia.com^
 ||ads.walkiberia.com^
-||ads.wapx.cn^
 ||ads.watson.ch^
 ||ads.weather.ca^
 ||ads.web.de^
@@ -1823,6 +1822,7 @@
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
+||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
@@ -2234,7 +2234,6 @@
 ||loudlunch.com^
 ||lp3tdqle.com^
 ||lucidmedia.com^
-||lucklayed.info^
 ||luckyorange.com^
 ||ludicrousarch.com^
 ||lytics.io^
@@ -2779,6 +2778,7 @@
 ||raac33.net^
 ||rabbitrifle.com^
 ||radar.cedexis.com^
+||radarurl.com^
 ||radiate.com^
 ||rads.realadmin.pl^
 ||railwayrainstorm.com^
@@ -3178,7 +3178,6 @@
 ||sw88.espn.com^
 ||swan-swan-goose.com^
 ||swimslope.com^
-||swordfishdc.com^
 ||swordgoose.com^
 ||t.armchairbookie.com^
 ||t.bawafx.com^

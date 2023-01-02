@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-01T18:18:32.594Z
+! Last modified: 2023-01-02T01:19:54.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32294,6 +32294,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
+||log-global.aliyuncs.com^
 ||log.artipbox.net^
 ||log.cookieyes.com^
 ||log.kibboko.com^
@@ -40050,6 +40051,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||caudojq.cn^
 ||ccl1.icu^
 ||cdn-go.net^
+||celcxjb.cn^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -40249,6 +40251,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kdegznb.cn^
+||kdqika.xyz^
 ||kecms.xyz^
 ||keiscithy.com^
 ||kjanfwss.xyz^
@@ -40292,6 +40295,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lgjxw.xyz^
 ||lhare.xyz^
 ||lihuan.store^
+||ljhhhhrt.top^
 ||ljlg.xyz^
 ||ljrot.icu^
 ||lkjrx.xyz^
@@ -40376,6 +40380,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pmcppla.cn^
 ||pnesemr.cn^
 ||pothouse.cn^
+||ppwrc.xyz^
 ||prju.top^
 ||pthezjl.cn^
 ||ptijx.xyz^
@@ -40499,6 +40504,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t34kk9.top^
 ||t5wm.cc^
 ||taotaogeren.xyz^
+||tbxqbvt.cn^
 ||tchpniy.cn^
 ||techgcr.cn^
 ||tfaftemail.com^
@@ -40545,6 +40551,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vadypb.cn^
 ||vagvedi.cn^
 ||vahdzbk.cn^
+||vec4o.top^
 ||venulaevavs.com^
 ||vfqnhif.cn^
 ||vggzftw.cn^
@@ -40574,12 +40581,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wmgocya.cn^
 ||wocexaa.cn^
 ||wotmvdc.cn^
+||wotui.ltd^
 ||wpozwh.com^
 ||wqnggnse.fun^
 ||wumei91.cc^
 ||wv86s.fun^
 ||wvggzak.cn^
 ||wxumevd.cn^
+||wydfghjjh.live^
 ||wyplmjufd.live^
 ||wyqaafplm.live^
 ||wyqwrfghj.live^
@@ -40607,6 +40616,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xxvkwuk.cn^
 ||y88m2.top^
 ||yangliu.ink^
+||ybayck.xyz^
 ||ybgo.xyz^
 ||ycyipha.cn^
 ||yes-24-go.cc^
@@ -40614,6 +40624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ygcn.ltd^
 ||ygq.ink^
 ||ygwdai.cn^
+||yhbdrnr.cn^
 ||yhzm.xyz^
 ||yihehe.xyz^
 ||yijfdsu.cn^
@@ -40629,6 +40640,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zahl4tf5zs.xyz^
 ||zahrvfbd.xyz^
 ||zasjfget.xyz^
+||zbfiupq.cn^
 ||zbpx.xyz^
 ||zdy1.xyz^
 ||zenknho.cn^
@@ -40652,17 +40664,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||kdqika.xyz^
-||tbxqbvt.cn^
-||ljhhhhrt.top^
-||ybayck.xyz^
-||zbfiupq.cn^
-||ppwrc.xyz^
-||yhbdrnr.cn^
-||celcxjb.cn^
-||wotui.ltd^
-||vec4o.top^
-||wydfghjjh.live^
+||iyxuude.cn^
+||glczys.xyz^
+||b67.xyz^
+||yigehong.com.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47184,9 +47189,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||ys2000.cdn.bcebos.com^
-||j8377.com^
 ||380.tw^
 ||52av.be^
+||j8377.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||5lu8.com^

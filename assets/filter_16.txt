@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2022-12-29T16:22:32.698Z
+! Last modified: 2023-01-04T17:17:33.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10398,6 +10398,14 @@
 0.0.0.0 creative-cdn.oddsserve.com
 0.0.0.0 oddsserve.com
 0.0.0.0 v1.oddsserve.com
+0.0.0.0 xoom-ads.com
+0.0.0.0 imps.xoom-ads.com
+0.0.0.0 tracking.xoom-ads.com
+0.0.0.0 www.xoom-ads.com
+0.0.0.0 cryptox-ads.io
+0.0.0.0 mat.cryptox-ads.io
+0.0.0.0 pub.cryptox-ads.io
+0.0.0.0 sdk-api.cryptox-ads.io
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -10777,6 +10785,8 @@
 0.0.0.0 zlog.zingmp3.vn
 0.0.0.0 log.zingnews.vn
 0.0.0.0 za.zingnews.vn
+0.0.0.0 log.zingnews.com.vn
+0.0.0.0 za.zingnews.com.vn
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.zalo.me
 0.0.0.0 api.widget.zalo.me
@@ -12940,6 +12950,7 @@
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 advinapps.com
 0.0.0.0 advinci.co
+0.0.0.0 adviralmedia.com
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
@@ -13820,6 +13831,7 @@
 0.0.0.0 craveandlamb.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
+0.0.0.0 crazyabuse.pro
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.com
@@ -14114,6 +14126,7 @@
 0.0.0.0 effateuncrisp.com
 0.0.0.0 effectivecpmcontent.com
 0.0.0.0 effectivecpmgate.com
+0.0.0.0 effectivecreativeformat.com
 0.0.0.0 effectivedisplaycontent.com
 0.0.0.0 effectivedisplayformat.com
 0.0.0.0 effectivedisplayformats.com
@@ -14646,6 +14659,7 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 ietyofedinj89yewtburgh.com
 0.0.0.0 ifa.tube8live.com
+0.0.0.0 ignorant-union.pro
 0.0.0.0 igwlfwsogwetw.com
 0.0.0.0 iifvcfwiqi.com
 0.0.0.0 ilbanner.com
@@ -15037,6 +15051,7 @@
 0.0.0.0 mas.sector.sk
 0.0.0.0 massive-dark.pro
 0.0.0.0 mastermind.com
+0.0.0.0 mat.luckyspin666.com
 0.0.0.0 matchcraft.com
 0.0.0.0 mathcountryside.com
 0.0.0.0 matheranalytics.com
@@ -15353,6 +15368,7 @@
 0.0.0.0 nuseek.com
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nvmjdpbjgrh.com
+0.0.0.0 nwmqhgeixqan.com
 0.0.0.0 nyalacornily.cam
 0.0.0.0 nzaza.com
 0.0.0.0 nzihjybdeq.com
@@ -15381,6 +15397,7 @@
 0.0.0.0 offclaydolon.com
 0.0.0.0 offerforge.com
 0.0.0.0 offerfusion.com
+0.0.0.0 offergate-apps-publicity.com
 0.0.0.0 offerimage.com
 0.0.0.0 offermatica.com
 0.0.0.0 offoonguser.com
@@ -15649,6 +15666,7 @@
 0.0.0.0 potenza.cz
 0.0.0.0 powerad.ai
 0.0.0.0 ppfrlfe.com
+0.0.0.0 pqplkjwwezfrn.com
 0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
@@ -15982,6 +16000,7 @@
 0.0.0.0 ruwertur.com
 0.0.0.0 rvkthygqhe.com
 0.0.0.0 rvrpushserv.com
+0.0.0.0 rwturquxinm.com
 0.0.0.0 rxpsaofevrikmi.com
 0.0.0.0 ryeeffortoccupy.com
 0.0.0.0 ryeqnyvbncdvg.com
@@ -16641,6 +16660,7 @@
 0.0.0.0 upspinarakor.com
 0.0.0.0 uptrendsdata.com
 0.0.0.0 urechar.com
+0.0.0.0 urimnugocfr.com
 0.0.0.0 urlcash.net
 0.0.0.0 uruswan.com
 0.0.0.0 us.claroadsxml.com
@@ -16917,6 +16937,7 @@
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.dynamicadx.com
 0.0.0.0 www.ecpms.net
+0.0.0.0 www.effectivecreativeformat.com
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.eo62cocntx.com
 0.0.0.0 www.epi0tzwi.com
@@ -16992,6 +17013,7 @@
 0.0.0.0 www.zxc.world
 0.0.0.0 wyvpjsfhywm.com
 0.0.0.0 wywy.com
+0.0.0.0 wzuisptxzqbb.com
 0.0.0.0 x-traceur.com
 0.0.0.0 x2sfa.javgg.eu
 0.0.0.0 xad.com
@@ -17010,6 +17032,7 @@
 0.0.0.0 xius.com
 0.0.0.0 xkesalwueyz.com
 0.0.0.0 xlviiirdr.com
+0.0.0.0 xmkmuadkefzav.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xpbbyiqbcawamy.com
 0.0.0.0 xplosion.de
@@ -17113,6 +17136,7 @@
 0.0.0.0 zmedia.com
 0.0.0.0 zoosnet.net
 0.0.0.0 zorprhbnwbezie.com
+0.0.0.0 zpbhjatpnaovj.com
 0.0.0.0 zrljkhcwhxhh.com
 0.0.0.0 zumobi.com
 0.0.0.0 zuphaims.com
@@ -17149,6 +17173,7 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 analytics.alright.network
+0.0.0.0 analytics.amazing-media.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.ccgateway.net
@@ -17182,6 +17207,7 @@
 0.0.0.0 analytics.poolshool.com
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.publitas.com
+0.0.0.0 analytics.ravelz.com
 0.0.0.0 analytics.s.id
 0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.samsungknox.com

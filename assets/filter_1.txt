@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-05T06:19:24.157Z
+! Last modified: 2023-01-05T12:32:15.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||xvideos00.sbs^
 ||currentaccountadv.com^
 ||myreqdcompany.com^
 ||vstvstsa.com^
@@ -38922,9 +38923,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chatbox-tracking.botbanhang.vn^
 ||chatbox-widget.botbanhang.vn^
 ||cheap-ads.net^
-||cjm.mytv.vn^
-||cjm.vnptmedia.vn^
-||cjmgw.vnptmedia.vn^
 ||clevernet.vn^
 ||cococx.com^
 ||codon.vn^
@@ -38951,13 +38949,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||harafunnel.com^
 ||haraloyalty.com^
 ||hotngay.vn^
-||ipcc-vnp1.vnptmedia.vn^
-||ipcc.mytv.com.vn^
-||ipcc.shop.vnpt.vn^
-||ipcc.vinaphone.com.vn^
-||ipcc.vinaphoneplus.com.vn^
-||ipcc.vnptmedia.vn^
-||ipccegov.vnptmedia.vn^
 ||itim.vn^
 ||jeoway.com^
 ||js.aiservice.vn^
@@ -39599,6 +39590,14 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||401aww.com^
+||huiyelu.com^
+||huiyidui.com^
+||huiyanzhi.com^
+||huitoukao.com^
+||pddbtn.xyz^
+||huiyueting.com^
+||u1011.com^
 ||100ytrf.com^
 ||5r562.cn^
 ||81xs.xyz^
@@ -39624,6 +39623,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wpiwoo.xyz^
 ||rglctlo.cn^
 ||slowbeat.fun^
+||sange20221226.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

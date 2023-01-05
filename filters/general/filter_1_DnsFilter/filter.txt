@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-05T13:25:07.327Z
+! Last modified: 2023-01-05T18:20:48.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||js.download-apk-i.com^
 ||xvideos00.sbs^
 ||currentaccountadv.com^
 ||myreqdcompany.com^
@@ -23096,6 +23097,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tpstelemetry.tencent.com^
+||posthog.com^
 ||crossees.com^
 ||plausiblecdn.co^
 ||humanz.com^
@@ -27547,6 +27550,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.slidesai.io^
 ||idat.production.ippen.space^
 ||p-events.ivideosmart.com^
 ||snowy.bellroy.com^
@@ -30877,7 +30881,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
-||posthog.com^
 ||pro6e.com^
 ||programmatictrader.com^
 ||propermessage.io^
@@ -39616,40 +39619,41 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||401aww.com^
-||huiyelu.com^
-||huiyidui.com^
-||huiyanzhi.com^
-||huitoukao.com^
-||pddbtn.xyz^
-||huiyueting.com^
-||u1011.com^
 ||100ytrf.com^
+||401aww.com^
 ||5r562.cn^
 ||81xs.xyz^
 ||ahwiaw.xyz^
+||aliyun6969.cn^
 ||creawww.top^
 ||gadscc.xyz^
 ||htbdvx.xyz^
 ||huishij.net^
+||huitoukao.com^
+||huiyanzhi.com^
+||huiyelu.com^
+||huiyidui.com^
+||huiyueting.com^
 ||igusoft.com^
 ||ikbgika.cn^
+||irygym.xyz^
+||neipa.xyz^
+||njslx.cn^
 ||noiea.xyz^
 ||ofgysy.xyz^
+||pddbtn.xyz^
 ||ps123.online^
+||rglctlo.cn^
+||sange20221226.xyz^
+||sc4mh.cn^
+||slowbeat.fun^
 ||soqikbe.cn^
+||u1011.com^
+||unmnkkq.cn^
 ||vbgr7.cn^
 ||vec4o.fun^
-||yanjiusuo.cc^
-||unmnkkq.cn^
-||neipa.xyz^
-||sc4mh.cn^
-||njslx.cn^
-||irygym.xyz^
 ||wpiwoo.xyz^
-||rglctlo.cn^
-||slowbeat.fun^
-||sange20221226.xyz^
+||yanjiusuo.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-06T12:31:31.710Z
+! Last modified: 2023-01-06T18:20:10.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||oftheseveryh.xyz^
+||salwaysesureto.info^
+||d1bioqbsunwnrb.cloudfront.net^
 ||js.download-apk-i.com^
 ||xvideos00.sbs^
 ||currentaccountadv.com^
@@ -23154,6 +23157,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
 ||posthog.com^
 ||crossees.com^
@@ -39674,15 +39678,19 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||0s6s0.top^
 ||100ytrf.com^
 ||401aww.com^
 ||5r562.cn^
 ||81xs.xyz^
 ||ahwiaw.xyz^
 ||aliyun6969.cn^
+||aol32.cn^
 ||creawww.top^
+||fyfvaxi.cn^
 ||gadscc.xyz^
 ||htbdvx.xyz^
+||huifuhuo.com^
 ||huishij.net^
 ||huitoukao.com^
 ||huiyanzhi.com^
@@ -39692,31 +39700,31 @@ charlestownwyllie.oaklawnnonantum.com^
 ||igusoft.com^
 ||ikbgika.cn^
 ||irygym.xyz^
+||leiwo.xyz^
+||mdi5k.cn^
 ||neipa.xyz^
 ||njslx.cn^
 ||noiea.xyz^
 ||ofgysy.xyz^
+||pafcpd.xyz^
 ||pddbtn.xyz^
 ||ps123.online^
+||qingfengxq.com^
 ||rglctlo.cn^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||slowbeat.fun^
 ||soqikbe.cn^
+||timothy.wang^
 ||u1011.com^
 ||unmnkkq.cn^
 ||vbgr7.cn^
 ||vec4o.fun^
 ||wpiwoo.xyz^
-||yanjiusuo.cc^
-||leiwo.xyz^
-||yzgid.cn^
 ||wzkxke.xyz^
-||0s6s0.top^
-||aol32.cn^
+||yanjiusuo.cc^
 ||yretx.cn^
-||fyfvaxi.cn^
-||timothy.wang^
+||yzgid.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -46902,6 +46910,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||b1.xiao84.com^
 ||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
+||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
 ||baiduada.babihu.com^
 ||baidujs.cnys.com^

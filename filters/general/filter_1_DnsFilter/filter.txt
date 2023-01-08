@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-07T18:18:57.425Z
+! Last modified: 2023-01-08T01:26:02.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1158,7 +1158,6 @@
 ||drakorindo.club^
 ||piratepc.net^
 ||theirsvendor.com^
-||opten.hu^
 ||yallarec.com^
 ||hechaocheng.cn^
 ||borsendental.com^
@@ -12996,7 +12995,6 @@ vkcdnservice.appspot.com^
 ||netpatas.com^
 ||netstam.com^
 ||nettube.top^
-||netu.io^
 ||netund.com^
 ||neutralityrecommendstretched.com^
 ||neutraltoxicpreposition.com^
@@ -32092,6 +32090,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
+||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
 ||mts.mansion.com^
 ||myscoop-tracking.googlecode.com^

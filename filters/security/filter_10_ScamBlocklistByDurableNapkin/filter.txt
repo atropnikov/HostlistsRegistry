@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-01-04T05:15:01.791Z
+! Last modified: 2023-01-09T05:15:33.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -80,6 +80,7 @@
 ||corg.co^
 ||couponxoo.com^
 ||cryptot.net^
+||csmoney.trade^
 ||customizerbox.com^
 ||danylevych.com^
 ||daradis.com^

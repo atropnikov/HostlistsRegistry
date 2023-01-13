@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-13T06:21:07.149Z
+! Last modified: 2023-01-13T12:31:57.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||goplayhere.com^
 ||stedsous.xyz^
 ||wvnuubmothth.com^
 ||squhtdqggvpx.xyz^
@@ -22895,6 +22896,7 @@ vkcdnservice.appspot.com^
 ||mo.freeindoapp.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
+||im.ov.yahoo.co.jp^
 ||sitewithg.me^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
@@ -27991,6 +27993,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||collect.rtl.lu^
+||s.sofoot.com^
 ||tracker.hdtvcloud.com^
 ||mtm.walls.io^
 ||analytics.slidesai.io^
@@ -37096,6 +37100,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 
+||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
@@ -40221,6 +40226,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mbepa.xyz^
 ||1134555.com^
 ||hualu.live^
+||fangyaomin.site^
+||ituxzez.cn^
+||bqg16.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

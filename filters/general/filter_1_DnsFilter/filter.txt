@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-14T01:17:51.068Z
+! Last modified: 2023-01-14T06:19:13.838Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1765,7 +1765,6 @@ vkcdnservice.appspot.com^
 ||mine.torrent.pw^
 
 
-|vaikijie.net^
 ||0-000.store^
 ||004809f9da.com^
 ||00aaa2d81c1d174.com^
@@ -19209,6 +19208,7 @@ vkcdnservice.appspot.com^
 ||vaebard.com^
 ||vaeesspot.com^
 ||vaifopooface.com^
+||vaikijie.net^
 ||vailedapetaly.com^
 ||vainfulkmole.com^
 ||vaipsona.com^
@@ -30681,6 +30681,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affvantage.com^
 ||altopd.com^
 ||analys.live^
+||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
@@ -32245,6 +32246,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||botdetection.hbrsd.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
+||c.bazo.io^
 ||c.live.com^
 ||c.wen.ru^
 ||c3metrics.medifast1.com^
@@ -40260,6 +40262,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||koatkm.xyz^
 ||scbt.asia^
 ||laafrce.cn^
+||xh33g.net^
+||xjpphoto.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

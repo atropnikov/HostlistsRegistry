@@ -2,7 +2,7 @@
 ! Title: IDN: ABPindo
 ! Description: ABPindo is an additional filter to complement EasyList to block annoying ads on Indonesian and Malaysian language sites.
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2022-12-17T12:28:22.478Z
+! Last modified: 2023-01-14T13:19:06.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24,6 +24,7 @@
 ||508327fbe9.95bd06d118.com^
 ||6631f33cf2a1032b.com^
 ||995db2642d3d852b.com^
+||adeumssp.com^
 ||b9645fef65.com^
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^

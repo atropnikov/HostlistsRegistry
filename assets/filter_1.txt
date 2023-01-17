@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-17T12:34:06.520Z
+! Last modified: 2023-01-17T18:20:11.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||betzapdoson.com^
+||counter*.stat.ovh^
+||blow.week1time.com^
 ||strubmola.guru^
 ||calibrelugger.com^
 ||rrkgjtdn.com^
@@ -5077,7 +5080,6 @@ vkcdnservice.appspot.com^
 ||bettingpartners.com^
 ||beturtwiga.com^
 ||betxerneastor.club^
-||betzapdoson.com^
 ||beuhgdeguagqsw.com^
 ||beunblkd.xyz^
 ||beveledcorkir.com^
@@ -28225,6 +28227,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||apetite.index.hr^
+||push.zhanzhang.baidu.com^
+||tealium.cbsnews.com^
 ||tracker.citicsinfo.com^
 ||tags.chip.de^
 ||d24rtvkqjwgutp.cloudfront.net^
@@ -30396,6 +30401,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||event.togothermany.com^
+||oldevent.togothermany.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
 ||metrics.plaid.com^
@@ -37902,6 +37909,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+||enmusubimail000.com^
+||infohimatalk77.net^
 ||banner1.site^
 ||more-followers.com^
 ||trigraff.com^
@@ -40342,6 +40351,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aliyun6969.cn^
 ||aol32.cn^
 ||aqtcw.cn^
+||aswtai.xyz^
 ||banhui.xyz^
 ||bfdaawe.top^
 ||bgjjwl.cn^
@@ -40374,6 +40384,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||glzniuy.cn^
 ||gvqrclx.cn^
 ||hcqsuqq.cn^
+||hellobody.online^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||htbdvx.xyz^
@@ -40389,6 +40400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hzcp.fun^
 ||igusoft.com^
 ||ikbgika.cn^
+||ikbhgj.cn^
 ||inkuae.com^
 ||ionqv.cn^
 ||irygym.xyz^
@@ -40418,6 +40430,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mgowec.xyz^
+||mhivqcu.cn^
 ||mmtcw.cn^
 ||mohretsu.com^
 ||mqquas.xyz^
@@ -40431,6 +40444,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||noiea.xyz^
 ||nonabh.xyz^
 ||nouivjv.cn^
+||nwrazu.cn^
 ||nypyzx.xyz^
 ||ockuc.com^
 ||ofgysy.xyz^
@@ -40459,9 +40473,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||siuscs.xyz^
 ||slowbeat.fun^
 ||soqikbe.cn^
+||srnov.top^
 ||sycrgc.xyz^
 ||tfbulkidn.com^
 ||tg0qu.top^
+||tgryfh.xyz^
 ||timothy.wang^
 ||tuape.xyz^
 ||tuyqiolni.cyou^
@@ -40492,6 +40508,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wdmdejd.cn^
 ||wjl58.icu^
 ||wpiwoo.xyz^
+||wschao.xyz^
 ||wuge20230104.live^
 ||wzkxke.xyz^
 ||x3a88d.cn^
@@ -40504,6 +40521,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xmmnsl.com^
 ||xrewo.xyz^
 ||xtpez.xyz^
+||xxsmcps.com^
 ||yanjiusuo.cc^
 ||yemueii.cn^
 ||yhsfsdv03.com^
@@ -40515,18 +40533,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzgid.cn^
 ||zeipw.xyz^
 ||zmdtcw.cn^
+||znktkt.cn^
+||zoute.cyou^
+||zsjyuet.cn^
 ||ztwrnpd.cn^
 ||ztxstudy.club^
 ||zunnnh.xyz^
-||aswtai.xyz^
-||znktkt.cn^
-||nwrazu.cn^
-||tgryfh.xyz^
-||zoute.cyou^
-||zsjyuet.cn^
-||hellobody.online^
-||ikbhgj.cn^
-||srnov.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-01-16T05:15:30.116Z
+! Last modified: 2023-01-18T05:15:31.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -80,6 +80,7 @@
 ||couponxoo.com^
 ||cryptot.net^
 ||customizerbox.com^
+||customurink.com^
 ||danylevych.com^
 ||daradis.com^
 ||decoryourhome.store^
@@ -214,7 +215,6 @@
 ||monkstars.com^
 ||mononus.com^
 ||moteshoes.com^
-||museuw.com^
 ||muthaafoundation.org^
 ||mycraftypad.com^
 ||myfunfarm.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-20T01:23:09.313Z
+! Last modified: 2023-01-20T06:21:28.470Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33519,6 +33519,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clearsale.com.br^
 ||enviou.com.br^
 ||hariken.co^
+||lomadee.com^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
@@ -33836,6 +33837,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.asp24.pl^
 ||stats.ulixes.pl^
 ||statystyki.panelek.com^
+||analytics.spun.com.br^
 ||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
@@ -34004,7 +34006,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||informtext.blogspot.com^
 ||linkeasy.org^
 ||logs.eresmas.com^
-||lomadee.com^
 ||maik.ff-bt.net^
 ||maispremium.com.br^
 ||manuaisadultos.com.br^
@@ -40678,6 +40679,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||paongfh.cn^
 ||fdbskb.cn^
 ||jkxvvv.xyz^
+||t3p58.com^
+||qwrot.cyou^
+||9cgms.xyz^
+||yhjh04.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -47623,6 +47628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||twlcyc.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^

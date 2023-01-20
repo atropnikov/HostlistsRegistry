@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-01-19T05:15:51.294Z
+! Last modified: 2023-01-20T05:15:35.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -122,6 +122,7 @@
 ||fapst.com^
 ||farmer-love.us^
 ||fasinal.com^
+||feddiy.com^
 ||findglocal.com^
 ||fishingdaily.shop^
 ||flattee.com^
@@ -338,7 +339,6 @@
 ||thegeekgifts.com^
 ||thehappywood.com^
 ||thekeilas.com^
-||theshirtyouneed.com^
 ||thevitic.com^
 ||thevitic.onshopbase.com^
 ||tikgeeker.com^

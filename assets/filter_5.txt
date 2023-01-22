@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-01-21T23:16:05.401Z
+! Last modified: 2023-01-22T01:26:04.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5290,6 +5290,7 @@
 ||ads.trutv.com^
 ||ads.tso.dennisnet.co.uk^
 ||ads.tvb.com^
+||ads.twitch.tv^
 ||ads.uc.cn^
 ||ads.uigc.net^
 ||ads.ukclimbing.com^
@@ -21045,7 +21046,6 @@
 ||cv-planet.com^
 ||cvangle.com^
 ||cvbdw.xyz^
-||cvkypgtbxocwx.com^
 ||cvlb.dev^
 ||cvqgnkeqme.com^
 ||cw-decorators.co.uk^
@@ -25759,7 +25759,6 @@
 ||edge-west.customer.io^
 ||edge.addthis.com^
 ||edge.adobedc.net^
-||edge.ads.twitch.tv^
 ||edge.atmtd.com^
 ||edge.bredg.com^
 ||edge.inmobicdn.com^
@@ -61690,7 +61689,6 @@
 ||silasagreement.com^
 ||silbvay.com^
 ||silcom.com^
-||silebu.xyz^
 ||silenitmanby.info^
 ||silent-power.co^
 ||silent-tackle.com^

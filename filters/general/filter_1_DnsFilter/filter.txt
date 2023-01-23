@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-23T12:32:07.985Z
+! Last modified: 2023-01-23T18:19:00.787Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1529,6 +1529,7 @@
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
 ||imp.mgronline.com^
+||static.adconnect.vn^
 ||kernh41.com^
 ||hbplatform.com^
 ||affiliate.k4.tinhte.vn^
@@ -1746,6 +1747,7 @@ vkcdnservice.appspot.com^
 ||1111supjavcom.xyz^
 ||111supjav.xyz^
 ||113aa22d76.com^
+||116bea31bf.com^
 ||118bfe5b01.com^
 ||11f1b925c4.com^
 ||11hrcnll.com^
@@ -1916,6 +1918,7 @@ vkcdnservice.appspot.com^
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
 ||2d32e2d54e.com^
+||2d77c9dd09.com^
 ||2dc9f59586.com^
 ||2e3f31faae.com^
 ||2e552e6db0.com^
@@ -2129,6 +2132,7 @@ vkcdnservice.appspot.com^
 ||5b20a42861.com^
 ||5b541f17b1.com^
 ||5b955d4c78.com^
+||5btekl14.de^
 ||5c3a967126.com^
 ||5c4a902f7e.com^
 ||5c577fc74618431b.com^
@@ -4962,6 +4966,7 @@ vkcdnservice.appspot.com^
 ||bgun5cxxi2dv.com^
 ||bgxerhrcqkdpjib.xyz^
 ||bh3.net^
+||bhcont.com^
 ||bhcumsc.com^
 ||bhqhxbrmd.xyz^
 ||bibbybegazes.com^
@@ -7850,6 +7855,7 @@ vkcdnservice.appspot.com^
 ||eiasninancu.com^
 ||eighes.com^
 ||eignal.com^
+||eigned.com^
 ||eikegolehem.com^
 ||eincre.com^
 ||eiorwithitofsti.com.ua^
@@ -10296,6 +10302,7 @@ vkcdnservice.appspot.com^
 ||imimtord.net^
 ||iminatedm.com^
 ||imitrk.com^
+||immediatesignal.pro^
 ||immedlinkum.info^
 ||immenseflakespyramid.com^
 ||immenselyloot.com^
@@ -11490,6 +11497,7 @@ vkcdnservice.appspot.com^
 ||legrea.com^
 ||lehechapunevent.com^
 ||lehtymns.com^
+||leiasedofold.xyz^
 ||leigunfax.com^
 ||leisengr.com^
 ||leisurebrain.com^
@@ -12402,6 +12410,7 @@ vkcdnservice.appspot.com^
 ||mnemicguaza.cam^
 ||mnetads.com^
 ||mng-ads.com^
+||mnnuhtvnubdg.xyz^
 ||mntzr11.net^
 ||mntzrlt.net^
 ||moakaumo.com^
@@ -13405,6 +13414,7 @@ vkcdnservice.appspot.com^
 ||okdigital.me^
 ||okingabodew.xyz^
 ||okitwpyslqm.com^
+||okksucr.com^
 ||oklast.com^
 ||oknmalpxnjhe.xyz^
 ||oko.net^
@@ -16084,6 +16094,7 @@ vkcdnservice.appspot.com^
 ||s9jp9xogfz.com^
 ||sa.entireweb.com^
 ||sa2m4buc5us.com^
+||saatwitted.com^
 ||sabergood.com^
 ||sabredwillble.com^
 ||sabs-push.xyz^
@@ -18345,6 +18356,7 @@ vkcdnservice.appspot.com^
 ||txcmjo.com^
 ||txmboigodejgj.xyz^
 ||txzaazmdhtw.com^
+||tyatedgrogs.xyz^
 ||tybdpggaw.xyz^
 ||tydouke.com^
 ||tyessulfone.com^
@@ -19909,6 +19921,7 @@ vkcdnservice.appspot.com^
 ||ylx-4.com^
 ||ym-a.cc^
 ||ym8p.net^
+||ymqhiigpnt.com^
 ||ymzrrizntbhde.com^
 ||ynklendr.online^
 ||yobr.net^
@@ -27787,7 +27800,6 @@ vkcdnservice.appspot.com^
 ||6pal.consobaby.com^
 ||a-reporting.nytimes.com^
 ||a-stat.appmifile.com^
-||a.klaviyo.com^
 ||a.mobify.com^
 ||a.oix.net^
 ||a.ria.ru^
@@ -37214,6 +37226,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+||js.kabutocho-dsp.net^
 ||enmusubimail000.com^
 ||infohimatalk77.net^
 ||banner1.site^
@@ -39538,7 +39551,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||socialloginplus-apps.haravan.com^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
-||static.adconnect.vn^
 ||static.masoffer.net^
 ||static.mvot.vn^
 ||staticad.thethao247.vn^
@@ -39719,6 +39731,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||guge.red^
+||guyu8855.club^
 ||gvqrclx.cn^
 ||hangchen.icu^
 ||hcqsuqq.cn^
@@ -39762,10 +39775,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||keoap.xyz^
 ||keysmw.xyz^
 ||kingsun.online^
+||kmzayrt.cn^
 ||koatkm.xyz^
+||ktbelts.cn^
 ||kwivb.cn^
 ||laafrce.cn^
 ||laxnlqn.cn^
+||leiersuqd.com^
 ||leiwo.xyz^
 ||lmxzlb.xyz^
 ||loispp.com^
@@ -39919,7 +39935,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||leiersuqd.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

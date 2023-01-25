@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-25T01:19:53.469Z
+! Last modified: 2023-01-25T12:33:33.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||wyoxmklaa.xyz^
+||phaithoo.xyz^
+||bbangads.b-cdn.net^
 ||ukrait.com^
 ||qnytqafoxu.com^
 ||xpblitgpg.com^
@@ -23263,6 +23266,7 @@ vkcdnservice.appspot.com^
 ||f4cebacks.com^
 ||pixmg.com^
 ||serveipqs.com^
+||insights-collector.newrelic.com^
 ||analytics.126.net^
 ||metrics.userguiding.com^
 ||ptztvpremium.com^
@@ -25426,7 +25430,6 @@ vkcdnservice.appspot.com^
 ||jwmstats.com^
 ||jwpltx.com^
 ||kameleoon.com^
-||kampyle.com^
 ||kavijaseuranta.fi^
 ||kerebro.com^
 ||keymetric.net^
@@ -28133,6 +28136,7 @@ vkcdnservice.appspot.com^
 ||bc.nhk.jp^
 ||bcd.esprit.de^
 ||bdg-analytics.appspot.com^
+||beacon-1.newrelic.com^
 ||beacon.ehow.com^
 ||beacon.examiner.com^
 ||beacon.gu-web.net^
@@ -28687,6 +28691,7 @@ vkcdnservice.appspot.com^
 ||istatistik.trthaber.com^
 ||j.uralweb.ru^
 ||journey.unicef.de^
+||js-agent.newrelic.com^
 ||js.stroeermediabrands.de^
 ||jtp.expressen.se^
 ||jtrackern.joins.com^
@@ -30295,6 +30300,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.macys.net^
 ||metrics.sdkbox.com^
 ||mlb.did.ijinshan.com^
+||mobile-collector.newrelic.com^
 ||mobilelog.upqzfile.com^
 ||ms.cmcm.com^
 ||mtlog.droid4x.cn^
@@ -30975,7 +30981,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netrefer.com^
-||newrelic.com^
 ||ninjacat.io^
 ||nmrodam.com^
 ||northstartravelmedia.com^
@@ -37045,6 +37050,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||yrstwbyl.xyz^
+||gaiphaud.xyz^
 ||dzypro.xyz^
 ://sportframe*.cfd^
 ||storj.cloud^
@@ -37281,6 +37288,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yx-ads6.com^
 ||zafrc.5780.site^
 
+||r.yabancidizi.in^
 ||ads.dygdigital.com^
 ||ads.igfhaber.com^
 ||ad.hepsiburada.com^
@@ -38224,6 +38232,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||af.analytics.elx.cloud^
 ||affiliatemedia.noaccountcasino.com^
 ||affiliatemedia.speedybet.com^
+||affiliates.videoslots.com^
 ||affiliator.com^
 ||ai.idg.se^
 ||ambassador.referralhero.com^
@@ -38397,6 +38406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||libring.com^
 ||ljuskompaniet.se^
 ||loader.wisepops.com^
+||log-api.newrelic.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
@@ -40071,6 +40081,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wwnyubs.cn^
 ||ixelcpo.cn^
 ||hvhudp.xyz^
+||shidaiheima.ltd^
+||inscan.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

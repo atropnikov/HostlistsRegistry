@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-01-20T13:23:21.624Z
+! Last modified: 2023-01-27T12:31:10.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -895,7 +895,6 @@
 ||adworldnetwork.com^
 ||adworx.at^
 ||adworx.nl^
-||adx.atnext.com^
 ||adx.gayboy.at^
 ||adxpansion.com^
 ||adxpose.com^
@@ -1043,7 +1042,6 @@
 ||as2.adserverhd.com^
 ||aserv.motorsgate.com^
 ||asewlfjqwlflkew.com^
-||asia999.website^
 ||aso1.net^
 ||assets1.exgfnetwork.com^
 ||assoc-amazon.com^
@@ -2630,7 +2628,6 @@
 ||pippio.com^
 ||piquantpigs.com^
 ||pix.spot.im^
-||pixel.app.returnpath.net^
 ||pixel.condenastdigital.com^
 ||pixel.digitru.st^
 ||pixel.keywee.co^
@@ -2647,6 +2644,7 @@
 ||plotrabbit.com^
 ||pltraffic8.com^
 ||pluckypocket.com^
+||pluckytaste.com^
 ||plugrush.com^
 ||pointlesshour.com^
 ||pointroll.com^
@@ -2932,11 +2930,11 @@
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||screechingstove.com^
-||scripte-monster.de^
 ||scrubswim.com^
 ||sdkfjxjertertry.com^
 ||seadform.net^
 ||searchmarketing.com^
+||searchramp.com^
 ||secre.jp^
 ||secretivecub.com^
 ||secretspiders.com^

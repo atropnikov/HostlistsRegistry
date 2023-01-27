@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-01-27T06:20:40.573Z
+! Last modified: 2023-01-27T12:31:08.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
 ||pusishegre.com^
@@ -1325,6 +1326,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
@@ -5911,7 +5913,6 @@ vkcdnservice.appspot.com^
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
-||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -23265,6 +23266,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||nakanohito.jp^
 ||track.my1elitclub.com^
 ||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -27729,6 +27731,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||a.opmnstr.com^
 ||analytics.aklamio.com^
 ||collect.hollisterco.com^
 ||d17tqr44y57o31.cloudfront.net^
@@ -31028,7 +31031,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mytrack.pro^
 ||myvisitorcounter.com^
 ||n74s9.com^
-||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
 ||ncaudienceexchange.com^
@@ -32015,6 +32017,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect.rewardstyle.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -38240,7 +38243,6 @@ charlestownwyllie.oaklawnnonantum.com^
 
 ||1terms.com^
 ||7hd.org^
-||a.opmnstr.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
@@ -39663,6 +39665,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
@@ -40155,6 +40158,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||happi.cyou^
 ||brkxgfs.cn^
 ||hnrjign.cn^
+||plyuwqq.cn^
+||yang17.xyz^
+||juntaijiancai.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

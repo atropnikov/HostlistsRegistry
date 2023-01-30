@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2022-12-15T03:21:44.134Z
+! Last modified: 2023-01-30T01:19:29.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9261,7 +9261,6 @@
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
-0.0.0.0 udec.cl
 0.0.0.0 uedata.amazon.com
 0.0.0.0 uelbdc74fn.s.ad6media.fr
 0.0.0.0 ugo.eu-adcenter.net
@@ -10269,7 +10268,6 @@
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pubdirecte.com
 0.0.0.0 www2.tpgi.com.au
-0.0.0.0 www2.udec.cl
 0.0.0.0 www2.wyylde.com
 0.0.0.0 www2.zapadserver1.com
 0.0.0.0 www210.paypopup.com

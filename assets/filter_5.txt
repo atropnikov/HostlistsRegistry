@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-01-31T08:21:12.898Z
+! Last modified: 2023-01-31T13:26:22.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2119,7 +2119,6 @@
 ||a-static.com^
 ||a-waiting.com^
 ||a.123porner.com^
-||a.20minutes.fr^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 ||a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com^
 ||a.4aqq.com^
@@ -6746,6 +6745,7 @@
 ||aftrangale.com^
 ||afucent.com^
 ||afunnygames.com^
+||afwpc.com^
 ||afy11.net^
 ||afyads.com^
 ||afyonturkreklam.com^
@@ -16357,7 +16357,6 @@
 ||cdn.adt598.com^
 ||cdn.advisible.com^
 ||cdn.affiliatable.io^
-||cdn.afwpc.com^
 ||cdn.alistcloud.com^
 ||cdn.amplitude.com^
 ||cdn.amzuu.com^
@@ -18650,7 +18649,6 @@
 ||collector.vhx.tv^
 ||collector.wawlabs.com^
 ||collector.xhamster.com^
-||collector.xhwebsite.com^
 ||collector.xhwide1.com^
 ||collector.xhwide8.com^
 ||collector1.afreecatv.com^
@@ -26855,7 +26853,6 @@
 ||evkc.com^
 ||evlsn.com^
 ||evlv.online^
-||evnjkyja.com^
 ||evnt.iol.it^
 ||evogarage.com^
 ||evoitservices.com^
@@ -29043,7 +29040,6 @@
 ||fp-cdn.azureedge.net^
 ||fp.czvv.com^
 ||fp.kakaku.com^
-||fp.mailerstalons.com^
 ||fp.nanrenwo.net^
 ||fp.nkp.es^
 ||fpb.sohu.com^
@@ -30295,6 +30291,7 @@
 ||geo.query.yahoo.com^
 ||geo.thehindu.com^
 ||geo.xcel.io^
+||geo.yahoo.com^
 ||geoaddicted.net^
 ||geoads.com^
 ||geoads.osdn.com^
@@ -36537,7 +36534,6 @@
 ||iraqcv.com^
 ||iratelyveinlet.com^
 ||irbbzkph.page.link^
-||irbisennuis.com^
 ||ircad.org^
 ||irchincsp.com^
 ||irecid.com^
@@ -37388,7 +37384,6 @@
 ||jira.xsuffer.com^
 ||jirafe.com^
 ||jis.ps^
-||jishiben.info^
 ||jissingirgoa.com^
 ||jistaumt.com^
 ||jistvotestabl.space^
@@ -42207,6 +42202,7 @@
 ||mailboxmeeting.com^
 ||mailderef.mail.com^
 ||mailer.i.bizml.ru^
+||mailerstalons.com^
 ||maillots-ffoot-actu.fr^
 ||maillovelove.net^
 ||mailmessage.support^
@@ -44723,7 +44719,6 @@
 ||modularmental.com^
 ||modulepush.com^
 ||modules.wcax.com^
-||modulohanafi.com^
 ||modulusoctodon.uno^
 ||moe.video^
 ||moedgapers.com^
@@ -47606,7 +47601,6 @@
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
 ||nqtxg.xyz^
-||nqxvevk.cn^
 ||nr-events.taboola.com^
 ||nr.taboola.com^
 ||nr1234.com^
@@ -50970,7 +50964,6 @@
 ||pgold.pro^
 ||pgonews.pro^
 ||pgpartner.com^
-||pgpl.g5e.com^
 ||pgs.io^
 ||pgslot-wallet.net^
 ||pgslotgamings.com^
@@ -52042,7 +52035,6 @@
 ||pomerous.info^
 ||pommeyslicht.com^
 ||pomp-buerotechnik.de^
-||pompeyafrite.com^
 ||pomport.com^
 ||pompouseruptionrang.com^
 ||ponchowafesargb.com^
@@ -54928,7 +54920,6 @@
 ||rayrecollect.com^
 ||rays-counter.com^
 ||rayspublicschool.org^
-||rayss.host^
 ||raytech.com.pk^
 ||rayyanmills.com^
 ||razapharma.com^
@@ -56136,7 +56127,6 @@
 ||rggtt.top^
 ||rgja.in^
 ||rgjeow3.com^
-||rgkkzna.com^
 ||rgkrhwhai.top^
 ||rgloha.com^
 ||rgp-ign.fr^
@@ -62607,7 +62597,6 @@
 ||statistics.11880.com^
 ||statistics.crowdynews.com^
 ||statistics.daktilo.com^
-||statistics.darkreader.app^
 ||statistics.elsevier.nl^
 ||statistics.fppressa.ru^
 ||statistics.heltenkelt.se^
@@ -74903,7 +74892,6 @@
 ||z680.beaumontenterprise.com^
 ||z6naousb.com^
 ||z7yru.com^
-||z82v0.icu^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z929.fuelfix.com^
 ||z94rtbs.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-02-01T01:40:33.963Z
+! Last modified: 2023-02-01T21:15:00.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13256,7 +13256,6 @@
 ||bhyuu.com^
 ||bi.manhuaren.com^
 ||bi.vhost.vn^
-||bi.yeshen.com^
 ||biakico.mom^
 ||biallo1.de^
 ||biallo2.de^
@@ -35985,7 +35984,6 @@
 ||insights-jobs-ingress.prod.leanplum.com^
 ||insights.algolia.io^
 ||insights.bizrate.com^
-||insights.dice.com^
 ||insights.hotjar.com^
 ||insights.sitesearch360.com^
 ||insights.vip.aetnd.com^
@@ -39696,7 +39694,6 @@
 ||lauhoosh.net^
 ||lauhoyos.com^
 ||launchbit.com^
-||launcher.us.yeshen.com^
 ||launches.appsflyersdk.com^
 ||launchingonsetwhirlwind.com^
 ||launchpoint.marketo.com^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-02-03T12:31:33.641Z
+! Last modified: 2023-02-03T13:22:41.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1161,7 +1161,6 @@
 ||barbarousnerve.com^
 ||baremetrics.com^
 ||barnesandnoble.bfast.com^
-||basebanner.com^
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||bat.bing.com^
@@ -1588,7 +1587,6 @@
 ||direct-events-collector.spot.im^
 ||direct-xxx-access.com^
 ||directaclick.com^
-||directivepub.com^
 ||directleads.com^
 ||directorym.com^
 ||directtrack.com^
@@ -2684,7 +2682,6 @@
 ||primetime.net^
 ||privatecash.com^
 ||prmtracking.com^
-||pro-advertising.com^
 ||pro-market.net^
 ||producecopy.com^
 ||proext.com^
@@ -3179,6 +3176,7 @@
 ||sw88.espn.com^
 ||swan-swan-goose.com^
 ||swimslope.com^
+||swordfishdc.com^
 ||swordgoose.com^
 ||t.armchairbookie.com^
 ||t.bawafx.com^
@@ -3366,7 +3364,6 @@
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
 ||tracking.pastapplauddeterseminarproof.makeup^
-||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
 ||tracking.wetter.at^
 ||tracking01.walmart.com^

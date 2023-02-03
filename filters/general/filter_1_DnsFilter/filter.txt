@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-03T01:26:12.995Z
+! Last modified: 2023-02-03T06:21:06.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31662,6 +31662,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||screechingstove.com^
 ||seashoresociety.com^
 ||seatsmoke.com^
+||serpentshampoo.com^
 ||shaggytank.com^
 ||shinestuart.com^
 ||showstranger.com^
@@ -31900,6 +31901,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.*.miui.com^
+||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
 ||collect.rebelmouse.io^
@@ -38935,7 +38937,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
-||zt1.me.zing.vn^
 ||adasiaholdings.com^
 ||adflex.vn^
 ||adfly.vn^
@@ -39191,6 +39192,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||za.zapps.vn^
 ||za.zingmp3.vn^
 ||za.zingnews.com.vn^
+||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -39202,6 +39204,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zlog.zingmp3.vn^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zt.me.zing.vn^
+||zt1.me.zing.vn^
 ||12signup.com^
 ||360.anatic.net^
 ||a.ladipage.com^
@@ -40064,6 +40068,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||hppmy.cn^
+||ahclyq.xyz^
+||rtycgmz.cn^
+||tvxqdp.xyz^
+||xeiyt.cyou^
+||w80n.fun^
+||dfsd22.com^
+||dfzv25.com^
+||zczcvx.com^
+||qbd3.site^
+||jike001.top^
+||thlnbzi.cn^
+||tanghao.club^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

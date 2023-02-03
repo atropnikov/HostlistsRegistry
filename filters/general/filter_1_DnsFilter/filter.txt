@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-03T12:31:32.417Z
+! Last modified: 2023-02-03T18:20:28.399Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ussive.com^
+||actyle.com^
 ||partial-bitter.com^
 ||glasyxabe.pro^
 ||yollamedia.com^
@@ -33322,6 +33324,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||cnb.cnews.ru^
 ||api-fangarma.utyug.media^
 ||dr5.biz^
 ||kasfas.com^
@@ -39723,6 +39726,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9cgms.xyz^
 ||aaaesme.cn^
 ||afdplay.xyz^
+||ahclyq.xyz^
 ||ahwiaw.xyz^
 ||ajkcdpm.cn^
 ||aliyun6969.cn^
@@ -39754,6 +39758,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dfdaaa12.com^
 ||dfepm.xyz^
 ||dfghaqea.xyz^
+||dfsd22.com^
+||dfzv25.com^
 ||dgozp.com^
 ||doracms.cn^
 ||doublechen.online^
@@ -39763,6 +39769,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dxwyt3p.cn^
 ||e5z14.icu^
 ||e8jp9.com^
+||ealooov.cn^
 ||ebzqyow.cn^
 ||ekdbfu.cn^
 ||elsmom.xyz^
@@ -39776,6 +39783,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
 ||forestwo1f.ltd^
+||fqla.top^
 ||frpns.com^
 ||ftrtnr.xyz^
 ||fujbjb.xyz^
@@ -39805,6 +39813,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||hnrjign.cn^
+||hppmy.cn^
 ||hspffjx.cn^
 ||htbdvx.xyz^
 ||hualu.live^
@@ -39836,6 +39845,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ixelcpo.cn^
 ||jbuzacg.cn^
 ||jfmfmgj.cn^
+||jike001.top^
 ||jishiben.info^
 ||jkxvvv.xyz^
 ||jmqmbsn.cn^
@@ -39930,6 +39940,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qanduan.com^
 ||qbd1.site^
 ||qbd2.site^
+||qbd3.site^
 ||qdutmef.cn^
 ||qgazysq.cn^
 ||qgermm.xyz^
@@ -39950,6 +39961,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rglctlo.cn^
 ||rooby.cyou^
 ||rtcegcp.cn^
+||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
 ||saccac11.com^
@@ -39972,14 +39984,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sxakca.xyz^
 ||sycrgc.xyz^
 ||t3p58.com^
+||tanghao.club^
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
+||thlnbzi.cn^
 ||thraerqol.com^
 ||timothy.wang^
 ||tjxafmo.cn^
 ||tuape.xyz^
 ||tuyqiolni.cyou^
+||tvxqdp.xyz^
 ||twn2e.cn^
 ||tzsvodu.cn^
 ||u1011.com^
@@ -40008,6 +40023,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vec4o.fun^
 ||vfsdgjrr.xyz^
 ||viope.cyou^
+||w80n.fun^
 ||waterfairy.xyz^
 ||wbqosw.xyz^
 ||wdasa.top^
@@ -40025,6 +40041,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||x3a88d.cn^
 ||x3zy2.icu^
 ||xbptvaq.cn^
+||xeiyt.cyou^
 ||xh33g.net^
 ||xhjxkgc.cn^
 ||xibpbov.cn^
@@ -40064,6 +40081,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z82v0.icu^
 ||zawqwpajq.club^
 ||zax01.com^
+||zczcvx.com^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
@@ -40078,20 +40096,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||hppmy.cn^
-||ahclyq.xyz^
-||rtycgmz.cn^
-||tvxqdp.xyz^
-||xeiyt.cyou^
-||w80n.fun^
-||dfsd22.com^
-||dfzv25.com^
-||zczcvx.com^
-||qbd3.site^
-||jike001.top^
-||thlnbzi.cn^
-||tanghao.club^
-||fqla.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

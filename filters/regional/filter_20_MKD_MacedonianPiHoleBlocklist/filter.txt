@@ -2,7 +2,7 @@
 ! Title: MKD: Macedonian Pi-hole Blocklist
 ! Description: This is a list to block unwanted domains that serve ads on Macedonian websites.
 ! Homepage: https://github.com/cchevy/macedonian-pi-hole-blocklist
-! Last modified: 2022-11-13T12:37:12.143Z
+! Last modified: 2023-02-03T19:13:28.379Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@ adocean.pl
 ads.1cm.com.mk
 ads.360stepeni.mk
 ads.365.mk
+ads.avtoplus.mk
 ads.com.mk
 ads.crnobelo.mk
 ads.deca.mk
@@ -45,6 +46,7 @@ ads.kumanovonews.com
 ads.libertas.mk
 ads.lokalno.mk
 ads.makfudbal.mk
+adserver.mia.mk
 ads.mkd.mk
 ads.mms.mk
 ads.nexage.com

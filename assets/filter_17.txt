@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-01-25T10:17:47.036Z
+! Last modified: 2023-02-05T09:15:01.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -906,6 +906,7 @@
 127.0.0.1 tracking.ditv.di.se
 127.0.0.1 tracking.dn.se
 127.0.0.1 tracking.eurosport.com
+127.0.0.1 tracking.fasab6f.se
 127.0.0.1 tracking.inboxads.com
 127.0.0.1 tracking.missaffiliate.com
 127.0.0.1 tracking.omniture.nt.se

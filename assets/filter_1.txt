@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-06T12:33:00.497Z
+! Last modified: 2023-02-06T14:15:31.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1318,6 +1318,7 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||prebid-*.rubiconproject.com^
 ||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
@@ -24847,7 +24848,6 @@ vkcdnservice.appspot.com^
 ||cloud-exploration.com^
 ||cloudtracer101.com^
 ||clubcollector.com^
-||clustrmaps.com^
 ||cmcore.com^
 ||cmmeglobal.com^
 ||cmptch.com^
@@ -27718,6 +27718,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||pixel-*.rubiconproject.com^
 ||stat.arzamas.academy^
 ||events.air.tv^
 ||event-listener.air.tv^
@@ -38537,7 +38538,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r.existenz.se^
 ||rabattcoop.com^
 ||rabattkoder.ifragasatt.se^
-||rabble-res.cloudinary.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||regstat.se^

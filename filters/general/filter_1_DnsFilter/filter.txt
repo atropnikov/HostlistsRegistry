@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-06T14:15:31.767Z
+! Last modified: 2023-02-06T15:17:22.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1318,6 +1318,9 @@
 ||samsungads.com^
 ||samsungtvads.com^
 
+||ads.rubiconproject.com^
+||eus.rubiconproject.com^
+||fastlane.rubiconproject.com^
 ||prebid-*.rubiconproject.com^
 ||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
@@ -16108,7 +16111,6 @@ vkcdnservice.appspot.com^
 ||ruamupr.com^
 ||rubberbeak.com^
 ||rubcomplaintdimly.com^
-||rubiconproject.com^
 ||rubiestagaty.com^
 ||rubstove.com^
 ||rubymillsnpro.com^
@@ -27719,6 +27721,8 @@ vkcdnservice.appspot.com^
 ||tagman.britishairways.com^
 |piwik.
 ||pixel-*.rubiconproject.com^
+||pixel.rubiconproject.com^
+||smarttag.rubiconproject.com^
 ||stat.arzamas.academy^
 ||events.air.tv^
 ||event-listener.air.tv^
@@ -29328,6 +29332,7 @@ vkcdnservice.appspot.com^
 ||stats.aplus.com^
 ||stats.articlesbase.com^
 ||stats.avg.com^
+||stats.aws.rubiconproject.com^
 ||stats.bbc.co.uk^
 ||stats.behance.net^
 ||stats.binki.es^
@@ -38498,6 +38503,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||meltwater.com^
 ||menthu.vdsinside.com^
 ||metapic.se^
+||micro.rubiconproject.com^
 ||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^

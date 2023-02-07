@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-07T12:32:59.785Z
+! Last modified: 2023-02-07T18:20:29.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||toromclick.com^
 ||daiwheew.com^
 ||mhrokfsdv.com^
 ||ussive.com^
@@ -6798,6 +6799,7 @@ vkcdnservice.appspot.com^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
+||d3g5ovfngjw9bw.cloudfront.net^
 ||d4d48974197052ea.com^
 ||d576de5d7d.com^
 ||d5df191530.com^
@@ -11592,6 +11594,7 @@ vkcdnservice.appspot.com^
 ||leftoverdense.com^
 ||legalledgtjuj.club^
 ||legcatastrophetransmitted.com^
+||legendsmaestri.com^
 ||legerbbs.com^
 ||legerikath.com^
 ||leggygagbighearted.com^
@@ -12070,6 +12073,7 @@ vkcdnservice.appspot.com^
 ||mainnewsfuse.com^
 ||mainroll.com^
 ||maiptica.com^
+||mairunoa.xyz^
 ||maisvznypp.com^
 ||majasgaol.com^
 ||majestydeference.com^
@@ -14701,6 +14705,7 @@ vkcdnservice.appspot.com^
 ||portoutsid.xyz^
 ||portserratic.com^
 ||poseidthewave.com^
+||poseurtwicet.digital^
 ||poshhateful.com^
 ||positive-news.net^
 ||positive-news.org^
@@ -16374,6 +16379,7 @@ vkcdnservice.appspot.com^
 ||saviourketonic.com^
 ||savouryliaison.com^
 ||sawedhindgut.com^
+||sawmonwhomble.com^
 ||sawsdaggly.com^
 ||sawyerbravery.com^
 ||saycasksabnegation.com^
@@ -16648,6 +16654,7 @@ vkcdnservice.appspot.com^
 ||shealapish.com^
 ||sheeftee.net^
 ||sheenaup.net^
+||sheengoa.com^
 ||sheerdaulpusher.com^
 ||sheeroop.com^
 ||sheetchi.net^
@@ -18207,7 +18214,6 @@ vkcdnservice.appspot.com^
 ||toretimeout.com^
 ||torioluor.com^
 ||tornbed.pro^
-||toromclick.com^
 ||torooptudaiz.com^
 ||tororango.com^
 ||torpsol.com^
@@ -22387,7 +22393,6 @@ vkcdnservice.appspot.com^
 ||d3fkv551xkjrmm.cloudfront.net^
 ||d3flai6f7brtcx.cloudfront.net^
 ||d3frqqoat98cng.cloudfront.net^
-||d3g5ovfngjw9bw.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
@@ -37202,6 +37207,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yrstwbyl.xyz^
 ||gaiphaud.xyz^
 ||dzypro.xyz^
+://sportframe*.org^
 ://sportframe*.cfd^
 ||storj.cloud^
 ||clbanners9.com^
@@ -39122,6 +39128,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||geozo.com^
 ||welcome.indihome.co.id^
 ||darts-ads.telkom.co.id^
+||amutheastse.com^
+||itwasbrghttohwe.xyz^
 ||meredithcorp.io^
 ||logitxaequk.com^
 ||lttxwrvhyzb.com^
@@ -39957,6 +39965,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||daspic.top^
 ||dbtojr.xyz^
 ||ddqhnjb.cn^
+||dedcrfvdj.xyz^
 ||deude.ltd^
 ||dfadas13.com^
 ||dfdaaa12.com^
@@ -40016,6 +40025,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hellobody.online^
 ||hellu.cyou^
 ||hertzbeat.cn^
+||hevuabv.cn^
 ||hfjsbf.xyz^
 ||hhaobcj.cn^
 ||hibaby.ren^
@@ -40088,6 +40098,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leiwo.xyz^
 ||lgugsnp.cn^
 ||liuye.club^
+||liyiyue.xyz^
 ||lktmgvw.cn^
 ||llvphz.xyz^
 ||lmxzlb.xyz^
@@ -40329,9 +40340,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||hevuabv.cn^
-||liyiyue.xyz^
-||dedcrfvdj.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -46544,6 +46552,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ad-api.cnblogs.com^
 ||ad-img.diyidan.net^
 ||ad.52av.one^
+||ad.52av.tv^
 ||ad.bobi.tw^
 ||ad.byfuh.com^
 ||ad.ccement.com^
@@ -46768,7 +46777,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ad.52av.tv^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^

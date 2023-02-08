@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-02-08T14:15:51.700Z
+! Last modified: 2023-02-08T15:17:48.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -345,6 +345,8 @@
 ||adrotate.de^
 ||adrotic.girlonthenet.com^
 ||adrta.com^
+||ads-backend.chaincliq.com^
+||ads-bilek.com^
 ||ads-click.com^
 ||ads-dev.pinterest.com^
 ||ads-game-187f4.firebaseapp.com^
@@ -365,6 +367,7 @@
 ||ads.adfox.ru^
 ||ads.administrator.de^
 ||ads.adred.de^
+||ads.adsbtc.fun^
 ||ads.adstream.com.ro^
 ||ads.adultfriendfinder.com^
 ||ads.advance.net^
@@ -801,6 +804,7 @@
 ||adskpak.com^
 ||adsmart.com^
 ||adsmart.net^
+||adsmartracker.com^
 ||adsmetadata.startappservice.com^
 ||adsmogo.com^
 ||adsnative.com^
@@ -810,6 +814,7 @@
 ||adspeed.net^
 ||adspirit.de^
 ||adsponse.de^
+||adspredictiv.com^
 ||adspsp.com^
 ||adsroller.com^
 ||adsrv.deviantart.com^
@@ -1709,6 +1714,7 @@
 ||et.nytimes.com^
 ||etahub.com^
 ||etargetnet.com^
+||ethereum-ads.com^
 ||etracker.com^
 ||etracker.de^
 ||eu-adcenter.net^
@@ -2355,6 +2361,7 @@
 ||minormeeting.com^
 ||mintegral.com^
 ||minuterhythm.com^
+||mix2ads.com^
 ||mixedreading.com^
 ||mixpanel.com^
 ||mkto-ab410147.com^
@@ -3346,6 +3353,7 @@
 ||tracking.1-a1502-bi.co.uk^
 ||tracking.1-kv015-ap.co.uk^
 ||tracking.21-a4652-bi.co.uk^
+||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
 ||tracking.42-01pr5-osm-secure.co.uk^
 ||tracking.5-47737-bi.co.uk^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-12T01:33:59.048Z
+! Last modified: 2023-02-12T12:30:19.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21267,6 +21267,7 @@ vkcdnservice.appspot.com^
 ||geo-idm.fr^
 ||geopromos.com^
 ||geovisite.com^
+||geozo.com^
 ||germaniavid.com^
 ||gestionpub.com^
 ||get.com^
@@ -39317,7 +39318,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trk.cpaoptimizer.com^
 
 ||c303.pw^
-||geozo.com^
 ||welcome.indihome.co.id^
 ||darts-ads.telkom.co.id^
 ||amutheastse.com^
@@ -48211,18 +48211,11 @@ analytics-*.aasaam.com
 
 ||shamining.com^
 
+||ccnnetwork.co^
+
 ||wintap.io^
 
 ||frzss.com^
-
-
-||usdtbang.com^
-||usdteng.com^
-||usdtcan.com^
-||usdtbbc.com^
-||imtokenwallet.biz^
-
-||emenshowapp.xyz^
 
 ||abcounter.de^
 ||mobileanalytics.*.amazonaws.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-16T01:26:10.125Z
+! Last modified: 2023-02-16T06:22:05.041Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32821,6 +32821,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.zotabox.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
+||statscollector-1.agora.io^
+||statscollector.sd-rtn.com^
 ||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||sunlightmetrics.b-cdn.net^
@@ -39757,6 +39759,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||quangcao-thanhnien.epicdn.me^
+||log-baogialai.epicdn.me^
+||stat.play.zing.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -39764,7 +39768,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sbbanner-com.cdn.ampproject.org^
 ||sbz.vn^
 ||sdk.zadn.vn^
-||sentry-mini.zalo.me^
 ||service-api.accesstrade.vn^
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
@@ -40093,6 +40096,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.anninhthudo.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
+||log.baogialai.com.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
 ||log.beecost.com^
@@ -40141,6 +40145,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logapi.misa.com.vn^
 ||logging.kinhtedothi.vn^
 ||logs-ott.fbox.fpt.vn^
+||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
@@ -40202,7 +40207,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.zzcdn.me^
 ||s1.zzz.vn^
 ||sda.tamdiem247.com^
-||sentry-track.vietnamworks.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -40881,6 +40885,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||meidd.cyou^
 ||eijriol.cn^
 ||xinllz.xyz^
+||cwobgp.cn^
+||ltwfd.xyz^
+||wsdof.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

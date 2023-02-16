@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-01-30T01:19:29.102Z
+! Last modified: 2023-02-16T06:22:07.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2073,6 +2073,7 @@
 0.0.0.0 install.myvideotab.com
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
+0.0.0.0 interac-etransfer.net
 0.0.0.0 interhomes.fr
 0.0.0.0 interimairesssante.fr
 0.0.0.0 internwise.fr

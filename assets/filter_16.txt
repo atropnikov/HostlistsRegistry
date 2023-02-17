@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2023-02-17T02:51:44.857Z
+! Last modified: 2023-02-17T09:17:06.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9686,6 +9686,7 @@
 0.0.0.0 mellowads.b-cdn.net
 0.0.0.0 popcashjs.b-cdn.net
 0.0.0.0 predataclient.b-cdn.net
+0.0.0.0 unibotscdn.b-cdn.net
 0.0.0.0 sys.vidsrev.com
 0.0.0.0 tracker.vidsrev.com
 0.0.0.0 vidsrev.com
@@ -11777,6 +11778,9 @@
 0.0.0.0 delivery.vtcnews.vn
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 tracking.vtcnew.com.vn
+0.0.0.0 m.zedcdn.me
+0.0.0.0 me.zedcdn.me
+0.0.0.0 mme.zedcdn.me
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -11946,7 +11950,6 @@
 0.0.0.0 mega1.yeah1.com
 0.0.0.0 menu.metu.vn
 0.0.0.0 microad.vn
-0.0.0.0 mme.zedcdn.me
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 offerwall.headlines.pw
@@ -12114,6 +12117,7 @@
 0.0.0.0 lmsreport.systems.vn
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log.anninhthudo.vn
+0.0.0.0 log.baobackan.com.vn
 0.0.0.0 log.baocaobang.vn
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
@@ -12138,6 +12142,7 @@
 0.0.0.0 log.kinhdoanhhoinhap.vn
 0.0.0.0 log.kinhtedouong.vn
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.oto.com.vn
 0.0.0.0 log.plo.vn
@@ -12162,6 +12167,7 @@
 0.0.0.0 log.vnfinance.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log.vovplus.vn
+0.0.0.0 log.vovworld.vn
 0.0.0.0 log.xoso.com.vn
 0.0.0.0 log.zamba.vn
 0.0.0.0 log4x.nixcdn.com
@@ -14070,6 +14076,7 @@
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d18t35yyry2k49.cloudfront.net
+0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1clmik8la8v65.cloudfront.net
 0.0.0.0 d1ezlc9vy4yc7g.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net

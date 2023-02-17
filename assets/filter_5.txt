@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-02-15T20:18:44.292Z
+! Last modified: 2023-02-17T12:32:40.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21403,7 +21403,6 @@
 ||datadog-service.mvfglobal.com^
 ||datadsk.com^
 ||datafeed.a8.net^
-||datafeedfile.com^
 ||dataflexy.com.br^
 ||datahawkanalytics.com^
 ||dataidea.it^

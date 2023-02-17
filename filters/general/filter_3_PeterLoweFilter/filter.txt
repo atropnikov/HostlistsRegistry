@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-02-13T18:21:27.593Z
+! Last modified: 2023-02-17T12:32:37.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14,7 +14,6 @@
 ||123freeavatars.com^
 ||180hits.de^
 ||180searchassistant.com^
-||1link2020.com^
 ||1rx.io^
 ||207.net^
 ||247media.com^
@@ -59,7 +58,6 @@
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
 ||aa-metrics.trip-ai.jp^
-||aaddzz.com^
 ||aax-eu-dub.amazon.com^
 ||aaxads.com^
 ||aaxdetect.com^
@@ -609,7 +607,6 @@
 ||ads.smartclick.com^
 ||ads.socapro.com^
 ||ads.socialtheater.com^
-||ads.soft32.com^
 ||ads.soweb.gr^
 ||ads.space.com^
 ||ads.stackoverflow.com^
@@ -716,6 +713,7 @@
 ||adscpm.com^
 ||adsdaq.com^
 ||adsdk.yandex.ru^
+||adsend.de^
 ||adsensecustomsearchads.com^
 ||adserve.ams.rhythmxchange.com^
 ||adserve.gkeurope.de^
@@ -1444,7 +1442,6 @@
 ||collector-dev.cdp-dev.cnn.com^
 ||collector.cdp.cnn.com^
 ||colonize.com^
-||comclick.com^
 ||comfortablecheese.com^
 ||commindo-media-ressourcen.de^
 ||commissionmonster.com^
@@ -1619,7 +1616,6 @@
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
-||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
 ||doubleclick.de^
@@ -1799,7 +1795,6 @@
 ||fireworks-advertising.com^
 ||first.nova.cz^
 ||firstlightera.com^
-||fixel.ai^
 ||flairadscpc.com^
 ||flakyfeast.com^
 ||flashtalking.com^
@@ -2085,7 +2080,6 @@
 ||ioam.de^
 ||ip.ro^
 ||ip193.cn^
-||iperceptions.com^
 ||ipredictive.com^
 ||ipstack.com^
 ||irchan.com^
@@ -2211,6 +2205,7 @@
 ||linkstorms.com^
 ||linkswaper.com^
 ||linktarget.com^
+||liquidad.narrowcastmedia.com^
 ||litix.io^
 ||liveadexchanger.com^
 ||liveintent.com^

@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-17T06:22:04.036Z
+! Last modified: 2023-02-17T12:32:31.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||bluffsouttore.com^
 ||adxfire.com^
 ||adxfire.in^
 ||befirstcdn.com^
@@ -23709,6 +23710,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||b.karte.io^
 ||cra.hum.works^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
@@ -28188,6 +28190,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||b0.yahoo.co.jp^
 ||beacon.unext.jp^
 ||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
@@ -30411,6 +30414,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||node.aibeacon.jp^
 ||wsmetrics.batch.com^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
@@ -38149,7 +38153,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||find-a.jp^
 ||fivecdm.com^
 ||fxprime-popular.com^
-||hitweb.chosun.com^
 ||i2idata.com^
 ||i2iserv.com^
 ||image-rentracks.com^
@@ -39747,11 +39750,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logv2.mp3.zing.vn^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
+||m.zedcdn.me^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
 ||mda.zadn.vn^
+||me.zedcdn.me^
 ||media-ads.zaloapp.com^
 ||mediad.asia^
 ||mediaz.asia^
@@ -39760,6 +39765,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mepuzz.com^
 ||metaconex.io^
 ||metrics.coccoc.com^
+||mme.zedcdn.me^
 ||mobilead.vn^
 ||mobio.vn^
 ||modestsunf.com^
@@ -40143,6 +40149,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
+||log.baobackan.com.vn^
 ||log.baocaobang.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
@@ -40165,6 +40172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
 ||log.ngaynay.vn^
+||log.nhandan.vn^
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
 ||log.plo.vn^
@@ -40189,6 +40197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.vovworld.vn^
 ||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
@@ -40212,7 +40221,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
-||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -40954,6 +40962,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p23jac.top^
 ||kkqeqk.cn^
 ||loganfeels.com^
+||fangfeng009.xyz^
+||txtcw.cn^
+||huicpu.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

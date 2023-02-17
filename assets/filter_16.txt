@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2023-02-16T10:18:44.314Z
+! Last modified: 2023-02-17T02:51:44.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10503,6 +10503,7 @@
 0.0.0.0 x.clearbit.com
 0.0.0.0 clickcease.com
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 www.clickcease.com
 0.0.0.0 ads.trackingtraffo.com
 0.0.0.0 rtb.trackingtraffo.com
 0.0.0.0 track.trackingtraffo.com

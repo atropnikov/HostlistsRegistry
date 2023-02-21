@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-21T06:21:56.746Z
+! Last modified: 2023-02-21T07:15:44.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31528,6 +31528,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||devatics.com^
 ||devatics.io^
 ||di-capt.com^
+||digianalytics.fr^
 ||display.studio^
 ||dmpcounter.com^
 ||dmxleo.com^
@@ -48924,7 +48925,7 @@ analytics-*.aasaam.com
 @@||netatmo.commander1.com^|
 @@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
-@@-ds.metric.gstatic.com^
+@@-ds.metric.gstatic.com^|
 @@||id.i2i.jp^|
 @@||thumbnail.thench.net^|
 @@||validate.perfdrive.com^|
@@ -49003,12 +49004,12 @@ analytics-*.aasaam.com
 @@||awin1.com^|
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
-@@||guce.advertising.com^
+@@||guce.advertising.com^|
 @@||blog.logrocket.com^|
 @@||a.adwolf.ru^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
-@@||ads.tdbank.com^
+@@||ads.tdbank.com^|
 @@||nineto5mac-d.openx.net^|
 @@||redir.tradedoubler.com^|
 @@||clk*.tradedoubler.com^|

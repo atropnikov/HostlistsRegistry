@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-02-24T12:33:33.580Z
+! Last modified: 2023-02-24T14:15:55.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15916,7 +15916,6 @@
 ||cdn.neon.click^
 ||cdn.nsimg.net^
 ||cdn.onescreen.net^
-||cdn.onesignal.com^
 ||cdn.onthe.io^
 ||cdn.openinstall.io^
 ||cdn.optmn.cloud^
@@ -40512,7 +40511,6 @@
 ||mangov.net^
 ||maniacalappliance.com^
 ||maniconclavis.com^
-||manifest-server.naiadsystems.com^
 ||manimark.com^
 ||manispace.gr^
 ||manivalyrid.com^

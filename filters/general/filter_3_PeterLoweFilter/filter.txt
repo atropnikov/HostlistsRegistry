@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-02-24T12:33:30.408Z
+! Last modified: 2023-02-24T13:25:17.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1176,6 +1176,7 @@
 ||barbarousnerve.com^
 ||baremetrics.com^
 ||barnesandnoble.bfast.com^
+||basebanner.com^
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||bat.bing.com^
@@ -1644,6 +1645,7 @@
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
+||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
 ||doubleclick.de^
@@ -2117,6 +2119,7 @@
 ||ioam.de^
 ||ip.ro^
 ||ip193.cn^
+||iperceptions.com^
 ||ipredictive.com^
 ||ipstack.com^
 ||irchan.com^
@@ -2681,7 +2684,6 @@
 ||piquantpigs.com^
 ||pix.spot.im^
 ||pixel.condenastdigital.com^
-||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.sojern.com^
 ||pixel.watch^
@@ -3370,6 +3372,7 @@
 ||toplist.cz^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
+||toplistcity.com^
 ||toprebates.com^
 ||topsir.com^
 ||topsite.lv^

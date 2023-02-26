@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-02-26T10:17:26.909Z
+! Last modified: 2023-02-26T16:21:49.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16395,7 +16395,6 @@
 ||chart.dk^
 ||chartaca.com^
 ||chartbeat-sdk.s3.amazonaws.com^
-||chartbeat.com^
 ||chartbeat.net^
 ||chartboost.com^
 ||chartboosts.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-02-26T09:16:08.388Z
+! Last modified: 2023-02-26T10:17:26.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15738,13 +15738,6 @@
 ||cdlto.com.br^
 ||cdm.connatix.com^
 ||cdm.uncensored-hentai.top^
-||cdn-120.filechan.org^
-||cdn-130.anonfiles.com^
-||cdn-130.filechan.org^
-||cdn-132.anonfiles.com^
-||cdn-133.anonfiles.com^
-||cdn-142.anonfiles.com^
-||cdn-145.anonfiles.com^
 ||cdn-a.amazon-adsystem.com^
 ||cdn-ads.adpushup.com^
 ||cdn-ads.thesaigontimes.vn^

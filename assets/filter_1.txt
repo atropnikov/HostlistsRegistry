@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-02-28T12:34:13.172Z
+! Last modified: 2023-02-28T18:21:58.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24604,6 +24604,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||hotjar.io^
 ||hellosmpl.com^
 ||1800cnt.com^
 ||tag.nifty.com^
@@ -29091,6 +29092,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||metrics.icloud.com^
+||units.knotch.it^
+||sgtm.fashionunited.
 ||mercury.coupang.com^
 ||client-telemetry.roblox.com^
 ||treatment.grammarly.com^
@@ -31250,7 +31254,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.setting.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||log.avlyun.sec.intl.miui.com^
-||tracking.intl.miui.com^
 ||metok.sys.miui.com^
 ||mazu.sec.miui.com^
 ||auth.be.sec.miui.com^
@@ -31320,6 +31323,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||logservice.hicloud.com^
+||logger.growstarry.com^
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||woodpecker.uc.cn^
@@ -32305,7 +32310,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||holdonstranger.com^
 ||horzrb.com^
 ||hospitality-optimizer.com^
-||hotjar.io^
 ||hscta.net^
 ||humanpresence.app^
 ||iaudienc.com^
@@ -33926,7 +33930,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||triggers.wfxtriggers.com^
 ||trk.clinch.co^
 ||uid.mediacorp.sg^
-||units.knotch.it^
 ||us-central1-markuphero.cloudfunctions.net^
 ||user.userguiding.com^
 ||usersegment.wpdigital.net^
@@ -33957,10 +33960,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.chat.xiaomi.net^
 ||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
-||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
-||metrics.icloud.com^
 ||open.oneplus.net^
 ||supportmetrics.apple.com^
 ||d10gj7yjsfriaj.cloudfront.net^
@@ -41283,7 +41284,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||2hfby.top^
 ||2pwja.cn^
 ||2r6.cn^
-||328888.xyz^
 ||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
@@ -41321,6 +41321,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9bph.top^
 ||9cgms.xyz^
 ||9f11.win^
+||9fh6m.cn^
 ||aaaesme.cn^
 ||afdplay.xyz^
 ||afx001.pw^
@@ -41436,6 +41437,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ewmvim.xyz^
 ||ewrwf.com^
 ||ezfxpuo.cn^
+||f9s6.top^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
 ||faunaships.com^
@@ -41687,6 +41689,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
 ||okew.top^
+||okod.top^
 ||okoy.top^
 ||okwa.top^
 ||okwg.top^
@@ -41708,13 +41711,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||payoneok.com^
 ||pcmtf.cn^
 ||pddbtn.xyz^
+||pe5a.top^
 ||pehlvl.xyz^
 ||peoir.cyou^
 ||pgccaoy.cn^
 ||pic123.top^
+||pigwin.net^
 ||pj0z5.cn^
 ||pkeog.cn^
 ||plyuwqq.cn^
+||poeid.cyou^
 ||pojjtt.xyz^
 ||polkmerty.xyz^
 ||porjjhu.cn^
@@ -41735,12 +41741,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qgazysq.cn^
 ||qgermm.xyz^
 ||qheoy.cn^
+||qianbaobbs.net^
 ||qiegoa.xyz^
 ||qingfengxq.com^
 ||qingganlan.ltd^
 ||qinkuai.top^
 ||qitou20230204.live^
 ||qkoio.cyou^
+||qkqasu.xyz^
 ||qliiom.xyz^
 ||qnfvojfkw.xyz^
 ||qsezjy.cn^
@@ -41808,11 +41816,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sxakca.xyz^
 ||sycrgc.xyz^
 ||sygmtz.com^
+||szsxy.vip^
 ||t3p58.com^
 ||tanghao.club^
 ||tehgfn.xyz^
 ||tfzozf.xyz^
 ||tg0qu.top^
+||tgktw.xyz^
 ||tgryfh.xyz^
 ||theads.xyz^
 ||thlnbzi.cn^
@@ -41887,6 +41897,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wpiwoo.xyz^
 ||wqmgqm.xyz^
 ||wschao.xyz^
+||wsdd11.com^
 ||wsdof.xyz^
 ||wuge20230104.live^
 ||wujiupic.com^
@@ -41984,15 +41995,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||poeid.cyou^
-||9fh6m.cn^
-||pigwin.net^
-||qkqasu.xyz^
-||pe5a.top^
-||wsdd11.com^
-||szsxy.vip^
-||okod.top^
-||qianbaobbs.net^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

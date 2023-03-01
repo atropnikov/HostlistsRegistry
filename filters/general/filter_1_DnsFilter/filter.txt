@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-01T12:35:00.844Z
+! Last modified: 2023-03-01T18:22:01.961Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28127,6 +28127,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||knitstamp.com^
 ||boundlessbrake.com^
 ||distributionneck.com^
 ||aliasanvil.com^
@@ -29187,6 +29188,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||kaan.kakao.com^
 ||rec.banggood.com^
 ||metrics.icloud.com^
 ||units.knotch.it^
@@ -41443,6 +41445,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||9f11.win^
 ||9fh6m.cn^
 ||aaaesme.cn^
+||accommodatingremindauntie.com^
 ||afdplay.xyz^
 ||afx001.pw^
 ||agkacg.xyz^
@@ -41471,6 +41474,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
 ||bddwm.com^
+||beatricecathy.com^
 ||bfdaawe.top^
 ||bgcnhux.cn^
 ||bgjjwl.cn^
@@ -41557,6 +41561,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ewmvim.xyz^
 ||ewrwf.com^
 ||ezfxpuo.cn^
+||ezwxia.xyz^
 ||f9s6.top^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
@@ -41596,6 +41601,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gskbzle.cn^
 ||guangdongtaiji.com^
 ||guge.red^
+||guoandong.ltd^
 ||guode.cyou^
 ||guuds.cyou^
 ||guyu8855.club^
@@ -41620,6 +41626,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||hiqrnyn.cn^
+||hkbzl.hk^
 ||hmpubc.xyz^
 ||hndhas.com^
 ||hnrjign.cn^
@@ -41808,7 +41815,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ofgysy.xyz^
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
+||oiqdjksgpo.com^
 ||okew.top^
+||okoc.top^
 ||okod.top^
 ||okoy.top^
 ||okwa.top^
@@ -41919,6 +41928,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||shikongbb.com^
+||siejp.cyou^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -41981,6 +41991,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||udifvi.cn^
 ||ufynxmf.cn^
 ||ukutuy.xyz^
+||uniway.cn.com^
 ||unmnkkq.cn^
 ||uowfag.xyz^
 ||uwumr.cn^
@@ -42010,7 +42021,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wdasa.top^
 ||wdmdejd.cn^
 ||weieo.cyou^
+||weighcb.com^
 ||weiqu.cyou^
+||wfndponfd.com^
 ||whrgsmi.cn^
 ||wjl58.icu^
 ||wp8d.xyz^
@@ -42048,6 +42061,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xkjcpl.cn^
 ||xkqit.com^
 ||xmmnsl.com^
+||xnrcnz.xyz^
 ||xopew.cyou^
 ||xrewo.xyz^
 ||xryjyfb.cn^
@@ -42115,13 +42129,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||xnrcnz.xyz^
-||ezwxia.xyz^
-||siejp.cyou^
-||okoc.top^
-||guoandong.ltd^
-||accommodatingremindauntie.com^
-||uniway.cn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -49412,6 +49419,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hdapp1008-a.akamaihd.net^
 ||hdsrc-a.akamaihd.net^
 
+||adrooz.com^
 ||affilio.ir^
 ||analyt.ir^
 
@@ -49643,6 +49651,7 @@ analytics-*.aasaam.com
 ||stc.ninisite.com^
 ||websocket.55online.news^
 
+||analytics.plaza.ir^
 
 ||sentry.quera.org^
 

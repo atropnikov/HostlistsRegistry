@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2023-02-28T07:16:15.544Z
+! Last modified: 2023-03-01T04:21:45.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10545,6 +10545,14 @@
 0.0.0.0 631c453c-68ac-46ab-857f-801e975e733a.snippet.antillephone.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 adkwai.com
+0.0.0.0 p1.adkwai.com
+0.0.0.0 p2.adkwai.com
+0.0.0.0 p3.adkwai.com
+0.0.0.0 ad.a.yximgs.com
+0.0.0.0 ali-ad.a.yximgs.com
+0.0.0.0 js-ad.a.yximgs.com
+0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -17058,6 +17066,7 @@
 0.0.0.0 valuesponsor.com
 0.0.0.0 vanfireworks.com
 0.0.0.0 vanjyvsr.com
+0.0.0.0 vantagemarketads.com
 0.0.0.0 variablefitness.com
 0.0.0.0 varietyofdisplayformats.com
 0.0.0.0 variouscreativeformats.com
@@ -17376,6 +17385,7 @@
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
 0.0.0.0 www.uyunad.com
+0.0.0.0 www.vantagemarketads.com
 0.0.0.0 www.varietyofdisplayformats.com
 0.0.0.0 www.velocitycdn.com
 0.0.0.0 www.vidcpm.com

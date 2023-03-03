@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-03-03T03:21:19.183Z
+! Last modified: 2023-03-03T12:32:33.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14,6 +14,7 @@
 ||123freeavatars.com^
 ||180hits.de^
 ||180searchassistant.com^
+||1link2020.com^
 ||1rx.io^
 ||207.net^
 ||247media.com^
@@ -1057,6 +1058,7 @@
 ||as2.adserverhd.com^
 ||aserv.motorsgate.com^
 ||asewlfjqwlflkew.com^
+||asia999.website^
 ||aso1.net^
 ||assets1.exgfnetwork.com^
 ||assoc-amazon.com^
@@ -1644,7 +1646,6 @@
 ||docksalmon.com^
 ||dogcollarfavourbluff.com^
 ||domaining.in^
-||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
@@ -2994,6 +2995,7 @@
 ||screechingfurniture.com^
 ||screechingslip.com^
 ||screechingstove.com^
+||scripte-monster.de^
 ||scrubswim.com^
 ||sdkfjxjertertry.com^
 ||seadform.net^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-03T06:22:13.369Z
+! Last modified: 2023-03-03T12:32:31.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33303,6 +33303,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||scaredsnakes.com^
 ||scaredswing.com^
 ||scarfthought.com^
+||scrapesleep.com^
 ||screechingslip.com^
 ||screechingstove.com^
 ||seashoresociety.com^
@@ -34967,6 +34968,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||ini.sm-nat.com^
+||virtonnews.com^
+||top-js-metrics.top.my.ua^
+||novosti-online.gq^
+||mirror.smi.fm^
+||info.emoment.com^
+||ext.week.news^
+||readto.ru^
+||adwile.com^
+||inshocking.ru^
+||newseek.org^
+||ravnovesienews.ru^
+||ru-novocti.com^
+||skyad1.ru^
+||sosnews.ru^
+||sv-pr.ru^
+||svitnews.com^
 ||uuidksinc.net^
 ||ferdarius.com^
 ||gbf77po03m.com^
@@ -38400,6 +38418,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 
+||ex.newsland.com^
+||exchange.informer.ua^
+||news.mirtesen.ru^
+||smi.today^
+||dw-informer-*.newsru.com^
+||widget.mediastealer.com^
+||vi.bigmir.net^
+||smi24.kz^
 ||banner.kaktus.media^
 ||rtb.wedeo.ru^
 ||flowers.moex.com^
@@ -38560,55 +38586,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vozer.voffka.com^
 ||vw.onlinia.net^
 
-||ini.sm-nat.com^
-||smi24.kz^
-||virtonnews.com^
-||top-js-metrics.top.my.ua^
-||novosti-online.gq^
-||mirror.smi.fm^
-||info.emoment.com^
-||ext.week.news^
-||smi.today^
-||readto.ru^
-||adwile.com^
-||dw-informer-*.newsru.com^
-||ex.newsland.com^
-||exchange.informer.ua^
-||inshocking.ru^
-||mediadog.ru^
-||news.mirtesen.ru^
-||newseek.org^
-||ravnovesienews.ru^
-||ru-novocti.com^
-||skyad1.ru^
-||sosnews.ru^
-||sv-pr.ru^
-||svitnews.com^
-||vi.bigmir.net^
-||widget.mediastealer.com^
-||mixervanga.ru^
-||runewslenta.com^
-||okaynews.me^
-||newsandpolik.ru^
-||blamper-news.ru^
-||blamper-novosti.ru^
-||blamper.ru^
-||fin-vecto.ru^
-||fin-vector.ru^
-||ognyvo-topnews.ru^
-||ognyvo24.ru^
-||polit-e-fox.ru^
-||polit-fox.ru^
-||politfox.ru^
-||politfoxrf.ru^
-||ros-infonews.ru^
-||rosinfonews.ru^
-||rossinfonews.ru^
-||rossinfonewsrf.ru^
-||rustoria-topnews.ru^
-||top-newsrustoria.ru^
-||topruistory.ru^
-||toprustory.ru^
 ||kingadsvip.club^
 ://sportframe*.co^
 ||aybereklam.com^
@@ -40143,6 +40120,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.playoncenter.com^
 ||stats.poddtoppen.se^
 ||stats.userneeds.com^
+||statsapi.tiendeo.se^
 ||storymedia.se^
 ||st-n.ads1-adnow.com^
 ||synchrobox.adswizz.com^
@@ -42181,6 +42159,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jrrwsk.ltd^
 ||byj123.cn^
 ||additionsmiracle.com^
+||5py1.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

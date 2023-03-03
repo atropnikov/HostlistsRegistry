@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-03-02T13:31:04.091Z
+! Last modified: 2023-03-03T07:16:11.247Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -850,6 +850,7 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 stats2.agilecrm.com
 127.0.0.1 statsapi.screen9.com
+127.0.0.1 statsapi.tiendeo.se
 127.0.0.1 step-dk.gscontxt.net
 127.0.0.1 sting.de17a.com
 127.0.0.1 storymedia.se

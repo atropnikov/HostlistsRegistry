@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-06T01:26:44.129Z
+! Last modified: 2023-03-06T06:22:50.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||assaystalonic.com^
 ||aawulszemel.com^
 ||lmgdmwyd.com^
 ||pwxueuocf.com^
@@ -3917,7 +3918,6 @@ vkcdnservice.appspot.com^
 ||aspiredcapitol.com^
 ||asrety.com^
 ||assailusefullyenemies.com^
-||assaystalonic.com^
 ||assembledscout.com^
 ||assembleservers.com^
 ||assentproduct.com^
@@ -42289,6 +42289,9 @@ cdn-settings.appsflyersdk.com^
 ||iauto.wang^
 ||lijie.in^
 ||vlbbxt.xyz^
+||feixun.info^
+||teowa.cyou^
+||okcf.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-02-28T21:15:37.972Z
+! Last modified: 2023-03-08T02:53:16.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2776,6 +2776,7 @@
 0.0.0.0 tiplanet.fr
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
+0.0.0.0 toppillstore.com
 0.0.0.0 toprxshopplace.com
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info

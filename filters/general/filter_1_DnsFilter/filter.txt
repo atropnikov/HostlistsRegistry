@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-09T18:21:03.864Z
+! Last modified: 2023-03-10T01:37:31.442Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||scentedindication.com^
+||wumufama.com^
 ||ticaadjuk.xyz^
 ||phoojeex.xyz^
 ||chozeers.xyz^
@@ -233,7 +235,6 @@
 ||appalspowters.com^
 ||viaqoo.tech^
 ||hisurnhuh.com^
-||scentedindication.com^
 ||eiyoatxbrbyu.com^
 ||datatechonert.com^
 ||jcdhgpqglpjwh.xyz^
@@ -7743,6 +7744,7 @@ vkcdnservice.appspot.com^
 ||drumimaring.xyz^
 ||drupta.com^
 ||drwornspinster.com^
+||dsandmaroons.com^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsnextgen.com^
 ||dsnr-affiliates.com^
@@ -7845,6 +7847,7 @@ vkcdnservice.appspot.com^
 ||dwetwdstom1020.com^
 ||dwiden.com^
 ||dwightadjoining.com^
+||dwpwnlbm.com^
 ||dwwboxlnrlek.xyz^
 ||dwxpsiixsrrk.com^
 ||dxmjyxksvc.com^
@@ -10788,6 +10791,7 @@ vkcdnservice.appspot.com^
 ||hypogeeinial.com^
 ||hypogynbalker.com^
 ||hypoot.com^
+||hypozoabytes.life^
 ||hyrewusha.pro^
 ||hystericalpotprecede.com^
 ||hzkachqd.com^
@@ -11001,6 +11005,7 @@ vkcdnservice.appspot.com^
 ||inclk.com^
 ||incloak.com^
 ||includemodal.com^
+||inclusadeicer.com^
 ||incomethoroughabjure.com^
 ||incomprehensibleacrid.com^
 ||inconceivableascertained.com^
@@ -11590,6 +11595,7 @@ vkcdnservice.appspot.com^
 ||jpdtisnlk.com^
 ||jpesfzcjob.com^
 ||jpgtrk.com^
+||jpljnmen.com^
 ||jpmpuxglivupwy.com^
 ||jqcache.ml^
 ||jqeyvtgelo.com^
@@ -15586,6 +15592,7 @@ vkcdnservice.appspot.com^
 ||pncloudfl.com^
 ||pncqcqdj.com^
 ||pnd.gs^
+||pndbseeqrbrfdss.xyz^
 ||pneral.com^
 ||pneuth.com^
 ||pnmoclqxtcsbw.com^
@@ -15907,6 +15914,7 @@ vkcdnservice.appspot.com^
 ||probitystuck.com^
 ||problemsendeavourbending.com^
 ||probtn.com^
+||procesosfultry.info^
 ||processaryen.xyz^
 ||proclaimincurable.com^
 ||procuredawestruckpoint.com^
@@ -17776,6 +17784,7 @@ vkcdnservice.appspot.com^
 ||separine.com^
 ||sephur.com^
 ||septfd2em64eber.com^
+||sepubl.com^
 ||sequelswosbird.com^
 ||seqyirmgh.xyz^
 ||serbianstonish.com^
@@ -19410,6 +19419,7 @@ vkcdnservice.appspot.com^
 ||throughdfp.com^
 ||throughlavish.com^
 ||thrtle.com^
+||thruss.com^
 ||thrustlumpypulse.com^
 ||thterras.com^
 ||thuanmimamsa.com^
@@ -20510,6 +20520,7 @@ vkcdnservice.appspot.com^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||variousinvoluntary.com^
+||varothpajraq.com^
 ||varshacundy.com^
 ||vartoken.com^
 ||varybailedascend.com^
@@ -22399,6 +22410,7 @@ vkcdnservice.appspot.com^
 ||adthrive.com^
 ||adthurst.com^
 ||adtival.network^
+||adtonos.com^
 ||adtraction.com^
 ||adtrix.com^
 ||adtrue.com^
@@ -23544,6 +23556,7 @@ vkcdnservice.appspot.com^
 ||videoegg.com^
 ||videohub.com^
 ||videologygroup.com^
+||videoo.tv^
 ||videoplaza.com^
 ||videoroll.net^
 ||viewtraff.com^
@@ -24223,6 +24236,7 @@ vkcdnservice.appspot.com^
 ||djv99sxoqpv11.cloudfront.net^
 ||djvby0s5wa7p7.cloudfront.net^
 ||djz9es32qen64.cloudfront.net^
+||dk4w74mt6naf3.cloudfront.net^
 ||dk57sacpbi4by.cloudfront.net^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dkm6b5q0h53z4.cloudfront.net^
@@ -32422,6 +32436,7 @@ cdn-settings.appsflyersdk.com^
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
+||noeyeon.com^
 ||notifpush.com^
 ||nxakpj4ac8gkd53.info^
 ||oppuz.com^
@@ -35227,7 +35242,6 @@ cdn-settings.appsflyersdk.com^
 ||adserver*.euroweeklynews.com^
 ||ads.enrt.eu^
 ||19bk5lo5q2.com^
-||videoo.tv^
 ||gyh1lh20owj.ru^
 ||25haich4342.ru^
 ||bserver.gp-guia.net^
@@ -42598,6 +42612,12 @@ cdn-settings.appsflyersdk.com^
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
+||sleuey.xyz^
+||lzzzjx.xyz^
+||fujoe.cyou^
+||uibjhqwkl.com^
+||poqoiwn.com^
+||kalongyyds.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

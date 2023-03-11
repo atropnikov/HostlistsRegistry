@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-03-11T01:17:15.955Z
+! Last modified: 2023-03-11T09:15:05.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5696,7 +5696,6 @@
 ||adtology2.com^
 ||adtomafusion.net^
 ||adtonement.com^
-||adtonos.com^
 ||adtoox.com^
 ||adtorio.com^
 ||adtorque.in^
@@ -9267,6 +9266,7 @@
 ||appswiss.ch^
 ||appswitch.adups.cn^
 ||appsyoga.com^
+||appt12mn.com^
 ||apptap.com^
 ||apptechnewz.com^
 ||apptera.com^

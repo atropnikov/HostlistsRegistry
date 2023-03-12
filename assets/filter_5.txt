@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-03-12T15:15:40.953Z
+! Last modified: 2023-03-12T19:12:30.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23020,7 +23020,6 @@
 ||ezlink.ca^
 ||ezmob.com^
 ||eznetb.synology.me^
-||ezodn.com^
 ||ezojs.com^
 ||ezreltabiowo.com^
 ||ezstat.ru^

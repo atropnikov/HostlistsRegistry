@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-13T18:20:16.893Z
+! Last modified: 2023-03-13T19:13:28.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23567,7 +23567,6 @@ vkcdnservice.appspot.com^
 ||vadpay.com^
 ||validclick.com^
 ||valuead.com^
-||valuecommerce.com^
 ||vashoot.com^
 ||velti.com^
 ||vemba.com^
@@ -29597,6 +29596,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||trj.valuecommerce.com^
+||aml.valuecommerce.com^
 ||thoth.utyug.media^
 ||prod.fennec.atp.fox^
 ||analytics.data.visenze.com^
@@ -39580,6 +39581,9 @@ cdn-settings.appsflyersdk.com^
 ||yads.yjtag.yahoo.co.jp^
 ||maillovelove.net^
 
+||ad.jp.ap.valuecommerce.com^
+||ad.jp.ap.g.valuecommerce.com^
+||ads.jp.ap.g.valuecommerce.com^
 ||valuecommerce.ne.jp^
 ||sgad.surfsnow.jp^
 ||mbadv.nan.co.jp^
@@ -49700,7 +49704,6 @@ analytics-*.aasaam.com
 @@||brm-core-*.brsrvr.com^|
 @@||marketing.net.idealo-partner.com^|
 @@||netatmo.commander1.com^|
-@@||clj.valuecommerce.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
 @@-ds.metric.gstatic.com^|
 @@||id.i2i.jp^|

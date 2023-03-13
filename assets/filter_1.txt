@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-13T06:22:06.497Z
+! Last modified: 2023-03-13T12:33:54.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1116,6 +1116,7 @@
 ||o333o.com^
 ||dianomi.com^
 ||leaderhistliness.info^
+||amazon-adsystem.com^
 ||stripe.rs-1028-a.com^
 ||hub.fghtem.com^
 ||d71e6dd31a026d45.com
@@ -3458,7 +3459,6 @@ vkcdnservice.appspot.com^
 ||amazinelistrun.pro^
 ||amazinelistrun.xyz^
 ||amazingdomain.sbs^
-||amazon-adsystem.com^
 ||amazon-cornerstone.com^
 ||ambaab.com^
 ||ambassadorpotentsummer.com^
@@ -42682,6 +42682,7 @@ cdn-settings.appsflyersdk.com^
 ||hioek.cyou^
 ||wangsf.ltd^
 ||kezldfv.cn^
+||4bds.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

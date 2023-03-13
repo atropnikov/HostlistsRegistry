@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-13T01:22:33.749Z
+! Last modified: 2023-03-13T06:22:06.497Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41120,6 +41120,7 @@ cdn-settings.appsflyersdk.com^
 ||hotngay.vn^
 ||itim.vn^
 ||jeoway.com^
+||jp.zaloapp.com^
 ||js.aiservice.vn^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
@@ -41300,6 +41301,7 @@ cdn-settings.appsflyersdk.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zpsocial-f52-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||12signup.com^
@@ -42677,6 +42679,9 @@ cdn-settings.appsflyersdk.com^
 ||xthrdyi.cn^
 ||heqinyyds.com^
 ||bdfwzt.xyz^
+||hioek.cyou^
+||wangsf.ltd^
+||kezldfv.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

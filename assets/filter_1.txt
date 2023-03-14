@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-14T06:21:58.305Z
+! Last modified: 2023-03-14T12:41:54.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24478,6 +24478,7 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||external-api.impression-neo.naver.com^
 ||mobiadvert.livesportmedia.eu^
 ||sdkv2.imaginationunwired.com^
 ||api-ad-adapter.wps.com^
@@ -35283,6 +35284,9 @@ cdn-settings.appsflyersdk.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
+||spacelala.com^
+||pitors.com^
+||texamp.com^
 ||smart-placements-sdk.ex.co^
 ||mucmoapa.com^
 ||cibgphkiqbjk.com^
@@ -41864,6 +41868,7 @@ cdn-settings.appsflyersdk.com^
 ||2hfby.top^
 ||2pwja.cn^
 ||2r6.cn^
+||304p.xyz^
 ||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
@@ -41871,6 +41876,7 @@ cdn-settings.appsflyersdk.com^
 ||3z7qn.cn^
 ||401aww.com^
 ||44629.com^
+||4bds.xyz^
 ||4iksy.cn^
 ||4jffu.cn^
 ||51gpiao.cn^
@@ -41947,6 +41953,7 @@ cdn-settings.appsflyersdk.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
 ||bddwm.com^
+||bdfwzt.xyz^
 ||beatricecathy.com^
 ||believer.ltd^
 ||bfdaawe.top^
@@ -41959,6 +41966,7 @@ cdn-settings.appsflyersdk.com^
 ||bitu.fun^
 ||bjdqxt.com^
 ||bkisss.com^
+||bnhxxj.xyz^
 ||bojebd.xyz^
 ||bole.kim^
 ||bomut.cyou^
@@ -42030,6 +42038,7 @@ cdn-settings.appsflyersdk.com^
 ||dpxynh.xyz^
 ||dqzirj.xyz^
 ||dreanrh.cn^
+||drfvtgbyk.xyz^
 ||dsfd67.com^
 ||dtckvpc.cn^
 ||dvbuxcl.cn^
@@ -42094,6 +42103,7 @@ cdn-settings.appsflyersdk.com^
 ||gadscc.xyz^
 ||gaiqgs.xyz^
 ||gaoai.wang^
+||gaohexiang.xyz^
 ||geiaxbk.cn^
 ||gejulm1314.com^
 ||gfqsded.cn^
@@ -42125,12 +42135,14 @@ cdn-settings.appsflyersdk.com^
 ||hcqsuqq.cn^
 ||hellobody.online^
 ||hellu.cyou^
+||heqinyyds.com^
 ||hertzbeat.cn^
 ||hevuabv.cn^
 ||hfjsbf.xyz^
 ||hgsly.buzz^
 ||hhaobcj.cn^
 ||hibaby.ren^
+||hioek.cyou^
 ||hiqrnyn.cn^
 ||hkbzl.hk^
 ||hladalliance.com^
@@ -42175,6 +42187,7 @@ cdn-settings.appsflyersdk.com^
 ||ieda.live^
 ||igusoft.com^
 ||ihmbpow.cn^
+||iicke.cyou^
 ||ijvzmua.cn^
 ||ikbgika.cn^
 ||ikbhgj.cn^
@@ -42184,8 +42197,10 @@ cdn-settings.appsflyersdk.com^
 ||inkuae.com^
 ||inscan.cn^
 ||ionqv.cn^
+||ipkruu.xyz^
 ||ipyud.cn^
 ||iqmbao.xyz^
+||irqqwqk.cn^
 ||irygym.xyz^
 ||isdfbvkvsc.xyz^
 ||isuiguk.cn^
@@ -42193,9 +42208,11 @@ cdn-settings.appsflyersdk.com^
 ||iugbjkqwc.xyz^
 ||iwjgwis.cn^
 ||ixelcpo.cn^
+||izmssk.xyz^
 ||j00x.top^
 ||jbuzacg.cn^
 ||jcvty.cyou^
+||jd186.club^
 ||jdnlynb.cn^
 ||jfmfmgj.cn^
 ||jgqub.cn^
@@ -42233,6 +42250,7 @@ cdn-settings.appsflyersdk.com^
 ||keoap.xyz^
 ||keshidianhua.xyz^
 ||keysmw.xyz^
+||kezldfv.cn^
 ||kgacp.cyou^
 ||kingsun.online^
 ||kiymowg.cn^
@@ -42530,6 +42548,7 @@ cdn-settings.appsflyersdk.com^
 ||tioew.cyou^
 ||tjbxhn.xyz^
 ||tjxafmo.cn^
+||tqxthzy.cn^
 ||traktalent.com^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
@@ -42594,7 +42613,9 @@ cdn-settings.appsflyersdk.com^
 ||vykeavz.cn^
 ||w80n.fun^
 ||wagepulsate.com^
+||wangsf.ltd^
 ||wangyc.club^
+||wangzhe.cx^
 ||wanyi.pw^
 ||waoeou.xyz^
 ||waterfairy.xyz^
@@ -42653,6 +42674,7 @@ cdn-settings.appsflyersdk.com^
 ||xopew.cyou^
 ||xrewo.xyz^
 ||xryjyfb.cn^
+||xthrdyi.cn^
 ||xtpez.xyz^
 ||xuhaijun.pw^
 ||xunren.club^
@@ -42722,24 +42744,6 @@ cdn-settings.appsflyersdk.com^
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
-||ipkruu.xyz^
-||xthrdyi.cn^
-||heqinyyds.com^
-||bdfwzt.xyz^
-||hioek.cyou^
-||wangsf.ltd^
-||kezldfv.cn^
-||4bds.xyz^
-||drfvtgbyk.xyz^
-||izmssk.xyz^
-||bnhxxj.xyz^
-||iicke.cyou^
-||304p.xyz^
-||jd186.club^
-||irqqwqk.cn^
-||wangzhe.cx^
-||gaohexiang.xyz^
-||tqxthzy.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -48466,6 +48470,7 @@ cdn-settings.appsflyersdk.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||usejj.makepolo.cn^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^

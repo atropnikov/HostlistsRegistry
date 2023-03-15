@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-14T18:25:26.822Z
+! Last modified: 2023-03-15T01:21:27.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||uvsvlisbartwq.com^
 ||ixisivomer.com^
 ||exinariuminix.info^
 ||wlfcwkijsknted.xyz^
@@ -1294,6 +1295,7 @@
 ||3myad.com^
 ||cdn.234doo.com^
 ||a.b.napiszar.com^
+||api.lhkmedia.in^
 ||ban.bhol.co.il^
 ||ext.bhol.co.il^
 ||st1.bhol.co.il^
@@ -23357,7 +23359,6 @@ vkcdnservice.appspot.com^
 ||rubyblu.com^
 ||salvador24.com^
 ||sape.ru^
-||saymedia.com^
 ||sba.about.co.kr^
 ||sbaffiliates.com^
 ||sbcpower.com^
@@ -25096,6 +25097,7 @@ vkcdnservice.appspot.com^
 ||richpays.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sas816.ujikdd041o.cn^
+||saymedia.com^
 ||sdk.native123.com^
 ||sdk.starbolt.io^
 ||serve-sys.com^
@@ -25177,6 +25179,21 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||iplogger.org^
+||iplogger.com^
+||maper.info^
+||iplogger.ru^
+||iplogger.co^
+||2no.co^
+||yip.su^
+||iplogger.info^
+||ipgrabber.ru^
+||ipgraber.ru^
+||iplis.ru^
+||wl.gl^
+||02ip.ru^
+||ezstat.ru^
+||iplogger.cn^
 ||futureup.ru^
 ||exilelink.com^
 ||ganalytics.live^
@@ -32450,7 +32467,6 @@ cdn-settings.appsflyersdk.com^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||eqy.link^
-||ezstat.ru^
 ||f27tltnd.de^
 ||fairdatacenter.de^
 ||fastemu.co^
@@ -33629,6 +33645,7 @@ cdn-settings.appsflyersdk.com^
 ||beginnerpancake.com^
 ||begintrain.com^
 ||bizarrebaseball.com^
+||blackbrake.com^
 ||bleachbubble.com^
 ||blushingbread.com^
 ||bouncyfront.com^
@@ -42785,6 +42802,10 @@ cdn-settings.appsflyersdk.com^
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
+||jxjvtr.xyz^
+||godie.cyou^
+||qjoqos.xyz^
+||posdhu5.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-03-17T16:22:32.320Z
+! Last modified: 2023-03-18T01:20:14.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -46614,7 +46614,6 @@
 ||tc-clicks.com^
 ||tc-log.mattel163.com^
 ||tc.fileplaneta.com^
-||tc.reachicepick.com^
 ||tc600.com^
 ||tcaadwa.com^
 ||tcache.ml^
@@ -52002,6 +52001,7 @@
 ||whukroal.net^
 ||whulsaux.com^
 ||whulterprotein.com^
+||whum.top^
 ||whuptaiz.net^
 ||whybuyitnow.com^
 ||whychymithy.com^
@@ -54121,7 +54121,6 @@
 ||znindia.in^
 ||znllfp.xyz^
 ||znnhmzumod.com^
-||zo.minunetclose.com^
 ||zo7gihmry2.com^
 ||zoachoar.net^
 ||zoachops.com^

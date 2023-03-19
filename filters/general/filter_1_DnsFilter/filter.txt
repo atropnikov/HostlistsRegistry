@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-19T12:30:16.456Z
+! Last modified: 2023-03-19T18:19:16.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||bgcold.com^
+||chlign.com^
 ||runoj.click^
 ||clicktroute.com^
 ||topvids.online^
@@ -42380,6 +42382,7 @@ cdn-settings.appsflyersdk.com^
 ||elsmom.xyz^
 ||ennde.cyou^
 ||ermao20230220.live^
+||etdcezc.cn^
 ||ethandataserver.love^
 ||etkht.cn^
 ||evunmc.xyz^
@@ -42404,6 +42407,7 @@ cdn-settings.appsflyersdk.com^
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
 ||fhvbhx.xyz^
+||fillidutt.tw^
 ||fioem.cyou^
 ||fn9u.fun^
 ||fnkio.cyou^
@@ -42431,6 +42435,7 @@ cdn-settings.appsflyersdk.com^
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
 ||gomhn.cn^
@@ -42806,6 +42811,7 @@ cdn-settings.appsflyersdk.com^
 ||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
+||qzhiku.cc^
 ||rardi.cyou^
 ||rayss.host^
 ||rdjnjz.xyz^
@@ -42901,6 +42907,7 @@ cdn-settings.appsflyersdk.com^
 ||tjxafmo.cn^
 ||tqxthzy.cn^
 ||traktalent.com^
+||tsck.online^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
 ||tuape.xyz^
@@ -42997,6 +43004,7 @@ cdn-settings.appsflyersdk.com^
 ||wusuliriver.com^
 ||wutou20230201.live^
 ||wwnyubs.cn^
+||wxzrw.com^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
@@ -43105,14 +43113,8 @@ cdn-settings.appsflyersdk.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||zzxmcp.com^
-||gkwrae.xyz^
-||fillidutt.tw^
 ||zyrwfd.xyz^
-||wxzrw.com^
-||qzhiku.cc^
-||etdcezc.cn^
-||tsck.online^
+||zzxmcp.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

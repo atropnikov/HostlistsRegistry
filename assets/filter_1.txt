@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-20T06:22:09.306Z
+! Last modified: 2023-03-20T12:33:25.490Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||choacmax.xyz^
+||isnconcfiplu.xyz^
+||colved.com^
 ||sqydhgubsy.com^
 ||evzxlgstwcai.com^
 ||bgcold.com^
@@ -24766,6 +24769,7 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||contextualadv.com^
 ||prebid-cache.ifunny.co^
 ||tk0x1.com^
 ||itdsmr.com^
@@ -33255,7 +33259,6 @@ cdn-settings.appsflyersdk.com^
 ||loginhood.io^
 ||logmatic.io^
 ||logrocket.io^
-||logz.io^
 ||loopa.net.au^
 ||lr-in-prod.com^
 ||lyngro.com^
@@ -39354,6 +39357,7 @@ cdn-settings.appsflyersdk.com^
 ||adsy.mail.bg^
 
 
+||apptospace.com^
 ||kingadsvip.club^
 ://sportframe*.co^
 ||aybereklam.com^
@@ -41877,7 +41881,6 @@ cdn-settings.appsflyersdk.com^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
-||deltago.com^
 ||demopage.me^
 ||deqik.com^
 ||digi.vinut.com.vn^
@@ -43124,6 +43127,10 @@ cdn-settings.appsflyersdk.com^
 ||avkw.cn^
 ||sanqian.pro^
 ||tt-baidu.xyz^
+||fdhvczd.cn^
+||8861201.com^
+||8861200.com^
+||baidujsvbj.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

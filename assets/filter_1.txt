@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-22T06:19:43.818Z
+! Last modified: 2023-03-22T12:31:21.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30016,6 +30016,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||report.iciba.com^
+||global.ketchcdn.com^
 ||collector.reelevant.com^
 ||scripts-repo.reelevant.com^
 ||analytics.lunaweb.cloud^
@@ -32216,8 +32218,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
--conversions.appsflyersdk.com^
--gcdsdk.appsflyersdk.com^
+conversions.appsflyersdk.com^
+gcdsdk.appsflyersdk.com^
 -launches.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
 ||adrevenue.appsflyer.com^
@@ -32273,6 +32275,7 @@ cdn-settings.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||prod-analytics.royal.drmgms.com^
 ||logservice.hicloud.com^
 ||logger.growstarry.com^
 ||beacon-api.aliyuncs.com^
@@ -33293,6 +33296,7 @@ cdn-settings.appsflyersdk.com^
 ||itracker360.com^
 ||itracmediav4.com^
 ||janrain.xyz^
+||journera.com^
 ||journity.com^
 ||js-delivr.com^
 ||jumplead.com^
@@ -35797,6 +35801,7 @@ cdn-settings.appsflyersdk.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||vasia.bluentated.racing^
 ||laimroll.ru^
 ||burningpushing.info^
 ||riamiavid.com^
@@ -43225,6 +43230,11 @@ cdn-settings.appsflyersdk.com^
 ||haon.ltd^
 ||uiiwzyv.cn^
 ||shangjinxin.ltd^
+||umami.is^
+||rbvi.top^
+||renameking.com^
+||strced.xyz^
+||baidufkjnvbdsn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

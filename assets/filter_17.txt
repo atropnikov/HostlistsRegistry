@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-03-06T19:14:11.034Z
+! Last modified: 2023-03-24T08:18:51.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -576,6 +576,7 @@
 127.0.0.1 marfeel.com
 127.0.0.1 markhor.organicfruitapps.com
 127.0.0.1 marlin.kumo.at
+127.0.0.1 marmotsverige.com.se
 127.0.0.1 masture.mobi
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org

@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-25T12:27:49.876Z
+! Last modified: 2023-03-25T18:17:47.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||variationaspenjaunty.com^
+||yourgoads.com^
 ||tqkfrdcwht.xyz^
 ||ujhhfgbbhs.com^
 ||nannyamplify.com^
@@ -21139,7 +21141,6 @@ vkcdnservice.appspot.com^
 ||varechphugoid.com^
 ||variableexternal.com^
 ||variablesconevening.com^
-||variationaspenjaunty.com^
 ||variedslimecloset.com^
 ||varietiesassuage.com^
 ||varietiesplea.com^
@@ -31457,7 +31458,6 @@ vkcdnservice.appspot.com^
 ||log.sina.cn^
 ||log.snapdeal.com^
 ||log.strm.yandex.ru^
-||log.suumo.jp^
 ||log.tbs.qq.com^
 ||log.tf.co.kr^
 ||log.ttbc-hcm.gov.vn^

@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-03-24T04:19:39.922Z
+! Last modified: 2023-03-25T04:18:50.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -439,6 +439,7 @@
 ||tesla-ltt.com^
 ||tesla-online.net^
 ||teslacar.io^
+||teslacase.org^
 ||teslaltt.com^
 ||thechildhooddream.com^
 ||thegeekgifts.com^

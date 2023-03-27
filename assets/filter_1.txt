@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-27T06:20:56.803Z
+! Last modified: 2023-03-27T13:37:41.141Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25783,6 +25783,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||31830fbc-adbf-11ed-afa1-0242ac120002.site^
 ||15823f12-289e-4189-9e51-e2de1bf1a105.online^
 ||livetrafficfeed.com^
 ||cnnx.link^
@@ -32592,7 +32593,6 @@ cdn-settings.appsflyersdk.com^
 ||tok.vaicore.xyz^
 ||accscdn.m.taobao.com^
 ||acs.m.taobao.com^
-||heytapmobi.com^
 ||apsrgeo.amap.com^
 ||confe.dc.oppomobile.com^
 ||conff.dc.oppomobile.com^
@@ -41787,6 +41787,7 @@ cdn-settings.appsflyersdk.com^
 ||traffic-monetizer.com^
 ||trk.cpaoptimizer.com^
 
+||0.0.realodix^
 ||c303.pw^
 ||welcome.indihome.co.id^
 ||darts-ads.telkom.co.id^
@@ -43626,6 +43627,7 @@ cdn-settings.appsflyersdk.com^
 ||chrislee.ltd^
 ||ddhs.site^
 ||tianlaoyyds.com^
+||loopd.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

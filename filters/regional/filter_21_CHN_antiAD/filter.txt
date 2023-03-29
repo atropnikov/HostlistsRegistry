@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: Committed to being the highest hit rate ad filtering list in the Chinese region, achieving precise ad blocking and privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2023-03-29T07:15:06.969Z
+! Last modified: 2023-03-29T11:13:45.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -516,7 +516,6 @@
 ||10eafd09d6.com^
 ||t.10er-tagesticket.de^
 ||10fbb07a4b0.se^
-||vaserviece.10jqka.com.cn^
 ||10nvejhblhha.com^
 ||discover.10play.com.au^
 ||10q6e9ne5.de^
@@ -4527,6 +4526,7 @@
 ||adttt.com^
 ||e.aduiz.com^
 ||m.aduiz.com^
+||adukwai.com^
 ||adulatorycrappyghastly.com^
 ||adulatorydigestionmanicure.com^
 ||adult.xyz^
@@ -12189,7 +12189,6 @@
 ||chitika.net^
 ||chiuhua.com.cn^
 ||chiyan.group^
-||chkaja.com^
 ||chl7rysobc3ol6xla.com^
 ||chlbiz.com^
 ||chlibopi.xyz^
@@ -16770,6 +16769,8 @@
 ||dividedscientific.com^
 ||divideoutdoors.com^
 ||divolution.com^
+||ad-display.diwodiwo.xyz^
+||ad-channel.diwodiwo.xyz^
 ||diwuyu.com^
 ||web.news.dixiefashion.com^
 ||diygnmo.cn^
@@ -17556,6 +17557,7 @@
 ||dustytownsplatitude.com^
 ||dustywave.com^
 ||dustywrenchdesigned.com^
+||dutils.com^
 ||dutorterraom.com^
 ||dutravisne.com^
 ||dutuo4.top^
@@ -22197,6 +22199,9 @@
 ||giddyuptrk.com^
 ||stats-messages.gifs.com^
 ||stats.gifs.com^
+||gdfp.gifshow.com^
+||log-sdk.gifshow.com^
+||ulog-sdk.gifshow.com^
 ||gift2pair.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -26926,7 +26931,6 @@
 ||g3.iqilu.com^
 ||g4.iqilu.com^
 ||a.ckm.iqiyi.com^
-||act.vip.iqiyi.com^
 ||cupid.iqiyi.com^
 ||yuedu.iqiyi.com^
 ||c.uaa.iqiyi.com^
@@ -41088,6 +41092,10 @@
 ||openmsf.3g.qq.com^
 ||mark.l.qq.com^
 ||rlog.video.qq.com^
+||rdelivery.qq.com^
+||aedns.weixin.qq.com^
+||date.ab.qq.com^
+||report.nfa.qq.com^
 ||qq167.com^
 ||qq2ux.top^
 ||qq4g.cn^
@@ -41907,7 +41915,6 @@
 ||buttons.reddit.com^
 ||events.reddit.com^
 ||w3-reporting.reddit.com^
-||click.redditmail.com^
 ||events.redditmedia.com^
 ||reddsdainful.com^
 ||redeemspectacular.com^

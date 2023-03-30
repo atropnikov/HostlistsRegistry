@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-03-30T12:32:17.156Z
+! Last modified: 2023-03-30T18:18:31.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||obstry.com^
 ||etccdvfodthhc.com^
 ||lxudshpck.com^
 ||rhldcmsheqhci.com^
@@ -14958,7 +14959,6 @@ vkcdnservice.appspot.com^
 ||obspkoirhnvq.xyz^
 ||obssiyjiachvh.xyz^
 ||obstructionsaint.com^
-||obstry.com^
 ||obtainadopteddeliberately.com^
 ||obtainlylibuk.club^
 ||obtaintrenchhooray.com^
@@ -26151,6 +26151,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||log.collectaction.com^
+||cometlytrack.com^
+||trueroas.io^
 ||stats.makethebusiness.com^
 ||31830fbc-adbf-11ed-afa1-0242ac120002.site^
 ||15823f12-289e-4189-9e51-e2de1bf1a105.online^
@@ -43084,6 +43087,7 @@ inapps.appsflyersdk.com^
 ||9fh6m.cn^
 ||9j5e.top^
 ||9odes.ltd^
+||a44u.icu^
 ||a5jf.xyz^
 ||a666.one^
 ||aaaesme.cn^
@@ -43135,6 +43139,7 @@ inapps.appsflyersdk.com^
 ||baidujsvbj.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
+||bdcd2.com^
 ||bddwm.com^
 ||bdfwzt.xyz^
 ||beatricecathy.com^
@@ -43213,6 +43218,7 @@ inapps.appsflyersdk.com^
 ||ddqhnjb.cn^
 ||dedcrfvdj.xyz^
 ||delamer.ltd^
+||denpvh.xyz^
 ||deude.ltd^
 ||dfadas13.com^
 ||dfdaaa12.com^
@@ -43318,6 +43324,7 @@ inapps.appsflyersdk.com^
 ||gaohexiang.xyz^
 ||gaowei.fit^
 ||gauqeo.xyz^
+||gcejdac.cn^
 ||geiaxbk.cn^
 ||gejulm1314.com^
 ||gfqsded.cn^
@@ -43497,6 +43504,7 @@ inapps.appsflyersdk.com^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
+||kqskqi.xyz^
 ||kqwip.cyou^
 ||kravma.xyz^
 ||ksccqu.xyz^
@@ -43514,6 +43522,7 @@ inapps.appsflyersdk.com^
 ||laxnlqn.cn^
 ||lbk7p.cn^
 ||leiersuqd.com^
+||leirsw.com^
 ||leiwo.xyz^
 ||lelouch.tech^
 ||leopold37.xyz^
@@ -43542,6 +43551,7 @@ inapps.appsflyersdk.com^
 ||lwpxhr.xyz^
 ||lwz.hk^
 ||lymtreg.cn^
+||lztmrdv.cn^
 ||lzzzjx.xyz^
 ||m6ku1.cn^
 ||maccms10.cn^
@@ -43696,6 +43706,7 @@ inapps.appsflyersdk.com^
 ||qbd2.site^
 ||qbd3.site^
 ||qbd4.site^
+||qbtd.xyz^
 ||qdiwbhjpo.com^
 ||qdutmef.cn^
 ||qehaxkl.cn^
@@ -43706,6 +43717,7 @@ inapps.appsflyersdk.com^
 ||qheoy.cn^
 ||qiabayyds.com^
 ||qianbaobbs.net^
+||qianqian.red^
 ||qiantubao.asia^
 ||qiapuyyds.com^
 ||qiegoa.xyz^
@@ -43747,6 +43759,7 @@ inapps.appsflyersdk.com^
 ||rmccajg.cn^
 ||rooby.cyou^
 ||rourouwu.uk^
+||rp5o.top^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
 ||rthmnj.xyz^
@@ -43818,6 +43831,7 @@ inapps.appsflyersdk.com^
 ||tehgfn.xyz^
 ||teowa.cyou^
 ||tfallview.live^
+||tfcoverss.live^
 ||tffindmarket.live^
 ||tfzozf.xyz^
 ||tg0qu.top^
@@ -43964,6 +43978,7 @@ inapps.appsflyersdk.com^
 ||xiaohui668.club^
 ||xiaolj.xyz^
 ||xiaosaguniang.xyz^
+||xiaozengyyds.com^
 ||xibpbov.cn^
 ||xiehao.me^
 ||xihongshi.love^
@@ -43975,6 +43990,7 @@ inapps.appsflyersdk.com^
 ||xkhall.xyz^
 ||xkjcpl.cn^
 ||xkqit.com^
+||xmi1.top^
 ||xmmnsl.com^
 ||xmzurh.xyz^
 ||xnrcnz.xyz^
@@ -43999,6 +44015,7 @@ inapps.appsflyersdk.com^
 ||y1990.pw^
 ||yalayi.net^
 ||yang17.xyz^
+||yangsir.xyz^
 ||yanjiusuo.cc^
 ||ybfljs.com^
 ||yc444.cn^
@@ -44072,20 +44089,6 @@ inapps.appsflyersdk.com^
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||lztmrdv.cn^
-||rp5o.top^
-||kqskqi.xyz^
-||denpvh.xyz^
-||leirsw.com^
-||xmi1.top^
-||bdcd2.com^
-||tfcoverss.live^
-||qbtd.xyz^
-||xiaozengyyds.com^
-||yangsir.xyz^
-||qianqian.red^
-||gcejdac.cn^
-||a44u.icu^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^

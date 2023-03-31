@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-03-29T08:20:49.520Z
+! Last modified: 2023-03-31T06:20:47.153Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -208,6 +208,7 @@
 127.0.0.1 bettersport.se
 127.0.0.1 bettingstugan.se
 127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 bilcertificat.se
 127.0.0.1 bilpolicydi.bytelab.dk
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 bitstarz.com
@@ -241,6 +242,7 @@
 127.0.0.1 carneoam.com
 127.0.0.1 casinotoplists.com
 127.0.0.1 caterpillarsverige.net
+127.0.0.1 caviera-sverige.shop
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io
 127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.adfenix.com
@@ -380,7 +382,9 @@
 127.0.0.1 di.insplanet.com
 127.0.0.1 digidip.net
 127.0.0.1 digitalfeedback.euro.confirmit.com
+127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 dinapengar.compricer.se
+127.0.0.1 dinbilgaranti.se
 127.0.0.1 dl.episerver.net
 127.0.0.1 dmcdn.yieldbird.com
 127.0.0.1 dmp.adform.net
@@ -464,6 +468,7 @@
 127.0.0.1 flx1.com
 127.0.0.1 footjoygolfskorrea.com.se
 127.0.0.1 fpnpmcdn.net
+127.0.0.1 fraagesport.com
 127.0.0.1 franecki.net
 127.0.0.1 freegeoip.app
 127.0.0.1 freespee.com
@@ -747,11 +752,13 @@
 127.0.0.1 richmediastudio.com
 127.0.0.1 richmetrics.com
 127.0.0.1 ridsport.adhost.se
+127.0.0.1 rockeringformsweden.com
 127.0.0.1 rockportskorsverige.com
 127.0.0.1 rotarb.bid
 127.0.0.1 rotator.riedta.com
 127.0.0.1 route.carambo.la
 127.0.0.1 royapp.com
+127.0.0.1 rpofsweden.com
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 rum-collector-2.pingdom.net
@@ -920,6 +927,7 @@
 127.0.0.1 to.getnitropack.com
 127.0.0.1 tools.ascontentcloud.com
 127.0.0.1 tools.tradedoubler.com
+127.0.0.1 toppmarkensverige.com
 127.0.0.1 tourn.co
 127.0.0.1 tourn.se
 127.0.0.1 tpc.googlesyndication.com

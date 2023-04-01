@@ -2,7 +2,7 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2023-04-01T08:18:22.443Z
+! Last modified: 2023-04-01T10:14:53.060Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -197,6 +197,7 @@
 0.0.0.0 affiliazioniads.snai.it
 0.0.0.0 campaigns.williamhill.it
 0.0.0.0 eurostreaming.cam
+0.0.0.0 informatoriads.snai.it
 0.0.0.0 lp.starvegas.it
 0.0.0.0 lupoporno.com
 0.0.0.0 mmwebhandler.aff-online.com

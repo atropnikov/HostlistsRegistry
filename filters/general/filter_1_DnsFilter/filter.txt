@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-01T10:14:45.800Z
+! Last modified: 2023-04-01T12:26:52.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42940,8 +42940,10 @@ inapps.appsflyersdk.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||zgm1.com^
-||guanjiabo.net^
+||aaaaa663.com^
+||aaaaa855.com^
+||aaaaa599.com^
+||jerrytom.xyz^
 ||003aldjads.xyz^
 ||045zxnm.com^
 ||053h94.com^
@@ -48762,6 +48764,10 @@ inapps.appsflyersdk.com^
 ||zzwzsic.cn^
 ||zzxedr.xyz^
 ||zzzhuoxiaqu.online^
+||zgm1.com^
+||guanjiabo.net^
+||xiaoshuoyun.cn^
+||06789.xyz^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||a.youdao.com^
 ||adrs.sdo.com^
@@ -50303,6 +50309,8 @@ analytics-*.aasaam.com
 ||unitedsolarinfinity.com^
 
 ||mogo-crypto.net^
+||fillvpn.com^
+||sharapako.com^
 
 ||abcounter.de^
 ||mobileanalytics.*.amazonaws.com^

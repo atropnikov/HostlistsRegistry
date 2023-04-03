@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-03T06:19:50.992Z
+! Last modified: 2023-04-03T12:29:54.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12872,7 +12872,6 @@ vkcdnservice.appspot.com^
 ||leeante.com^
 ||leechiza.net^
 ||leechplanes.com^
-||leechpremium.link^
 ||leegaroo.xyz^
 ||leepoona.com^
 ||leetaipt.net^
@@ -30754,6 +30753,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||volts.shopping.naver.com^
+||analytics.grape.media^
 ||analytics.karakuri.ai^
 ||cdn-redirector.glopal.com^
 ||storelog.kode.co.kr^

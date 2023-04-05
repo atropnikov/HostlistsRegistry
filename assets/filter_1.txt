@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-05T06:20:08.763Z
+! Last modified: 2023-04-05T12:37:31.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3555,6 +3555,7 @@ vkcdnservice.appspot.com^
 ||almightypush.com^
 ||almostspend.com^
 ||almsmanmalthe.com^
+||alnathhoggie.com^
 ||aloftliquid.com^
 ||aloftrecedestatistics.com^
 ||alogiz.com^
@@ -3700,6 +3701,7 @@ vkcdnservice.appspot.com^
 ||amyrfvjqhy.com^
 ||amyrinunshoed.com^
 ||amysaghurtful.com^
+||amywhereby.com^
 ||amzosmcuhci.com^
 ||amzpzylzo.com^
 ||anaguahoagies.com^
@@ -3824,6 +3826,7 @@ vkcdnservice.appspot.com^
 ||antiterroristqueenjolly.com^
 ||antivirussprotection.com^
 ||antlerrecordingcat.com^
+||antlionwaldorf.com^
 ||antpeelpiston.com^
 ||antyoubelike.buzz^
 ||anubinbrewed.tech^
@@ -6965,6 +6968,7 @@ vkcdnservice.appspot.com^
 ||convrse.media^
 ||conyak.com^
 ||coojaiku.com^
+||cookinghither.com^
 ||cookliverelk.com^
 ||cookpad-ads.com^
 ||cooksrosiny.website^
@@ -9421,6 +9425,7 @@ vkcdnservice.appspot.com^
 ||fejla.com^
 ||felied.com^
 ||fellap.com^
+||fellowshippink.com^
 ||felonlosel.com^
 ||feltlonelyand.xyz^
 ||femefaih.com^
@@ -9736,6 +9741,7 @@ vkcdnservice.appspot.com^
 ||forgivenesscourtesy.com^
 ||forgivenessimpact.com^
 ||forgivenesspeltanalyse.com^
+||forgoesthalli.uno^
 ||forgoodplay.com^
 ||forgoprokick.icu^
 ||forgottedvere.xyz^
@@ -22886,6 +22892,7 @@ vkcdnservice.appspot.com^
 ||xtneqpole.xyz^
 ||xtrackme.com^
 ||xtremeserve.xyz^
+||xtyovvojltfo.com^
 ||xu5ctufltn.com^
 ||xuakak.com^
 ||xubrainge.live^
@@ -35072,6 +35079,7 @@ inapps.appsflyersdk.com^
 ||pricklydebt.com^
 ||propertypotato.com^
 ||psychedelicchess.com^
+||pumpedpancake.com^
 ||punyplant.com^
 ||q20jqurls0y7gk8.info^
 ||quaintborder.com^
@@ -36769,6 +36777,8 @@ inapps.appsflyersdk.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||bvbypswhds.com^
+||ads.digitalcaramel.com^
 ||advwomennews.ru^
 ||dallworldnews.ru^
 ||vasia.bluentated.racing^
@@ -42783,7 +42793,10 @@ inapps.appsflyersdk.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zpsocial-f50-org.zadn.vn^
+||zpsocial-f51-org.zadn.vn^
 ||zpsocial-f52-org.zadn.vn^
+||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||12signup.com^
@@ -43239,6 +43252,7 @@ inapps.appsflyersdk.com^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
+||traffic.vietnhan.co^
 ||trenddigital.vn^
 ||trk.123c.vn^
 ||trk.staging.123c.vn^
@@ -43314,6 +43328,8 @@ inapps.appsflyersdk.com^
 ||lxbbs.fun^
 ||bqcxgbm.cn^
 ||gzsscr.cn^
+||h731.icu^
+||hefei64.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

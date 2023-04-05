@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2023-03-24T22:14:52.185Z
+! Last modified: 2023-04-05T09:16:50.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6429,6 +6429,11 @@
 0.0.0.0 us.ads.justpremium.com
 0.0.0.0 www.justpremium.com
 0.0.0.0 adzerk.net
+0.0.0.0 e-10220.adzerk.net
+0.0.0.0 e-10457.adzerk.net
+0.0.0.0 e-10875.adzerk.net
+0.0.0.0 e-9563.adzerk.net
+0.0.0.0 e-9660.adzerk.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 static.adzerk.net
@@ -8608,6 +8613,7 @@
 0.0.0.0 flickr.adsbynimbus.com
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 imgur.adsbynimbus.com
+0.0.0.0 local.adsbynimbus.com
 0.0.0.0 turbo.adsbynimbus.com
 0.0.0.0 wattpad.adsbynimbus.com
 0.0.0.0 www.adsbynimbus.com
@@ -8785,6 +8791,8 @@
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 liftoff.io
+0.0.0.0 liftoff-creatives.io
+0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 impactserving.com
 0.0.0.0 cdn.impactserving.com
 0.0.0.0 m2.impactserving.com
@@ -10339,8 +10347,11 @@
 0.0.0.0 wiztube.xyz
 0.0.0.0 www.wiztube.xyz
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics-prod-gcp.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 stats.avast.com
+0.0.0.0 v7event.stats.avast.com
 0.0.0.0 explorads.com
 0.0.0.0 filter.explorads.com
 0.0.0.0 xml.explorads.com
@@ -10546,6 +10557,8 @@
 0.0.0.0 ads.livetv638.me
 0.0.0.0 ads.livetv639.me
 0.0.0.0 ads.livetv640.me
+0.0.0.0 ads.livetv643.me
+0.0.0.0 ads.livetv644.me
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
 0.0.0.0 c.company-target.com
@@ -10592,6 +10605,10 @@
 0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 masteraffiliates.gotrackier.com
 0.0.0.0 optimidea.gotrackier.com
+0.0.0.0 dmpxs.com
+0.0.0.0 bob.dmpxs.com
+0.0.0.0 confiant-integrations.net
+0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -11027,7 +11044,10 @@
 0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
+0.0.0.0 zpsocial-f50-org.zadn.vn
+0.0.0.0 zpsocial-f51-org.zadn.vn
 0.0.0.0 zpsocial-f52-org.zadn.vn
+0.0.0.0 zpsocial-f53-org.zadn.vn
 0.0.0.0 log-anninhthudo.zadn.vn
 0.0.0.0 log-baobackan.zadn.vn
 0.0.0.0 log-baonghean.zadn.vn
@@ -11861,6 +11881,10 @@
 0.0.0.0 m.zedcdn.me
 0.0.0.0 me.zedcdn.me
 0.0.0.0 mme.zedcdn.me
+0.0.0.0 aanetwork.vn
+0.0.0.0 cdn.aanetwork.vn
+0.0.0.0 imgs2.aanetwork.vn
+0.0.0.0 pub.aanetwork.vn
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -12354,6 +12378,7 @@
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
+0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
@@ -14625,6 +14650,7 @@
 0.0.0.0 feed-xml.com
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
+0.0.0.0 feedyourheadmag.com
 0.0.0.0 felonlosel.com
 0.0.0.0 fer2oxheou4nd.com
 0.0.0.0 ferulaecharger.com
@@ -15003,6 +15029,7 @@
 0.0.0.0 hybrid.ai
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydramedia.com
+0.0.0.0 hylicfrothi.uno
 0.0.0.0 hynteroforion.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypermusk.com
@@ -18111,7 +18138,6 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pjhku.com
 0.0.0.0 platform.iteratehq.com
-0.0.0.0 plausible.io
 0.0.0.0 play.leadzutw.com
 0.0.0.0 playtomic.com
 0.0.0.0 poole-collector-prod.n3twork.com

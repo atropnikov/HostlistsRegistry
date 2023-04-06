@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-06T12:29:26.001Z
+! Last modified: 2023-04-06T18:18:18.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||uttack.com^
 ||whiteforwardlines.com^
 ||belittlepads.com^
 ||bulochka.xyz^
@@ -26488,6 +26489,16 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||log.qvb.qcloud.com^
+||log.tpns.gz2.tencent.com^
+||trace.zhiyan.tencent-cloud.net^
+||norma-external-collect.meizu.com^
+||log.iflytek.com^
+||log.voicecloud.cn^
+||aads.shuzilm.cn^
+||adxlog-adnet.vivo.com.cn^
+||user-analysis.7moor.com^
+||sirdata.io^
 ||t.counter.dev^
 ||cdn.counter.dev^
 ||log.collectaction.com^
@@ -31006,6 +31017,9 @@ vkcdnservice.appspot.com^
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||sp1.baidu.com^
+||sp2.baidu.com^
+||sp3.baidu.com^
 ||als.baidu.com^
 ||afd.baidu.com^
 ||wkctj.baidu.com^
@@ -31041,6 +31055,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||uplog.inews.qq.com^
+||log1.wtlogin.qq.com^
 ||tp.content-score.com^
 ||ecsv2.roblox.com^
 ||volts.shopping.naver.com^
@@ -34586,7 +34602,6 @@ inapps.appsflyersdk.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||sirdata.eu^
-||sirdata.io^
 ||siteimproveanalytics.io^
 ||siteplug.com^
 ||siteswithcontent.com^
@@ -34644,6 +34659,7 @@ inapps.appsflyersdk.com^
 ||tagstaticx.com^
 ||tapad.app^
 ||taskanalytics.com^
+||tend.io^
 ||tercept.com^
 ||testin.cn^
 ||tglyr.co^
@@ -34680,6 +34696,7 @@ inapps.appsflyersdk.com^
 ||travelrobotflower.com^
 ||traversedlp.com^
 ||trbas.com^
+||trialfire.com^
 ||tribl.io^
 ||trilogyed.com^
 ||triptease.io^
@@ -35525,6 +35542,7 @@ inapps.appsflyersdk.com^
 ||ele26126.jscrambler.com^
 ||eq.userneeds.com^
 ||errors.snackly.co^
+||etl.springbot.com^
 ||eu-mobile.events.data.microsoft.com^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.co.uk^
@@ -41533,6 +41551,7 @@ inapps.appsflyersdk.com^
 ||connects.ch^
 ||contentfeed.net^
 ||cowana-adserver.de^
+||cpdsrv.de^
 ||crmpilot.it^
 ||cuiron.de^
 ||cussixia.de^
@@ -43380,6 +43399,7 @@ inapps.appsflyersdk.com^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa855.com^
+||alejd.xyz^
 ||aniem44.cc^
 ||bekco.xyz^
 ||bqcxgbm.cn^
@@ -43387,6 +43407,7 @@ inapps.appsflyersdk.com^
 ||ccohayo.xyz^
 ||cdcc3.com^
 ||fijipic.xyz^
+||flyinsky2009.ltd^
 ||fnnzr.cn^
 ||gpqicw.xyz^
 ||gwvzgjb.cn^
@@ -43396,6 +43417,7 @@ inapps.appsflyersdk.com^
 ||hefei64.com^
 ||hgpdoa.cn^
 ||huaweinnd.top^
+||hxpmbb.xyz^
 ||hxtiojs.cn^
 ||iepda.xyz^
 ||jerrytom.xyz^
@@ -43405,27 +43427,26 @@ inapps.appsflyersdk.com^
 ||kkylx.xyz^
 ||kucoa.xyz^
 ||lxbbs.fun^
+||ojuhwc.xyz^
 ||p4pd.cn^
+||prlioxb.cn^
 ||qiwjiy.xyz^
 ||readme.red^
 ||rtjmln.xyz^
 ||sh6ss7.top^
+||smailes.pro^
 ||tmochyf.cn^
+||vorluic.cn^
 ||wangjiayi.fun^
 ||xcaukve.cn^
 ||xingyang.in^
 ||xunjie.fun^
 ||yfohgo.xyz^
 ||yulingaa.xyz^
+||zbvchabjbcj.com^
 ||zdlnhv.xyz^
-||znnodl.xyz^
 ||zjqs.shop^
-||ojuhwc.xyz^
-||hxpmbb.xyz^
-||alejd.xyz^
-||vorluic.cn^
-||smailes.pro^
-||flyinsky2009.ltd^
+||znnodl.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -49593,7 +49614,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||gg.taoseyy.cn^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -50065,6 +50085,7 @@ inapps.appsflyersdk.com^
 ||gdyjs.com^
 ||gg.egouz.com^
 ||gg.miinaa.com^
+||gg.taoseyy.cn^
 ||gg1.mengchongzu.com^
 ||ggdm1.nhaidu.net^
 ||ggjs.d17.cc^

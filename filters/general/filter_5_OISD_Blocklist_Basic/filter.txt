@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-04-06T01:12:47.650Z
+! Last modified: 2023-04-06T06:19:28.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2418,7 +2418,6 @@
 ||ad.huvle.com^
 ||ad.hyena.cz^
 ||ad.icheck.com.vn^
-||ad.ieurop.net^
 ||ad.iinfo.cz^
 ||ad.il.doubleclick.net^
 ||ad.india.xiaomi.com^
@@ -2622,7 +2621,6 @@
 ||adagiobanner.s3.amazonaws.com^
 ||adagro.com.br^
 ||adalgard-wol.com^
-||adalliance.io^
 ||adalyser.com^
 ||adamic2k8.wave.seedhost.eu^
 ||adanald.icu^
@@ -2882,11 +2880,9 @@
 ||adhitzads.com^
 ||adhome.icu^
 ||adhood.com^
-||adhostingsolutions.com^
 ||adhub.digital^
 ||adhunter.media^
 ||adi.vcmedia.vn^
-||adicate.com^
 ||adigi.icu^
 ||adiiix.com^
 ||adikteev.com^
@@ -2934,7 +2930,6 @@
 ||adjuggler.com^
 ||adjuggler.net^
 ||adjuggler.yourdictionary.com^
-||adjungle.com^
 ||adjustbedevilsweep.com^
 ||adjustcolonyfaintest.com^
 ||adjustedminglecamouflage.com^
@@ -2953,7 +2948,6 @@
 ||adkwai.com^
 ||adl-hunter.com^
 ||adl.mynetreklam.com^
-||adlabs.ru^
 ||adland.ru^
 ||adlane.info^
 ||adlantic.nl^
@@ -2970,7 +2964,6 @@
 ||adligature.com^
 ||adlightning.com^
 ||adlink.de^
-||adlink.net^
 ||adlite.net^
 ||adlockscreen.goforandroid.com^
 ||adlog.cbsi.com^
@@ -3094,7 +3087,6 @@
 ||adnet.de^
 ||adnet.ru^
 ||adnetinteractive.com^
-||adnetwork.com.br^
 ||adnetwork.net^
 ||adnetwork.vn^
 ||adnetworkme.com^
@@ -3192,7 +3184,6 @@
 ||adprojekt.pl^
 ||adprosrv.com^
 ||adprotected.com^
-||adprotraffic.com^
 ||adproxy.tf1.fr^
 ||adpublisher.s3.amazonaws.com^
 ||adpush.goforandroid.com^
@@ -4623,7 +4614,6 @@
 ||afgxkazryxp.com^
 ||afij001.xyz^
 ||afiles.webengage.com^
-||afilio.com.br^
 ||afittogo.org^
 ||afitye.xyz^
 ||afj0.com^
@@ -6024,7 +6014,6 @@
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.threedeepmarketing.com^
-||analytics.tiendaenoferta.com^
 ||analytics.tiki.vn^
 ||analytics.tiktok.com^
 ||analytics.tintuc.vn^
@@ -6950,6 +6939,7 @@
 ||aqkkoalfpz.com^
 ||aqpmzoomqab.com^
 ||aqpogwawr.com^
+||aqt.adalliance.io^
 ||aqua-adserver.com^
 ||aquabibchawed.website^
 ||aquacultureethiopia.com^
@@ -7355,7 +7345,6 @@
 ||aspiredcapitol.com^
 ||aspireotech.com^
 ||aspiringattempt.com^
-||asq.ezakus.net^
 ||asrety.com^
 ||asrop.xyz^
 ||assailusefullyenemies.com^
@@ -10570,7 +10559,6 @@
 ||c.wen.ru^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
-||c0011.boursorama.com^
 ||c00162-dl.urbanairship.com^
 ||c021b14e0782ad7ef6d74.clicknplay.to^
 ||c0594.com^
@@ -10603,7 +10591,6 @@
 ||c3metrics.medifast1.com^
 ||c3s.bionestraff.pro^
 ||c3t-system-err.club^
-||c3tag.com^
 ||c40709df9f.com^
 ||c43a3cd8f99413891.com^
 ||c44wergiu87heghoconutdx.com^
@@ -12234,7 +12221,6 @@
 ||clicks.hurriyet.com.tr^
 ||clicks.mods.de^
 ||clicks.parsely.com^
-||clicks.pipaffiliates.com^
 ||clicks.support^
 ||clicks.uptownleads.com^
 ||clicks.wawlabs.com^
@@ -16720,7 +16706,6 @@
 ||dsquareelectronics.com^
 ||dssdv.com^
 ||dsstrk.com^
-||dstillery.com^
 ||dsultra.com^
 ||dsum-sec.casalemedia.com.edgekey.net^
 ||dsum.casalemedia.com.edgekey.net^
@@ -17662,7 +17647,6 @@
 ||emergencymarquis.com^
 ||emerizeculler.com^
 ||emerse.com^
-||emetriq.de^
 ||emfrig.xyz^
 ||emgwq.com^
 ||emicalcove.xyz^
@@ -22808,7 +22792,6 @@
 ||holychaptersbaker.com^
 ||holyfitbody.com^
 ||holyrisen.com^
-||home.edt02.net^
 ||homecareassistancebarrie.ca^
 ||homecareassistancehuntingtonwv.com^
 ||homecareassistancerichardson.com^
@@ -25631,7 +25614,6 @@
 ||kasim.guru^
 ||kastafor.com^
 ||kasych.net^
-||kataprius.com^
 ||katchouh.com^
 ||katebugs.com^
 ||katecrochetvanity.com^
@@ -26201,7 +26183,6 @@
 ||kuaidibiaoju.com^
 ||kuanzhan.biz^
 ||kubicekballoons.com.au^
-||kucoa.xyz^
 ||kudrunoptime.com^
 ||kufhcyqryh.com^
 ||kughouft.net^
@@ -27126,7 +27107,6 @@
 ||livetrafficfeed.com^
 ||livetvm.com^
 ||liveunderestimate.com^
-||liveuniversenetwork.com^
 ||liveupdt.com^
 ||liveviewer.ez.no^
 ||livewatchev.com^
@@ -28153,6 +28133,7 @@
 ||mafaldaflamniabarateiro.skin^
 ||mafgaq.com^
 ||mafjvuaiytrwol.com^
+||mafo.adalliance.io^
 ||mafrarc3e9h.com^
 ||magazinescontaining.com^
 ||magazinesfluentlymercury.com^
@@ -32802,7 +32783,6 @@
 ||p-kube.skimresources.com^
 ||p-log.ykimg.com^
 ||p-n.io^
-||p-td.com^
 ||p.7060.la^
 ||p.addthis.com^
 ||p.adnxs.com^
@@ -34423,7 +34403,6 @@
 ||popsoffer.com^
 ||popspace.virgilio.us^
 ||popstate.net^
-||poptival.com^
 ||poptm.com^
 ||poptri.com^
 ||popub.com^
@@ -42088,7 +42067,6 @@
 ||suinglygaggler.com^
 ||suitcasesimbue.com^
 ||suitcasessheriffpilgrim.com^
-||suitesmart.com^
 ||suitesterrage.com^
 ||sukobal.com^
 ||sulaimconnect.com^
@@ -44585,6 +44563,7 @@
 ||tracking-widget.fillr.com^
 ||tracking-xaxis.adsafety.net^
 ||tracking.adactioninteractive.com^
+||tracking.adalliance.io^
 ||tracking.admarketplace.net.edgekey.net^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.adsafety.net^
@@ -47045,7 +47024,6 @@
 ||voluumtrk.com^
 ||voluumtrk2.com^
 ||voluumtrk3.com^
-||volvelle.tech^
 ||volyze.com^
 ||vonalkoddebrecen.hu^
 ||vooculok.com^

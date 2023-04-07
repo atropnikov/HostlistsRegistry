@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-04-04T21:13:11.421Z
+! Last modified: 2023-04-07T12:28:40.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -649,7 +649,6 @@
 ||ads.v-lazer.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
-||ads.videosz.com^
 ||ads.virtual-nights.com^
 ||ads.virtuopolitan.com^
 ||ads.vnumedia.com^
@@ -3054,7 +3053,6 @@
 ||sillyscrew.com^
 ||silvermob.com^
 ||simpleanalytics.io^
-||simplehitcounter.com^
 ||simpli.fi^
 ||sincerebuffalo.com^
 ||sinoa.com^
@@ -3252,7 +3250,6 @@
 ||swordfishdc.com^
 ||swordgoose.com^
 ||synonymoussticks.com^
-||t.armchairbookie.com^
 ||t.bawafx.com^
 ||t.carta.com^
 ||t.co^

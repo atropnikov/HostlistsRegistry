@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-07T12:28:39.142Z
+! Last modified: 2023-04-07T18:18:20.406Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1162,6 +1162,7 @@
 ||yesadvertising.com^
 ||zanox.com^
 ||zeti.com^
+||embed.sendtonews.com^
 ||o333o.com^
 ||dianomi.com^
 ||leaderhistliness.info^
@@ -24191,6 +24192,7 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||external-ad.bunjang.co.kr^
 ||hellay.net^
 ||rqmob.com^
 ||ads-server.mxplay.com^
@@ -29425,6 +29427,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.bauermedia.sk^
+||ads-dmp-collect.*.karrotmarket.com^
 ||uplog.inews.qq.com^
 ||log1.wtlogin.qq.com^
 ||tp.content-score.com^
@@ -35132,6 +35136,7 @@ inapps.appsflyersdk.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
+||admasters.media^
 ||smart-placements-sdk.ex.co^
 ||mucmoapa.com^
 ||cibgphkiqbjk.com^

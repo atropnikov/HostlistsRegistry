@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-10T06:19:36.182Z
+! Last modified: 2023-04-10T12:29:03.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25438,7 +25438,6 @@ vkcdnservice.appspot.com^
 ||log.qvb.qcloud.com^
 ||log.tpns.gz2.tencent.com^
 ||trace.zhiyan.tencent-cloud.net^
-||norma-external-collect.meizu.com^
 ||log.iflytek.com^
 ||log.voicecloud.cn^
 ||aads.shuzilm.cn^
@@ -29963,15 +29962,6 @@ vkcdnservice.appspot.com^
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
-||sp1.baidu.com^
-||sp2.baidu.com^
-||sp3.baidu.com^
-||als.baidu.com^
-||afd.baidu.com^
-||wkctj.baidu.com^
-||jpaasne.e.shifen.com^
-||caclick.baidu.com^
-||wkclick.baidu.com^
 ||keyade.net^
 ||keyade.com^
 ||storetail.io^
@@ -32113,6 +32103,15 @@ vkcdnservice.appspot.com^
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
+||sp1.baidu.com^
+||sp2.baidu.com^
+||sp3.baidu.com^
+||als.baidu.com^
+||afd.baidu.com^
+||wkctj.baidu.com^
+||jpaasne.e.shifen.com^
+||caclick.baidu.com^
+||wkclick.baidu.com^
 ||frontier.musical.ly^
 ||log.musical.ly^
 ||log2.musical.ly^
@@ -34052,6 +34051,7 @@ inapps.appsflyersdk.com^
 ||earthquakeend.com^
 ||encourageshock.com^
 ||encouragingvase.com^
+||engineertrick.com^
 ||enormousearth.com^
 ||enthusiasticring.com^
 ||faintflag.com^
@@ -41858,10 +41858,6 @@ inapps.appsflyersdk.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
-||zpsocial-f50-org.zadn.vn^
-||zpsocial-f51-org.zadn.vn^
-||zpsocial-f52-org.zadn.vn^
-||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||12signup.com^
@@ -42447,6 +42443,9 @@ inapps.appsflyersdk.com^
 ||52qd.club^
 ||39nw.com^
 ||vel7.xyz^
+||nqyz.tw^
+||tc911.vip^
+||aaaaa699.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

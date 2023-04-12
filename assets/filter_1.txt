@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-12T12:30:06.523Z
+! Last modified: 2023-04-12T18:18:49.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7257,6 +7257,7 @@ vkcdnservice.appspot.com^
 ||dalrekso.net^
 ||dalyai.com^
 ||dalysb.com^
+||dalysh.com^
 ||damaged-shop.pro^
 ||damedamehoy.xyz^
 ||dammarsnektons.com^
@@ -29051,6 +29052,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||beamvolcano.com^
 ||blackbrake.com^
 ||amusedbucket.com^
 ||cautiouscamera.com^
@@ -32436,6 +32438,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||tracking.purchasely.io^
 ||ts.line-apps.com^
 ||log-music-data.line-apps.com^
 ||events-api.soundcloud.com^
@@ -42638,6 +42641,8 @@ inapps.appsflyersdk.com^
 ||hsrgnac.cn^
 ||helid.xyz^
 ||pbgtpjz.cn^
+||almabelen.com^
+||fionamignon.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

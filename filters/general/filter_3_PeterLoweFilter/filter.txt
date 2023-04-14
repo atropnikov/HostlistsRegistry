@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-04-13T23:15:10.283Z
+! Last modified: 2023-04-14T02:30:12.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1685,7 +1685,6 @@
 ||ecoupons.com^
 ||edaa.eu^
 ||edgexads.com^
-||educationdynamics.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||eiv.baidu.com^
@@ -1738,6 +1737,7 @@
 ||ero-advertising.com^
 ||estat.com^
 ||esty.com^
+||et.educationdynamics.com^
 ||et.nytimes.com^
 ||etahub.com^
 ||etargetnet.com^
@@ -3659,6 +3659,7 @@
 ||whoisonline.net^
 ||wickedreports.com^
 ||widespace.com^
+||widget.educationdynamics.com^
 ||widget.privy.com^
 ||widgetbucks.com^
 ||wikia-ads.wikia.com^

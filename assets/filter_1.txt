@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-14T06:19:35.307Z
+! Last modified: 2023-04-14T12:29:35.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ubsjyqfek.com^
+||kipeir.com^
 ||ovyondkggnqhmt.xyz^
 ||muddychronicstuffed.com^
 ||dating-roo3.site^
@@ -2946,6 +2948,7 @@ vkcdnservice.appspot.com^
 ||adsyst.biz^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
 ||adtaily.com^
@@ -25104,7 +25107,7 @@ vkcdnservice.appspot.com^
 ||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
-||turbo.adsbynimbus.com^
+||adsbynimbus.com^
 ||adsgard.aprod.scopely.io^
 ||ads-interfaces.sc-cdn.net^
 ||adsapi.snapchat.com^
@@ -30286,6 +30289,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
 ||lake.joongang.co.kr^
 ||dsas.danawa.com^
 ||t.apkpure.net^
@@ -40109,6 +40114,7 @@ inapps.appsflyersdk.com^
 ||i4tvy8vk9f74.com^
 ||mineralisasse.site^
 
+||smart-c.jp^
 ||yeetsalear.com^
 ||jpshopes.com^
 ||safemy-ios.com^
@@ -41133,7 +41139,6 @@ inapps.appsflyersdk.com^
 ||cdn.adt511.net^
 ||cdn.adt523.net^
 ||cdn.adt532.com^
-||cdn.adt598.com^
 ||cdn.advisible.com^
 ||cdn.amplitude.com^
 ||cdn.appsmav.com^
@@ -42816,6 +42821,9 @@ inapps.appsflyersdk.com^
 ||zoushao.xyz^
 ||wvwl.cn^
 ||92ph.cn^
+||uwhreur.cn^
+||sozrrkx.xyz^
+||uqelxct.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

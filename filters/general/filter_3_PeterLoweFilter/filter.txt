@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-04-14T10:16:04.715Z
+! Last modified: 2023-04-14T12:29:37.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -381,7 +381,6 @@
 ||ads.amdmb.com^
 ||ads.amigos.com^
 ||ads.annabac.com^
-||ads.aol.co.uk^
 ||ads.apn.co.nz^
 ||ads.appsgeyser.com^
 ||ads.apteka254.ru^
@@ -727,7 +726,6 @@
 ||adserver.adultfriendfinder.com^
 ||adserver.adverty.com^
 ||adserver.anawe.cz^
-||adserver.aol.fr^
 ||adserver.ariase.org^
 ||adserver.bdoce.cl^
 ||adserver.betandwin.de^
@@ -1823,7 +1821,6 @@
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
 ||fireworks-advertising.com^
-||first.nova.cz^
 ||firstlightera.com^
 ||flairadscpc.com^
 ||flakyfeast.com^

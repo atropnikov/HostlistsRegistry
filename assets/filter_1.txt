@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-17T06:20:40.631Z
+! Last modified: 2023-04-17T12:30:50.920Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||bgn.gg^
+||hepsaign.com^
+||rsodmwkxkioj.xyz^
+||lgfiufyaycsh.com^
 ||forjoiyvids.online^
 ||wdhadgvlbdt.com^
 ||cartedneogene.com^
@@ -25314,6 +25318,7 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||skt-asum.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bjads.bejbej.ca^
 ||external-ad.bunjang.co.kr^
@@ -32946,6 +32951,7 @@ inapps.appsflyersdk.com^
 ||eventgw.twilio.com^
 ||log.estand.jp^
 ||event-search.jorte.com^
+||ad-log-upload-os.hoyoverse.com^
 ||log-upload-os.hoyoverse.com^
 ||analytics.studiodesignapp.com^
 ||misc.api.snaptube.app^
@@ -34765,6 +34771,7 @@ inapps.appsflyersdk.com^
 ||scribblestring.com^
 ||seashoresociety.com^
 ||seatsmoke.com^
+||serioussuit.com^
 ||serpentshampoo.com^
 ||shaggytank.com^
 ||shinestuart.com^
@@ -40559,7 +40566,6 @@ inapps.appsflyersdk.com^
 ||relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
-||dn.msmstatic.com^
 ||aff.jskyservices.com^
 ||a-i-ad.com^
 ||managedweb.net^

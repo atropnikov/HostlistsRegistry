@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-21T01:14:20.875Z
+! Last modified: 2023-04-21T06:19:54.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19203,6 +19203,7 @@ vkcdnservice.appspot.com^
 ||smart2cnjuh34jb.com^
 ||smartlnk.com^
 ||smarttopchain.nl^
+||smartytech.io^
 ||smashnewtab.com^
 ||smashseek.com^
 ||smearedbin.com^
@@ -24405,6 +24406,7 @@ vkcdnservice.appspot.com^
 ||nitmus.com^
 ||nitropay.com^
 ||njih.net^
+||notsy.io^
 ||nsstatic.com^
 ||nsstatic.net^
 ||nster.net^
@@ -27190,8 +27192,6 @@ vkcdnservice.appspot.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmetadata.startappk8s.com^
 ||counter.yandro.ru^
-||track-aws.notsy.io^
-||track.notsy.io^
 ||log.ca.gov.vn^
 ||tracking.gpm-rtv.ru^
 ||uncn.jp^
@@ -35148,6 +35148,7 @@ inapps.appsflyersdk.com^
 ||literatelight.com^
 ||livelyreward.com^
 ||longingtrees.com^
+||losslace.com^
 ||ludicrousarch.com^
 ||magicalmonth.com^
 ||maliciousmusic.com^
@@ -43661,6 +43662,9 @@ inapps.appsflyersdk.com^
 ||ncyx.ltd^
 ||heild.xyz^
 ||pedjqkl.xyz^
+||anifk71.cc^
+||aprlitj.cn^
+||zhemu.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

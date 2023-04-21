@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-04-19T17:13:38.985Z
+! Last modified: 2023-04-21T12:29:21.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -910,7 +910,6 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
-||adzones.com^
 ||adzrevads.com^
 ||aerserv.com^
 ||af-ad.co.uk^
@@ -1269,7 +1268,6 @@
 ||brightcom.com^
 ||brightinfo.com^
 ||brightmountainmedia.com^
-||british-banners.com^
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
@@ -1642,7 +1640,6 @@
 ||docksalmon.com^
 ||dogcollarfavourbluff.com^
 ||domaining.in^
-||domainsteam.de^
 ||domdex.com^
 ||dotmetrics.net^
 ||doubleclick.com^
@@ -1998,6 +1995,7 @@
 ||hits4me.com^
 ||hitslink.com^
 ||hittail.com^
+||hlok.qertewrt.com^
 ||hocgeese.com^
 ||hollowafterthought.com^
 ||homelycrown.com^

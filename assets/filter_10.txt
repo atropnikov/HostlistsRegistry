@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-04-20T05:14:52.376Z
+! Last modified: 2023-04-21T04:18:46.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10,6 +10,7 @@
 ||1stireland.com^
 ||1sttheglobal.com^
 ||1sttheworld.com^
+||2023-openai.com^
 ||2xtsla.io^
 ||4556.de^
 ||68437w.top^
@@ -19,7 +20,6 @@
 ||adidasko.com^
 ||adupihi.com^
 ||adzfree-watch.net^
-||affixwallet.net^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||aichatgptforpc.com^
@@ -32,13 +32,9 @@
 ||akjamv.shop^
 ||akulaku.me^
 ||alapeay.com^
-||aldi-life.vip^
 ||aldofashion.com^
-||aliripple.com^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
-||allen86.store^
-||allergyfl.com^
 ||allstarshirt.com^
 ||alltestbanksolutions.com^
 ||alohazing.com^
@@ -46,21 +42,11 @@
 ||am-freights.com^
 ||ambulancesodium.cn^
 ||amcclothes.com^
-||amdestore.com^
-||amznhoodies.com^
 ||amznshirts.com^
-||amzntees.com^
-||anclice.com^
-||animals-love.us^
 ||animeshoppers.com^
-||annemus.com^
 ||anydebrid.com^
 ||aoptee.com^
-||aozeala.com^
-||apple.com-coordinates.info^
-||apple.enablemyidservices.com^
 ||applydiraadd.com^
-||approdishop.com^
 ||ariatwear.online^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -241,7 +227,6 @@
 ||elitestrustonline.com^
 ||ellezz.com^
 ||elongives.net^
-||elonlive2x.com^
 ||elontsla.com^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -361,6 +346,7 @@
 ||internationalcybersafedating.com^
 ||investama92.com^
 ||iqcreditcheck.com^
+||ironpawtiny.live^
 ||italyworldbaseballclassic.com^
 ||jackyeby.com^
 ||jagkart.com^
@@ -399,6 +385,14 @@
 ||kxu.myinstructus.com^
 ||ladamustore.com^
 ||lakersfanshoponline.com^
+||ledger-liveweb3app.com^
+||ledgerlive.mobi^
+||ledgerlives.live^
+||ledgerlivewallets.com^
+||ledgerrlivess.org^
+||ledgers.network^
+||ledgerslive.org^
+||ledgqer.com^
 ||legarralazcoz.com^
 ||legendofmen.com^
 ||lemstore.com^
@@ -466,9 +460,11 @@
 ||moneymm1688.shop^
 ||mononus.com^
 ||motovinreports.com^
+||ms-event.tech^
 ||msaylor2x.com^
 ||msl-cf.id^
 ||museuw.com^
+||musk-aigpt.com^
 ||musk-bit.com^
 ||muskai.net^
 ||muthaafoundation.org^
@@ -480,6 +476,7 @@
 ||nabaza.shop^
 ||nalzahqp.page.link^
 ||nanistores.com^
+||nanoweb3-rarityledgertech.com^
 ||natilove.com^
 ||nationaladvancegroup.com^
 ||natistore.us^
@@ -507,6 +504,7 @@
 ||norge.parkaoutdoor.com^
 ||norgefotball.com^
 ||norgeshoes.com^
+||now-openai.site^
 ||nxtgenerator.top^
 ||nynextlevel.com^
 ||oablages.org.br^
@@ -594,7 +592,6 @@
 ||raiffeisenmining.com^
 ||rasamalls.com^
 ||reanimando.org^
-||rebeccatees.com^
 ||redwingshoes-usa.com^
 ||reforest-iita.org^
 ||resources4gaming.com^
@@ -636,6 +633,7 @@
 ||shirtforfan.com^
 ||shirttest.com^
 ||shoeaddic.com^
+||shop-nanox.com^
 ||shop.spreadshirt.com^
 ||shopee1666.com^
 ||shopjeanswest.com^
@@ -721,7 +719,7 @@
 ||teesunshine.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla2023.store^
+||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^
@@ -760,7 +758,7 @@
 ||tripinpremiumsnacks.com^
 ||tromselementbygg.no^
 ||tsladouble23.com^
-||tslaeth.live^
+||tslaget.live^
 ||tslawill.com^
 ||tslax2.io^
 ||tukeraja.store^
@@ -814,6 +812,7 @@
 ||waresusmiss.com^
 ||wavetshirt.com^
 ||wbebellmail.z13.web.core.windows.net^
+||web3ledger-app.online^
 ||weheartitstore.com^
 ||werfew.com^
 ||westernhats.net^

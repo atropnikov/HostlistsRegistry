@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-21T12:29:20.208Z
+! Last modified: 2023-04-21T17:13:59.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ncraxcvibg.com^
+||ophoacit.com^
 ||haulstugging.com^
 ||ctsdwm.com^
 ||whoodseb.com^
@@ -15474,7 +15476,6 @@ vkcdnservice.appspot.com^
 ||opertyvaluationiam.xyz^
 ||opgolan.com^
 ||ophiticprevail.life^
-||ophoacit.com^
 ||ophoadee.xyz^
 ||ophophiz.xyz^
 ||opinionthroughambition.com^
@@ -27389,7 +27390,9 @@ vkcdnservice.appspot.com^
 ||i-*.ci360.sas.com^
 ||st.onlygip.tech^
 ||analysis.fi^
-.plerdy.com^
+||a.plerdy.com^
+||c.plerdy.com^
+||tracker.plerdy.com^
 ||wtag.estlier.net^
 ||ulclick.ru^
 ||phoenix-widget.com^
@@ -34500,7 +34503,6 @@ inapps.appsflyersdk.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
-||plerdy.com^
 ||pnstat.com^
 ||podcorn.com^
 ||podfdch.com^
@@ -41191,6 +41193,8 @@ inapps.appsflyersdk.com^
 ||twiago.com^
 ||bauernative.com^
 
+||pnez8.rut6m.xyz^
+||eq.af31f.site^
 ||ra1.xyz^
 ||fq67.top^
 ||okmwfq.xyz^
@@ -41507,6 +41511,7 @@ inapps.appsflyersdk.com^
 ||dierussensindschuld.de^
 ||gayads.biz^
 ||wirverkaufennichts.de^
+||wixnm.com^
 ||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
@@ -41624,6 +41629,7 @@ inapps.appsflyersdk.com^
 ||flatad.de^
 ||flymangoo.com^
 ||forced-layer.de^
+||fotoscaseras.top^
 ||frvfrv.com^
 ||gamesaffiliate.de^
 ||gamigoads.com^
@@ -41762,6 +41768,7 @@ inapps.appsflyersdk.com^
 ||websc.org^
 ||webspiration.de^
 ||werbeflut.net^
+||wowpornlist.xyz^
 ||wwm24.de^
 ||www.p.de^
 ||wz-adserver.de^
@@ -41770,6 +41777,7 @@ inapps.appsflyersdk.com^
 ||xiji.de^
 ||xtreff69.com^
 ||yoomedia.de^
+||youspacko.com^
 ||z0a.de^
 ||za-ads.de^
 ||zazufi.com^
@@ -43438,14 +43446,17 @@ inapps.appsflyersdk.com^
 ||52qd.club^
 ||7067.top^
 ||7xwx.cn^
+||88885aaa.com^
 ||8b4v.cn^
 ||92ph.cn^
 ||9itan.cc^
 ||aaaaa288.com^
+||aaaaa556.com^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa699.com^
 ||aaaaa855.com^
+||aaaaa882.com^
 ||aamv.vip^
 ||adbtwyxl96.fun^
 ||agwdac.xyz^
@@ -43456,11 +43467,15 @@ inapps.appsflyersdk.com^
 ||almabelen.com^
 ||aniauu2.cc^
 ||aniem44.cc^
+||anifk71.cc^
 ||aniqgsz.cc^
+||aprlitj.cn^
 ||aqpvglv.cn^
 ||baitu1llbkotsfthllcjeg.com^
 ||bcivqxd.cn^
 ||bekco.xyz^
+||betgdr.xyz^
+||bkae.top^
 ||blxfqq.com^
 ||bqcxgbm.cn^
 ||brkzczn.cn^
@@ -43516,6 +43531,7 @@ inapps.appsflyersdk.com^
 ||h731.icu^
 ||hangtuo.pub^
 ||hefei64.com^
+||heild.xyz^
 ||helid.xyz^
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
@@ -43531,6 +43547,7 @@ inapps.appsflyersdk.com^
 ||ijnuhb.top^
 ||imu2021.site^
 ||ioiksw.cn^
+||iqybys.xyz^
 ||itoken.pro^
 ||iughyy7919.com^
 ||jbzjegn.cn^
@@ -43564,6 +43581,7 @@ inapps.appsflyersdk.com^
 ||moend.xyz^
 ||mrgecm.xyz^
 ||naned.xyz^
+||ncyx.ltd^
 ||networkname.xyz^
 ||npdkdb.xyz^
 ||nqyz.tw^
@@ -43576,6 +43594,7 @@ inapps.appsflyersdk.com^
 ||p4pd.cn^
 ||pansclub.xyz^
 ||pbgtpjz.cn^
+||pedjqkl.xyz^
 ||peishuning1.cn^
 ||piaochong.co^
 ||pithjpf.cn^
@@ -43589,11 +43608,14 @@ inapps.appsflyersdk.com^
 ||prtlth.xyz^
 ||qatuaad.cn^
 ||qfdtqq.com^
+||qianjiao45wde15.xyz^
 ||qingdou.ltd^
 ||qiwjiy.xyz^
 ||qpoiwnelc.com^
 ||qqied.xyz^
+||qwahk.com^
 ||qwrdj.xyz^
+||rbrv9.cn^
 ||rcxysoj.cn^
 ||readme.red^
 ||reffnik.cn^
@@ -43601,6 +43623,7 @@ inapps.appsflyersdk.com^
 ||rtdxqq.com^
 ||rtjmln.xyz^
 ||scrvw3.com^
+||semaobf1.com^
 ||sh6ss7.top^
 ||shangyuan.ltd^
 ||sisjwol.xyz^
@@ -43616,9 +43639,14 @@ inapps.appsflyersdk.com^
 ||tqdpqq.com^
 ||turifb.xyz^
 ||txphjl.xyz^
+||u1010.com^
+||u1077.com^
+||u833ij.com^
 ||ubifyc.xyz^
+||umcpebi.cn^
 ||uqelxct.cn^
 ||uqymady.cn^
+||uu5731uu.com^
 ||uwhreur.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
@@ -43638,11 +43666,13 @@ inapps.appsflyersdk.com^
 ||weeqmcq.cn^
 ||whbn.xyz^
 ||wvwl.cn^
+||wwgqqq.com^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
 ||xiaochen1.cn^
 ||xingyang.in^
+||xiod.xyz^
 ||xlxknf.xyz^
 ||xni.ink^
 ||xrkyqq.com^
@@ -43658,6 +43688,7 @@ inapps.appsflyersdk.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
 ||zhalinyyds.com^
+||zhemu.xyz^
 ||zhouduanyyds.com^
 ||zjqs.shop^
 ||znnodl.xyz^
@@ -43667,16 +43698,6 @@ inapps.appsflyersdk.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||umcpebi.cn^
-||wwgqqq.com^
-||betgdr.xyz^
-||iqybys.xyz^
-||ncyx.ltd^
-||heild.xyz^
-||pedjqkl.xyz^
-||anifk71.cc^
-||aprlitj.cn^
-||zhemu.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -44109,7 +44130,6 @@ inapps.appsflyersdk.com^
 ||98dvu.fun^
 ||991019.top^
 ||99520.xyz^
-||996000996.xyz^
 ||99885aaa.com^
 ||99888aaa.com^
 ||998k.at^
@@ -49522,7 +49542,6 @@ inapps.appsflyersdk.com^
 ||guanjiabo.net^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||hiad.myweb.hinet.net^
-||huazitupian.oss-cn-hongkong.aliyuncs.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^

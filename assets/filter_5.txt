@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-04-23T19:11:43.712Z
+! Last modified: 2023-04-23T22:14:26.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3276,7 +3276,6 @@
 ||ads-server.mxplay.com^
 ||ads-sg.tiktok.com^
 ||ads-thanhnien-vn.cdn.ampproject.org^
-||ads-tm-glb.click^
 ||ads-tracking.beopinion.com^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
@@ -5364,7 +5363,6 @@
 ||allow-to-continue.com^
 ||allowancevindictive.com^
 ||allowecouldl.xyz^
-||allowlisted.net^
 ||allownotification.com^
 ||allownotifications.com^
 ||allowpush.com^
@@ -7706,7 +7704,6 @@
 ||atlanticshipcargo.com^
 ||atlantisconstruction.com.ng^
 ||atlantisjs.brafton.com^
-||atlas-upd.com^
 ||atlas.iad-03.braze.com^
 ||atlas1.krone.at^
 ||atlasfledbeheld.com^
@@ -11448,7 +11445,6 @@
 ||cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com^
 ||cbola-content-1-t3.us-east-1.elasticbeanstalk.com^
 ||cbola-logging-1-t3.us-east-1.elasticbeanstalk.com^
-||cbox4.ignorelist.com^
 ||cbsileads.com^
 ||cbvvphiomh.com^
 ||cbx.net^
@@ -12495,7 +12491,6 @@
 ||clatchsenega.com^
 ||claudettensengimana.com^
 ||claudfront.ml^
-||claudfront.net^
 ||claudiocaprara.it^
 ||clausedung.com^
 ||clauseemploy.com^
@@ -17002,7 +16997,6 @@
 ||donkey.routinehub.co^
 ||donkeyleaf.com^
 ||donkeytourscroatia.com^
-||donku.club^
 ||donmam.skin^
 ||donsautogarage.com^
 ||dontbeabadboy.javboys.com^
@@ -18768,7 +18762,6 @@
 ||eseospace.website^
 ||esgiot.net^
 ||esheprice.online^
-||eshkol.io^
 ||esignificanvi.info^
 ||eskay.cn^
 ||eskco-op.com.au^
@@ -19922,7 +19915,6 @@
 ||ffbjhl.xyz^
 ||ffbl.uts.com.pk^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
-||ffi-funny.xyz^
 ||ffkdxymyji.com^
 ||ffortyimagist.com^
 ||ffpp.xyz^
@@ -26067,7 +26059,6 @@
 ||jeffstrategic.com^
 ||jehobsee.com^
 ||jehudf.com^
-||jeidd.xyz^
 ||jeisl.com^
 ||jejiwatechsol.com^
 ||jelfmtsr5i.ru^

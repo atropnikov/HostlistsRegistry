@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-25T01:21:42.566Z
+! Last modified: 2023-04-25T06:19:44.859Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34174,6 +34174,7 @@ inapps.appsflyersdk.com^
 ||mediapvx.com^
 ||mediapxv.com^
 ||mediaxpf.com^
+||mediaxpv.com^
 ||mitour.de^
 ||ml-sys.xyz^
 ||mm-api.agency^
@@ -42047,6 +42048,7 @@ inapps.appsflyersdk.com^
 ||ads.internet24.se^
 ||ads.kelkoo.com^
 ||ads.lektion.se^
+||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
 ||ads.mrgreen.com^
@@ -42156,6 +42158,7 @@ inapps.appsflyersdk.com^
 ||cdn.maaw.io^
 ||cdn.myadmessenger.com^
 ||cdn.reaktion.se^
+||cdn.routy.app^
 ||cdn.shareaholic.net^
 ||cdn.userreport.com^
 ||cdn.yieldwrapper.com^
@@ -42234,6 +42237,8 @@ inapps.appsflyersdk.com^
 ||icarabatt.com^
 ||iconosquare.com^
 ||images.passendo.com^
+||images-ads.aland.com^
+||img.ascontentcloud.com^
 ||img06.en25.com^
 ||inov-8.com.se^
 ||insight.nikkasystems.com^
@@ -43983,6 +43988,10 @@ inapps.appsflyersdk.com^
 ||yegzkw.xyz^
 ||wyjbvoz.xyz^
 ||ledni.xyz^
+||cfxkluv.cn^
+||wyynike.cn^
+||mc3369.xyz^
+||mdqhyxe.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

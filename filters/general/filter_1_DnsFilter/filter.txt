@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-25T12:29:50.400Z
+! Last modified: 2023-04-25T18:18:56.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27230,7 +27230,6 @@ vkcdnservice.appspot.com^
 ||perk0mean.com^
 ||tm.jsuol.com.br^
 ||cptrack.de^
-||simility.com^
 ||recs.richrelevance.com^
 ||iper2.com^
 ||dc.banggood.com^
@@ -30145,6 +30144,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||knottyswing.com^
 ||beamvolcano.com^
 ||blackbrake.com^
 ||amusedbucket.com^
@@ -31237,6 +31237,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||track.capitaloneshopping.com^
 ||player.stats.live-video.net^
 ||w3-reporting.reddit.com^
 ||w3-reporting-nel.reddit.com^
@@ -35108,6 +35109,7 @@ inapps.appsflyersdk.com^
 ||push4site.com^
 ||ravelin.net^
 ||sabavision.com^
+||simility.com^
 ||spideraf.com^
 .1.1.1.l80.js^
 .n.2.1.js^
@@ -35388,7 +35390,6 @@ inapps.appsflyersdk.com^
 ||joyoussurprise.com^
 ||k54nw.pw^
 ||kittyaction.com^
-||knottyswing.com^
 ||laboredlocket.com^
 ||lameletters.com^
 ||leapfaucet.com^
@@ -43689,6 +43690,7 @@ inapps.appsflyersdk.com^
 ||1512a.com^
 ||18so.vip^
 ||230579.top^
+||331qka.cn^
 ||39nw.com^
 ||52qd.club^
 ||7067.top^
@@ -43737,6 +43739,7 @@ inapps.appsflyersdk.com^
 ||cdcc3.com^
 ||cdfda.xyz^
 ||cennv.cn^
+||cfxkluv.cn^
 ||cge.cc^
 ||chaozhunbb.xyz^
 ||chnuuee.xyz^
@@ -43790,6 +43793,7 @@ inapps.appsflyersdk.com^
 ||hefei64.com^
 ||heild.xyz^
 ||helid.xyz^
+||hffxc.com^
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
 ||himeneko.ink^
@@ -43834,6 +43838,7 @@ inapps.appsflyersdk.com^
 ||kprjva.cn^
 ||kucoa.xyz^
 ||kzjqraj.cn^
+||ledni.xyz^
 ||lendc.xyz^
 ||lianxi.link^
 ||linuozhiyao.xyz^
@@ -43842,6 +43847,8 @@ inapps.appsflyersdk.com^
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||maoqxyl.xyz^
+||mc3369.xyz^
+||mdqhyxe.cn^
 ||mem3.cn^
 ||mfifsux.xyz^
 ||mhegew.xyz^
@@ -43886,11 +43893,14 @@ inapps.appsflyersdk.com^
 ||qwahk.com^
 ||qwrdj.xyz^
 ||rbrv9.cn^
+||rbxunao.cn^
 ||rcxysoj.cn^
 ||readme.red^
 ||reffnik.cn^
 ||rizgtf.xyz^
 ||rpajqxo.cn^
+||rqytqq.com^
+||rsbepv.xyz^
 ||rtdxqq.com^
 ||rtjmln.xyz^
 ||scrvw3.com^
@@ -43942,10 +43952,13 @@ inapps.appsflyersdk.com^
 ||web4023.top^
 ||weeqmcq.cn^
 ||whbn.xyz^
+||windyang.xyz^
 ||wjaqc.xyz^
 ||wvwl.cn^
 ||wwgqqq.com^
 ||wxxmt.xyz^
+||wyjbvoz.xyz^
+||wyynike.cn^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -43962,6 +43975,7 @@ inapps.appsflyersdk.com^
 ||xunjie.fun^
 ||yankuoyyds.com^
 ||yb0a.xyz^
+||yegzkw.xyz^
 ||yfohgo.xyz^
 ||yingce.asia^
 ||yingnanyyds.com^
@@ -43975,6 +43989,7 @@ inapps.appsflyersdk.com^
 ||zdyuoae.xyz^
 ||zhalinyyds.com^
 ||zhemu.xyz^
+||zhoubo01.cn^
 ||zhouduanyyds.com^
 ||zjqs.shop^
 ||znnodl.xyz^
@@ -43984,17 +43999,6 @@ inapps.appsflyersdk.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||windyang.xyz^
-||rqytqq.com^
-||zhoubo01.cn^
-||rsbepv.xyz^
-||yegzkw.xyz^
-||wyjbvoz.xyz^
-||ledni.xyz^
-||cfxkluv.cn^
-||wyynike.cn^
-||mc3369.xyz^
-||mdqhyxe.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

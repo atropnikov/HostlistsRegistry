@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-26T06:19:50.342Z
+! Last modified: 2023-04-26T10:16:28.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1217,6 +1217,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||banners.defenceweb.co.za^
 ||smart-placements-sdk.ex.co^
 ||adtech-prod.nikecloud.com^
 ||newrevive.detik.com^
@@ -26715,6 +26716,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||widget.sparrow.ru^
 ||medipartner.jp^
 ||tr.usergram.info^
 ||code.usergram.info^
@@ -27247,7 +27249,7 @@ vkcdnservice.appspot.com^
 ||kissmetrics.io^
 ||sanity-dataplane.rudderstack.com^
 ||c1.politexpert.ru^
-||logrocket.com^
+||cdn.logrocket.com^
 ||ipmeta.io^
 ||datasign.co^
 ||analytics.daasrv.net^
@@ -33226,7 +33228,6 @@ vkcdnservice.appspot.com^
 ||tracker.cdnbye.com^
 ||tracker.cpapath.com^
 ||tracker.downdetector.com^
-||tracker.files.fm^
 ||tracker.giftd.ru^
 ||tracker.joongang.co.kr^
 ||tracker.joost.com^
@@ -34638,6 +34639,7 @@ inapps.appsflyersdk.com^
 ||itrac.it^
 ||itracker360.com^
 ||itracmediav4.com^
+||izatcloud.net^
 ||janrain.xyz^
 ||journera.com^
 ||journity.com^
@@ -51585,7 +51587,6 @@ analytics-*.aasaam.com
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||guce.advertising.com^|
-@@||blog.logrocket.com^|
 @@||a.adwolf.ru^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-04-26T12:30:13.371Z
+! Last modified: 2023-04-26T15:16:04.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34520,7 +34520,6 @@
 ||piwik.digineo.de^
 ||piwik.filecrypt.cc^
 ||piwik.nobleprog.com^
-||piwik.pro^
 ||piwik.rta.vn^
 ||piwik.tienhiep.com.vn^
 ||piwixesu.pro^
@@ -48195,7 +48194,6 @@
 ||warnipublicidade.com.br^
 ||warnmat.com^
 ||warnwing.com^
-||warp.ly^
 ||warriortechnicalservices.com^
 ||warswhitawe.com^
 ||warten-sie-mal.xyz^

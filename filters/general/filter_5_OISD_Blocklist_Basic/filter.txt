@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-04-27T01:17:22.006Z
+! Last modified: 2023-04-27T10:16:43.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40326,7 +40326,6 @@
 ||saloaudio.com^
 ||saloneeats.com^
 ||salsadistune.digital^
-||salsify-ecdn.com^
 ||saltantpipped.live^
 ||saltateblit.com^
 ||salterraelaw.com^

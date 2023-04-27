@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-26T18:19:16.946Z
+! Last modified: 2023-04-27T01:17:17.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5931,6 +5931,7 @@ vkcdnservice.appspot.com^
 ||bulkyfriend.com^
 ||bull3t.co^
 ||bullads.net^
+||bulletads.org^
 ||bulletprofitads.com^
 ||bulletprofitpop.com^
 ||bulletproxy.ch^
@@ -36263,6 +36264,7 @@ inapps.appsflyersdk.com^
 ||track.bannedcelebs.com^
 ||track.contently.com^
 ||track.cordial.io^
+||track.dark.bz^
 ||track.digitalriver.com^
 ||track.emerse.com^
 ||track.juno.com^
@@ -44118,6 +44120,12 @@ inapps.appsflyersdk.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||cjbpqq.com^
+||yangyuqing.xyz^
+||nagmopd.cn^
+||jvmxrug.xyz^
+||nedes.xyz^
+||zmfdjb.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

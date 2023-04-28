@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-04-28T11:12:19.026Z
+! Last modified: 2023-04-28T12:28:30.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -776,7 +776,6 @@
 ||adserver01.de^
 ||adserver1.mindshare.de^
 ||adserver2.mindshare.de^
-||adserver5b.xyz^
 ||adserverplus.com^
 ||adserverpub.com^
 ||adserversolutions.com^
@@ -1023,7 +1022,6 @@
 ||api.iterable.com^
 ||api.kameleoon.com^
 ||api.lab.amplitude.com^
-||api.rudderlabs.com^
 ||api2.amplitude.com^
 ||apolloprogram.io^
 ||app-analytics-v2.snapchat.com^
@@ -1210,7 +1208,6 @@
 ||billboard.cz^
 ||biosda.com^
 ||bitmedianetwork.com^
-||bizad.nikkeibp.co.jp^
 ||bizarrebaseball.com^
 ||bizible.com^
 ||bizographics.com^
@@ -1728,7 +1725,6 @@
 ||epp.bih.net.ba^
 ||eqads.com^
 ||eqy.link^
-||erne.co^
 ||ero-advertising.com^
 ||estat.com^
 ||esty.com^

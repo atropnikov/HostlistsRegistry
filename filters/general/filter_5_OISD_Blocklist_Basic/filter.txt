@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-04-29T12:26:59.715Z
+! Last modified: 2023-04-29T20:14:47.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -44486,7 +44486,6 @@
 ||static.pwr-ads.com^
 ||static.readywind.media^
 ||static.reklama.network^
-||static.returngo.ai^
 ||static.rocoads.com^
 ||static.rongkao.com^
 ||static.rtb-serve.com^

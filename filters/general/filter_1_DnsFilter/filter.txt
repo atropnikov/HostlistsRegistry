@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-04-30T12:27:18.752Z
+! Last modified: 2023-04-30T18:17:15.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35849,6 +35849,7 @@ inapps.appsflyersdk.com^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
+||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-scripts.cablelabs.com^
 ||analytics.30m.com^
 ||analytics.agoda.com^
@@ -36920,6 +36921,7 @@ inapps.appsflyersdk.com^
 ||24smi.net^
 ||adblockmetrics.ru^
 ||admile.ru^
+||airlogs.ru^
 ||avsplow.com^
 ||bidderrtb.com^
 ||botdetector.ru^
@@ -36942,6 +36944,7 @@ inapps.appsflyersdk.com^
 ||leadslabpixels.net^
 ||lentainform.com^
 ||mediatoday.ru^
+||mobtop.ru^
 ||otclick-adv.ru^
 ||retag.xyz^
 ||rnet.plus^
@@ -43957,7 +43960,9 @@ inapps.appsflyersdk.com^
 ||230579.top^
 ||331qka.cn^
 ||39nw.com^
+||4388888.xyz^
 ||480img.com^
+||4cjh.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -43980,6 +43985,7 @@ inapps.appsflyersdk.com^
 ||adbtwyxl96.fun^
 ||agwdac.xyz^
 ||aircraft-fapi.club^
+||ajjgune.cn^
 ||ajucem.xyz^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
@@ -44011,6 +44017,7 @@ inapps.appsflyersdk.com^
 ||ccohayo.xyz^
 ||cdcc3.com^
 ||cdfda.xyz^
+||cdkke.xyz^
 ||cdn-99-pic.cc^
 ||cennv.cn^
 ||cfxkluv.cn^
@@ -44066,6 +44073,7 @@ inapps.appsflyersdk.com^
 ||goiagm.xyz^
 ||golden88.co^
 ||gpqicw.xyz^
+||grxeyig.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
 ||gykyec.xyz^
@@ -44108,6 +44116,7 @@ inapps.appsflyersdk.com^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiangzimeng1.cn^
+||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
 ||jlzz.name^
@@ -44149,6 +44158,7 @@ inapps.appsflyersdk.com^
 ||mindopu.com^
 ||moend.xyz^
 ||mrgecm.xyz^
+||mrruuov.cn^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyx.ltd^
@@ -44179,6 +44189,7 @@ inapps.appsflyersdk.com^
 ||poopd.xyz^
 ||poqwnllkm.com^
 ||ppshop.club^
+||pqldzp.xyz^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
@@ -44200,6 +44211,7 @@ inapps.appsflyersdk.com^
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rizgtf.xyz^
+||rksnqq.com^
 ||rpajqxo.cn^
 ||rqytqq.com^
 ||rsbepv.xyz^
@@ -44308,6 +44320,7 @@ inapps.appsflyersdk.com^
 ||zdlnhv.xyz^
 ||zdo-bdg.xyz^
 ||zdyuoae.xyz^
+||zgyvg.top^
 ||zhalinyyds.com^
 ||zhemu.xyz^
 ||zhoubo01.cn^
@@ -44322,16 +44335,6 @@ inapps.appsflyersdk.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||jinmin.online^
-||ajjgune.cn^
-||grxeyig.xyz^
-||rksnqq.com^
-||pqldzp.xyz^
-||zgyvg.top^
-||cdkke.xyz^
-||mrruuov.cn^
-||4388888.xyz^
-||4cjh.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

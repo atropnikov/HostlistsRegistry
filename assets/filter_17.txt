@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-04-25T05:14:45.417Z
+! Last modified: 2023-05-01T06:20:03.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -824,6 +824,7 @@
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedby.lintigroup.se
 127.0.0.1 servedby.studads.com
+127.0.0.1 servedby.aqua-adserver.com
 127.0.0.1 servedby.revive-adserver.net
 127.0.0.1 serverbid.com
 127.0.0.1 servg1.net
@@ -867,6 +868,7 @@
 127.0.0.1 static.matchads.net
 127.0.0.1 static.stat.truthlyanalytics.com
 127.0.0.1 static.step.dk
+127.0.0.1 static.ws.apsis.one
 127.0.0.1 static.zotabox.com
 127.0.0.1 static-se.plista.com
 127.0.0.1 static.ads-twitter.com

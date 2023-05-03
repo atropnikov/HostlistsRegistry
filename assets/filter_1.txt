@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-03T06:19:04.446Z
+! Last modified: 2023-05-03T12:30:02.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31723,6 +31723,9 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||pixel*.production-public.tubi.io^
+||analytics-ingestion.production-public.tubi.io^
+||uid.mavencoalition.io^
 ||wayfinderanalytics.servicebus.windows.net^
 ||adtima-media.zascdn.me^
 ||px.dmp.zaloapp.com^
@@ -34261,7 +34264,6 @@ inapps.appsflyersdk.com^
 ||analytics.robinhood.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
-||analytics-ingestion.production-public.tubi.io^
 ||pingtas.qq.com^
 ||alogus.umeng.com^
 ||errlogos.umeng.com^
@@ -41106,6 +41108,7 @@ inapps.appsflyersdk.com^
 ||zfvklk.ru^
 
 
+||placeholder.treeum.net^
 ||ex.newsland.com^
 ||news.mirtesen.ru^
 ||smi.today^
@@ -42823,6 +42826,7 @@ inapps.appsflyersdk.com^
 ||openx.gamereactor.dk^
 ||openx.jaktsidan.se^
 ||optnmnstr.com^
+||owa.agriprim.se^
 ||p.insplanet.com^
 ||palmangelssverige.com.se^
 ||patagonias.com.se^
@@ -44594,6 +44598,8 @@ inapps.appsflyersdk.com^
 ||13niao20230422.live^
 ||kzjkexn.cn^
 ||acbe.club^
+||chenyuzhou1.cn^
+||9wsbf.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-05-03T04:18:12.115Z
+! Last modified: 2023-05-04T04:18:33.015Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -660,6 +660,7 @@
 ||startuplatte.com^
 ||stealthhorizonshipping.com^
 ||steamgateways.com^
+||steammcommunuty.ru^
 ||steamunlock.com^
 ||steamunlock.gifts^
 ||stellaszone.com^
@@ -704,7 +705,6 @@
 ||teesunshine.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^

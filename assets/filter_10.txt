@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-05-04T04:18:33.015Z
+! Last modified: 2023-05-05T04:18:24.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -84,7 +84,6 @@
 ||blastparis.com^
 ||blgstoragenew.blob.core.windows.net^
 ||blingyy.com^
-||bmpro.tech^
 ||bogsboot.com^
 ||bolejug.us^
 ||bombardina.pl^
@@ -705,6 +704,7 @@
 ||teesunshine.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
 ||thechildhooddream.com^

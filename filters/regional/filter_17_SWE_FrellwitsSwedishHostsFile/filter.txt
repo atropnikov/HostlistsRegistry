@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-05-03T07:14:53.551Z
+! Last modified: 2023-05-05T07:13:43.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -498,6 +498,7 @@
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
 127.0.0.1 greatstoryvideo.se
+127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gwen.insertcoin.se
 127.0.0.1 gymsharksverige.com.se
 127.0.0.1 gym-shark-sverige.com.se
@@ -798,6 +799,7 @@
 127.0.0.1 script.tailsweep.com
 127.0.0.1 scripts.cleverwebserver.com
 127.0.0.1 scripts.kiosked.com
+127.0.0.1 scripts.makeinfluence.com
 127.0.0.1 scripts.mediavine.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-04T18:18:38.656Z
+! Last modified: 2023-05-05T01:09:47.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37140,6 +37140,7 @@ inapps.appsflyersdk.com^
 ||early-birds.io^
 ||et-gv.fr^
 ||ew3.io^
+||first-id.fr^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
 ||hunkal.com^
@@ -37650,6 +37651,7 @@ inapps.appsflyersdk.com^
 ||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
+||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||tags.cmp.tail.digital^
 ||tracker.tolvnow.com^
@@ -37694,6 +37696,7 @@ inapps.appsflyersdk.com^
 ||visor.sberbank.ru^
 ||wl-analytics.tsp.li^
 ||hits.tf.rs^
+||moa.mediaoutcast.com^
 ||stat.ringier.sk^
 ||1to1.bbva.com^
 ||analitica.webrpp.com^
@@ -44811,6 +44814,12 @@ inapps.appsflyersdk.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||lqglqq.com^
+||blue-rain.com.cn^
+||zhixin.host^
+||lmlzht.xyz^
+||jnmaeun.xyz^
+||fcied.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

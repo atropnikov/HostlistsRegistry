@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-07T12:26:59.626Z
+! Last modified: 2023-05-07T18:17:20.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||givememmastreams.com^
+||knxabzznddtc.com^
+||osrhdsoeqhos.com^
+||neburn.com^
 ||khocixcadfuk.com^
 ||feript.com^
 ||stitor.com^
@@ -44540,6 +44544,7 @@ inapps.appsflyersdk.com^
 ||47zoz.xyz^
 ||480img.com^
 ||4cjh.xyz^
+||5251m.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -44615,6 +44620,7 @@ inapps.appsflyersdk.com^
 ||cge.cc^
 ||chaozhunbb.xyz^
 ||chenyuzhou1.cn^
+||chenze1.cn^
 ||chnuuee.xyz^
 ||cjbpqq.com^
 ||cjcvd6.com^
@@ -44634,11 +44640,13 @@ inapps.appsflyersdk.com^
 ||dertyhsf.xyz^
 ||dgfqqq.com^
 ||diekd.xyz^
+||dkcwnsu.xyz^
 ||doccd.xyz^
 ||donku.club^
 ||dqazwsxd.xyz^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
+||dszhqww.cn^
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
 ||dyhnbgtsl.xyz^
@@ -44680,6 +44688,7 @@ inapps.appsflyersdk.com^
 ||gpqicw.xyz^
 ||grxeyig.xyz^
 ||grxwqq.com^
+||guzhimian.fun^
 ||gwide.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
@@ -44696,6 +44705,7 @@ inapps.appsflyersdk.com^
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
 ||himeneko.ink^
+||hoiea.xyz^
 ||hsili.ltd^
 ||hsrgnac.cn^
 ||huangji1.cn^
@@ -44818,6 +44828,7 @@ inapps.appsflyersdk.com^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
+||pvjlfjz.cn^
 ||qatuaad.cn^
 ||qfblqq.com^
 ||qfdtqq.com^
@@ -44869,6 +44880,7 @@ inapps.appsflyersdk.com^
 ||tmochyf.cn^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||ttpybz.xyz^
 ||tuhipkz.xyz^
 ||turifb.xyz^
 ||twnafj.xyz^
@@ -44919,6 +44931,7 @@ inapps.appsflyersdk.com^
 ||wvwl.cn^
 ||wwgqqq.com^
 ||wwqfqq.com^
+||wx001.online^
 ||wxxmt.xyz^
 ||wyjbvoz.xyz^
 ||wyynike.cn^
@@ -44941,6 +44954,7 @@ inapps.appsflyersdk.com^
 ||xueyugaoyuan.xyz^
 ||xunjie.fun^
 ||xyjcpcb.cn^
+||xyzyqq.com^
 ||yanghetp.com^
 ||yangyuqing.xyz^
 ||yankuoyyds.com^
@@ -44979,16 +44993,6 @@ inapps.appsflyersdk.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||xyzyqq.com^
-||ttpybz.xyz^
-||wx001.online^
-||hoiea.xyz^
-||dkcwnsu.xyz^
-||dszhqww.cn^
-||guzhimian.fun^
-||pvjlfjz.cn^
-||chenze1.cn^
-||5251m.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: A blocklist to protect users against untrustworthy sites.
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2023-05-09T04:17:56.962Z
+! Last modified: 2023-05-10T05:13:59.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -135,6 +135,7 @@
 ||casavec.com^
 ||casha.xyz^
 ||cashadvancexy.xyz^
+||castim.info^
 ||cebesale.com^
 ||cebubestbuy.com^
 ||chandeco.com^
@@ -338,7 +339,6 @@
 ||goglle.com^
 ||goldtimeinvest.com^
 ||goshop.vin^
-||govmedcareers.com^
 ||goyourheart.com^
 ||gsport.com^
 ||gunstee.com^
@@ -505,9 +505,11 @@
 ||morlyes.com^
 ||motovinreports.com^
 ||msl-cf.id^
+||msmcompare.com^
 ||museuw.com^
 ||musk-aigpt.com^
 ||muskai.net^
+||muskweb.net^
 ||muthaafoundation.org^
 ||mycraftypad.com^
 ||myfunfarm.com^
@@ -785,6 +787,7 @@
 ||tesla-openai.com^
 ||teslacar.io^
 ||teslagive.live^
+||teslatucker.com^
 ||thechildhooddream.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^

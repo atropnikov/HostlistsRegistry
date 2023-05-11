@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-11T12:30:09.477Z
+! Last modified: 2023-05-11T14:13:57.171Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5630,6 +5630,7 @@
 ||analytics.gate.co.id^
 ||analytics.getshogun.com^
 ||analytics.gismart.xyz^
+||analytics.googleapis.com^
 ||analytics.gooogol.com^
 ||analytics.gorillanation.com^
 ||analytics.grape.media^
@@ -28092,7 +28093,6 @@
 ||lsaeb.com^
 ||lsbebm.xyz^
 ||lscckgm.cn^
-||lscujrdqpsxrnbu.com^
 ||lsdm.co^
 ||lsjne.com^
 ||lslld.xyz^

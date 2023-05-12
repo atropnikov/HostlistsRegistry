@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-12T06:19:15.349Z
+! Last modified: 2023-05-12T11:11:52.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27669,6 +27669,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||stats.sprocketrocket.co^
+||analytics.recruitics.com^
 ||zcode11.me^
 ||mgtmod01.com^
 ||getlasso.co^
@@ -35793,7 +35794,6 @@ inapps.appsflyersdk.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
-||recruitics.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
@@ -37962,6 +37962,7 @@ inapps.appsflyersdk.com^
 ||performanceplay.co.kr^
 ||sas.nsm-corp.com^
 ||counter.hackers.lv^
+||cis.schibsted.com^
 ||collect.adplogger.no^
 ||analytics.aasaam.com^
 ||analytics.greensender.pl^
@@ -45235,6 +45236,8 @@ inapps.appsflyersdk.com^
 ||zxgko.cn^
 ||cex8jw.cn^
 ||seumouxuezha.xyz^
+||baytfede.xyz^
+||ufgg55.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

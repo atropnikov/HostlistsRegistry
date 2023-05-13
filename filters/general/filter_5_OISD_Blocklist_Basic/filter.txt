@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-13T12:26:36.222Z
+! Last modified: 2023-05-13T16:17:54.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -43308,6 +43308,7 @@
 ||sungco.com.vn^
 ||sunglassesmentallyproficient.com^
 ||sungong1987.com^
+||sungzionism.com^
 ||sunlightmetrics.b-cdn.net^
 ||sunmartkj.cn^
 ||sunmedia.tv^
@@ -49899,7 +49900,6 @@
 ||xaxaconf-g1tconf.surge.sh^
 ||xaxaconf-gitconf.surge.sh^
 ||xaxoro.com^
-||xb.sungzionism.com^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
 ||xbldocp.xyz^

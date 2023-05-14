@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-14T12:27:21.609Z
+! Last modified: 2023-05-14T18:16:56.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3358,6 +3358,7 @@ vkcdnservice.appspot.com^
 ||ageacavnrnwijh.xyz^
 ||ageandinone.xyz^
 ||ageismvipery.com^
+||agency2.ru^
 ||agenduret.com^
 ||ageory.com^
 ||ageteexomis.com^
@@ -3594,6 +3595,7 @@ vkcdnservice.appspot.com^
 ||alexasrandy.website^
 ||alexatracker.com^
 ||alezanlig.store^
+||alfasense.com^
 ||alfatraffic.com^
 ||alfonsino.top^
 ||alfpair.com^
@@ -7873,6 +7875,7 @@ vkcdnservice.appspot.com^
 ||datatechone.com^
 ||date2day.pro^
 ||dateddeed.com^
+||datemeup.top^
 ||dateszone.net^
 ||datherap.xyz^
 ||dating-banners.com^
@@ -8702,6 +8705,7 @@ vkcdnservice.appspot.com^
 ||drugue.com^
 ||drwornspinster.com^
 ||dryinfestinsight.com^
+||ds3.biz^
 ||dsandmaroons.com^
 ||dsfhudbsyicvns.xyz^
 ||dsfjhfhyry2hh8jo09.com^
@@ -15411,6 +15415,7 @@ vkcdnservice.appspot.com^
 ||new-incoming.email^
 ||new-new-years.com^
 ||new-park-hunt.ml^
+||new-programmatic.com^
 ||new17write.com^
 ||newadflown.com^
 ||newadflows.com^
@@ -19256,6 +19261,7 @@ vkcdnservice.appspot.com^
 ||rszimg.com^
 ||rszqtry.cn^
 ||rtb-media.me^
+||rtb.com.ru^
 ||rtb1bid.com^
 ||rtbbnr.com^
 ||rtbbnrdip.com^
@@ -20495,6 +20501,7 @@ vkcdnservice.appspot.com^
 ||sperans-beactor.com^
 ||spewyelks.com^
 ||spicarhamn.website^
+||spicygirlshere.life^
 ||spideramebian.com^
 ||spidersprimary.com^
 ||spigotkafka.life^
@@ -23581,6 +23588,7 @@ vkcdnservice.appspot.com^
 ||wickiupcopalms.com^
 ||widaimty.com^
 ||wideeyedlady.pro^
+||wideeyedsink.com^
 ||widelyuddercancelling.com^
 ||wideorganiz.xyz^
 ||widern.com^
@@ -25375,6 +25383,7 @@ vkcdnservice.appspot.com^
 ||goutee.top^
 ||goverua.com^
 ||goviral-content.com^
+||gplinks.in^
 ||gpsecureads.com^
 ||gqqdlckj8y.com^
 ||grabmyads.com^
@@ -36795,6 +36804,7 @@ inapps.appsflyersdk.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -36995,6 +37005,7 @@ inapps.appsflyersdk.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -38030,6 +38041,7 @@ inapps.appsflyersdk.com^
 ||neurotrack.neurolake.io^
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
+||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
@@ -41008,7 +41020,6 @@ inapps.appsflyersdk.com^
 ||rsuuc.com^
 ||rt-ns.ru^
 ||rtb-media.ru^
-||rtb.com.ru^
 ||rtbclick.net^
 ||rtbinternet.com^
 ||rtbtraf.com^
@@ -45307,6 +45318,7 @@ inapps.appsflyersdk.com^
 ||tiancaiwei.wang^
 ||ooexkqj.cn^
 ||d7dzf.xyz^
+||stbdepjb.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

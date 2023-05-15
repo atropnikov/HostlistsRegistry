@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-15T01:18:59.871Z
+! Last modified: 2023-05-15T06:19:52.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36433,6 +36433,7 @@ inapps.appsflyersdk.com^
 ||groovyornament.com^
 ||grouchypush.com^
 ||grumpydrawer.com^
+||guardeddirection.com^
 ||handyfireman.com^
 ||hauntlist.com^
 ||healflowers.com^
@@ -36543,6 +36544,7 @@ inapps.appsflyersdk.com^
 ||scribblestring.com^
 ||seashoresociety.com^
 ||seatsmoke.com^
+||secretivesheep.com^
 ||serioussuit.com^
 ||serpentshampoo.com^
 ||shaggytank.com^
@@ -45326,6 +45328,8 @@ inapps.appsflyersdk.com^
 ||iwandlo.top^
 ||hvfubp.xyz^
 ||rbbbdj.xyz^
+||ywsiqlg.cn^
+||bozumi.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

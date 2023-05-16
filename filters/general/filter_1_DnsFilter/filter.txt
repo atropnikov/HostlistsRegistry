@@ -2,11 +2,16 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-16T12:32:24.848Z
+! Last modified: 2023-05-16T18:18:13.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dating.service2u.shop^
+||pushpad.xyz^
+||spritzawapuhi.guru^
+||dy.zsstoics.com^
+||saworbpox.com^
 ||eevaitou.xyz^
 ||centureunornly.com^
 ||uaaftpsy.com^
@@ -3477,6 +3482,7 @@ vkcdnservice.appspot.com^
 ||aimpooft.com^
 ||aimvaria.live^
 ||ainaksis.com^
+||aineghoo.xyz^
 ||ainingukmo.xyz^
 ||aino2.com^
 ||aipofeem.net^
@@ -3607,6 +3613,7 @@ vkcdnservice.appspot.com^
 ||alfonsino.top^
 ||alfpair.com^
 ||alfurtembe.com^
+||algalileac.com^
 ||algbalisny.com^
 ||algeriabruges.life^
 ||algothitaon.com^
@@ -5325,6 +5332,7 @@ vkcdnservice.appspot.com^
 ||bentabuse.com^
 ||benthicteasle.tech^
 ||bentliarpomposity.com^
+||benumbagcy.com^
 ||benumelan.com^
 ||benureko.xyz^
 ||benzolescabrin.com^
@@ -5682,6 +5690,7 @@ vkcdnservice.appspot.com^
 ||blueparrot.media^
 ||bluespeltast.com^
 ||blueswordksh.com^
+||blueyloulu.com^
 ||bluishgeologicallimitless.com^
 ||bluntedhalvah.com^
 ||blushbuiltonboard.com^
@@ -5831,6 +5840,7 @@ vkcdnservice.appspot.com^
 ||borgach.com^
 ||borgoonu.net^
 ||borhod.com^
+||boridescyamid.com^
 ||boriod.com^
 ||boriskink.com^
 ||borofez.com^
@@ -7221,6 +7231,7 @@ vkcdnservice.appspot.com^
 ||comedyauto.com^
 ||comedyrent.com^
 ||comedyrepair.com^
+||comermormal.com^
 ||comfortclick.co.uk^
 ||comfreeads.com^
 ||comicplanet.net^
@@ -9312,6 +9323,7 @@ vkcdnservice.appspot.com^
 ||empiremoney.com^
 ||employerpartingbikini.com^
 ||employmentsuppressedbeautiful.com^
+||empond.com^
 ||emptem.com^
 ||emptivetss.space^
 ||emptyescort.com^
@@ -13284,6 +13296,7 @@ vkcdnservice.appspot.com^
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
 ||kingads.space^
+||kingrecommendation.com^
 ||kingucoelect.website^
 ||kingwitheaa.lol^
 ||kingyonlendir.link^
@@ -15930,6 +15943,7 @@ vkcdnservice.appspot.com^
 ||obnarium.com^
 ||obnoxiouspatrolassault.com^
 ||obnoxiousstackderide.com^
+||oboistbasify.com^
 ||obolic.com^
 ||obovoidfidgets.com^
 ||obpihwmnb.xyz^
@@ -16740,6 +16754,7 @@ vkcdnservice.appspot.com^
 ||pamphletconspiracy.com^
 ||pampimty.com^
 ||panaservers.com^
+||panchaxcorylet.com^
 ||panchaxumbilic.com^
 ||pandalboranes.tech^
 ||pandasloveforlife.com^
@@ -18387,6 +18402,7 @@ vkcdnservice.appspot.com^
 ||queasyclasts.life^
 ||quebecanaemia.tech^
 ||queersodadults.com^
+||queiajowan.com^
 ||quellstubble.com^
 ||quenchskirmishcohere.com^
 ||quensillo.com^
@@ -19950,6 +19966,7 @@ vkcdnservice.appspot.com^
 ||sharpsharkteeth.com^
 ||sharpycurvet.com^
 ||sharragsferics.store^
+||shartems.com^
 ||shatoawussoo.com^
 ||shauksug.com^
 ||shaumtol.com^
@@ -20594,6 +20611,7 @@ vkcdnservice.appspot.com^
 ||spleniafallows.com^
 ||splief.com^
 ||splittingpick.com^
+||splodgydossing.com^
 ||spokanbrine.com^
 ||spokesmanlinedmercury.com^
 ||spongecell.com^
@@ -21047,6 +21065,7 @@ vkcdnservice.appspot.com^
 ||supplysuede.com^
 ||supportivedistrustuldistrustulmaturity.com^
 ||supportiveworking.pro^
+||supposereduction.com^
 ||suppressparticular.com^
 ||supranarchy.com^
 ||suptur.online^
@@ -21904,6 +21923,7 @@ vkcdnservice.appspot.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||totogetica.com^
+||touchtamilic.com^
 ||touchycart.com^
 ||touglesy.net^
 ||toumnahrafale.com^
@@ -22114,6 +22134,7 @@ vkcdnservice.appspot.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
 ||troncomelets.com^
+||tronkwansith.com^
 ||troolyhonks.com^
 ||troozescript.store^
 ||tropinpodgily.life^
@@ -32367,6 +32388,12 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||apptics.zoho.com^
+||a*.smlog.co.kr^
+||cdn.smlog.co.kr^
+||collector-statistics.nhn-commerce.com^
+||insight.danawa.com^
+||las.danawa.com^
 ||wlog.ifdo.co.kr^
 ||analytics.adultempire.com^
 ||collector.cakeresume.com^
@@ -34701,6 +34728,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.espn.com^
 ||sia.internet.apps.samsung.com^
 ||config-api.internet.apps.samsung.com^
 ||terms.internet.apps.samsung.com^
@@ -38230,6 +38258,7 @@ inapps.appsflyersdk.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
+||fuegodevida.com^
 ||admasters.media^
 ||mucmoapa.com^
 ||cibgphkiqbjk.com^
@@ -44898,6 +44927,7 @@ inapps.appsflyersdk.com^
 ||0776.red^
 ||08u6q.com^
 ||1136999.com^
+||1385a.xyz^
 ||13niao20230422.live^
 ||1512a.com^
 ||16niao20230125.live^
@@ -45012,6 +45042,7 @@ inapps.appsflyersdk.com^
 ||ck33.top^
 ||clkdus.xyz^
 ||cloudsong.xyz^
+||clqkqq.com^
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
@@ -45131,6 +45162,7 @@ inapps.appsflyersdk.com^
 ||itoken.pro^
 ||iughyy7919.com^
 ||iwandlo.top^
+||iwdvvoc.cn^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
@@ -45192,6 +45224,7 @@ inapps.appsflyersdk.com^
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||mahao1.cn^
 ||maoqxyl.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -45234,6 +45267,7 @@ inapps.appsflyersdk.com^
 ||oubqzcg.cn^
 ||p2oh1.xyz^
 ||p4pd.cn^
+||pacix.xyz^
 ||pansclub.xyz^
 ||pbgtpjz.cn^
 ||pedjqkl.xyz^
@@ -45270,6 +45304,7 @@ inapps.appsflyersdk.com^
 ||qqied.xyz^
 ||qwahk.com^
 ||qwrdj.xyz^
+||radish-cake.xyz^
 ||rbbbdj.xyz^
 ||rbrv9.cn^
 ||rbxunao.cn^
@@ -45347,6 +45382,7 @@ inapps.appsflyersdk.com^
 ||uu9735uu.com^
 ||uuuxyjh.cn^
 ||uwhreur.cn^
+||uxwkiyp.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
@@ -45429,6 +45465,7 @@ inapps.appsflyersdk.com^
 ||yulingaa.xyz^
 ||ywsiqlg.cn^
 ||yywh.vip^
+||z11011.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
@@ -45447,6 +45484,7 @@ inapps.appsflyersdk.com^
 ||zhouduanyyds.com^
 ||zhuxiao11.cn^
 ||zjqs.shop^
+||zldzbr.xyz^
 ||zmfdjb.xyz^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
@@ -45457,13 +45495,6 @@ inapps.appsflyersdk.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
-||mahao1.cn^
-||clqkqq.com^
-||uxwkiyp.xyz^
-||pacix.xyz^
-||radish-cake.xyz^
-||zldzbr.xyz^
-||iwdvvoc.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

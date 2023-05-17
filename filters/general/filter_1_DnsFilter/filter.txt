@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-17T06:18:56.279Z
+! Last modified: 2023-05-17T12:29:25.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||beyourxfriend.com^
+||linkads.me^
 ||dating.service2u.shop^
 ||pushpad.xyz^
 ||spritzawapuhi.guru^
@@ -27827,6 +27829,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||wct-2.com^
 ||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
 ||analytics.recruitics.com^
@@ -34794,6 +34797,7 @@ inapps.appsflyersdk.com^
 ||events.mz.unity3d.com^
 ||metrics.plaid.com^
 ||mon*-platform-*.tiktokv.com^
+||grs.dbankcloud.
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -35469,7 +35473,6 @@ inapps.appsflyersdk.com^
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
-||wct-2.com^
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
@@ -45487,6 +45490,10 @@ inapps.appsflyersdk.com^
 ||nwandlc.top^
 ||huishengqihang.xyz^
 ||xiangfenyabu.xyz^
+||wjtij.top^
+||xsbdj6.com^
+||dcnytdpke.xyz^
+||54ha.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-17T20:15:35.739Z
+! Last modified: 2023-05-18T01:16:25.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30439,7 +30439,6 @@
 ||mobile-campaigns.avast.com^
 ||mobile-collector.newrelic.com^
 ||mobile-displayads.l.doubleclick.net^
-||mobile-ent.biz^
 ||mobile-events.eservice.emarsys.net^
 ||mobile-http-intake.logs.datadoghq.com^
 ||mobile-http-intake.logs.datadoghq.eu^

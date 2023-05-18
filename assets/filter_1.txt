@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-17T18:17:57.040Z
+! Last modified: 2023-05-18T01:16:21.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13157,6 +13157,7 @@ vkcdnservice.appspot.com^
 ||kaiu-marketing.com^
 ||kaiwaipo.net^
 ||kaiwiciy.net^
+||kakakakaka.xyz^
 ||kalauxet.com^
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
@@ -37355,6 +37356,7 @@ inapps.appsflyersdk.com^
 ||t.pointandplace.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
+||t.rentcafe.com^
 ||t.sharethis.com^
 ||t.smile.eu^
 ||t.spot.im^
@@ -37436,6 +37438,7 @@ inapps.appsflyersdk.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.chilipiper.com^
+||tracking.dealeranalytics.com^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
 ||tracking.edvisors.com^
@@ -37952,6 +37955,7 @@ inapps.appsflyersdk.com^
 ||tidningsnatet.se^
 ||yieldbird.com^
 ||d-stats.com^
+||brainsland.com^
 ||mediatraffic.com.ua^
 ||ants.vn^
 ||contineljs.com^
@@ -45525,6 +45529,14 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||bjtel.cn^
+||kryjqq.com^
+||bockd.xyz^
+||fdytdc.xyz^
+||qange.com^
+||xzlurd.xyz^
+||humgrww.xyz^
+||hfhytx.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

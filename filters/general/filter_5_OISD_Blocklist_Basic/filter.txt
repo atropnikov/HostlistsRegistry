@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-18T01:16:25.573Z
+! Last modified: 2023-05-18T10:15:15.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3399,7 +3399,6 @@
 ||ads.pivol.net^
 ||ads.planet.nl^
 ||ads.platform.zalo.me^
-||ads.play.cbsi.video^
 ||ads.playground.xyz^
 ||ads.pni.com^
 ||ads.pof.com^
@@ -34134,7 +34133,6 @@
 ||passionatephilosophical.com^
 ||passionfruitads.com^
 ||passmyassignment.com^
-||passmyassignment.net^
 ||passmyassignment.org^
 ||passtechusa.com^
 ||passwayquintin.space^

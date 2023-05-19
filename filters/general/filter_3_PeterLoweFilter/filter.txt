@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-05-12T12:28:16.975Z
+! Last modified: 2023-05-19T12:28:21.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -605,7 +605,6 @@
 ||ads.simplyhired.com^
 ||ads.sjon.info^
 ||ads.smartclick.com^
-||ads.socapro.com^
 ||ads.socialtheater.com^
 ||ads.soft32.com^
 ||ads.soweb.gr^
@@ -916,7 +915,6 @@
 ||affiliate.dtiserv.com^
 ||affiliate.gamestop.com^
 ||affiliate.mogs.com^
-||affiliate.offgamers.com^
 ||affiliate.rusvpn.com^
 ||affiliate.travelnow.com^
 ||affiliate.treated.com^
@@ -2280,6 +2278,7 @@
 ||madinad.com^
 ||madisonavenue.com^
 ||madvertise.de^
+||magicadz.co^
 ||magicaljoin.com^
 ||magicalmonth.com^
 ||magnificentmist.com^
@@ -2409,7 +2408,6 @@
 ||mobfox.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mobilefuse.com^
-||mobperads.net^
 ||modernpricing.com^
 ||modifyeyes.com^
 ||moldyicicle.com^

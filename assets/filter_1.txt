@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-20T12:26:37.494Z
+! Last modified: 2023-05-20T18:17:06.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||qctzwkrczwjw.com^
 ||diated.com^
 ||79c4215c89.com^
 ||ddjagedfbifdfejagaca.world^
@@ -36564,6 +36565,7 @@ inapps.appsflyersdk.com^
 ||achieverknee.com^
 ||acousticsapparel.com^
 ||actoramusement.com^
+||adamantsnail.com^
 ||adorableanger.com^
 ||aheadmachine.com^
 ||alleyskin.com^
@@ -45033,6 +45035,7 @@ inapps.appsflyersdk.com^
 ||230579.top^
 ||234mx.club^
 ||26niao20230505.live^
+||2fa20230511.live^
 ||32fi.com^
 ||331qka.cn^
 ||36060.xyz^
@@ -45047,6 +45050,7 @@ inapps.appsflyersdk.com^
 ||52qd.club^
 ||54ha.cn^
 ||5xur.top^
+||69wx1.top^
 ||6h1cz.xyz^
 ||7067.top^
 ||7xwx.cn^
@@ -45074,6 +45078,7 @@ inapps.appsflyersdk.com^
 ||aceik.xyz^
 ||acqc9.com^
 ||acsc10.com^
+||acsydez.cn^
 ||adadu.cn^
 ||adbtwyxl96.fun^
 ||adcd7.com^
@@ -45098,6 +45103,7 @@ inapps.appsflyersdk.com^
 ||aqpvglv.cn^
 ||aquvg.com^
 ||awdc6.com^
+||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||baytfede.xyz^
@@ -45153,6 +45159,7 @@ inapps.appsflyersdk.com^
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
+||crhyqq.com^
 ||csh253.cn^
 ||cvmesi.xyz^
 ||d7dzf.xyz^
@@ -45173,6 +45180,7 @@ inapps.appsflyersdk.com^
 ||dkcwnsu.xyz^
 ||doccd.xyz^
 ||donku.club^
+||dpaic.xyz^
 ||dqazwsxd.xyz^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
@@ -45205,11 +45213,13 @@ inapps.appsflyersdk.com^
 ||findnam.xyz^
 ||fionamignon.com^
 ||fjnsnt.xyz^
+||fkading38.xyz^
 ||flpnnqe.xyz^
 ||flyinsky2009.ltd^
 ||fnnzr.cn^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
+||ftptjj.xyz^
 ||fvzljv.xyz^
 ||fweia.xyz^
 ||fzcsd33.com^
@@ -45239,6 +45249,7 @@ inapps.appsflyersdk.com^
 ||hbbxwan.cn^
 ||hefei64.com^
 ||heild.xyz^
+||hejbd.cn^
 ||heliangjun2.cn^
 ||helid.xyz^
 ||hfhytx.xyz^
@@ -45302,6 +45313,7 @@ inapps.appsflyersdk.com^
 ||jrtwi.xyz^
 ||jrzaht.xyz^
 ||jstimiz.xyz^
+||justasimple.top^
 ||jvkckeg.cn^
 ||jvmxrug.xyz^
 ||jwandla.top^
@@ -45349,6 +45361,7 @@ inapps.appsflyersdk.com^
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||m9d6p03.com^
 ||mahao1.cn^
 ||majunguo.cn^
 ||maoqxyl.xyz^
@@ -45422,6 +45435,7 @@ inapps.appsflyersdk.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
 ||pvjlfjz.cn^
+||pzlxnd.xyz^
 ||qange.com^
 ||qatuaad.cn^
 ||qfblqq.com^
@@ -45492,6 +45506,7 @@ inapps.appsflyersdk.com^
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
+||tingchen.xyz^
 ||tlhlpcb.xyz^
 ||tmochyf.cn^
 ||tpjmqq.com^
@@ -45515,6 +45530,7 @@ inapps.appsflyersdk.com^
 ||umcpebi.cn^
 ||uqelxct.cn^
 ||uqymady.cn^
+||urccncd.xyz^
 ||uu5731uu.com^
 ||uu6522uu.com^
 ||uu6873uu.com^
@@ -45524,6 +45540,7 @@ inapps.appsflyersdk.com^
 ||uuuxyjh.cn^
 ||uwhreur.cn^
 ||uxwkiyp.xyz^
+||uysdxmo.com^
 ||uz44x.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
@@ -45622,6 +45639,7 @@ inapps.appsflyersdk.com^
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdyuoae.xyz^
+||zeatse.buzz^
 ||zebjlt.buzz^
 ||zgyvg.top^
 ||zhalinyyds.com^
@@ -45644,20 +45662,6 @@ inapps.appsflyersdk.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||hejbd.cn^
-||dpaic.xyz^
-||crhyqq.com^
-||tingchen.xyz^
-||baiduajbcjkabcav.com^
-||pzlxnd.xyz^
-||2fa20230511.live^
-||urccncd.xyz^
-||ftptjj.xyz^
-||zeatse.buzz^
-||acsydez.cn^
-||uysdxmo.com^
-||justasimple.top^
-||69wx1.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

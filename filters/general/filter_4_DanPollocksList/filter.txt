@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-04-27T01:17:20.240Z
+! Last modified: 2023-05-22T22:13:47.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,7 +19,6 @@
 0.0.0.0 www.goat.cx
 0.0.0.0 shafou.com
 0.0.0.0 www.shafou.com
-
 0.0.0.0 1girl1pitcher.com
 0.0.0.0 1girl1pitcher.org
 0.0.0.0 1guy1cock.com
@@ -86,6 +85,7 @@
 0.0.0.0 painolympics.info
 0.0.0.0 painolympics.org
 0.0.0.0 phonejapan.com
+0.0.0.0 pnrtscr.com
 0.0.0.0 pressurespot.com
 0.0.0.0 prolapseman.com
 0.0.0.0 scrollbelow.com

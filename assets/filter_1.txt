@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-22T06:19:41.314Z
+! Last modified: 2023-05-22T12:29:29.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32654,6 +32654,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||snoop.minecraft.net^
 ||metrics.svc.conholdate.cloud^
 ||mywedding-beacon.team-rec.jp^
 ||metrics.onewegg.com^
@@ -36329,6 +36330,7 @@ inapps.appsflyersdk.com^
 ||spycounter.net^
 ||sqate.io^
 ||squeezely.tech^
+||srmdata-us.com^
 ||ssm.codes^
 ||stackadapt.com^
 ||star-cntr-5.com^
@@ -42289,7 +42291,6 @@ inapps.appsflyersdk.com^
 ||yrstwbyl.xyz^
 ||dzypro.xyz^
 ://sportframe*.org^
-://sportframe*.cfd^
 ||storj.cloud^
 ||clbanners9.com^
 ||my.urdreama.cfd^
@@ -45862,6 +45863,9 @@ inapps.appsflyersdk.com^
 ||fmild.xyz^
 ||ewandlw.top^
 ||orsrmrx.cn^
+||xyqmy.xyz^
+||nntsdp.xyz^
+||y3cdp.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

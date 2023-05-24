@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-24T01:19:57.753Z
+! Last modified: 2023-05-24T06:19:08.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35997,6 +35997,7 @@ inapps.appsflyersdk.com^
 ||ep4p.com^
 ||escalated.io^
 ||esputnik.com^
+||ethyca.com^
 ||etp-prod.com^
 ||evorra.net^
 ||excited.me^
@@ -37380,7 +37381,6 @@ inapps.appsflyersdk.com^
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^
 ||happen.spkt.io^
-||harpocrates.ethyca.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hit.mybestpro.com^
@@ -45919,6 +45919,8 @@ inapps.appsflyersdk.com^
 ||blvnsgr.xyz^
 ||fatvzh.xyz^
 ||heiow.xyz^
+||euyvpgn.cn^
+||qm6ef.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

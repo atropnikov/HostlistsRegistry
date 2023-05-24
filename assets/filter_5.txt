@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-24T12:29:37.016Z
+! Last modified: 2023-05-24T18:18:23.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10536,7 +10536,6 @@
 ||c.rzk-m.com^
 ||c.salon24.pl^
 ||c.scorecardresearch.com^
-||c.seznam.cz^
 ||c.sibnet.ru^
 ||c.statcounter.com^
 ||c.tbex.ru^
@@ -21848,7 +21847,6 @@
 ||go-gal.com^
 ||go-rank.de^
 ||go-rillatrack.com^
-||go.admost.com^
 ||go.aniview.com^
 ||go.biz^
 ||go.branch.io^

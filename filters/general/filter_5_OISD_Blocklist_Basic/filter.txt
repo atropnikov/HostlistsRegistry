@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-05-24T06:19:13.178Z
+! Last modified: 2023-05-24T12:29:37.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22149,7 +22149,6 @@
 ||gpm-mon-sg.byteoversea.com^
 ||gpozmocm.com^
 ||gpqicw.xyz^
-||gpqid.xyz^
 ||gprotech.com.br^
 ||gprproperty.com^
 ||gps-ubik.com^
@@ -38842,6 +38841,7 @@
 ||res.pinpai8.cn^
 ||res.rbl.ms^
 ||res.regoo.com^
+||resailsgyse.com^
 ||resalag.com^
 ||resaveyobbo.com^
 ||rescuephrase.com^
@@ -40137,7 +40137,6 @@
 ||s9jp9xogfz.com^
 ||sa-ltd.co.uk^
 ||sa.entireweb.com^
-||sa.resailsgyse.com^
 ||sa.scorecardresearch.com^
 ||sa.scorpion.co^
 ||sa.sina.cn^

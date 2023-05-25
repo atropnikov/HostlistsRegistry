@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-25T06:19:28.787Z
+! Last modified: 2023-05-25T09:14:36.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31696,6 +31696,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||crowdedmass.com^
 ||balloonbelieve.com^
 ||longingtrees.com^
 ||knottyswing.com^
@@ -32785,6 +32786,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||analytics.starlink.com^
 ||st-5cva8vttppvjafpc7jvj.kodik.biz^
 ||tracking.overwolf.com^
 ||d3-umami.up.railway.app^
@@ -36929,7 +36931,6 @@ inapps.appsflyersdk.com^
 ||considermice.com^
 ||cookchalk.com^
 ||coverapparatus.com^
-||crowdedmass.com^
 ||cuddlycake.com^
 ||curiouschalk.com^
 ||curlycannon.com^
@@ -38074,7 +38075,6 @@ inapps.appsflyersdk.com^
 ||mb-srv.com^
 ||megavisites.com^
 ||netvigie.com^
-||non.li^
 ||pingclock.net^
 ||rossel.tech^
 ||semiocast.com^
@@ -46049,6 +46049,7 @@ inapps.appsflyersdk.com^
 ||aeletheacd.com^
 ||bnz9.cn^
 ||qvcyeknp.xyz^
+||qooav.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

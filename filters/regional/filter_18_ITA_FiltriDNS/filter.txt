@@ -2,10 +2,13 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2023-05-24T20:15:32.324Z
+! Last modified: 2023-05-26T02:32:39.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+
+
+0.0.0.0 natexo-programmatic.com
 0.0.0.0 24network.it
 0.0.0.0 4strokemedia.com
 0.0.0.0 ad4m.at
@@ -79,7 +82,6 @@
 0.0.0.0 mediamond.it
 0.0.0.0 mondoecommerce.it
 0.0.0.0 mycookies.it
-0.0.0.0 natexo-programmatic.com
 0.0.0.0 nativery.com
 0.0.0.0 netfilia.com
 0.0.0.0 netszex.com

@@ -2,15 +2,15 @@
 ! Title: ITA: Filtri-DNS
 ! Description: Tentative hosts file for Italian sites created from Easylist Italy and ADB X Files.
 ! Homepage: https://filtri-dns.ga/
-! Last modified: 2023-05-28T06:18:19.427Z
+! Last modified: 2023-05-28T07:12:47.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
 
 0.0.0.0 natexo-programmatic.com
-0.0.0.0 yobee.it
 0.0.0.0 24network.it
+0.0.0.0 4strokemedia.com
 0.0.0.0 ad4m.at
 0.0.0.0 ad4mat.it
 0.0.0.0 adagionet.com
@@ -135,6 +135,7 @@
 0.0.0.0 wbusiness.fr
 0.0.0.0 widebanner.com
 0.0.0.0 worldfilia.net
+0.0.0.0 yobee.it
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zariumhb.com
 0.0.0.0 zodiakactive.com

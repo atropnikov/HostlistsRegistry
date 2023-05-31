@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-05-31T01:36:54.176Z
+! Last modified: 2023-05-31T06:20:51.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36881,7 +36881,6 @@ inapps.appsflyersdk.com^
 ||freecontent.stream
 ||g1thub.com^
 ||gay-hotvideo.net^
-||googleanalytcs.com^
 ||gus.host^
 ||hashcoin.co^
 ||hashnest.com^
@@ -37280,7 +37279,6 @@ inapps.appsflyersdk.com^
 ||analytics.agoda.com^
 ||analytics.amakings.com^
 ||analytics.apnewsregistry.com^
-||analytics.atomiconline.com^
 ||analytics.avanser.com.au^
 ||analytics.bestreviews.com^
 ||analytics.bitrix.info^
@@ -37613,7 +37611,6 @@ inapps.appsflyersdk.com^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
 ||log.cookieyes.com^
-||log.kibboko.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
@@ -42744,7 +42741,6 @@ inapps.appsflyersdk.com^
 ||youtubex.top^
 ||zafrc.5780.site^
 
-||i.hizliresim.com^
 ||r.yabancidizi.in^
 ||ads.dygdigital.com^
 ||ads.igfhaber.com^
@@ -46216,6 +46212,7 @@ inapps.appsflyersdk.com^
 ||fbzmrgf.xyz^
 ||dfec2.com^
 ||tshtbh.xyz^
+||baucdngb.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

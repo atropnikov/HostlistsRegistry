@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-06-01T23:15:00.085Z
+! Last modified: 2023-06-02T12:31:23.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -934,6 +934,7 @@
 ||awakebird.com^
 ||awempire.com^
 ||awesomeagreement.com^
+||awesomeattack.com^
 ||awin1.com^
 ||awstrack.me^
 ||awzbijw.com^
@@ -1030,6 +1031,7 @@
 ||bigreal.org^
 ||biosda.com^
 ||bitmedianetwork.com^
+||bizarrebaseball.com^
 ||bizible.com^
 ||bizographics.com^
 ||bizrate.com^
@@ -1264,7 +1266,6 @@
 ||complextoad.com^
 ||comprabanner.it^
 ||concernedcondition.com^
-||concerneddrink.com^
 ||conditionchange.com^
 ||conductrics.com^
 ||connatix.com^
@@ -1286,7 +1287,6 @@
 ||conversionruler.com^
 ||convertingtraffic.com^
 ||convrse.media^
-||cookchalk.com^
 ||coordinatedcub.com^
 ||cootlogix.com^
 ||copperchickens.com^
@@ -1477,7 +1477,6 @@
 ||email-open.adtidy.net^
 ||email-open.adtidy.org^
 ||email-opn.adguard.com^
-||email.m1.bktrksmail.com^
 ||emaillinks.soundiiz.com^
 ||emebo.io^
 ||emerse.com^
@@ -1730,6 +1729,7 @@
 ||hfc195b.com^
 ||hgads.com^
 ||highfalutinroom.com^
+||hilariouscap.com^
 ||hilariouszinc.com^
 ||histats.com^
 ||historicalrequest.com^
@@ -1748,6 +1748,7 @@
 ||hocgeese.com^
 ||hollowafterthought.com^
 ||homelycrown.com^
+||homelysleep.com^
 ||homepageking.de^
 ||honeygoldfish.com^
 ||honorablehall.com^
@@ -2011,6 +2012,7 @@
 ||madvertise.de^
 ||magicadz.co^
 ||magicaljoin.com^
+||magicalmonth.com^
 ||magnificentmist.com^
 ||mail-ads.google.com^
 ||maltiverse.lt.acemlnc.com^
@@ -2409,6 +2411,7 @@
 ||prchecker.info^
 ||prebid.org^
 ||predictad.com^
+||presentbedroom.com^
 ||presetrabbits.com^
 ||previousplayground.com^
 ||previouspotato.com^
@@ -2533,7 +2536,6 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^
@@ -2758,6 +2760,7 @@
 ||smilingwaves.com^
 ||smoggysnakes.com^
 ||smrtb.com^
+||snailscart.com^
 ||snapads.com^
 ||snoobi.com^
 ||socialspark.com^
@@ -2785,10 +2788,10 @@
 ||speedshiftmedia.com^
 ||spidersboats.com^
 ||spiffymachine.com^
-||spikyslave.com^
 ||spinbox.versiontracker.com^
 ||spinnaker-js.com^
 ||spirebaboon.com^
+||spitefulstop.com^
 ||sponsorads.de^
 ||sponsorpro.de^
 ||sponsors.thoughtsmedia.com^
@@ -2964,6 +2967,7 @@
 ||tend.io^
 ||tendertest.com^
 ||terriblethumb.com^
+||teststocking.com^
 ||text-link-ads.com^
 ||textad.sexsearch.com^
 ||textads.biz^
@@ -3163,6 +3167,7 @@
 ||ultramercial.com^
 ||ultraoranges.com^
 ||unarmedindustry.com^
+||unbecomingbikes.com^
 ||unbecominglamp.com^
 ||understoodocean.com^
 ||undertone.com^

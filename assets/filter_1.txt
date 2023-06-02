@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-02T06:19:04.018Z
+! Last modified: 2023-06-02T12:31:21.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||rmanentsyshru.com^
+||stratebilater.com^
+||tyract.com^
+||tholor.com^
 ||xvpqmcgf.com^
 ||cilsammwcblcv.com^
 ||madeupadoption.com^
@@ -1240,6 +1244,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||d10fhz7gnk5369.cloudfront.net^
 ||notification.tubecup.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
 ||banners.defenceweb.co.za^
@@ -28518,7 +28523,6 @@ vkcdnservice.appspot.com^
 ||ganalytics.live^
 ||analytics-cdiscount.com^
 ||hotjar.io^
-||hellosmpl.com^
 ||1800cnt.com^
 ||tag.nifty.com^
 ||tracker.kantan-access.com^
@@ -33015,6 +33019,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
 ||metrics.mdstrm.com^
 ||track.17goforward.com^
@@ -46388,6 +46393,11 @@ inapps.appsflyersdk.com^
 ||94evd.xyz^
 ||fka06.site^
 ||kjugr.xyz^
+||g0cu3.top^
+||sjzls.top^
+||pazz.xyz^
+||gongyuxinxi.xyz^
+||jiangxing.live^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -51993,6 +52003,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||bd-china-1.appmobile.cn^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -53055,6 +53066,8 @@ analytics-*.aasaam.com
 
 ||websocket.khanefootball.com^
 
+
+||counter.mahanmusic.net^
 
 ||analytic.magland.ir^
 

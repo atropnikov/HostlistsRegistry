@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-06-02T13:20:38.291Z
+! Last modified: 2023-06-02T23:15:24.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -528,7 +528,6 @@
 ||ads.townhall.com^
 ||ads.travelaudience.com^
 ||ads.trinitymirror.co.uk^
-||ads.tripod.lycos.co.uk^
 ||ads.tripod.lycos.de^
 ||ads.tripod.lycos.es^
 ||ads.tripod.lycos.it^
@@ -957,7 +956,6 @@
 ||banner.goldenpalace.com^
 ||banner.inyourpocket.com^
 ||banner.linux.se^
-||banner.mindshare.de^
 ||banner.noblepoker.com^
 ||banner.rbc.ru^
 ||banner.reinstil.de^
@@ -1979,7 +1977,6 @@
 ||locked4.com^
 ||lockerdome.com^
 ||locpub.com^
-||log.btopenworld.com^
 ||log.logrocket.io^
 ||log.pinterest.com^
 ||log.videocampaign.co^
@@ -3322,7 +3319,6 @@
 ||xertive.com^
 ||xfreeservice.com^
 ||xg4ken.com^
-||xiti.com^
 ||xovq5nemr.com^
 ||xplusone.com^
 ||xponsor.com^

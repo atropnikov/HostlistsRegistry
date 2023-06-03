@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-06-03T01:36:52.805Z
+! Last modified: 2023-06-03T06:18:34.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41902,7 +41902,6 @@
 ||tracker.neodatagroup.com^
 ||tracker.nitropay.com^
 ||tracker.novage.com.ua^
-||tracker.openwebtorrent.com^
 ||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
 ||tracker.pinnaclesports.com^

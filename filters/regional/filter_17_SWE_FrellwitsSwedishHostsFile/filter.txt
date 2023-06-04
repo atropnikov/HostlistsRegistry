@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-05-26T08:18:27.684Z
+! Last modified: 2023-06-04T06:17:59.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -511,6 +511,7 @@
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 headerlift.com
 127.0.0.1 heroaffiliates.com
+127.0.0.1 highcpmrevenuenetwork.com
 127.0.0.1 hollistersverige.com.se
 127.0.0.1 hotwords.es
 127.0.0.1 hpevoices.com
@@ -712,6 +713,7 @@
 127.0.0.1 pixel.watch
 127.0.0.1 pixel-profile-cloud.eniro.com
 127.0.0.1 pixel-sync.sitescout.com
+127.0.0.1 pl18523163.highcpmrevenuenetwork.com
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 platform-api.sharethis.com
@@ -1086,6 +1088,7 @@
 127.0.0.1 www.clarity.ms
 127.0.0.1 www.curemedia.se
 127.0.0.1 www.dwin2.com
+127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.linnlilja.se

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-06-05T01:38:15.057Z
+! Last modified: 2023-06-05T19:11:49.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20398,7 +20398,6 @@
 ||mcppsh.com^
 ||mcpuwpsh.com^
 ||mcpuwpush.com^
-||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
 ||mctqu.com^
 ||mcurrentlyse.shop^
@@ -31451,7 +31450,6 @@
 ||tossspecifytill.com^
 ||tosuicunea.com^
 ||totadblock.com^
-||totaladblock.com^
 ||totalcoolblog.com^
 ||totallifeguru.com^
 ||totalmedia2.ynet.co.il^

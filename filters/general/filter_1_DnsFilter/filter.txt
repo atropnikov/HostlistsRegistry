@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-06T06:18:55.663Z
+! Last modified: 2023-06-06T12:31:13.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||worshipstubborn.com^
+||unmightboxen.com^
+||sbkuuzozlm.com^
 ||soodihee.net^
 ||biubxxaxucyou.com^
 ||scptp1.com^
@@ -33049,6 +33052,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||stats.online-convert.com^
 ||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
@@ -35784,6 +35788,7 @@ inapps.appsflyersdk.com^
 ||astat.bugly.qq.com^
 ||ios.bugly.qq.com^
 ||fdplttrk.com^
+||tracking-*.trnox.com^
 ||tracking.trnox.com^
 ||rts.mobula.sdk.duapps.com^
 ||omni-ads.omni.news^
@@ -44180,6 +44185,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||ion.btcswe.com^
 ||jackwolfskinsverige.com.se^
+||js.glitnoraffiliates.com^
 ||js.pafpartners.com^
 ||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
@@ -44253,6 +44259,7 @@ inapps.appsflyersdk.com^
 ||nordishopping.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
+||ntrfr.expekt.se^
 ||nucleusanalytics.io^
 ||oas.market.se^
 ||omni-ad-blocket.herokuapp.com^
@@ -46491,6 +46498,7 @@ inapps.appsflyersdk.com^
 ||pohpll.xyz^
 ||rcsden.top^
 ||bxoiksm.xyz^
+||heretrail.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-09T08:18:07.444Z
+! Last modified: 2023-06-09T12:30:01.097Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||scfsdvc.com^
 ||enbclpbyi.com^
 ||zwbbkjvzqbyba.top^
 ||lmjwqbjmkrzyw.top^
@@ -27841,7 +27842,6 @@ vkcdnservice.appspot.com^
 ||adserver.shadow.snapads.com^
 ||ads-chunks.prod.ihrhls.com^
 ||api.ads.watchabc.go.com^
-||ad.prismamediadigital.com^
 ||socdm.com^
 ||criteo.com^
 ||criteo.net^
@@ -27871,6 +27871,10 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+||reqde.afreecatv.com^
+||adballoon.afreecatv.com^
+||deapi.afreecatv.com^
+||mtag.mman.kr^
 ||hybird.rayjump.com^
 ||anythinktech.com^
 ||d3hdbjtb1686tn.cloudfront.net^
@@ -28238,7 +28242,6 @@ vkcdnservice.appspot.com^
 ||ad.ohmyad.co^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
-||ad132m.com^
 ||adback.tango.me^
 ||adblade.com^
 ||adbrau.com^
@@ -28345,7 +28348,6 @@ vkcdnservice.appspot.com^
 ||chartboost.com^
 ||clk.taptica.com^
 ||clkfeed.com^
-||cntcash.ru^
 ||cpmstar.com^
 ||crispadvertising.com^
 ||crossboardmobile.com^
@@ -28365,10 +28367,8 @@ vkcdnservice.appspot.com^
 ||focas.jp^
 ||fyber.com^
 ||geede.info^
-||gigamega.su^
 ||go.mobstitialtag.com^
 ||googleadservices.com^
-||gsmtop.net^
 ||gts-ads.twistbox.com^
 ||heyzap.com^
 ||hormebets.info^
@@ -38863,7 +38863,6 @@ inapps.appsflyersdk.com^
 ||log.mofa.go.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
-||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||sas.nsm-corp.com^
@@ -46574,6 +46573,7 @@ inapps.appsflyersdk.com^
 ||ssancib.top^
 ||v9gfm.xyz^
 ||v88yaat.xyz^
+||bny9.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

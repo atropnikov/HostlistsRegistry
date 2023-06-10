@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-10T06:18:09.293Z
+! Last modified: 2023-06-10T18:17:20.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -43060,6 +43060,7 @@ inapps.appsflyersdk.com^
 ||mineralisasse.site^
 
 ||adserver.icimedias.ca^
+||superdeos.com^
 ||x-lift.jp^
 ||amazonlogistics.jp^
 ||assistads.net^
@@ -45759,6 +45760,7 @@ inapps.appsflyersdk.com^
 ||acqc9.com^
 ||acsc10.com^
 ||acsydez.cn^
+||ad2023.site^
 ||adadu.cn^
 ||adbtwyxl96.fun^
 ||adcd7.com^
@@ -45880,6 +45882,7 @@ inapps.appsflyersdk.com^
 ||czexrhl.cn^
 ||d7dzf.xyz^
 ||d86n.top^
+||dadcc.cn^
 ||dagft.cn^
 ||daizitu.ren^
 ||dcdf4.com^
@@ -45931,6 +45934,7 @@ inapps.appsflyersdk.com^
 ||enahmy.xyz^
 ||endio.xyz^
 ||epoun.top^
+||eqghuu.com^
 ||eqknlsw.xyz^
 ||esanciw.top^
 ||euyvpgn.cn^
@@ -45950,6 +45954,7 @@ inapps.appsflyersdk.com^
 ||fatvzh.xyz^
 ||fbzmrgf.xyz^
 ||fcied.xyz^
+||fcpnxx.xyz^
 ||fdrxdr.xyz^
 ||fdytdc.xyz^
 ||feiju12138.xyz^
@@ -46060,6 +46065,7 @@ inapps.appsflyersdk.com^
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
+||iruacwa.xyz^
 ||isancio.top^
 ||itoken.pro^
 ||iughyy7919.com^
@@ -46070,6 +46076,7 @@ inapps.appsflyersdk.com^
 ||jbzjegn.cn^
 ||jciske.top^
 ||jdamc.top^
+||jdpm.net.cn^
 ||jeedi.xyz^
 ||jeidd.xyz^
 ||jerrytom.xyz^
@@ -46211,6 +46218,7 @@ inapps.appsflyersdk.com^
 ||nekomasu.ltd^
 ||networkname.xyz^
 ||nezqmud.com^
+||ngishc.top^
 ||nilzq.xyz^
 ||ningdebus.club^
 ||nkvwvx.xyz^
@@ -46250,6 +46258,7 @@ inapps.appsflyersdk.com^
 ||pansclub.xyz^
 ||pazz.xyz^
 ||pbgtpjz.cn^
+||pdweigee.com^
 ||pedjqkl.xyz^
 ||peishuning1.cn^
 ||pepnsnq.cn^
@@ -46325,6 +46334,7 @@ inapps.appsflyersdk.com^
 ||rqxtbr.xyz^
 ||rqytqq.com^
 ||rrzxlt.xyz^
+||rsanciz.top^
 ||rsbepv.xyz^
 ||rsdop.icu^
 ||rshrpmk.xyz^
@@ -46436,6 +46446,7 @@ inapps.appsflyersdk.com^
 ||vueegqt.xyz^
 ||vujhaib.cn^
 ||vuxxtn.xyz^
+||vwtjvd.xyz^
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
@@ -46448,6 +46459,7 @@ inapps.appsflyersdk.com^
 ||wangyq.ltd^
 ||wangyun01.cn^
 ||wbnhqq.com^
+||wbupbv.com^
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
@@ -46577,6 +46589,7 @@ inapps.appsflyersdk.com^
 ||zouqiuyyds.com^
 ||zoushao.xyz^
 ||zpfqolj.cn^
+||zrakpxsf.com^
 ||zrbabog.cn^
 ||zrrnqq.com^
 ||zsblog.vip^
@@ -46586,16 +46599,6 @@ inapps.appsflyersdk.com^
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||dadcc.cn^
-||pdweigee.com^
-||fcpnxx.xyz^
-||ngishc.top^
-||vwtjvd.xyz^
-||iruacwa.xyz^
-||rsanciz.top^
-||ad2023.site^
-||eqghuu.com^
-||wbupbv.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

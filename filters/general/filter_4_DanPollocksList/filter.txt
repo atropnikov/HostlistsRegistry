@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-06-07T17:12:51.827Z
+! Last modified: 2023-06-11T01:46:16.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9233,6 +9233,8 @@
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 te.kontera.com
 0.0.0.0 te1.techgeetam.com
+0.0.0.0 tealium.com
+0.0.0.0 tealiumiq.com
 0.0.0.0 techexpert.site
 0.0.0.0 techms-shop.su
 0.0.0.0 techreview-images.adbureau.net
@@ -9278,6 +9280,7 @@
 0.0.0.0 tidebuy.com
 0.0.0.0 tiltott.net
 0.0.0.0 timetunnel.net
+0.0.0.0 tiqcdn.com
 0.0.0.0 titan-gel-extra.com
 0.0.0.0 titkoshirek.wordpress.com
 0.0.0.0 titokterminal.com

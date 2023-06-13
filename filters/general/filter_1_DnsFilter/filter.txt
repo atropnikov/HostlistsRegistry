@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-13T12:30:30.071Z
+! Last modified: 2023-06-13T18:18:20.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||eukova.com^
+||beehomemade.com^
 ||begripecheatee.guru^
 ||ezzmmvzleayjm.top^
 ||cythat.com^
@@ -27964,7 +27966,6 @@ vkcdnservice.appspot.com^
 ||net.rayjump.com^
 ||ad.cauly.co.kr^
 ||config.appjolt.com
-||rtb.platform.glispa.com^
 ||adflake.com^
 ||ads.aitype.net^
 ||ad-creatives-public.commondatastorage.googleapis.com^
@@ -27979,7 +27980,6 @@ vkcdnservice.appspot.com^
 ||ad.apsalar.com^
 ||ad.jorte.com^
 ||ad.leadboltapps.net^
-||ad.madvertise.de^
 ||ad.ohmyad.co^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
@@ -28000,23 +28000,18 @@ vkcdnservice.appspot.com^
 ||admarketing.yahoo.net^
 ||admarvel.s3.amazonaws.com^
 ||admicro1.vcmedia.vn^
-||admicro2.vcmedia.vn^
 ||adotsolution.com^
 ||vm5apis.com^
 ||adproxy.tf1.fr^
 ||adpublisher.s3.amazonaws.com^
 ||adquota.com^
-||ads.admoda.com^
 ||ads.aerserv.com^
-||ads.fotoable.com^
 ||ads.mobilefuse.net^
 ||ads.mobilityware.com^
 ||ads.mobvertising.net^
 ||ads.mopub.com^
-||ads.ookla.com^
 ||ads.pdbarea.com^
 ||ads.pinger.com^
-||ads.reward.rakuten.jp^
 ||ads.taptapnetworks.com^
 ||ads.xlxtra.com^
 ||ads.youtube.com^
@@ -28140,16 +28135,13 @@ vkcdnservice.appspot.com^
 ||metamx.com^
 ||mgage.com^
 ||mixmarket.biz^
-||mmnetwork.mobi^
 ||moba8.net^
-||mobad.ijinshan.com^
 ||mobads.baidu.com^
 ||mobads4app.com^
 ||mobclix.com^
 ||mobiads.ru^
 ||mobile-click.biz^
 ||mobile333.com^
-||mobileads.msn.com^
 ||mobilecore.com^
 ||mobiledl.adboe.com^
 ||mobon.com^
@@ -28191,11 +28183,8 @@ vkcdnservice.appspot.com^
 ||silvermob.com^
 ||i.singular.net^
 ||sdk-api-v1.singular.net^
-||t.singular.net^
 ||skadnetwork.singular.net^
-||view-prod.ad.singular.net^
 ||sitescout.com^
-||slb.gedawang.com^
 ||smartadserver.com^
 ||splash.appsgeyser.com^
 ||sscefsol.com^
@@ -28215,7 +28204,6 @@ vkcdnservice.appspot.com^
 ||tpc.googlesyndication.com^
 ||track.cpatool.net^
 ||trackimpression.com^
-||tracking.acekoala.com^
 ||tracking.applift.com^
 ||traff10wap.com^
 ||traktum.com^
@@ -28226,7 +28214,6 @@ vkcdnservice.appspot.com^
 ||ultraadserver.com^
 ||umbel.com^
 ||unicume.com^
-||update.sdk.batmobi.net^
 ||upsight.com^
 ||usekahuna.com^
 ||vidout.net^
@@ -28248,7 +28235,6 @@ vkcdnservice.appspot.com^
 ||deloton.com$important
 ||oclasrv.com$important
 ||n152adserv.com^
-||rg.yottos.com^
 
 ||mon.snssdk.com^
 ||mcs.snssdk.com^
@@ -31723,6 +31709,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||rebelswing.com^
 ||tightpowder.com^
 ||tidymitten.com^
 ||groovyornament.com^
@@ -32813,6 +32800,8 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||health-metrics-api.setapp.com^
+||collect.alipay.com^
 ||track.lookerpets.com^
 ||stats.online-convert.com^
 ||ss.azuremagazine.com^
@@ -33306,7 +33295,6 @@ vkcdnservice.appspot.com^
 ||analytics.nextopia.net^
 ||analytics.ooyala.com^
 ||analytics.ovh.com^
-||analytics.pinterest.com^
 ||analytics.plaid.com^
 ||analytics.plex.tv^
 ||analytics.pointdrive.linkedin.com^
@@ -37104,7 +37092,6 @@ inapps.appsflyersdk.com^
 ||rainyrule.com^
 ||rangecake.com^
 ||rebelhen.com^
-||rebelswing.com^
 ||recommenddoor.com^
 ||reconditeprison.com^
 ||reconditerespect.com^
@@ -37275,6 +37262,7 @@ inapps.appsflyersdk.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
+||analytics.pinterest.com^
 ||analytics.pixels.ai^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -43110,6 +43098,7 @@ inapps.appsflyersdk.com^
 ||twiago.com^
 ||bauernative.com^
 
+||jciwztfj.com^
 ||zhengliyqq.com^
 ||ra5.xyz^
 ||joiwnq2.cn^
@@ -46345,7 +46334,6 @@ inapps.appsflyersdk.com^
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
-||jciwztfj.com^
 ||ybixvc.top^
 ||baidubvjsbvv.com^
 ||trp69.top^
@@ -46357,6 +46345,8 @@ inapps.appsflyersdk.com^
 ||s6in.cc^
 ||neg2zos.icu^
 ||cqpczsu.cn^
+||qcb2xeg.icu^
+||igscn.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

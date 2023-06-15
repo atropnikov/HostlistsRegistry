@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-06-13T12:30:31.344Z
+! Last modified: 2023-06-15T14:13:35.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1322,6 +1322,7 @@
 ||cdn.freshmarketer.com^
 ||cdn.heapanalytics.com^
 ||cdn.keywee.co^
+||cdn.mouseflow.com^
 ||cdn.onesignal.com^
 ||cdn.segment.com^
 ||cdnondemand.org^
@@ -2422,7 +2423,6 @@
 ||mookie1.com^
 ||mopub.com^
 ||motionspots.com^
-||mouseflow.com^
 ||mousestats.com^
 ||movad.net^
 ||movemeal.com^
@@ -2460,6 +2460,7 @@
 ||mysteriousmonth.com^
 ||mytop-in.net^
 ||myvisualiq.net^
+||n2.mouseflow.com^
 ||n69.com^
 ||naj.sk^
 ||naj22.proasdf.com^
@@ -2521,6 +2522,7 @@
 ||nuseek.com^
 ||nuttyorganization.com^
 ||nzaza.com^
+||o2.mouseflow.com^
 ||o333o.com^
 ||oafishobservation.com^
 ||oas.benchmark.fr^

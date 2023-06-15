@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-15T13:18:50.951Z
+! Last modified: 2023-06-15T16:19:00.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11722,6 +11722,7 @@ vkcdnservice.appspot.com^
 ||handsenvious.com^
 ||handspiketha.xyz^
 ||handtub.com^
+||handwritingnomad.com^
 ||handy-tab.com^
 ||hangdogferfel.com^
 ||hangersbozal.com^
@@ -12904,6 +12905,7 @@ vkcdnservice.appspot.com^
 ||isanikcieontap.com.ua^
 ||isawthenews.com^
 ||isboost.co.jp^
+||iseatheadline.com^
 ||isegeowrvnxorj.com^
 ||ishedtotigai.info^
 ||ishinedmin.lol^
@@ -46581,6 +46583,8 @@ inapps.appsflyersdk.com^
 ||hbrmickt.com^
 ||thdidx.xyz^
 ||osancik.top^
+||u22aeey.xyz^
+||hpvl2kb.icu^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

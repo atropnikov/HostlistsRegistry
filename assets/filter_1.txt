@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-16T12:30:10.187Z
+! Last modified: 2023-06-16T18:18:05.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24349,6 +24349,7 @@ vkcdnservice.appspot.com^
 ||whjepqhsxed.xyz^
 ||whnoxcmxgbqrq.xyz^
 ||whoachoh.com^
+||whoajeex.xyz^
 ||whoalsos.com^
 ||whoapsoo.com^
 ||whoavaud.net^
@@ -24833,6 +24834,7 @@ vkcdnservice.appspot.com^
 ||xilbalar.com^
 ||xilqhukky.com^
 ||xineday.com^
+||xipaaqgnrehpdns.com^
 ||xiryrnrz.com^
 ||xissidearm.com^
 ||xiwwhyobp.com^
@@ -24907,6 +24909,7 @@ vkcdnservice.appspot.com^
 ||xtraserp.com^
 ||xtremeserve.xyz^
 ||xttaff.com^
+||xtvhkbqmhqu.xyz^
 ||xtygfksar.xyz^
 ||xtyovvojltfo.com^
 ||xu5ctufltn.com^
@@ -25240,6 +25243,7 @@ vkcdnservice.appspot.com^
 ||zatnoh.com^
 ||zaubanel.com^
 ||zauglomo.net^
+||zauglust.net^
 ||zaumaico.com^
 ||zausosti.net^
 ||zauthuvy.com^
@@ -27862,6 +27866,7 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
 ||zfkjrm.xyz^
@@ -35398,6 +35403,9 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||payload.adadapted.com^
+||ec.adadapted.com^
+||tracking.viewlift.com^
 ||events.prd.api.discomax.com^
 ||events.betterhelp.com^
 ||analytics-gateway.delta.dp.lightricks.com^
@@ -45771,7 +45779,6 @@ inapps.appsflyersdk.com^
 ||anifk71.cc^
 ||aniqgsz.cc^
 ||antheaceliacd.com^
-||apiimg.com^
 ||aprlitj.cn^
 ||aqpvglv.cn^
 ||aquvg.com^
@@ -46665,6 +46672,7 @@ inapps.appsflyersdk.com^
 ||haoy1.top^
 ||caaie.xyz^
 ||dadwu.cn^
+||xxhp2iz.icu^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

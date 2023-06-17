@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-17T01:21:21.778Z
+! Last modified: 2023-06-17T06:18:06.255Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36329,7 +36329,6 @@ inapps.appsflyersdk.com^
 ||convertcart.com^
 ||crazyclickstats.com^
 ||crtx.info^
-||cttracking02.com^
 ||cuberoot.co^
 ||customerlabs.co^
 ||cvtr.io^
@@ -36436,7 +36435,6 @@ inapps.appsflyersdk.com^
 ||glassboxcdn.com^
 ||globalsiteanalytics.com^
 ||gnpge.com^
-||go2link.net^
 ||goodmeasure.io^
 ||gostats.org^
 ||gotrk.net^
@@ -36793,7 +36791,6 @@ inapps.appsflyersdk.com^
 ||tp88trk.com^
 ||tracead.com^
 ||traceless.me^
-||tracer.jp^
 ||track-re01.com^
 ||track-server-100.com^
 ||trackadm.com^
@@ -36880,8 +36877,6 @@ inapps.appsflyersdk.com^
 ||womtp.com^
 ||wootric.com^
 ||worldflagcounter.com^
-||wtastats.com^
-||wtastats.ro^
 ||wts.one^
 ||wts2.one^
 ||xapkgame.com^
@@ -37093,7 +37088,6 @@ inapps.appsflyersdk.com^
 ||laferia.cr^
 ||lightminer.co^
 ||lmiutil.com^
-||mercy.ga^
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
 ||minerad.com^
@@ -38032,7 +38026,6 @@ inapps.appsflyersdk.com^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tags.cdn.circlesix.co^
-||tags.creativille.co.uk^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
@@ -43126,6 +43119,7 @@ inapps.appsflyersdk.com^
 ||click-count.info^
 ||andhub.jp^
 ||cross-a.net^
+||tracer.jp^
 ||ds4sw9va5hc.com^
 ||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
@@ -46685,6 +46679,9 @@ inapps.appsflyersdk.com^
 ||mhysbwo.xyz^
 ||lsancil.top^
 ||jbhhxd.xyz^
+||gcqciiqk.com^
+||hhff111222.com^
+||1381a.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

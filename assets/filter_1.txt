@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-16T18:18:05.924Z
+! Last modified: 2023-06-17T01:21:21.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1268,6 +1268,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||creative.ytboob.live^
 ||advertising.ntuplay.xyz^
 ||d10fhz7gnk5369.cloudfront.net^
 ||notification.tubecup.net^
@@ -36862,6 +36863,7 @@ inapps.appsflyersdk.com^
 ||wbdx.fr^
 ||wdsvc.net^
 ||web-stat.fr^
+||webanalytic.info^
 ||webeyez.com^
 ||weborama.design^
 ||webstat.fr^
@@ -38504,6 +38506,8 @@ inapps.appsflyersdk.com^
 ||rentracks.jp^
 ||smart-counter.net^
 ||speee-ad.jp^
+||talpa-analytics.com^
+||talpa-analytics.work^
 ||tgknt.com^
 ||thench.net^
 ||thesmilingpencils.com^
@@ -44519,6 +44523,8 @@ inapps.appsflyersdk.com^
 ||www.air-max.se^
 ||www.datadoghq-browser-agent.com^
 
+||delosnetwork.it^
+||eadv.it^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^
@@ -44565,9 +44571,7 @@ inapps.appsflyersdk.com^
 ||codesour.com^
 ||consigli.it^
 ||coreg-feed.com^
-||delosnetwork.it^
 ||digitalbees.it^
-||eadv.it^
 ||easymarketcrs.it^
 ||ebuzzing.it^
 ||edinetadv.com^
@@ -46673,6 +46677,14 @@ inapps.appsflyersdk.com^
 ||caaie.xyz^
 ||dadwu.cn^
 ||xxhp2iz.icu^
+||grduswfx.com^
+||daccp.cn^
+||hacde6.icu^
+||lhdlbp.xyz^
+||dciep.xyz^
+||mhysbwo.xyz^
+||lsancil.top^
+||jbhhxd.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-18T06:18:34.261Z
+! Last modified: 2023-06-18T12:27:53.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11337,6 +11337,7 @@ vkcdnservice.appspot.com^
 ||gobbinsantos.store^
 ||gobiaesker.uno^
 ||gobicyice.com^
+||gobitta.info^
 ||gobmodfoe.com^
 ||godating.pw^
 ||goddamnhowks.tech^
@@ -20650,7 +20651,6 @@ vkcdnservice.appspot.com^
 ||shrinkmesh.com^
 ||shrinkstorey.com^
 ||shritebehinds.space^
-||shrtfly.com^
 ||shrugartisticelder.com^
 ||shrupsthan.life^
 ||shrust.com^
@@ -26683,6 +26683,7 @@ vkcdnservice.appspot.com^
 ||showcasead.com^
 ||showyoursite.com^
 ||shrinkearn.com^
+||shrtfly.com^
 ||simpio.com^
 ||simpletraffic.co^
 ||simvinvo.com^
@@ -27211,7 +27212,6 @@ vkcdnservice.appspot.com^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1ayv3a7nyno3a.cloudfront.net^
-||d1ayxb9ooonjts.cloudfront.net^
 ||d1az618or4kzj8.cloudfront.net^
 ||d1aznprfp4xena.cloudfront.net^
 ||d1azpphj80lavy.cloudfront.net^
@@ -37005,6 +37005,7 @@ inapps.appsflyersdk.com^
 ||pushwize.com^
 ||pushwoosh.com^
 ||reprocautious.com^
+||sbi-push.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
@@ -37759,6 +37760,7 @@ inapps.appsflyersdk.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.missena.io^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.split.io^

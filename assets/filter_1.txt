@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-20T06:20:03.781Z
+! Last modified: 2023-06-20T12:31:09.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||shrovyrebuke.com^
 ||delivery.momentummedia.com.au^
 ||whisteeb.xyz^
 ||luvvdgigsexpn.xyz^
@@ -33259,6 +33260,7 @@ vkcdnservice.appspot.com^
 |piwik.
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||d3p8zr0ffa9t17.cloudfront.net^
 ||tracker.dalso.org^
 ||evs.sgmt.loom.com^
 ||webstat.ws.126.net^
@@ -42915,6 +42917,7 @@ inapps.appsflyersdk.com^
 ||adsy.mail.bg^
 
 
+||61ads.net^
 ||ardykffwpfx.xyz^
 ||eskiya.tk^
 ||apptospace.com^
@@ -45287,7 +45290,7 @@ inapps.appsflyersdk.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
-||quangcao-thanhnien.epicdn.me^
+||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -45649,6 +45652,7 @@ inapps.appsflyersdk.com^
 ||log.kienthuc.net.vn^
 ||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
+||log.mekongasean.vn^
 ||log.ngaynay.vn^
 ||log.nhandan.vn^
 ||log.nhipcaudautu.vn^
@@ -45784,6 +45788,7 @@ inapps.appsflyersdk.com^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||tech.zapps.me^
+||textlink.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
 ||thongke.bookingcare.vn^
@@ -46922,6 +46927,7 @@ inapps.appsflyersdk.com^
 ||vyye.cn^
 ||afdunaui.com^
 ||uo12.com^
+||vizacasa.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-06-20T22:13:39.410Z
+! Last modified: 2023-06-23T11:14:17.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1000,7 +1000,6 @@
 ||analytics.xelondigital.com^
 ||analytics.yahoo.com^
 ||analyticsapi.happypancake.net^
-||analytik.xyz^
 ||ancientact.com^
 ||aniview.com^
 ||annonser.dagbladet.no^
@@ -1432,7 +1431,6 @@
 ||clk1015.com^
 ||clkrev.com^
 ||clksite.com^
-||cloisteredcord.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
 ||cloudcoins.biz^
@@ -2840,6 +2838,7 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
+||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^

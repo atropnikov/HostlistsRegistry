@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-06-25T17:14:26.536Z
+! Last modified: 2023-06-25T20:17:25.058Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40870,7 +40870,6 @@
 ||starffa.com^
 ||starfish.centronoa.com^
 ||stargamesaffiliate.com^
-||stargate.cybermonitor.com^
 ||starhub.demdex.net^
 ||starkgroup.demdex.net^
 ||starkhousing.com^
@@ -42563,6 +42562,7 @@
 ||tddemchenko.info^
 ||tdep.hema.nl^
 ||tdep.kvk.nl^
+||tdid.m.qq.com^
 ||tdjc.shop^
 ||tdk.petsplace.nl^
 ||tdkkjueowqb.com^

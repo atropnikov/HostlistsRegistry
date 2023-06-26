@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-26T06:23:32.533Z
+! Last modified: 2023-06-26T12:34:06.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||phasecrance.com^
 ||napainsi.net^
 ||emqomxdwrhol.com^
 ||tiijdxto.com^
@@ -28634,6 +28635,9 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||pangolin16.sgsnssdk.com^
+||sf16-scmcdn-sg.ibytedtos.com^
+||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -33873,7 +33877,6 @@ vkcdnservice.appspot.com^
 -tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
-||uid.mavencoalition.io^
 ||wayfinderanalytics.servicebus.windows.net^
 ||adtima-media.zascdn.me^
 ||px.dmp.zaloapp.com^
@@ -36173,6 +36176,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||events.swishapps.ai^
 ||telemetry.canva.com^
 ||analytics.picsart.com^
 ||payload.adadapted.com^
@@ -36403,6 +36407,7 @@ inapps.appsflyersdk.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
 ||log-tb.sgsnssdk.com^
+||tnc16-*.byteoversea.com^
 ||xlog.byteoversea.com^
 ||gecko-sg.byteoversea.com^
 ||ug-sg.byteoversea.com^
@@ -39077,6 +39082,7 @@ inapps.appsflyersdk.com^
 ||reshin.de^
 ||retailads.net^
 ||scw.systems^
+||smarketer.de^
 ||space-link.de^
 ||stats.de^
 ||stetic.com^
@@ -47570,6 +47576,10 @@ inapps.appsflyersdk.com^
 ||xnzetb.xyz^
 ||moead.xyz^
 ||zrgbh6bm.icu^
+||baidubdvjssv.com^
+||goxob6wo.icu^
+||yupov6ks.icu^
+||atbdkmt.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^

@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-28T16:22:17.135Z
+! Last modified: 2023-06-28T18:20:50.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||equirekeither.xyz^
 ||bbvbyzzyrebek.top^
 ||phasecrance.com^
 ||napainsi.net^
@@ -4151,6 +4152,7 @@ vkcdnservice.appspot.com^
 ||antivirussprotection.com^
 ||antlerrecordingcat.com^
 ||antlionwaldorf.com^
+||antonysurface.com^
 ||antpeelpiston.com^
 ||antyoubelike.buzz^
 ||antyoubeliketheap.com^
@@ -9380,6 +9382,7 @@ vkcdnservice.appspot.com^
 ||easyvids.info^
 ||easyvids.space^
 ||eatcppcsmnkpdfk.xyz^
+||eatencurvature.com^
 ||eatinerhitles.xyz^
 ||eationslieem.xyz^
 ||eatlengthanid.xyz^
@@ -12166,6 +12169,7 @@ vkcdnservice.appspot.com^
 ||headup.com^
 ||headusuallyopener.com^
 ||healthsmd.com^
+||heappyrinceas.info^
 ||hearingyukkel.store^
 ||heartacheeasellikeness.com^
 ||heartbiddotnet22.monster^
@@ -14425,6 +14429,7 @@ vkcdnservice.appspot.com^
 ||lemotherofhe.com^
 ||lemouwee.com^
 ||lengthcalk.com^
+||lengtikto.xyz^
 ||lenkmio.com^
 ||lenmit.com^
 ||lenscupcakeproperty.com^
@@ -14643,6 +14648,7 @@ vkcdnservice.appspot.com^
 ||llq9q2lacr.com^
 ||llwcfovpl.com^
 ||llyighaboveth.com^
+||llzvkmwyavqvew.top^
 ||lmeexisten.xyz^
 ||lmn-pou-win.com^
 ||lmnrorgeummvsqe.com^
@@ -33679,6 +33685,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tag.rmp.rakuten.com^
 ||abt.s3.yandex.net^
 ||uaas.yandex.ru^
 ||monitor.ebay.com^
@@ -36032,6 +36039,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||track.ktplay.com^
 ||preview-collector.scopely.io^
 ||collector.scopely.io^
 ||events.swishapps.ai^
@@ -38658,7 +38666,6 @@ inapps.appsflyersdk.com^
 ||tag.lexer.io^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
-||tag.rmp.rakuten.com^
 ||tags.cdn.circlesix.co^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^

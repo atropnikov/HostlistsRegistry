@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-06-29T16:21:32.158Z
+! Last modified: 2023-06-29T17:14:35.836Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4989,7 +4989,6 @@
 ||analytics.gorillanation.com^
 ||analytics.grape.media^
 ||analytics.growthphysics.com^
-||analytics.gtflixtv.com^
 ||analytics.hashnode.com^
 ||analytics.hebela.vn^
 ||analytics.helpukrainewinwidget.org^
@@ -13628,7 +13627,6 @@
 ||dfhtopkyk.com^
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfj5.adj.st^
-||dfjd.xyz^
 ||dflow.log.hunantv.com^
 ||dfnetwork.link^
 ||dfp.doubleclick.net^
@@ -19306,6 +19304,7 @@
 ||gtau.demdex.net^
 ||gtbdhr.com^
 ||gtcycrsxnub.com^
+||gtflixtv.com^
 ||gtlt.hit.gemius.pl^
 ||gtlv.hit.gemius.pl^
 ||gtm-server.healthline.com^
@@ -23089,7 +23088,6 @@
 ||kpqdkg.xyz^
 ||kpshx.douguo.com^
 ||kptygka.cn^
-||kqebqbebrwbvj.top^
 ||kqhi97lf.de^
 ||kqpdnmkkvuu.com^
 ||kqskqi.xyz^
@@ -25383,6 +25381,7 @@
 ||mcppsh.com^
 ||mcpuwpsh.com^
 ||mcpuwpush.com^
+||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
 ||mctqu.com^
 ||mcurrentlyse.shop^
@@ -43030,6 +43029,7 @@
 ||www.f0657e4fd5.com^
 ||www.iecjqkiawvifx.com^
 ||www.ijyoguyv.com^
+||www.kqebqbebrwbvj.top^
 ||www2.doubleclick.com^
 ||www2.doubleclick.net^
 ||www3.doubleclick.com^

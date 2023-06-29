@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-06-29T06:22:25.005Z
+! Last modified: 2023-06-29T12:34:00.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||code.adsinnov.com^
 ||desgolurkom.com^
 ||neetoutoo.com^
 ||equirekeither.xyz^
@@ -21421,7 +21422,6 @@ vkcdnservice.appspot.com^
 ||sixtybirthsuperstition.com^
 ||sizeilksohs.com^
 ||siziermamas.com^
-||sizyreelingly.com^
 ||sizzlerisoflor.com^
 ||sjhfnmfki.com^
 ||sjomilbedwarf.digital^
@@ -29145,6 +29145,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.gtflixtv.com^
 ||colossusssp.com^
 ||consentag.eu^
 ||collect-v*.51.la^
@@ -32593,6 +32594,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||guidecent.com^
 ||rebelhen.com^
 ||guardeddirection.com^
 ||enormousfoot.com^
@@ -38510,6 +38512,7 @@ inapps.appsflyersdk.com^
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
 ||ping.dozuki.com^
+||ping.fastsimon.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
 ||pix.revjet.com^

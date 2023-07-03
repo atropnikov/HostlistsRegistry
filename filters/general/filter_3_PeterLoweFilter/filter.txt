@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-06-30T14:14:40.516Z
+! Last modified: 2023-07-03T14:15:16.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2617,6 +2617,7 @@
 ||parchedangle.com^
 ||parchedsofa.com^
 ||pardonpopular.com^
+||parentpicture.com^
 ||parsely.com^
 ||parsimoniouspolice.com^
 ||partner-ads.com^

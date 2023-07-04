@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-04T01:43:37.319Z
+! Last modified: 2023-07-04T06:23:12.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27957,6 +27957,7 @@ vkcdnservice.appspot.com^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
 ||saambaa.com^
+||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||secure.money.com^
 ||services.zam.com^
 ||shopmyshelf.us^
@@ -27979,6 +27980,7 @@ vkcdnservice.appspot.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
 ||videosvc.ezoic.com^
+||webapps.leasing.com^
 ||weby.aaas.org^
 ||wheelify.cartzy.com^
 ||widget.golfscape.com^
@@ -37902,7 +37904,6 @@ inapps.appsflyersdk.com^
 ||serv1swork.com^
 ||sourcecode.pro^
 ||spacepools.org^
-||sparechange.io^
 ||srcip.com^
 ||static-sb.com^
 ||stonecalcom.com^
@@ -46567,6 +46568,7 @@ inapps.appsflyersdk.com^
 ||ciadre.fun^
 ||tgbevv.xyz^
 ||baiduisjkbvsjkl.com^
+||hfqdipw.cn^
 ||dhkipdsc.xyz^
 ||donchen501.cn^
 ||wuye3d.com^

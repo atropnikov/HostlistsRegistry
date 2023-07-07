@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-07T06:22:39.743Z
+! Last modified: 2023-07-07T12:35:21.158Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||steropestreaks.com^
+||danbo.org^
 ||miayarus.com^
 ||umexalim.com^
 ||charrewuzzer.com^
@@ -32977,6 +32979,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||muteknife.com^
 ||serpentshampoo.com^
 ||guidecent.com^
 ||rebelhen.com^
@@ -38309,7 +38312,6 @@ inapps.appsflyersdk.com^
 ||minuterhythm.com^
 ||miscreantmoon.com^
 ||motionlessbelief.com^
-||muteknife.com^
 ||muterange.com^
 ||needlessnorth.com^
 ||needyneedle.com^
@@ -46792,6 +46794,9 @@ inapps.appsflyersdk.com^
 ||huoju.asia^
 ||lanver.fun^
 ||uejdsw.com^
+||berylnbb.com^
+||bkhblj.xyz^
+||hdpdrandpd.xyz^
 ||wuye3d.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^

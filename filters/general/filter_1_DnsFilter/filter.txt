@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-10T06:22:47.900Z
+! Last modified: 2023-07-10T12:34:56.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||emqrjjveqnjab.top^
 ||raferu.com^
 ||bentonuncage.com^
 ||bt.yurokrelax.com^
@@ -28934,6 +28935,7 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||tivan.naver.com^
 ||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
@@ -34034,6 +34036,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tracker.gpcdn.pl^
+||tracker.pracuj.pl^
 ||log.recommend.nicovideo.jp^
 ||log.klook.com^
 ||tracking.centerfield.com^
@@ -35885,7 +35889,6 @@ vkcdnservice.appspot.com^
 ||thj.astrakhan.ru^
 ||tim.nextinpact.com^
 ||timeslog.indiatimes.com^
-||tivan.naver.com^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||tk.kaufda.de^
 ||tk.meinprospekt.de^
@@ -46806,6 +46809,8 @@ inapps.appsflyersdk.com^
 ||pirxzl.xyz^
 ||zfteiv.xyz^
 ||uyq3ruf.icu^
+||erfskhnpter.xyz^
+||baiduvjsbvjknlsvsv.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^

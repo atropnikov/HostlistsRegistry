@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2023-06-17T16:18:26.162Z
+! Last modified: 2023-07-10T16:23:44.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -103,6 +103,8 @@
 
 ||airmaxskobillige.com^
 ||aktienboard.com^
+||altrasgshoes.com^
+||altrask.com^
 ||aluminium.olbi.no^
 ||annoncer.nichehuset.dk^
 ||annoncer.solrodnyt.dk^
@@ -130,16 +132,20 @@
 ||banner.skisport.dk^
 ||bcm.interactives.dk^
 ||beacon.krxd.net^
+||bershka-norge.com^
+||bershkadenmark.com^
 ||betterbanners.org^
 ||betterbannerscloud.com^
 ||bilborsen.webannonse.no^
 ||biopaten.no^
 ||bitcoinevolutionaustraliareview.com^
 ||bloggannonser.no^
+||blundstoneskooslo.com^
 ||boligkanalen-maestro-new.azurewebsites.net^
 ||boost-cdn.manatee.dk^
 ||brightertrade.com^
 ||brigitteheilmann.dk^
+||brunateskonorge.com^
 ||campbell-living.com^
 ||camperskonorge.com^
 ||campingnews.dk^
@@ -170,6 +176,10 @@
 ||drbrand.herokuapp.com^
 ||drcarolyngroff.com^
 ||drmdanmark.com^
+||dsbuhw.shop^
+||dscvsb.shop^
+||dsjifs.shop^
+||dswuxd.shop^
 ||dundeehills.group^
 ||dunjakke-no.com^
 ||easy-ad.no^
@@ -188,13 +198,40 @@
 ||fr135.net^
 ||fredensborg-orredfiskeri.dk^
 ||freewheel-mtgx-tv.akamaized.net^
+||g-ymsharknorge.com^
 ||gaborskodanmark.com^
 ||gaborskonorge.com^
+||gantdanmark.com^
+||gantnorge.com^
+||gantnorges.com^
 ||gcdn.2mdn.net^
 ||gcp.passendo.com^
 ||geometra-bologna.it^
 ||godtdsamaritansk.com^
 ||gsport.com^
+||gym-shark-norge.com^
+||gymshark-danmarkudsalg.com^
+||gymshark-no.com^
+||gymshark-norgesalg.com^
+||gymsharkbutikdanmark.com^
+||gymsharkbutikkoslo.com^
+||gymsharkbutikksoslo.com^
+||gymsharkdanmark.com^
+||gymsharkdanmarks.com^
+||gymsharkidanmark.com^
+||gymsharkldanmark.com^
+||gymsharklnorge.com^
+||gymsharkno.com^
+||gymsharknorge-no.com^
+||gymsharknorge.com^
+||gymsharknorgebutikk.com^
+||gymsharknorgestore.com^
+||gymsharknorgestores.com^
+||gymsharknorgno.com^
+||gymsharkoutletsnorge.com^
+||gymsharksalg.com^
+||gymsharktightsnorge.com^
+||gymsharnorge.com^
 ||hagebakken.no^
 ||haglofstilbud.com^
 ||havfruen4220.dk^
@@ -202,6 +239,8 @@
 ||heartbeat.airserve.net^
 ||helsehjelp.over-blog.com^
 ||hernoclothing.com^
+||hilfigerdenmark.com^
+||hilfigernorge.com^
 ||hitecskonorge.com^
 ||hoka-one-one.cc^
 ||hoka-sko.com^
@@ -214,11 +253,13 @@
 ||hokaskooutlet.co.no^
 ||hokaslippers.com^
 ||hokasnorgeno.com^
+||hugobossbutikk.com^
 ||hunter-danmark.com^
 ||hunternorge.co^
 ||hunternorge.co.no^
 ||hunternorgeno.com^
 ||hunternorgesalg.com^
+||hunterstovlerbutikk.com^
 ||hunterstovlersalg.com^
 ||i1media.no^
 ||images.passendo.com^
@@ -235,16 +276,22 @@
 ||jordannorge.top^
 ||jordantilbud.com^
 ||jordantilbuddanmark.com^
+||josefseibeloutletnorge.com^
+||joyaskobutikk.com^
+||joyaskobutikks.com^
 ||k-yw.com^
 ||keensandalertilbud.com^
 ||kobconcerta54mgonlineidanmark.wordpress.com^
 ||kohlershop.dk^
 ||kunde.apt.no^
+||kybunskodanmark.com^
 ||kynning.olis.is^
 ||lib.idg.no^
 ||linkshe.com^
 ||liveshopdealz.com^
 ||look-like-star.myshopify.com^
+||louboutinnorge.com^
+||louboutinnorges.com^
 ||lysing.in.fo^
 ||marked.no^
 ||marson.footeo.com^
@@ -256,10 +303,17 @@
 ||mdb.nu^
 ||media.sonymusic.no^
 ||merrell-skodanmark.com^
+||merrellnorge-no.com^
+||monclernorges.com^
+||montec-danmark.com^
+||montecnorge.com^
+||montecsalg.com^
 ||moteshoes.com^
 ||mxdesign.dk^
 ||myad.no^
 ||mycraftypad.com^
+||nauticadanmark.com^
+||nauticanorge.com^
 ||ndstage.wpengine.com^
 ||newzeninfotech.com^
 ||niupaiba.com^
@@ -310,6 +364,7 @@
 ||rigspolitiet.com^
 ||rnbinance.com^
 ||s.api.no^
+||salgvejanorge.com^
 ||salomomnorgeoutlet.com^
 ||salomon-danmark.net^
 ||salomon-norge.co.no^
@@ -318,6 +373,8 @@
 ||salomonoutletnorge.com^
 ||samfilm.codelab.is^
 ||sannsyn.com^
+||sanukdk.com^
+||sanuksandaler.com^
 ||saucony-dk.com^
 ||scripts.mediavine.com^
 ||scripts.tv2a.dk^
@@ -357,13 +414,19 @@
 ||tromselementbygg.no^
 ||ultimate-tech-products.myshopify.com^
 ||um-bs.com^
+||umbrodk.com^
+||umbrono.com^
+||underarmour-dk.com^
 ||underarmourdanmarkdk.com^
+||underarmourdk.com^
+||underarmourdks.com^
 ||userneeds.dk^
 ||valspe.com.br^
 ||vansnorge.co.no^
 ||vanssnorge.com^
 ||vefbordar.jl.is^
 ||vefbordi.is^
+||vejadanmarkudsalg.com^
 ||vevlysingar.fo^
 ||vevlysingar.shouthorn.com^
 ||via.placeholder.com^
@@ -376,6 +439,10 @@
 ||www-presse-fotos-dk.filesusr.com^
 ||wxqgx123.com^
 ||xanax-2mg.over-blog.com^
+||xeroshoes-danmark.com^
+||xeroshoesdanmark.com^
+||xeroshoesdanmarks.com^
+||xn--gymsharkklrnorge-3ob.com^
 ||y6.no^
 
 ||3.248.18.175^
@@ -448,6 +515,16 @@ skonorgeeu.com^
 sneakersdkshop.com^
 ||sneakersnorgeshop.^
 ||hokaoneone*
+-norgesalg.com^
+danmarks.com^
+norgno.com^
+norges.com^
+norgebutikk.com^
+norgestore.com^
+norge-no.com^
+norgestores.com^
+skobutikks.com^
+butikksoslo.com^
 
 ||annonse.*.no^
 ||ad.*.no^

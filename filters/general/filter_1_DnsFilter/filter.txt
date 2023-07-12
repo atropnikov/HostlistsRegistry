@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-12T06:21:41.026Z
+! Last modified: 2023-07-12T12:35:50.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||eignan.com^
+||zumrieth.com^
+||emkyrzrjnjrmw.top^
 ||bmzqyzmvvvkqa.top^
 ||kybelefwrkmtt.xyz^
 ||laushoar.xyz^
@@ -26905,7 +26908,6 @@ vkcdnservice.appspot.com^
 ||zukuta.com^
 ||zukxd6fkxqn.com^
 ||zumolery.xyz^
-||zumrieth.com^
 ||zunsavurdo.com^
 ||zunsoach.com^
 ||zupee.cim^
@@ -30386,6 +30388,7 @@ vkcdnservice.appspot.com^
 ||instapagemetrics.com^
 ||t.rainide.com^
 ||durationmedia.net^
+||s.myangular.life^
 ||stats-repl.myangular.life^
 ||stats.myangular.life^
 ||pointmediatracker.com^
@@ -33092,6 +33095,8 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||adamantsnail.com^
+||healflowers.com^
 ||blushingbread.com^
 ||muteknife.com^
 ||serpentshampoo.com^
@@ -38243,7 +38248,6 @@ inapps.appsflyersdk.com^
 ||achieverknee.com^
 ||acousticsapparel.com^
 ||actoramusement.com^
-||adamantsnail.com^
 ||adorableanger.com^
 ||aheadmachine.com^
 ||alleyskin.com^
@@ -38373,7 +38377,6 @@ inapps.appsflyersdk.com^
 ||handyfireman.com^
 ||harborcaption.com^
 ||hauntlist.com^
-||healflowers.com^
 ||hearinglizards.com^
 ||heartbreakingmind.com^
 ||helpcollar.com^
@@ -46978,6 +46981,8 @@ inapps.appsflyersdk.com^
 ||oifyeldk.top^
 ||xcvwrj.xyz^
 ||jokerlulm.com^
+||kyq3hky.icu^
+||dosre12.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zonyff.xyz^

@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-11T18:20:46.559Z
+! Last modified: 2023-07-12T01:44:20.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||kybelefwrkmtt.xyz^
+||laushoar.xyz^
+||pbnjzwjsy.com^
+||obstre.com^
 ||returt.com^
 ||kueezrtb.com^
 ||emqrjjveqnjab.top^
@@ -29611,6 +29615,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.gooogol.com^
 ||site24x7rum.in^
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
@@ -38585,7 +38590,6 @@ inapps.appsflyersdk.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
@@ -46879,6 +46883,12 @@ inapps.appsflyersdk.com^
 ||xiaoxiuapp.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
+||fjtroip.cn^
+||esgher.site^
+||rdufuxr.icu^
+||1u5gy.xyz^
+||ziravd.xyz^
+||oifyeldk.top^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zonyff.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-13T12:35:46.861Z
+! Last modified: 2023-07-13T18:20:46.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36573,7 +36573,6 @@ inapps.appsflyersdk.com^
 ||api.telemetry.watchabc.go.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
-||pipe.aria.microsoft.com^
 ||log-api.aillis.net^
 ||log.snow.me^
 ||events.textme-app.com^
@@ -38585,6 +38584,7 @@ inapps.appsflyersdk.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||botdetection.hbrsd.com^
+||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
@@ -46727,13 +46727,17 @@ inapps.appsflyersdk.com^
 ||baiduvjsbvjknlsvsv.com^
 ||bdates.fun^
 ||berylnbb.com^
+||betcss.site^
 ||bkhblj.xyz^
+||boewgph.icu^
 ||caider.fun^
 ||ciadre.fun^
 ||cix0wk.com^
+||connectreadoasis.com^
 ||csedasdme.xyz^
 ||cuioxbqi.com^
 ||cyq3noz.icu^
+||dadbj.cn^
 ||dadde.cn^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
@@ -46747,17 +46751,21 @@ inapps.appsflyersdk.com^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||eyq3nog.icu^
+||falsarywaybung.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||gkjmev3.com^
 ||glhdan.site^
 ||gyq3bew.icu^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
 ||hikykhz.icu^
+||hlnr9q.icu^
 ||hpvwdkn.cn^
 ||hsadeg.site^
+||hstbrt.xyz^
 ||huoju.asia^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -46770,12 +46778,15 @@ inapps.appsflyersdk.com^
 ||kahgjjd.com^
 ||kgeesh.site^
 ||kyq3hky.icu^
+||kyq3xch.icu^
 ||laink.xyz^
 ||lanver.fun^
 ||lgohse.fun^
+||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
 ||one6u.xyz^
@@ -46790,6 +46801,7 @@ inapps.appsflyersdk.com^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sq59.cn^
+||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
 ||tqdctl.xyz^
@@ -46803,18 +46815,10 @@ inapps.appsflyersdk.com^
 ||xccadc.com^
 ||xcvwrj.xyz^
 ||xiaoxiuapp.com^
+||xmxupz.xyz^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||boewgph.icu^
-||betcss.site^
-||ssjuxsc.cn^
-||xmxupz.xyz^
-||hstbrt.xyz^
-||gkjmev3.com^
-||lifyeldl.top^
-||dadbj.cn^
-||kyq3xch.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^

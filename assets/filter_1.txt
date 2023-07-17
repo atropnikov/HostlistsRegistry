@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-17T12:37:30.915Z
+! Last modified: 2023-07-17T15:17:23.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||casize.com^
+||alleviatepracticableaddicted.com^
 ||hjiwoazeigefn.com^
 ||fhsvyfoadsbo.com^
 ||daluxmurwthhk.com^
@@ -3819,7 +3821,6 @@ vkcdnservice.appspot.com^
 ||allencup.live^
 ||allenprepareattic.com^
 ||alleviatediscoveryexpress.com^
-||alleviatepracticableaddicted.com^
 ||allfb8dremsiw09oiabhboolsebt29jhe3setn.com^
 ||allfreecounter.com^
 ||allfreshposts.com^
@@ -29018,6 +29019,7 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||frontman.tmobiapi.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^
@@ -30521,7 +30523,6 @@ vkcdnservice.appspot.com^
 ||tracker.durasite.net^
 ||growthrx.in^
 ||logs.juspay.in
-||logs.datadoghq.eu^
 ||zprk.io^
 ||getstat.net^
 ||untidyrice.com^
@@ -31929,6 +31930,7 @@ vkcdnservice.appspot.com^
 ||linkconnector.com^
 ||linkpulse.com^
 ||linkxchanger.com^
+||s1.listrakbi.com^
 ||listtop.ru^
 ||livecount.fr^
 ||livecounter.dk^
@@ -34116,7 +34118,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
-||s.deepl.com^
+||tmserverside.mango.com^
 ||analytics.tedium.co^
 ||tracking.gnavi.co.jp^
 ||logcollector.note.com^
@@ -34187,6 +34189,7 @@ vkcdnservice.appspot.com^
 ||astral.nicovideo.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eq-beacon.stream.co.jp^
+||s.deepl.com^
 ||dorangesource.alicdn.com^
 ||t.9gag.com^
 ||track.ad.nl^
@@ -37551,7 +37554,6 @@ inapps.appsflyersdk.com^
 ||lemnisk.co^
 ||leokross.com^
 ||listenlayer.com^
-||listrakbi.com^
 ||livesegmentservice.com^
 ||livesession.io^
 ||llanalytics.com^
@@ -45279,6 +45281,7 @@ inapps.appsflyersdk.com^
 ||brews.marketale.com^
 ||browser.covatic.io^
 ||browser-http-intake.logs.datadoghq.com^
+||browser-http-intake.logs.datadoghq.eu^
 ||bulletproof-analytics.com^
 ||buzzador.com^
 ||cache6.riedta.com^
@@ -45522,6 +45525,7 @@ inapps.appsflyersdk.com^
 ||rotator.riedta.com^
 ||royapp.com^
 ||rpofsweden.com^
+||rum-http-intake.logs.datadoghq.eu^
 ||s.ntv.io^
 ||sak.userreport.com^
 ||salesbooster.ai^
@@ -47028,6 +47032,7 @@ inapps.appsflyersdk.com^
 ||baitaiz.com^
 ||hohmaryt.com^
 ||mifyeldx.top^
+||a8age.com^
 ||zerolcp.cn^
 ||zfcdirf.icu^
 ||zfteiv.xyz^

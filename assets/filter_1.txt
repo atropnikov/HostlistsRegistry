@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-17T18:21:28.130Z
+! Last modified: 2023-07-18T01:54:48.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -45757,6 +45757,7 @@ inapps.appsflyersdk.com^
 
 ||delosnetwork.it^
 ||eadv.it^
+||epeex.io^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^
@@ -45807,7 +45808,6 @@ inapps.appsflyersdk.com^
 ||easymarketcrs.it^
 ||ebuzzing.it^
 ||edinetadv.com^
-||epeex.io^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
@@ -47050,9 +47050,16 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zexfzson.icu^
+||ertgbme.com^
+||qezpjlp.cn^
+||yuifgh.fun^
+||vvwuqxp.icu^
+||ccnim.xyz^
+||fddxbn.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vxhtxt.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^

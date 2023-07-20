@@ -2,7 +2,7 @@
 ! Title: Perflyst and Dandelion Sprout's Smart-TV Blocklist
 ! Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2021-12-21T12:00:25.308Z
+! Last modified: 2023-07-20T18:19:24.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28,6 +28,7 @@
 ||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
 ||api.cid.samba.tv^
 ||preferences.cid.samba.tv^
+||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
 
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
@@ -38,7 +39,8 @@
 |lgtvsdp.com^
 ||smartshare.lgtvsdp.com^
 ||rdx2.lgtvsdp.com^
-/^[a-z]{11,15}$/
+||lgtvcommon.com^
+/^[a-rt-z][a-z]{10,14}$/
 /^[a-z]{7,10}$/$ctag=device_tv
 ||aic-ngfts.lge.com^
 
@@ -92,6 +94,7 @@
 ||data.arqiva.tv^
 ||cloud.arqiva.tv^
 ||gamespromotion.samsungcloudsolution.com^
+||osb-apps-v2.samsungqbe.com^
 ||connecttv.pelmorex.com^
 @@||infolink.pavv.co.kr^
 ||adgrx.com^
@@ -110,6 +113,7 @@
 @@||hbbtv.zdf.de^
 @@||hbbtv.prosieben.de^
 @@||hbbtv.redbutton.de^
+@@||hbbtv.kika.de^
 
 ||2mdn.net^
 ||ad.71i.de^
@@ -129,6 +133,13 @@
 ||trvdp.com^
 ||tv-static.scdn.co^
 ||xml.opera.com^$ctag=device_tv
+||control-zoo-dai-default.tvinteractive.tv^
+||mcp.tvinteractive.tv^
+||control2.tvinteractive.tv^
+||control.tvinteractive.tv^
+||tvmeta-dynamic.tvinteractive.tv^
+||alphonso.tv^
+||ads.spotx.tv^
 
 ||ichnaea.netflix.com^
 ||customerevents.netflix.com^
@@ -167,9 +178,7 @@
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-*.amazon.com^
 ||mads-eu.amazon.com^
-||mas-ext.amazon.com^
 ||aax-eu.amazon-adsystem.com^
-||msh.amazon.co.uk^
 ||mobileanalytics.us-east-1.amazonaws.com^
 
 ||config.ioam.de^$ctag=device_tv|device_other

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-07-20T16:19:40.694Z
+! Last modified: 2023-07-20T17:12:59.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23551,7 +23551,6 @@
 ||ntracker-collector.naver.com^
 ||ntrfr.leovegas.com^
 ||nttogetherefwukou.xyz^
-||ntuplay.xyz^
 ||nturyremovem.com^
 ||ntvk1.ru^
 ||ntvpevents.com^

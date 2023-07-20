@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-07-20T01:20:18.292Z
+! Last modified: 2023-07-20T12:31:51.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1897,6 +1897,7 @@
 ||ad.lgappstv.com^
 ||ad.linksynergy.com^
 ||ad.lomadee.com^
+||ad.luxnet.ua^
 ||ad.mail.ru^
 ||ad.mailo.com^
 ||ad.mdmd.info^
@@ -2906,6 +2907,7 @@
 ||adwalte.info^
 ||adway.org^
 ||adwhirl.com^
+||adwile.com^
 ||adwods.com^
 ||adwstats.com^
 ||adwx6vcj.com^
@@ -4417,6 +4419,7 @@
 ||api-exponea.o2.cz^
 ||api-exponea.o2.sk^
 ||api-logdev.sohatv.vn^
+||api-marketolog.mts.ru^
 ||api.140proof.com^
 ||api.557400.com^
 ||api.ad-locus.com^
@@ -7441,6 +7444,7 @@
 ||caboclonymphly.com^
 ||cabotsmuskit.com^
 ||cacafly.net^
+||cache.betweendigital.com^
 ||cache.picxxxhub.com^
 ||cachegorilla.com^
 ||caclick.baidu.com^
@@ -8600,6 +8604,7 @@
 ||clicks.uptownleads.com^
 ||clicks.wawlabs.com^
 ||clicks4tc.com^
+||clickscloud.net^
 ||clicksgear.com^
 ||clicksmint.site^
 ||clicksondelivery.com^
@@ -12255,6 +12260,7 @@
 ||dryerpreliminarymainly.com^
 ||dryinfestinsight.com^
 ||drylnk.com^
+||dryum.ru^
 ||ds-aksb-a.akamaihd.net^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds3.biz^
@@ -33274,6 +33280,7 @@
 ||toottuleringv.info^
 ||toourbb.com^
 ||top-fwz1.mail.ru^
+||top-js-metrics.top.my.ua^
 ||top-performance.best^
 ||top-performance.club^
 ||top-performance.top^
@@ -35074,6 +35081,7 @@
 ||uv.terra.com.br^
 ||uvbyty.com^
 ||uvoovoachee.com^
+||uwams.info^
 ||uwfpvlcpn.top^
 ||uwhuglup.net^
 ||uwoaptee.com^

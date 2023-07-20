@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-19T18:18:47.521Z
+! Last modified: 2023-07-20T01:20:14.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -15,7 +15,6 @@
 ||weaptqsmbshwd.xyz^
 ||bonzai.co^
 ||coholy.com^
-||mv.outbrain.com^
 ||douglaug.net^
 ||casize.com^
 ||alleviatepracticableaddicted.com^
@@ -1250,6 +1249,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||d10fhz7gnk5369.cloudfront.net^
@@ -7958,6 +7958,7 @@ vkcdnservice.appspot.com^
 ||crottlerennin.com^
 ||crowbarorchat.uno^
 ||crowdgravity.com^
+||crpcruynxxc.com^
 ||crptentry.com^
 ||crptgate.com^
 ||crrepo.com^
@@ -10647,6 +10648,7 @@ vkcdnservice.appspot.com^
 ||fierysolemncow.com^
 ||fifishlbs.com^
 ||fifteenthhardboiledbanker.com^
+||fifthjournalisminadequate.com^
 ||figgleimpregn.com^
 ||fighes.com^
 ||fighla.com^
@@ -13299,6 +13301,7 @@ vkcdnservice.appspot.com^
 ||inlandpiereel.com^
 ||inmespritr.com^
 ||inminuner.com^
+||inncreasukedrev.info^
 ||innessabigeat.space^
 ||innity.net^
 ||innocenceexpeditionsensation.com^
@@ -29727,6 +29730,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collector-*.px-cloud.net^
 ||ediemidnightzombies.com^
 ||deqik.com^
 ||meowlytics.bignutty.xyz^
@@ -47141,6 +47145,14 @@ inapps.appsflyersdk.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vvdzucs.cn^
+||jjklrcw.com^
+||nxhwvt.xyz^
+||ghland.site^
+||enhad.xyz^
+||ntozchv.icu^
+||fwepd.xyz^
+||lrlsrz.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^

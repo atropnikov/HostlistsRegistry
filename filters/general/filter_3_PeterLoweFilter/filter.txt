@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-07-21T11:12:14.489Z
+! Last modified: 2023-07-21T12:29:49.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1467,6 +1467,7 @@
 ||contadores.miarroba.com^
 ||contaxe.de^
 ||content.acc-hd.de^
+||content.ad^
 ||content22.online.citi.com^
 ||contextweb.com^
 ||converge-digital.com^
@@ -2080,7 +2081,6 @@
 ||instrumentsponge.com^
 ||intelliads.com^
 ||intelligenceadx.com^
-||intellitxt.com^
 ||interactive.forthnet.gr^
 ||intercom-clicks.com^
 ||intergi.com^
@@ -2311,7 +2311,6 @@
 ||measuremap.com^
 ||meatydime.com^
 ||media-adrunner.mycomputer.com^
-||media-servers.net^
 ||media.funpic.de^
 ||media.net^
 ||media01.eu^
@@ -2645,7 +2644,6 @@
 ||photographpan.com^
 ||physicalbikes.com^
 ||piano.io^
-||picadmedia.com^
 ||piet2eix3l.com^
 ||pietexture.com^
 ||pimproll.com^
@@ -2828,6 +2826,7 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
+||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^
@@ -3098,6 +3097,7 @@
 ||spezialreporte.de^
 ||spidersboats.com^
 ||spiffymachine.com^
+||spikyslave.com^
 ||spinbox.techtracker.com^
 ||spinbox.versiontracker.com^
 ||spinnaker-js.com^
@@ -3557,7 +3557,6 @@
 ||virtualvincent.com^
 ||visiblemeasures.com^
 ||visistat.com^
-||visit.webhosting.yahoo.com^
 ||visitbox.de^
 ||visual-pagerank.fr^
 ||visualrevenue.com^

@@ -2,11 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-21T06:19:27.768Z
+! Last modified: 2023-07-21T12:29:47.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-
+||eemreyrwkqwnv.top^
 ||okueroskynt.com^
 ||li.blogtrottr.com^
 ||jeannvalmvvvr.top^
@@ -1254,6 +1254,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||zap.cdn.zynga.com^
 ||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
@@ -29196,7 +29197,6 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
-||frontman.tmobiapi.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^
@@ -29382,7 +29382,7 @@ vkcdnservice.appspot.com^
 ||mcoreads.com^
 ||onlineapi.youappi.com^
 ||networksdk.ssacdn.com^
-||ms.applvn.com^
+||ms*.applvn.com^
 ||tapsell.ir^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
@@ -36621,6 +36621,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||am.yahoo.co.jp^
+||b99.yahoo.co.jp^
 ||logs13.xiti.com^
 ||tracing-collector.strava.com^
 ||cgicol.amap.com^
@@ -37215,6 +37217,7 @@ inapps.appsflyersdk.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fn-pz.com^
+||fourtimessmelly.com^
 ||fpapi.io^
 ||fpcdn.io^
 ||fptls.com^
@@ -37288,6 +37291,7 @@ inapps.appsflyersdk.com^
 ||mors22.com^
 ||mrpdata.net^
 ||mt48.net^
+||mysingleromance.com^
 ||n0909.com^
 ||native-track.com^
 ||niblewren.co^
@@ -37902,6 +37906,7 @@ inapps.appsflyersdk.com^
 ||rlets.com^
 ||rockincontent.net^
 ||roeye.com^
+||roeyecdn.com^
 ||roirevolution.com^
 ||rp-rep.net^
 ||rstg.io^

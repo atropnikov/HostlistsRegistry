@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-26T06:18:36.795Z
+! Last modified: 2023-07-26T12:30:13.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28356,6 +28356,7 @@ vkcdnservice.appspot.com^
 ||gururevenue.com^
 ||havetohave.com^
 ||headbidder.net^
+||headerbidding.ai^
 ||headerlift.com^
 ||healthtrader.com^
 ||horse-racing-affiliate-program.co.uk^
@@ -30455,6 +30456,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tgtag.io^
 ||trafico.prensaiberica.es^
 ||collector-*.px-cloud.net^
 ||ediemidnightzombies.com^
@@ -38603,7 +38605,6 @@ inapps.appsflyersdk.com^
 ||tercept.com^
 ||testin.cn^
 ||tglyr.co^
-||tgtag.io^
 ||theagency.com^
 ||theardent.group^
 ||thinktot.com^
@@ -47951,6 +47952,9 @@ inapps.appsflyersdk.com^
 ||lmnpd.xyz^
 ||jzxpxj.xyz^
 ||mrqbuf.xyz^
+||sdchb2.com^
+||hslbahu.top^
+||mt4v4.com^
 ||znyjmbh.icu^
 ||u1022.com^
 ||parnett55.xyz^

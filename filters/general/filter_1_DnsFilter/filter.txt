@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-27T09:14:29.971Z
+! Last modified: 2023-07-27T12:30:14.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||remarkinspector.com^
+||vwhnfwdbf.com^
+||zidgrrfgb.com^
+||primeleech.com^
 ||phoosuss.net^
 ||hskywgpickh.com^
 ||faptdsway.ru^
@@ -35659,7 +35663,6 @@ vkcdnservice.appspot.com^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
-||collect.tianya.cn^
 ||collect.usefathom.com^
 ||audience.acpm.fr^
 ||collector-analytics.efigence.com^
@@ -35674,29 +35677,22 @@ vkcdnservice.appspot.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
 ||collector.prod.expedia.com^
-||collector.puhutv.com^
 ||collector.retailcrm.pro^
 ||collector.rn.de^
 ||collector.schibsted.io^
-||collector.shopstream.co^
-||collector.shorte.st^
 ||collector.szlcsc.com^
-||collector.tescocompare.com^
 ||collector.trendmd.com^
 ||collector.wawlabs.com^
 ||collector.xhwide1.com^
 ||collector1.xhamster.com^
-||comet.sputniknews.com^
 ||conf.international.baidu.com^
 ||count.channeladvisor.com^
 ||count.livetv.ru^
 ||count.livetv.sx^
 ||count.munhwa.com^
-||count.prx.org^
 ||count.rin.ru^
 ||count.rtl.de^
 ||counter.1gb.ru^
-||counter.24smi.info^
 ||counter.adguard.com^
 ||counter.ajansspor.com^
 ||counter.all.biz^
@@ -35708,13 +35704,11 @@ vkcdnservice.appspot.com^
 ||counter.nn.ru^
 ||counter.nv.ua^
 ||counter.ok.ee^
-||counter.opinion.com.ua^
 ||counter.pr-cy.ru^
 ||counter.promodeejay.net^
 ||counter.rambler.ru^
 ||counter.rian.ru^
 ||counter.scribblelive.com^
-||counter.scribblelive.net^
 ||counter.sibnet.ru^
 ||counter.sina.com.cn^
 ||counter.snackly.co^
@@ -35723,7 +35717,6 @@ vkcdnservice.appspot.com^
 ||counter.tianjimedia.com^
 ||counter.top.ge^
 ||counter.top.kg^
-||counter.tovarro.com^
 ||counter.ukr.net^
 ||counter.web.money^
 ||counter.zerohedge.com^
@@ -35731,7 +35724,6 @@ vkcdnservice.appspot.com^
 ||counter1.fc2.com^
 ||counter24.luxnet.ua^
 ||cpxl.golem.de^
-||crm.zenguard.biz^
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
 ||cs*.mp3bars.com^
@@ -35936,9 +35928,7 @@ vkcdnservice.appspot.com^
 ||geo.mattel163.com^
 ||geo.metronews.ca^
 ||geo.mozilla.org^
-||geo.perezhilton.com^
 ||geo.play.it^
-||geo.theawesomer.com^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geobeacon.ign.com^
@@ -36960,19 +36950,14 @@ vkcdnservice.appspot.com^
 ||tracking.olx-st.com^
 ||tracking.oui.sncf^
 ||tracking.performgroup.com^
-||tracking.pixelfederation.com^
 ||tracking.porndoelabs.com^
-||tracking.pornhd.com^
-||tracking.propelmedia.com^
 ||tracking.rce.veeseo.com^
-||tracking.realtor.com^
 ||tracking.resumecompanion.com^
 ||tracking.retailrocket.net^
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.shopback.com^
 ||tracking.shoptogether.buy.com^
-||tracking.sim-technik.de^
 ||tracking.skyword.com^
 ||tracking.softwareprojects.com^
 ||tracking.swogo.net^
@@ -36985,7 +36970,6 @@ vkcdnservice.appspot.com^
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.ustream.tv^
-||tracking.vitringez.com^
 ||tracking.yourfilehost.com^
 ||tracking2.channeladvisor.com^
 ||trackingapi.cloudapp.net^
@@ -44499,6 +44483,7 @@ inapps.appsflyersdk.com^
 ||zfvklk.ru^
 
 
+||r.z3.fm^
 ||adv.topvideo.tj^
 ||vast.playmatic.video^
 ||oba.rus-km.ru^
@@ -44624,7 +44609,6 @@ inapps.appsflyersdk.com^
 ||jsc.marketgid.com.p.pstl.live^
 ||json.smotri.com^
 ||kinogo.r.worldssl.net^
-||lnews.riafan.ru^
 ||lobster.unionpeer.com^
 ||loki.maximonline.ru^
 ||mixtraff.silvercdn.com^
@@ -47984,6 +47968,7 @@ inapps.appsflyersdk.com^
 ||hghjks2.com^
 ||a9able.com^
 ||uxtruz.xyz^
+||8861198.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -54272,7 +54257,13 @@ analytics-*.aasaam.com
 ||collect2.sas.com^
 ||collection.theaa.com^
 ||collector-medium.lightstep.com^
+||collector.shopstream.co^
+||collector.shorte.st^
+||collector.tescocompare.com^
 ||collector.xhamster.com^
+||count.prx.org^
+||geo.perezhilton.com^
+||geo.theawesomer.com^
 ||log.prezi.com^
 ||log.thevideo.me^
 ||logdev.openload.co^
@@ -54289,6 +54280,8 @@ analytics-*.aasaam.com
 ||track.collegehumor.com^
 ||track.zalando.
 ||tracking.olx.
+||tracking.pornhd.com^
+||tracking.realtor.com^
 ||adocean.cz^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||vahufapave.com^

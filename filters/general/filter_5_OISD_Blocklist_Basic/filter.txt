@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-07-27T16:19:23.417Z
+! Last modified: 2023-07-27T20:14:53.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9312,6 +9312,7 @@
 ||contentr.net^
 ||contentshamper.com^
 ||context.hotline.ua^
+||contextbar.ru^
 ||contextendless.com^
 ||contextualadv.com^
 ||contextualyield.com^
@@ -24329,6 +24330,7 @@
 ||offer.slgnt.eu^
 ||offerentsentedo.com^
 ||offergate-apps-pubrel.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -32995,6 +32997,7 @@
 ||takin.dripmacetas.com^
 ||takin.revolana.fr^
 ||takiparkrb.site^
+||takru.com^
 ||takychasing.com^
 ||talamk3.beauty^
 ||talazywho.pro^

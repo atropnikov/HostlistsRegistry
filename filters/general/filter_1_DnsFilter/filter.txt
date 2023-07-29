@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-29T06:17:00.883Z
+! Last modified: 2023-07-29T12:26:32.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33898,6 +33898,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||floweryfact.com^
 ||ambiguousdinosaurs.com^
 ||childlikeexample.com^
 ||adamantsnail.com^
@@ -39111,7 +39112,6 @@ inapps.appsflyersdk.com^
 ||fearfulmint.com^
 ||fifthborder.com^
 ||flowerycreature.com^
-||floweryfact.com^
 ||foamypain.com^
 ||foretellfifth.com^
 ||frailfruit.com^
@@ -39724,6 +39724,7 @@ inapps.appsflyersdk.com^
 ||geo.q5media.net^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
+||geoip.apps.avada.io^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
@@ -48009,6 +48010,9 @@ inapps.appsflyersdk.com^
 ||zddpnf.xyz^
 ||tushwjp.icu^
 ||ooqwc.xyz^
+||eamqbaqzaewwq.top^
+||tuwaqtjcood.com^
+||abdluv.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^

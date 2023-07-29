@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-07-29T01:13:52.220Z
+! Last modified: 2023-07-29T06:17:00.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28708,7 +28708,6 @@ vkcdnservice.appspot.com^
 ||realclick.co.kr^
 ||realhumandeals.com^
 ||realssp.co.kr^
-||rebrand.ly^
 ||rediads.com^
 ||republer.com^
 ||revenueflex.com^
@@ -48005,6 +48004,11 @@ inapps.appsflyersdk.com^
 ||destc8.icu^
 ||jvjlkih.com^
 ||fantuan.name^
+||jjztrz.xyz^
+||jslbaha.top^
+||zddpnf.xyz^
+||tushwjp.icu^
+||ooqwc.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^

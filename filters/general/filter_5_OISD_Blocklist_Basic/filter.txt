@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-07-30T17:11:45.205Z
+! Last modified: 2023-07-31T05:13:55.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2504,7 +2504,6 @@
 ||ads.mopub.com^
 ||ads.motosiklet.net^
 ||ads.museum.or.jp^
-||ads.newsdigest.jp^
 ||ads.nexage.com^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
@@ -4482,6 +4481,7 @@
 ||api.ad-locus.com^
 ||api.ad.xiaomi.com^
 ||api.adnation.com^
+||api.ads.newsdigest.jp^
 ||api.ads.watchabc.go.com^
 ||api.adultsclips.com^
 ||api.analytics.omgpop.com^
@@ -7911,7 +7911,6 @@
 ||cbbvi.com^
 ||cbdedibles.site^
 ||cbdm.weathercn.com^
-||cbey.io^
 ||cbjs.baidu.com^
 ||cbkhucmudcsepoi.com^
 ||cbltndzavx.com^
@@ -11418,7 +11417,6 @@
 ||deliver.ptgncdn.com^
 ||deliveranceirregulareaten.com^
 ||delivery-cdn-cf.adswizz.com^
-||delivery.adsterra.org^
 ||delivery.akadigital.vn^
 ||delivery.gettopple.com^
 ||delivery.momentummedia.com.au^
@@ -17369,7 +17367,6 @@
 ||hiug862dj0.com^
 ||hizgame.mom^
 ||hizlireklam.com^
-||hizopforkajf.com^
 ||hj.faggotbovidae.com^
 ||hjalma.com^
 ||hjcbehchdddcegcfaaei.ru^
@@ -18148,7 +18145,6 @@
 ||ilxhsgd.com^
 ||ilyf4amifh.com^
 ||ilyonanalytics.herokuapp.com^
-||imad24.com^
 ||image.sector.sk^
 ||imageadvantage.net^
 ||imagehost.pics^
@@ -37869,7 +37865,6 @@
 ||xbhxgcj.cn^
 ||xbtw.com^
 ||xbvmrx.xyz^
-||xc.7msport.com^
 ||xc.macd.cn^
 ||xc.stupesinosine.com^
 ||xcams.net^

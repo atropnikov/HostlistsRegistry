@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-01T12:30:29.839Z
+! Last modified: 2023-08-01T18:18:25.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30560,6 +30560,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||wiseref.com^
 ||swetrix.org^
 ||getter.cfd^
 ||tgtag.io^
@@ -47839,6 +47840,7 @@ inapps.appsflyersdk.com^
 ||epoid.xyz^
 ||erfskhnpter.xyz^
 ||ertgbme.com^
+||erty0yx.com^
 ||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
@@ -47852,6 +47854,7 @@ inapps.appsflyersdk.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||ggdrfh5.com^
@@ -47867,6 +47870,7 @@ inapps.appsflyersdk.com^
 ||hanwdsii.com^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
+||hegk01a.top^
 ||hegk03a.top^
 ||hfqdipw.cn^
 ||hgehse.site^
@@ -47944,6 +47948,7 @@ inapps.appsflyersdk.com^
 ||legdeh.fun^
 ||lgohse.fun^
 ||lhiefl.com^
+||lhotajl.icu^
 ||lifyeldl.top^
 ||liitwrz.icu^
 ||lkmhn.com^
@@ -47984,6 +47989,7 @@ inapps.appsflyersdk.com^
 ||ossfile001.com^
 ||p11q.cn^
 ||parnett55.xyz^
+||pbtsjh.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
 ||pfqwbqs.cn^
@@ -48023,6 +48029,7 @@ inapps.appsflyersdk.com^
 ||ssnnn.net^
 ||statisfile.com^
 ||svarub.xyz^
+||svvev3.com^
 ||tarqk5.com^
 ||tftran.shop^
 ||tfttbd.xyz^
@@ -48081,6 +48088,7 @@ inapps.appsflyersdk.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yyuivw6.com^
+||yzllux.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zerolcp.cn^
@@ -48091,12 +48099,6 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||hegk01a.top^
-||erty0yx.com^
-||svvev3.com^
-||lhotajl.icu^
-||pbtsjh.xyz^
-||fvxlhn.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^

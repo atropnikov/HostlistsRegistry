@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-07-30T04:16:57.098Z
+! Last modified: 2023-08-02T08:18:16.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -555,6 +555,7 @@
 127.0.0.1 izooto.com
 127.0.0.1 jackwolfskinsverige.com.se
 127.0.0.1 js.appboycdn.com
+127.0.0.1 js.datadome.co
 127.0.0.1 js.glitnoraffiliates.com
 127.0.0.1 js.hsadspixel.net
 127.0.0.1 js.hsleadflows.net
@@ -938,6 +939,7 @@
 127.0.0.1 t.raptorsmartadvisor.com
 127.0.0.1 t0.extreme-dm.com
 127.0.0.1 t1.extreme-dm.com
+127.0.0.1 tag.aticdn.net
 127.0.0.1 tag.heylink.com
 127.0.0.1 tag.imonomy.com
 127.0.0.1 tag.targeting.unrulymedia.com

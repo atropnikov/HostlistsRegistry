@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-02T18:17:56.532Z
+! Last modified: 2023-08-03T01:14:22.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||setupali.shop^
 ||ads.lemmatechnologies.com^
 ||update-mac.com^
 ||ujscdn.com^
@@ -7345,6 +7346,7 @@ vkcdnservice.appspot.com^
 ||clean-browsing.com^
 ||clean.gg^
 ||cleanbrowser.network^
+||cleanerultra.club^
 ||cleaneryelded.site^
 ||cleanflawlessredir.com^
 ||cleanmediaads.com^
@@ -11636,6 +11638,7 @@ vkcdnservice.appspot.com^
 ||gbllqvsxnlsl.com^
 ||gcouncer.buzz^
 ||gcruperparverew.xyz^
+||gdasaasnt.com^
 ||gdecordingholo.info^
 ||gdjejefdqthxmy.xyz^
 ||gdl5vtbbv0lj.com^
@@ -12760,6 +12763,7 @@ vkcdnservice.appspot.com^
 ||hestatueoftheap.com^
 ||hesterinoc.info^
 ||hesthergeyan.com^
+||hetaer.xyz^
 ||hetahien.com^
 ||hetaint.com^
 ||hetairagalapee.tech^
@@ -22741,6 +22745,7 @@ vkcdnservice.appspot.com^
 ||smisto.com^
 ||smists.com^
 ||smitry.com^
+||smjulynews.com^
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokebookcase.com^
@@ -48221,6 +48226,12 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||ssdtour.com^
+||cxsh.cn.com^
+||rhesed.site^
+||dfgymtx.icu^
+||xixrdn.xyz^
+||wsdfame.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^

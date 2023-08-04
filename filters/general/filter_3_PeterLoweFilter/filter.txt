@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-07-28T12:29:22.634Z
+! Last modified: 2023-08-04T11:11:57.063Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1113,6 +1113,7 @@
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
 ||bannerimage.com^
+||bannerlandia.com.ar^
 ||bannermall.com^
 ||bannermanager.bnr.bg^
 ||bannermarkt.nl^
@@ -1677,13 +1678,11 @@
 ||elitedollars.com^
 ||elitetoplist.com^
 ||em1.yoursantander.co.uk^
-||email-clk.adguard.com^
 ||email-link.adtidy.net^
 ||email-link.adtidy.org^
 ||email-links.crowdfireapp.com^
 ||email-open.adtidy.net^
 ||email-open.adtidy.org^
-||email-opn.adguard.com^
 ||emaillinks.soundiiz.com^
 ||emebo.io^
 ||emerse.com^
@@ -2780,6 +2779,7 @@
 ||quantummetric.com^
 ||quarterbean.com^
 ||quarterserver.de^
+||questaffiliates.net^
 ||quickkoala.io^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -2824,7 +2824,6 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^

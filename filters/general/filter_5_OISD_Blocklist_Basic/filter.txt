@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-08-09T04:17:36.631Z
+! Last modified: 2023-08-09T12:31:38.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4225,7 +4225,6 @@
 ||aniqfwz.cc^
 ||aniqgsz.cc^
 ||anjlkkyhpp.com^
-||ankdoier.com^
 ||ankhspreses.space^
 ||ankleproposedomicile.com^
 ||anldnews.pro^
@@ -37338,6 +37337,7 @@
 ||www-google-analytics.l.google.com^
 ||www.0024ad98dd.com^
 ||www.7-7-7-partner.com^
+||www.ankdoier.com^
 ||www.hnxxt.net^
 ||www.mkjnha.com^
 ||www.uwgnpkd.cn^

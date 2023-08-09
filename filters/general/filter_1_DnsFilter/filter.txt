@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-09T06:19:04.407Z
+! Last modified: 2023-08-09T12:31:34.082Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34329,6 +34329,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||parentpicture.com^
 ||suspectmark.com^
 ||daughterstone.com^
 ||boundlessveil.com^
@@ -38658,7 +38659,6 @@ inapps.appsflyersdk.com^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getviously.com^
-||gglscr.online^
 ||giddyuptrk.com^
 ||gim.co.il^
 ||glassboxcdn.com^
@@ -39029,7 +39029,6 @@ inapps.appsflyersdk.com^
 ||trackingca.com^
 ||trackingpro.pro^
 ||trackmethod.com^
-||trackmstr.com^
 ||trackmytarget.com^
 ||trackmyusers.com^
 ||trackonomics.net^
@@ -39963,7 +39962,6 @@ inapps.appsflyersdk.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
-||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-logger.salemove.com^
@@ -41103,7 +41101,6 @@ inapps.appsflyersdk.com^
 ||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
-||bnr.alza.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
@@ -41129,7 +41126,6 @@ inapps.appsflyersdk.com^
 ||statistics.rbi-nl.com^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
-||insight.fonecta.fi^
 ||tags.op-palvelut.fi^
 ||links.boom.ge^
 ||heartbeat.pmd.444.hu^
@@ -41262,7 +41258,6 @@ inapps.appsflyersdk.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
-||hits.eluniversal.com.mx^
 ||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
@@ -41410,6 +41405,7 @@ inapps.appsflyersdk.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||voidnetwork.cloud^
 ||tds.bid^
 ||streetuptowind.com^
 ||sarafan.fun^

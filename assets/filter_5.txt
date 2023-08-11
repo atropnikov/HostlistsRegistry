@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-08-11T12:26:50.368Z
+! Last modified: 2023-08-11T17:12:06.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6169,7 +6169,6 @@
 ||bagwyncam.top^
 ||bahmemohod.com^
 ||bahutuophian.com^
-||bai128.xyz^
 ||baidu1.cardbaobao.com^
 ||baiduada.babihu.com^
 ||baiducom.bj.bcebos.com^
@@ -6581,7 +6580,6 @@
 ||bd888.qizuang.com^
 ||bd8ed71aed.com^
 ||bda1.ayule.net^
-||bda644bea5.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdasd.chdbook.cn^
@@ -39025,8 +39023,11 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.bai128.xyz^
+||www.bda644bea5.com^
 ||www.emqrjjveqnnjw.top^
 ||www.xkmwxwy.cn^
+||www.zggrxf.life^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -40181,7 +40182,6 @@
 ||zg.butaneailment.com^
 ||zgctig.cn^
 ||zgfdczj.mobi^
-||zggrxf.life^
 ||zghsfh.xyz^
 ||zgsdk.zhugeio.com^
 ||zgzlw.biz^

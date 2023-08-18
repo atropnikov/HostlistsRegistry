@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-18T12:26:48.736Z
+! Last modified: 2023-08-18T18:17:06.668Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||watekade.xyz^
 ||smervyfenks.com^
 ||dr7.biz^
 ||wuftoars.net^
@@ -3031,6 +3032,7 @@ vkcdnservice.appspot.com^
 ||admachina.com^
 ||admanmedia.com^
 ||admavvex.com^
+||admax.network^
 ||adme-net.com^
 ||admedia.network^
 ||admeme.net^
@@ -46339,6 +46341,7 @@ inapps.appsflyersdk.com^
 ||twiago.com^
 ||bauernative.com^
 
+||vkjsnvk.com^
 ||3337126.com^
 ||yruws6.com^
 ||3338637.com^
@@ -48571,6 +48574,7 @@ inapps.appsflyersdk.com^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.fff.com.vn^
 ||quangcao247.com.vn^
+||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
 ||realclick.vn^
@@ -48730,10 +48734,13 @@ inapps.appsflyersdk.com^
 ||aaenv48847h.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
+||afgp10l.com^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||anwqj0i.xyz^
+||anyunwl04.com^
+||apdfmhp.cn^
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||b4g7k9d2.com^
@@ -48798,6 +48805,7 @@ inapps.appsflyersdk.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
+||daeis.cn^
 ||dafdf.cn^
 ||dalld.xyz^
 ||dalmfn.xyz^
@@ -48935,6 +48943,7 @@ inapps.appsflyersdk.com^
 ||islbaho.top^
 ||jakid.xyz^
 ||janwzsqi.icu^
+||jayhou.top^
 ||jdcnwd.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
@@ -49018,6 +49027,7 @@ inapps.appsflyersdk.com^
 ||lvrvdn.xyz^
 ||lwide.xyz^
 ||lycjsix.cn^
+||lzmvcrp.icu^
 ||metaversemolecule.com^
 ||mh616.org^
 ||mifyeldx.top^
@@ -49048,6 +49058,7 @@ inapps.appsflyersdk.com^
 ||northcookie.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
+||nswtojdi.icu^
 ||ntozchv.icu^
 ||nunxhv.com^
 ||nxhwvt.xyz^
@@ -49091,6 +49102,7 @@ inapps.appsflyersdk.com^
 ||qucncfo.cn^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rcblfd.xyz^
 ||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdufuxr.icu^
@@ -49139,6 +49151,7 @@ inapps.appsflyersdk.com^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
+||thesac5.top^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
@@ -49186,6 +49199,7 @@ inapps.appsflyersdk.com^
 ||vxhtxt.xyz^
 ||wddsva0.com^
 ||wnzle.com^
+||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
 ||wubizigeng.com^
@@ -49206,6 +49220,7 @@ inapps.appsflyersdk.com^
 ||xlvqhx.xyz^
 ||xmawwbz.icu^
 ||xmxupz.xyz^
+||xn--521-x72fh66s.cn^
 ||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
 ||xopxptn.cn^
@@ -49221,6 +49236,7 @@ inapps.appsflyersdk.com^
 ||yhhnjg.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
+||yjnkas.com^
 ||ymhyw6.lol^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
@@ -49238,23 +49254,13 @@ inapps.appsflyersdk.com^
 ||zfvltd.xyz^
 ||zggrxf.life^
 ||zghsfh.xyz^
+||zglmvz.buzz^
+||zglmvz.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
 ||zszhln.xyz^
-||zglmvz.xyz^
-||xn--521-x72fh66s.cn^
-||apdfmhp.cn^
-||thesac5.top^
-||rcblfd.xyz^
-||afgp10l.com^
-||lzmvcrp.icu^
-||zglmvz.buzz^
-||yjnkas.com^
-||daeis.cn^
-||nswtojdi.icu^
-||wrpsouf.cn^
 ||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -53991,7 +53997,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||bd-js.duote.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -54237,6 +54242,7 @@ inapps.appsflyersdk.com^
 ||bchina-1.xsfaya.com^
 ||bd*-ys.km.com^
 ||bd-china-1.appmobile.cn^
+||bd-js.duote.com^
 ||bd-js1.2345.com^
 ||bd-s.baixing.net^
 ||bd.ahsrst.cn^

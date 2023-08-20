@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-08-12T18:15:58.102Z
+! Last modified: 2023-08-20T20:13:24.199Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -207,6 +207,11 @@
 0.0.0.0 1us.cqcounter.com
 0.0.0.0 1xxx.cqcounter.com
 0.0.0.0 20585485p.rfihub.com
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 3dns.adobe.com
 0.0.0.0 4-counter.com
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-ssl.ligatus.com

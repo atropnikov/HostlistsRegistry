@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-20T12:24:21.931Z
+! Last modified: 2023-08-20T18:15:42.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -48820,6 +48820,7 @@ inapps.appsflyersdk.com^
 ||23dhj4q.com^
 ||3400.org^
 ||35vc.com^
+||360114.xyz^
 ||36mghtd.xyz^
 ||39mydp.xyz^
 ||4asfgyx.com^
@@ -48827,6 +48828,7 @@ inapps.appsflyersdk.com^
 ||52kuwang.cn^
 ||5ggj5cp.com^
 ||777aa999aa.com^
+||7xixi.site^
 ||8861198.com^
 ||89mtdab.xyz^
 ||a8age.com^
@@ -48902,6 +48904,7 @@ inapps.appsflyersdk.com^
 ||connectreadoasis.com^
 ||csedasdme.xyz^
 ||cslbahf.top^
+||ctienlf.top^
 ||ctquh0q.xyz^
 ||cuioxbqi.com^
 ||cxsh.cn.com^
@@ -48981,6 +48984,7 @@ inapps.appsflyersdk.com^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
+||fxeaobv.icu^
 ||gdjme27.com^
 ||ggdrfh5.com^
 ||gghmef7.com^
@@ -48994,6 +48998,7 @@ inapps.appsflyersdk.com^
 ||gvbhae0.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
+||hacde1.icu^
 ||hacde3.icu^
 ||haffo70.com^
 ||hanwdsii.com^
@@ -49129,6 +49134,7 @@ inapps.appsflyersdk.com^
 ||lqjinx.xyz^
 ||lrlsrz.xyz^
 ||lrqpyhn.icu^
+||lshuaibin.cn^
 ||lskmipb.icu^
 ||lslbahl.top^
 ||lvrvdn.xyz^
@@ -49161,6 +49167,7 @@ inapps.appsflyersdk.com^
 ||njogejt.icu^
 ||nmdotj.xyz^
 ||nmkghh.com^
+||nmssdbgmf.xyz^
 ||nnfyxd.xyz^
 ||nnqwe.xyz^
 ||northcookie.xyz^
@@ -49170,6 +49177,7 @@ inapps.appsflyersdk.com^
 ||ntozchv.icu^
 ||nunxhv.com^
 ||nxhwvt.xyz^
+||oaclrst.cn^
 ||oifyeldk.top^
 ||oijmds.com^
 ||oiunga.com^
@@ -49187,6 +49195,8 @@ inapps.appsflyersdk.com^
 ||pcvzpj.xyz^
 ||pfhj89w.com^
 ||pfqwbqs.cn^
+||pgght17.com^
+||piqtpbxo.icu^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
 ||plbs9k.icu^
@@ -49303,6 +49313,7 @@ inapps.appsflyersdk.com^
 ||vpsgu.cn^
 ||vrlvnz.xyz^
 ||vrr.name^
+||vujzkkz.cn^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
 ||vwfppr.xyz^
@@ -49371,16 +49382,9 @@ inapps.appsflyersdk.com^
 ||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||pgght17.com^
-||lshuaibin.cn^
-||hacde1.icu^
-||nmssdbgmf.xyz^
-||zwfkxb.xyz^
-||fxeaobv.icu^
-||360114.xyz^
-||piqtpbxo.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
+||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^

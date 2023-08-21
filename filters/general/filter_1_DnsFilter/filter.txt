@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-21T01:02:26.440Z
+! Last modified: 2023-08-21T06:18:49.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31633,6 +31633,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||agrvt.com^
 ||westats.dev^
 ||adsolutions.com^
 ||sdk.fra-*.braze.eu^
@@ -35037,6 +35038,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||stomachscience.com^
 ||ruralrobin.com^
 ||scaredsnakes.com^
 ||bleachscarecrow.com^
@@ -39127,7 +39129,6 @@ inapps.appsflyersdk.com^
 ||afterclick.co^
 ||agentanalytics.com^
 ||agilesrv.com^
-||agrvt.com^
 ||airserve.net^
 ||aivalabs.com^
 ||amnet.tw^
@@ -40432,7 +40433,6 @@ inapps.appsflyersdk.com^
 ||stereotypedsugar.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
-||stomachscience.com^
 ||strangeclocks.com^
 ||strangersponge.com^
 ||stretchsneeze.com^
@@ -49394,6 +49394,8 @@ inapps.appsflyersdk.com^
 ||canser7.top^
 ||tlbjw.com^
 ||hthivr.xyz^
+||ltsubzgmw.xyz^
+||zgkvfu.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^

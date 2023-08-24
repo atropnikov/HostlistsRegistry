@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-24T06:18:31.877Z
+! Last modified: 2023-08-24T12:27:48.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||xegmsox.com^
 ||dioxidtoluyls.com^
 ||optaivuy.net^
 ||ads1-adnow.com^
@@ -30951,6 +30952,7 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
@@ -36081,6 +36083,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tracker.p3a.net^
 ||tracking.socketlabs.com^
 ||analytics.elegela.us^
 ||analytics.code.illusion.jp^
@@ -45734,7 +45737,6 @@ inapps.appsflyersdk.com^
 ||ad.bestsportstream.com^
 ||ad.donanimhaber.com^
 ||ad.eglenced.com^
-||ad.emlakeki.com^
 ||ad.reklam.xyz^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
@@ -46016,6 +46018,7 @@ inapps.appsflyersdk.com^
 
 ||kz.cateredjapish.com^
 ||adserver.icimedias.ca^
+||nectarineple.com^
 ||antennash.com^
 ||unddeliv.com^
 ||ad.886644.com^
@@ -49333,6 +49336,8 @@ inapps.appsflyersdk.com^
 ||yasg114.com^
 ||itienlo.top^
 ||rvzlobj.cn^
+||txcv68f.com^
+||f1tfmxzg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^

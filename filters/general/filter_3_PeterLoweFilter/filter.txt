@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-08-23T04:16:51.443Z
+! Last modified: 2023-08-25T12:27:17.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -239,7 +239,6 @@
 ||adform.com^
 ||adform.net^
 ||adformdsp.net^
-||adfs.senacrs.com.br^
 ||adgardener.com^
 ||adhaven.com^
 ||adhese.be^
@@ -436,7 +435,6 @@
 ||ads.easy-forex.com^
 ||ads.economist.com^
 ||ads.edbindex.dk^
-||ads.egrana.com.br^
 ||ads.elcarado.com^
 ||ads.electrocelt.com^
 ||ads.elitetrader.com^
@@ -1708,6 +1706,7 @@
 ||engine.espace.netavenir.com^
 ||enginenetwork.com^
 ||enormousearth.com^
+||enquisite.com^
 ||ensighten.com^
 ||entercasino.com^
 ||enthusiasticdad.com^
@@ -1887,7 +1886,6 @@
 ||glisteningsign.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
-||globus-inter.com^
 ||gloriousbeef.com^
 ||glossysense.com^
 ||gloyah.net^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-08-30T01:03:50.498Z
+! Last modified: 2023-08-30T06:18:47.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30036,6 +30036,7 @@ vkcdnservice.appspot.com^
 ||unblockia.com^
 ||undertone.com^
 ||unibots.in^
+||unibotscdn.com^
 ||urlcash.net^
 ||usemax.de^
 ||usenetjunction.com^
@@ -39150,6 +39151,7 @@ inapps.appsflyersdk.com^
 ||autoline-top.com^
 ||avapartner.com^
 ||awstats.cloud^
+||awswaf.com^
 ||azointel.com^
 ||b1js.com^
 ||baremetrics.com^
@@ -39793,6 +39795,7 @@ inapps.appsflyersdk.com^
 ||xdisctracking.pw^
 ||xstats.net^
 ||xtraffstat.com^
+||yextevents.com^
 ||yieldlift.com^
 ||yldr.io^
 ||your-analytics.org^
@@ -40959,6 +40962,7 @@ inapps.appsflyersdk.com^
 ||reporting-api.gannettinnovation.com^
 ||reporting.cdndex.io^
 ||reports-api.sqreen.io^
+||reports.hibu.com^
 ||reports.pagesuite-professional.co.uk^
 ||reports.sdiapi.com^
 ||rest.wildstar-online.com^

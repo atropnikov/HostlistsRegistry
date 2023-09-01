@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-09-01T01:08:05.979Z
+! Last modified: 2023-09-01T06:19:06.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39639,6 +39639,7 @@ inapps.appsflyersdk.com^
 ||recognified.net^
 ||recosenselabs.com^
 ||redfastlabs.com^
+||referralrock.com^
 ||remailtarget.com^
 ||report-uri.io^
 ||researchnow.com^
@@ -41283,6 +41284,7 @@ inapps.appsflyersdk.com^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
+||d1f0tbk1v3e25u.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
@@ -41307,6 +41309,7 @@ inapps.appsflyersdk.com^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d31y97ze264gaa.cloudfront.net^
+||d34r8q7sht0t9k.cloudfront.net^
 ||d36u3psykfwy91.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
 ||d3bj8nkfly20uo.cloudfront.net^
@@ -49571,6 +49574,12 @@ inapps.appsflyersdk.com^
 ||lestv1.icu^
 ||bleumzr.icu^
 ||kekop.cn^
+||bnrdnx.xyz^
+||uchat6.com^
+||ggdumze.cn^
+||jgsajfggv.xyz^
+||xiezhuo038.cn^
+||okmhnd.com^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^

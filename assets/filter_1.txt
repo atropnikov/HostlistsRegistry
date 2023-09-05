@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-09-05T01:02:53.182Z
+! Last modified: 2023-09-05T06:18:52.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||plungepilmy.com^
+||qkodjvdsm.com^
+||wauwitew.net^
 ||abmunnaa.com^
 ||optad360.net^
 ||dust-0001.delorazahnow.workers.dev^
@@ -20290,7 +20293,6 @@ vkcdnservice.appspot.com^
 ||plunderhoaxed.digital^
 ||plunderthetics.digital^
 ||plungeideals.life^
-||plungepilmy.com^
 ||pluralsoc.uno^
 ||plusclick.biz^
 ||plutonactg.com^
@@ -30177,6 +30179,7 @@ vkcdnservice.appspot.com^
 ||headerbidding.ai^
 ||headerlift.com^
 ||healthtrader.com^
+||heliumads.com^
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
 ||hotelscombined.com.au^
@@ -50211,6 +50214,7 @@ inapps.appsflyersdk.com^
 ||oyfnkle.cn^
 ||lgoewtd.icu^
 ||zbzbzb.xyz^
+||ptfxh.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -53461,6 +53465,7 @@ inapps.appsflyersdk.com^
 ||zzxedr.xyz^
 ||zzxmcp.com^
 ||zzzhuoxiaqu.online^
+||d37d9zbli5ytch.cloudfront.net^
 ||06789.xyz^
 ||3p8801.co^
 ||6651tp.com^

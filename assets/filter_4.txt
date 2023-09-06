@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-09-04T21:11:57.523Z
+! Last modified: 2023-09-06T20:15:09.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1693,6 +1693,7 @@
 0.0.0.0 camplace.fr
 0.0.0.0 campus-forprof.fr
 0.0.0.0 canadapost-delivery-reshedule.com
+0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 carac-terres.fr
 0.0.0.0 carrfefour.fr

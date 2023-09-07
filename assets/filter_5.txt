@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-07T08:18:46.065Z
+! Last modified: 2023-09-07T16:18:18.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8033,6 +8033,7 @@
 ||c1sf9.top^
 ||c22x1.xcdn.ovh^
 ||c2e6bd3f02.com^
+||c2shb.pubgw.yahoo.com^
 ||c3.myapkcdn.in^
 ||c3s.bionestraff.pro^
 ||c3t-system-err.club^
@@ -28505,7 +28506,6 @@
 ||pubfuture-ad.com^
 ||pubfutureads.com^
 ||pubguru.net^
-||pubgw.yahoo.com^
 ||pubhotmax.com^
 ||pubianmending.space^
 ||pubimageboard.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-07T16:18:18.124Z
+! Last modified: 2023-09-07T19:11:38.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37577,7 +37577,6 @@
 ||vexacion.com^
 ||vexenbill.com^
 ||vexevutus.com^
-||vexilorath.com^
 ||vezvpd.xyz^
 ||vfghd.com^
 ||vfhkljw5f6ss.com^
@@ -39154,6 +39153,7 @@
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
 ||www.nagarh.com^
+||www.vexilorath.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

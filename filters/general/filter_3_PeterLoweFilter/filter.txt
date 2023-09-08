@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-09-05T10:15:22.540Z
+! Last modified: 2023-09-08T12:27:42.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13,7 +13,6 @@
 ||101order.com^
 ||180hits.de^
 ||180searchassistant.com^
-||1link2020.com^
 ||1rx.io^
 ||207.net^
 ||247media.com^
@@ -1107,7 +1106,6 @@
 ||banner.reinstil.de^
 ||banner.tanto.de^
 ||banner.titan-dsl.de^
-||banner.vadian.net^
 ||banner.webmersion.com^
 ||banner10.zetasystem.dk^
 ||bannerads.de^
@@ -1726,7 +1724,6 @@
 ||et.nytimes.com^
 ||etahub.com^
 ||etargetnet.com^
-||ethereum-ads.com^
 ||etracker.com^
 ||etracker.de^
 ||eu-adcenter.net^
@@ -2445,6 +2442,7 @@
 ||mydas.mobi^
 ||mylink-today.com^
 ||mypagerank.net^
+||mypagerank.ru^
 ||mypowermall.com^
 ||mystat-in.net^
 ||mystat.pl^
@@ -2700,6 +2698,7 @@
 ||postrelease.com^
 ||ppc.adhere.marchex.com^
 ||pr-star.de^
+||praddpro.de^
 ||prchecker.info^
 ||prebid.org^
 ||predictad.com^
@@ -3345,7 +3344,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||topgamesites.net^
 ||toplist.cz^

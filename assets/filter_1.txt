@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-09-07T18:18:19.022Z
+! Last modified: 2023-09-08T01:04:36.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7506,6 +7506,7 @@ vkcdnservice.appspot.com^
 ||cluttered-win.pro^
 ||clvacjv.com^
 ||clvceacvvwgk.xyz^
+||clxlxmbtysabn.com^
 ||clxlydpqpnsvxso.xyz^
 ||clxtsxwjp.com^
 ||clydetugger.com^
@@ -9431,6 +9432,7 @@ vkcdnservice.appspot.com^
 ||dpbxtrqyljhse.xyz^
 ||dpdnav.com^
 ||dpfchqsiksjuyjc.xyz^
+||dphpycbr.com^
 ||dpipel.com^
 ||dpmsrv.com^
 ||dprograp.online^
@@ -11160,6 +11162,7 @@ vkcdnservice.appspot.com^
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
 ||ffrywcxaewmpp.com^
+||fftagtden.com^
 ||ffuzila.com^
 ||ffyabcmahqiz.com^
 ||fgddrrr.com^
@@ -20765,6 +20768,7 @@ vkcdnservice.appspot.com^
 ||ppixufsalgm.com^
 ||pplferio.com^
 ||ppoommhizazn.com^
+||ppovysmcycmwvv.com^
 ||pppbr.com^
 ||pprq7.com^
 ||pqxbcydpv.xyz^
@@ -22017,6 +22021,7 @@ vkcdnservice.appspot.com^
 ||recipeominouscrest.com^
 ||recipesunny.com^
 ||reciprocaldowntownabout.com^
+||reciteassemble.com^
 ||reciteimplacablepotato.com^
 ||recklessliver.com^
 ||recklessmarine.com^
@@ -26199,6 +26204,7 @@ vkcdnservice.appspot.com^
 ||tpn134.com^
 ||tpopularcldfa.co^
 ||tpopularcldfb.co^
+||tposkglvqookv.xyz^
 ||tpycithabalj.com^
 ||tpyshaaxps.com^
 ||tpyxplkcap.top^
@@ -50451,6 +50457,11 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||nqoxurf.icu^
+||inowe.xyz^
+||htseca.top^
+||dmvckj.icu^
+||hsfbpp.xyz^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -54879,6 +54890,7 @@ analytics-*.aasaam.com
 ||adsima.net^
 
 ||adtrace.io^
+||adtrace.ir^
 ||adtrace.world^
 
 ||affili.ir^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-09-15T14:13:02.644Z
+! Last modified: 2023-09-15T18:18:09.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -50512,6 +50512,8 @@ inapps.appsflyersdk.com^
 ||126ccb.xyz^
 ||1378a.xyz^
 ||1379a.xyz^
+||155zn.com^
+||1jc5t.xyz^
 ||1u5gy.xyz^
 ||23dhj4q.com^
 ||3400.org^
@@ -50525,10 +50527,13 @@ inapps.appsflyersdk.com^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
+||54dbg.xyz^
 ||5gg17gm.com^
 ||5ggj5cp.com^
 ||5lfgdju.com^
 ||777aa999aa.com^
+||777zz777zz.com^
+||789peizi.com^
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
@@ -50549,6 +50554,7 @@ inapps.appsflyersdk.com^
 ||ajkjbcjbaaaed.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
+||alemu4s.com^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||anwqj0i.xyz^
@@ -50625,6 +50631,7 @@ inapps.appsflyersdk.com^
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||cdncloud.asia^
+||ceshi1.ink^
 ||cfdns.vip^
 ||cheda1.icu^
 ||cheda10.icu^
@@ -50662,6 +50669,7 @@ inapps.appsflyersdk.com^
 ||ddush.xyz^
 ||degjidp.icu^
 ||dehaer.site^
+||dektcvna.icu^
 ||derew6xbsc.xyz^
 ||desac10.icu^
 ||desac7.icu^
@@ -50675,6 +50683,7 @@ inapps.appsflyersdk.com^
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||diouy9cvtx.xyz^
 ||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
@@ -50716,6 +50725,7 @@ inapps.appsflyersdk.com^
 ||eslbahw.top^
 ||etienlw.top^
 ||euitx.cn^
+||evb0gxo.icu^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
@@ -50740,12 +50750,14 @@ inapps.appsflyersdk.com^
 ||frrhdl.xyz^
 ||frsejhged.xyz^
 ||fsjjrbz.cn^
+||fsmhub.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||fxeaobv.icu^
+||gcbflvx.cn^
 ||gdjme27.com^
 ||ggdrfh5.com^
 ||ggdumze.cn^
@@ -50856,6 +50868,7 @@ inapps.appsflyersdk.com^
 ||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
+||jkzbjv.xyz^
 ||jmbluyxkl.xyz^
 ||jnhgm.com^
 ||jnp0kmm.icu^
@@ -50926,6 +50939,7 @@ inapps.appsflyersdk.com^
 ||legopq.site^
 ||lestv1.icu^
 ||lestv10.icu^
+||lestv7.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -51171,6 +51185,7 @@ inapps.appsflyersdk.com^
 ||tslbahi.top^
 ||ttienli.top^
 ||ttykabh.icu^
+||tuhzjrr.cn^
 ||tuplzt.xyz^
 ||tushwjp.icu^
 ||tuyyex.icu^
@@ -51207,6 +51222,7 @@ inapps.appsflyersdk.com^
 ||vhutitpu.icu^
 ||victoriajumpc.com^
 ||vihppjk.cn^
+||vktztp.xyz^
 ||vlgkotr.cn^
 ||vlujojf.icu^
 ||vmdlxj.xyz^
@@ -51276,6 +51292,7 @@ inapps.appsflyersdk.com^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
+||xybnfn.xyz^
 ||yac5t.cn^
 ||yasg114.com^
 ||ybcnvqf.cn^
@@ -51288,11 +51305,13 @@ inapps.appsflyersdk.com^
 ||yjnkas.com^
 ||ykkbwdf.cn^
 ||ymhyw6.lol^
+||ynfxxbp.xyz^
 ||yofprpv.cn^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yunliunet.com^
+||ywkkmze.cn^
 ||yxvoud.com^
 ||yyefao.com^
 ||yyuivw6.com^
@@ -51335,23 +51354,6 @@ inapps.appsflyersdk.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||diouy9cvtx.xyz^
-||54dbg.xyz^
-||xybnfn.xyz^
-||1jc5t.xyz^
-||tuhzjrr.cn^
-||lestv7.icu^
-||fsmhub.icu^
-||dektcvna.icu^
-||jkzbjv.xyz^
-||ceshi1.ink^
-||789peizi.com^
-||vktztp.xyz^
-||evb0gxo.icu^
-||alemu4s.com^
-||ynfxxbp.xyz^
-||gcbflvx.cn^
-||777zz777zz.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^

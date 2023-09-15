@@ -2,11 +2,10 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-15T09:14:30.841Z
+! Last modified: 2023-09-15T10:15:43.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-
 ||0-000.store^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -8049,6 +8048,8 @@
 ||bvnlrqvinhsje.com^
 ||bvnvx.xyz^
 ||bvoqzs.com^
+||bvr.ast.snva.jp^
+||bvr.snva.jp^
 ||bwb101.goo.ne.jp^
 ||bwnmwhblsf.com^
 ||bwp.download.com^
@@ -33221,7 +33222,6 @@
 ||snugglethesheep.com^
 ||snugslackmakeup.com^
 ||snurpsermon.space^
-||snva.jp^
 ||snwpqybkb.com^
 ||so.auto999.cn^
 ||so1cool.com^

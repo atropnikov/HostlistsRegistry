@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-19T17:12:39.161Z
+! Last modified: 2023-09-19T18:19:19.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23265,7 +23265,6 @@
 ||mbno.ca^
 ||mbs.megaroticlive.com^
 ||mbstrk.com^
-||mbtennu.com^
 ||mbubaniblike.digital^
 ||mbuncha.com^
 ||mbuyu.nl^
@@ -32195,6 +32194,7 @@
 ||servw.bid^
 ||sesabercuacroo.xyz^
 ||sesoionsglear.xyz^
+||session.timecommerce.net^
 ||sessionamateur.com^
 ||sessionm.com^
 ||setbeat.com^
@@ -35788,7 +35788,6 @@
 ||timahvmhal.com^
 ||time4news.net^
 ||timeanyfeed.live^
-||timecommerce.net^
 ||timecrom.com^
 ||timefeathered.fun^
 ||timeforagreement.com^

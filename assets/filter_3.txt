@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-09-15T12:28:20.285Z
+! Last modified: 2023-09-22T11:11:59.364Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -434,7 +434,6 @@
 ||ads.easy-forex.com^
 ||ads.economist.com^
 ||ads.edbindex.dk^
-||ads.egrana.com.br^
 ||ads.elcarado.com^
 ||ads.electrocelt.com^
 ||ads.elitetrader.com^
@@ -812,7 +811,6 @@
 ||adsrv2.swidnica24.pl^
 ||adsrvr.org^
 ||adstacks.in^
-||adstage.io^
 ||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
@@ -1327,7 +1325,6 @@
 ||cetrk.com^
 ||cgicounter.puretec.de^
 ||chairscrack.com^
-||chameleon.ad^
 ||channelintelligence.com^
 ||chargecracker.com^
 ||chart.dk^
@@ -2158,7 +2155,6 @@
 ||larati.net^
 ||largebrass.com^
 ||laughablecopper.com^
-||laughcloth.com^
 ||launchbit.com^
 ||layer-ad.de^
 ||layer-ads.de^
@@ -2889,6 +2885,7 @@
 ||revive.plays.bg^
 ||revlift.io^
 ||revprotect.com^
+||revstats.com^
 ||rexadvert.xyz^
 ||reyden-x.com^
 ||rhombusads.com^
@@ -3348,7 +3345,6 @@
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
 ||toplistcity.com^
-||toprebates.com^
 ||topsir.com^
 ||topsite.lv^
 ||topsites.com.br^

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-09-25T18:19:19.240Z
+! Last modified: 2023-09-28T05:13:40.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2881,6 +2881,7 @@
 0.0.0.0 utauniv-lyon2.fr
 0.0.0.0 utenti.lycos.it
 0.0.0.0 utrace.fr
+0.0.0.0 van-city-sign-on.com
 0.0.0.0 vcarrefour.fr
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
@@ -3095,6 +3096,7 @@
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
 0.0.0.0 xen-media.com

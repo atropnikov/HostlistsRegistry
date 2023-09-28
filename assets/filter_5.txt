@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-28T12:29:13.315Z
+! Last modified: 2023-09-28T21:12:51.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6523,6 +6523,7 @@
 ||bbhonlinestore.com^
 ||bbn.img.com.ua^
 ||bbnfcfrvjs.com^
+||bbrdbr.com^
 ||bc-click.net^
 ||bc-news.net^
 ||bc.manwaysprod.com^
@@ -14271,7 +14272,6 @@
 ||ema.hostvn.net^
 ||emailmeditateencourage.com^
 ||emailon.top^
-||emailservcesonline.site^
 ||emarketer.com^
 ||embaleobelia.life^
 ||embargesnibble.website^
@@ -17517,7 +17517,6 @@
 ||gopher.mina.ca^
 ||gophykopta.com^
 ||goplayhere.com^
-||gopushmajor3.biz^
 ||goralogsizers.store^
 ||goraps.com^
 ||gordiustouse.website^
@@ -24927,7 +24926,6 @@
 ||mzyfkfj.com^
 ||mzzxfib.com^
 ||n-analytics.io^
-||n-e.online^
 ||n.baminw.com.cn^
 ||n.cashheaven.ru^
 ||n.hnntube.com^
@@ -24961,7 +24959,6 @@
 ||n1topserch.com^
 ||n33d0nem0re.com^
 ||n3567.com^
-||n3major.com^
 ||n3owhe6qa4.com^
 ||n4403ad.doubleclick.net^
 ||n49seircas7r.com^
@@ -29643,7 +29640,6 @@
 ||pushlnk.com^
 ||pushlommy.com^
 ||pushlum.com^
-||pushmajor2.com^
 ||pushmejs.com^
 ||pushmenews.com^
 ||pushmobilenews.com^
@@ -30658,7 +30654,6 @@
 ||regnow.com^
 ||regnumyelp.digital^
 ||regott.com^
-||regpushtralivasdf.site^
 ||regretfactor.com^
 ||regretfulfaultsabound.com^
 ||regrettablemorallycommitment.com^
@@ -40511,9 +40506,9 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.bbrdbr.com^
-||www.gomajor2.biz^
-||www.n7pusher.com^
+||www.gopushmajor3.biz^
+||www.n-e.online^
+||www.pushmajor2.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

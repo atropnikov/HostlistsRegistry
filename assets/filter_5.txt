@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-09-28T21:12:51.484Z
+! Last modified: 2023-09-29T08:18:21.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -867,6 +867,7 @@
 ||6t5n9h77m8.com^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
+||7-7-7-partner.com^
 ||7-itrndsbrands.com^
 ||709861d049.com^
 ||71.am^
@@ -17517,6 +17518,7 @@
 ||gopher.mina.ca^
 ||gophykopta.com^
 ||goplayhere.com^
+||gopushmajor3.biz^
 ||goralogsizers.store^
 ||goraps.com^
 ||gordiustouse.website^
@@ -24926,6 +24928,7 @@
 ||mzyfkfj.com^
 ||mzzxfib.com^
 ||n-analytics.io^
+||n-e.online^
 ||n.baminw.com.cn^
 ||n.cashheaven.ru^
 ||n.hnntube.com^
@@ -29640,6 +29643,7 @@
 ||pushlnk.com^
 ||pushlommy.com^
 ||pushlum.com^
+||pushmajor2.com^
 ||pushmejs.com^
 ||pushmenews.com^
 ||pushmobilenews.com^
@@ -40505,10 +40509,6 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
-||www.7-7-7-partner.com^
-||www.gopushmajor3.biz^
-||www.n-e.online^
-||www.pushmajor2.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

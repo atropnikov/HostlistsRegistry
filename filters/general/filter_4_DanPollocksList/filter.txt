@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2023-09-29T20:15:16.398Z
+! Last modified: 2023-10-04T06:19:58.158Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2924,6 +2924,7 @@
 0.0.0.0 waldenfarms.com
 0.0.0.0 wanadzoo.fr
 0.0.0.0 wanatoo.fr
+0.0.0.0 watch-netfIix.com
 0.0.0.0 watchpro.fr
 0.0.0.0 waterstudio.fr
 0.0.0.0 waudeesestew.com

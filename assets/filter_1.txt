@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-04T12:30:34.494Z
+! Last modified: 2023-10-04T17:13:04.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||abbotpredicateemma.com^
+||bginrbancsr.com^
 ||lajouly.com^
 ||qxpwiqydg.com^
 ||hpaakmsumarzy.com^
@@ -38571,6 +38573,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||m.1gr.cz^
+||a.1gr.cz^
 ||pvnwap.zol.com.cn^
 ||analytics.ifanrusercontent.com^
 ||visit.oschina.net^
@@ -48816,7 +48820,7 @@ inapps.appsflyersdk.com^
 ||scadnet.com^
 ||search.jword.jp^
 ||seoparts.com^
-||trafficgate.net^
+||srv2.trafficgate.net^
 ||trustclick.ne.jp^
 ||tumabeni.com^
 ||webantenna.info^
@@ -51261,23 +51265,24 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||beste3.icu^
-||pexavfro.xyz^
-||bydcxdy.cn^
-||ldvnehc.xyz^
-||serda10.icu^
-||ddvoht.xyz^
-||tcgaqh.icu^
-||dhgfhedxx.xyz^
-||anhlnnm.cn^
 ||88lajs3.com^
+||anhlnnm.cn^
+||beste3.icu^
+||bydcxdy.cn^
+||ddvoht.xyz^
+||dhgfhedxx.xyz^
 ||jofknbpe.xyz^
+||ldvnehc.xyz^
 ||neeujqf.cn^
+||pexavfro.xyz^
 ||psroyx.icu^
 ||roxewwq.cn^
+||serda10.icu^
+||tcgaqh.icu^
 ||ulrvkee.xyz^
 ||vttqld.xyz^
 ||xkfigjh.cn^
+||xxkswdf.icu^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
@@ -56785,6 +56790,7 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||api.karte.io^|
 @@||sponsor.nitropay.com^|
 @@||click.cptrack.de^|
 @@|ezodn.com^|

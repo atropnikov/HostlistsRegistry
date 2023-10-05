@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-05T06:19:47.354Z
+! Last modified: 2023-10-05T12:30:47.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||install-check.com^
 ||mismaum.com^
 ||qcvbtrtlmjdhvxe.xyz^
 ||abbotpredicateemma.com^
@@ -34078,6 +34079,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.myshoptago.com^
 ||wfthumty.pm^
 ||hubtydum.me^
 ||mobadme.jp^
@@ -38596,6 +38598,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.streamfab.
 ||m.1gr.cz^
 ||a.1gr.cz^
 ||pvnwap.zol.com.cn^
@@ -48068,6 +48071,7 @@ inapps.appsflyersdk.com^
 ||zfvklk.ru^
 
 ||market-backend.api.2gis.ru^
+||sharemefiles.ru^
 ||userdata.ati.su^
 ||r.z3.fm^
 ||adv.topvideo.tj^
@@ -51307,6 +51311,7 @@ inapps.appsflyersdk.com^
 ||xvzfyra.xyz^
 ||lnxpdj.xyz^
 ||xmvmir.icu^
+||273knt.xyz^
 ||roxewwq.cn^
 ||hwuogmusthxfpk.xyz^
 ||serda10.icu^

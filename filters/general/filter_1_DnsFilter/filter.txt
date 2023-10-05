@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-05T01:05:26.936Z
+! Last modified: 2023-10-05T06:19:47.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32246,6 +32246,7 @@ vkcdnservice.appspot.com^
 ||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
+||stratos.blue^
 ||streamate.com^
 ||streamdefence.com^
 ||strikead.com^
@@ -32492,7 +32493,6 @@ vkcdnservice.appspot.com^
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
-||bsc-dataseed1.binance.org^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
@@ -51306,7 +51306,9 @@ inapps.appsflyersdk.com^
 ||vdggsd005.com^
 ||xvzfyra.xyz^
 ||lnxpdj.xyz^
+||xmvmir.icu^
 ||roxewwq.cn^
+||hwuogmusthxfpk.xyz^
 ||serda10.icu^
 ||tcgaqh.icu^
 ||ulrvkee.xyz^
@@ -56461,6 +56463,7 @@ analytics-*.aasaam.com
 ||yelloadwise.ir^
 ||yekbux.com^
 
+||zarad.net^
 
 ||analytics.asiatech.ir^
 ||dsp.aparat.com^
@@ -56513,8 +56516,8 @@ analytics-*.aasaam.com
 ||websocket.khanefootball.com^
 
 
+||counter.musicsweb.ir^
 ||counter.mahanmusic.net^
-
 ||analytic.magland.ir^
 
 ||affiliate.malltina.com^

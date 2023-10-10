@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-10T04:17:31.000Z
+! Last modified: 2023-10-10T12:29:24.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7327,7 +7327,6 @@
 ||bn.take-profit.org^
 ||bnbvd.xyz^
 ||bncloudfl.com^
-||bnets9.icu^
 ||bnfoeabisp.com^
 ||bnfyzszm.icu^
 ||bngdyn.com^
@@ -17208,7 +17207,6 @@
 ||gml-grp.com^
 ||gmossp-sp.jp^
 ||gmpatched.tech^
-||gmx23.top^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -32509,7 +32507,6 @@
 ||sgad.surfsnow.jp^
 ||sgali-mcs.byteoversea.com^
 ||sge-chat.skorpik.ru^
-||sgeth9.icu^
 ||sgftrrs.com^
 ||sgg.southcn.com^
 ||sghehllds.com^
@@ -40215,6 +40212,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.gmx23.top^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

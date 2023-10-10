@@ -2,7 +2,7 @@
 ! Title: Perflyst and Dandelion Sprout's Smart-TV Blocklist
 ! Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2023-07-20T18:19:24.038Z
+! Last modified: 2023-10-10T09:14:48.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40,8 +40,6 @@
 ||smartshare.lgtvsdp.com^
 ||rdx2.lgtvsdp.com^
 ||lgtvcommon.com^
-/^[a-rt-z][a-z]{10,14}$/
-/^[a-z]{7,10}$/$ctag=device_tv
 ||aic-ngfts.lge.com^
 
 ||legacyportal.nettvservices.com^

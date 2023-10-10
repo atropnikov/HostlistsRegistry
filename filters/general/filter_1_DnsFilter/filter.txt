@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-10T06:20:19.025Z
+! Last modified: 2023-10-10T11:12:18.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -49566,6 +49566,7 @@ inapps.appsflyersdk.com^
 ||rapidads.de^
 ||revresrennab.de^
 ||rgadvert.com^
+||ringier-advertising.ch^
 ||securecnd.com^
 ||seitenaufruf.com^
 ||server4ads.com^
@@ -51453,6 +51454,8 @@ inapps.appsflyersdk.com^
 ||xcqbbcqpl.xyz^
 ||gmx24.top^
 ||actrqdr.cn^
+||dkvakldvnsv.com^
+||lkoqtvvajktpjsk.xyz^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
@@ -56962,6 +56965,8 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
 @@||api.karte.io^|
 @@||sponsor.nitropay.com^|
 @@||click.cptrack.de^|

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-11T04:17:36.719Z
+! Last modified: 2023-10-11T08:19:19.387Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40230,7 +40230,6 @@
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
 ||www.cheda6.icu^
-||www.loketsaucy.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

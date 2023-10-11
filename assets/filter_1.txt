@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-11T01:05:00.551Z
+! Last modified: 2023-10-11T06:20:30.089Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42659,6 +42659,7 @@ inapps.appsflyersdk.com^
 ||debonairtree.com^
 ||decisivebase.com^
 ||deerbeginner.com^
+||delicatecascade.com^
 ||delicateducks.com^
 ||desirebucket.com^
 ||differentcoat.com^
@@ -43011,6 +43012,7 @@ inapps.appsflyersdk.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||whineattempt.com^
+||whisperingsummit.com^
 ||whispermeeting.com^
 ||wildcommittee.com^
 ||wtaccesscontrol.com^
@@ -51477,6 +51479,9 @@ inapps.appsflyersdk.com^
 ||cadizer.com^
 ||ebmlsvw.cn^
 ||jvjmjt.xyz^
+||gmx22.top^
+||gixgav.icu^
+||1bctkn.xyz^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^

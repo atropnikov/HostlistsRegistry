@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-13T18:19:43.139Z
+! Last modified: 2023-10-14T01:03:51.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41564,6 +41564,7 @@ inapps.appsflyersdk.com^
 ||speedyrhino.co^
 ||spinnaker-js.com^
 ||stat.ovh^
+||statisticsplatform.com^
 ||statsbox.info^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -42708,6 +42709,7 @@ inapps.appsflyersdk.com^
 ||cowscrayon.com^
 ||creditcreature.com^
 ||crookedcreature.com^
+||crystalboulevard.com^
 ||cuddlycake.com^
 ||culturedcamera.com^
 ||curiouschalk.com^
@@ -44421,7 +44423,9 @@ inapps.appsflyersdk.com^
 ||track.ra.icast.cn^
 ||track.tomwx.net^
 ||tracking.cat898.com^
+||trail.71baomu.com^
 ||web-trace.ksapisrv.com^
+||wlog.kuaishou.com^
 ||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
@@ -50307,6 +50311,7 @@ inapps.appsflyersdk.com^
 ||epeex.io^
 ||rtbuzz.net^
 ||shoppydoo.com^
+||tjekscores.dk^
 ||yobee.it^
 ||24network.it^
 ||ad4mat.it^
@@ -50383,7 +50388,6 @@ inapps.appsflyersdk.com^
 ||panea.it^
 ||partypartners.it^
 ||paypublicity.it^
-||pc-on-internet.com^
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
@@ -50416,7 +50420,6 @@ inapps.appsflyersdk.com^
 ||tgadv.it^
 ||tgadvcdn.it^
 ||tipster.space^
-||tjekscores.dk^
 ||upstory.it^
 ||viralbeat.com^
 ||wailay.com^
@@ -51586,6 +51589,14 @@ inapps.appsflyersdk.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
+||rzflhxn.cn^
+||gmx16.top^
+||haise5.top^
+||vdggsd014.com^
+||vgjaxnuw.xyz^
+||llblwzg.xyz^
+||oprece.xyz^
+||smlpcz.icu^
 ||yutiqf.icu^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^

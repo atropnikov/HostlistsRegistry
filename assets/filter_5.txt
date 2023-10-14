@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-13T20:15:42.556Z
+! Last modified: 2023-10-14T01:03:56.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8705,6 +8705,7 @@
 ||cdrvrs.com^
 ||cdsbnrs.com^
 ||cdu-offline.de^
+||ce.ineptsundial.com^
 ||ce.paliercleaned.com^
 ||ce33m7.com^
 ||ceasechampagneparade.com^

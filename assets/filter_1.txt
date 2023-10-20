@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-20T12:28:52.073Z
+! Last modified: 2023-10-20T18:18:15.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||fykjhzjyjvx.com^
 ||flashb.id^
 ||provingavidity.com^
 ||gold-line.click^
@@ -50091,7 +50092,6 @@ inapps.appsflyersdk.com^
 ||jackwolfskinsverige.com.se^
 ||js.datadome.co^
 ||js.glitnoraffiliates.com^
-||js.monitor.azure.com^
 ||js.pafpartners.com^
 ||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
@@ -51651,6 +51651,7 @@ inapps.appsflyersdk.com^
 ||fkjsjwbs.xyz^
 ||fmvbyji.cn^
 ||fzgetdy.cn^
+||gelbjvl.cn^
 ||gixgav.icu^
 ||gizlnr.com^
 ||gmx11.top^
@@ -51678,7 +51679,9 @@ inapps.appsflyersdk.com^
 ||gmx48.top^
 ||gth112.com^
 ||haise3.top^
+||haise4.top^
 ||haise5.top^
+||hcgbhq.com^
 ||hcqumrjbx.xyz^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
@@ -51724,6 +51727,7 @@ inapps.appsflyersdk.com^
 ||mwfyab.icu^
 ||myyxox.icu^
 ||nangongmall.com^
+||nbxymdy.cn^
 ||neeujqf.cn^
 ||negnixa.cn^
 ||nerydw.xyz^
@@ -51731,20 +51735,25 @@ inapps.appsflyersdk.com^
 ||njtbiml.xyz^
 ||oapyrzde.xyz^
 ||ocwdkp.icu^
+||omzxutfm.com^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
+||pdweoyw.cn^
 ||pexavfro.xyz^
 ||phwrju.xyz^
+||ppvpmrt.xyz^
 ||pqjeoqa.cn^
 ||psroyx.icu^
 ||qauksl.icu^
+||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qtq632.com^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
+||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
@@ -51812,20 +51821,11 @@ inapps.appsflyersdk.com^
 ||yxrxsov.xyz^
 ||z1wfe.top^
 ||z91f4.top^
-||rcnithgm.xyz^
-||qinjgh.icu^
-||ppvpmrt.xyz^
-||haise4.top^
-||hcgbhq.com^
-||nbxymdy.cn^
-||zzyy19.top^
-||gelbjvl.cn^
-||omzxutfm.com^
-||pdweoyw.cn^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
+||zzyy19.top^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^

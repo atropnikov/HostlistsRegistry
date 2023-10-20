@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-20T06:19:46.411Z
+! Last modified: 2023-10-20T12:28:52.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7055,6 +7055,7 @@ vkcdnservice.appspot.com^
 ||ccaahdancza.com^
 ||ccdneniusruhebl.com^
 ||ccgkudwutf.com^
+||ccgzcavzbmztk.com^
 ||ccieoqej.xyz^
 ||ccjzuavqrh.com^
 ||ccmdcinut.com^
@@ -10240,6 +10241,7 @@ vkcdnservice.appspot.com^
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
+||eclebgjz.com^
 ||eclkmpbn.com^
 ||eclogicmeows.com^
 ||ecodemitter.website^
@@ -37747,6 +37749,8 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||fewkittens.com^
+||inquisitiveice.com^
 ||delicatecascade.com^
 ||dreamycanyon.com^
 ||whimsicalgrove.com^
@@ -42940,7 +42944,6 @@ inapps.appsflyersdk.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
 ||inputicicle.com^
-||inquisitiveice.com^
 ||instrumentinsect.com^
 ||interestingpot.com^
 ||jailbulb.com^
@@ -51816,6 +51819,9 @@ inapps.appsflyersdk.com^
 ||hcgbhq.com^
 ||nbxymdy.cn^
 ||zzyy19.top^
+||gelbjvl.cn^
+||omzxutfm.com^
+||pdweoyw.cn^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-20T01:05:18.432Z
+! Last modified: 2023-10-20T06:19:46.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42212,6 +42212,7 @@ inapps.appsflyersdk.com^
 ||podcorn.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
+||pop6serve.com^
 ||popupmaker.com^
 ||prebidmanager.com^
 ||premiumimpression.com^
@@ -42792,6 +42793,7 @@ inapps.appsflyersdk.com^
 ||cautiouscherries.com^
 ||cavecurtain.com^
 ||cdnral.com^
+||ceciliavenus.com^
 ||celestialspectra.com^
 ||chalkoil.com^
 ||chargecracker.com^
@@ -43141,6 +43143,7 @@ inapps.appsflyersdk.com^
 ||stepplane.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
+||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
 ||stockingsneeze.com^
@@ -43634,6 +43637,7 @@ inapps.appsflyersdk.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
+||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
 ||octopart-analytics.com^
 ||oda.markitondemand.com^
@@ -51810,6 +51814,8 @@ inapps.appsflyersdk.com^
 ||ppvpmrt.xyz^
 ||haise4.top^
 ||hcgbhq.com^
+||nbxymdy.cn^
+||zzyy19.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^

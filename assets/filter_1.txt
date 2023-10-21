@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-21T01:03:39.742Z
+! Last modified: 2023-10-21T06:18:11.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -44386,6 +44386,7 @@ inapps.appsflyersdk.com^
 ||lentainform.com^
 ||mediatoday.ru^
 ||mobtop.ru^
+||netlog.ru^
 ||otclick-adv.ru^
 ||retag.xyz^
 ||rnet.plus^
@@ -44556,6 +44557,7 @@ inapps.appsflyersdk.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
 ||p.tencentmind.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
@@ -44571,6 +44573,7 @@ inapps.appsflyersdk.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||wlog.kuaishou.com^
 ||tracking.vid4u.org^
 ||a.centrum.cz^
@@ -44759,6 +44762,7 @@ inapps.appsflyersdk.com^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
+||za.zalo.me^
 
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
@@ -51020,7 +51024,6 @@ inapps.appsflyersdk.com^
 ||pushdy.com^
 ||pushdy.vn^
 ||pushtimize.com^
-||px.za.zalo.me^
 ||qc-static.coccoc.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
@@ -51838,6 +51841,11 @@ inapps.appsflyersdk.com^
 ||zzyy20.top^
 ||asfybkiy.xyz^
 ||usxuyr.icu^
+||zzyy17.top^
+||bzvhgbr.xyz^
+||foizico.cn^
+||fptdxkm.com^
+||faxffjo.com^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^

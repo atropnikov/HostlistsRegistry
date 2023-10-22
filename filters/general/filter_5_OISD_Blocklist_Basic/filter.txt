@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-22T20:14:10.190Z
+! Last modified: 2023-10-22T21:11:47.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5825,7 +5825,6 @@
 ||award.sitekeuring.net^
 ||awarecatching.com^
 ||awasrqp.xyz^
-||awaw.asia^
 ||away-stay.com^
 ||awayfterth.one^
 ||awayteemage.com^
@@ -10462,7 +10461,6 @@
 ||crayfishshepherd.com^
 ||crayon.meishichina.com^
 ||crazyhell.com^
-||crazyit8.com^
 ||crazylead.com^
 ||crazypopups.com^
 ||crazywingflap.com^
@@ -17702,7 +17700,6 @@
 ||grt02.com^
 ||grtaanmdu.com^
 ||grtexch.com^
-||grthhr.xyz^
 ||grtyb.com^
 ||grtyi.com^
 ||grtyj.com^
@@ -24154,7 +24151,6 @@
 ||mndsrv.com^
 ||mnetads.com^
 ||mng-ads.com^
-||mnhncf.cn^
 ||mnnmnn.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
@@ -40286,7 +40282,11 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.awaw.asia^
+||www.crazyit8.com^
+||www.grthhr.xyz^
 ||www.klfbnklddfbkn.com^
+||www.mnhncf.cn^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -41675,4 +41675,3 @@
 ||zzrjdp.xyz^
 ||zzxedr.xyz^
 ||zzxmcp.com^
-||zzyy18.top^

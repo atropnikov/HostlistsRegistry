@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-10-22T06:18:17.760Z
+! Last modified: 2023-10-22T12:26:27.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4787,6 +4787,7 @@ vkcdnservice.appspot.com^
 ||auberginecorny.com^
 ||auboaksa.com^
 ||aubpfvvsiyf.xyz^
+||aubsehog.net^
 ||auburn9819.com^
 ||auchoocm.com^
 ||auchoons.net^
@@ -32754,6 +32755,7 @@ vkcdnservice.appspot.com^
 ||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
 ||alarmsportsnetwork.com^
+||allsportsflix.
 ||api.140proof.com^
 ||api.bitp.it^
 ||apps.media-lab.ai^
@@ -51912,6 +51914,8 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zzyy17.top^
 ||zzyy19.top^
+||crazyit8.com^
+||yuanxiab.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^

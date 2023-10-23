@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-23T16:18:31.577Z
+! Last modified: 2023-10-23T17:11:37.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -825,7 +825,6 @@
 ||64134c91b6.com^
 ||644446.com^
 ||64p3am9x95ct.com^
-||6528fdyngk.xyz^
 ||65677358625.com^
 ||658bbb.us^
 ||65mjvw6i1z.com^
@@ -883,7 +882,6 @@
 ||6t5n9h77m8.com^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
-||7-7-7-partner.com^
 ||7-itrndsbrands.com^
 ||709861d049.com^
 ||71.am^
@@ -24156,7 +24154,6 @@
 ||mndsrv.com^
 ||mnetads.com^
 ||mng-ads.com^
-||mnhncf.cn^
 ||mnnmnn.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
@@ -40295,6 +40292,10 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
+||www.6528fdyngk.xyz^
+||www.7-7-7-partner.com^
+||www.mnhncf.cn^
+||www.yuanxiaa.cn^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -41207,7 +41208,6 @@
 ||yu.dlxxjsh.top^
 ||yu0123456.com^
 ||yu6v3nhnsl.com^
-||yuanxiaa.cn^
 ||yuarra.pluto.ro^
 ||yuebog.xyz^
 ||yueesv.icu^

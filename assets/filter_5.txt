@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-24T12:28:26.627Z
+! Last modified: 2023-10-24T18:19:17.682Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16845,7 +16845,6 @@
 ||geoip.pennlive.com^
 ||geoip.silive.com^
 ||geoip.syracuse.com^
-||geoloc.hurriyet.com.tr^
 ||geolsoul.life^
 ||geoplugin.net^
 ||georgianabamboorehearse.com^
@@ -24401,7 +24400,6 @@
 ||mopedisods.com^
 ||mopefrequent.com^
 ||mopnixhem.com^
-||mopo.jp^
 ||mopub-win-us-east.bksn.se^
 ||mopub.com^
 ||moracy.com^

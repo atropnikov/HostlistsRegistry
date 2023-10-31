@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-10-31T06:19:30.271Z
+! Last modified: 2023-10-31T08:18:37.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -887,7 +887,6 @@
 ||6t5n9h77m8.com^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
-||7-7-7-partner.com^
 ||7-itrndsbrands.com^
 ||709861d049.com^
 ||71.am^
@@ -17303,7 +17302,6 @@
 ||gml-grp.com^
 ||gmossp-sp.jp^
 ||gmpatched.tech^
-||gmx37.top^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -20078,7 +20076,6 @@
 ||iopiopiop.net^
 ||iopiopiop.org^
 ||ioredi.com^
-||iornsfyhueev.com^
 ||iorwe-qmf.com^
 ||ios.426g.com^
 ||ios.bugly.qq.com^
@@ -29310,7 +29307,6 @@
 ||psvvzb.xyz^
 ||psychalwamble.com^
 ||psychicbowel.com^
-||psycholjicaque.com^
 ||psychologyairport.com^
 ||psychologycircumvent.com^
 ||psychologydistinguishnest.com^
@@ -40480,6 +40476,11 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
+||www.7-7-7-partner.com^
+||www.gmx37.top^
+||www.iornsfyhueev.com^
+||www.psycholjicaque.com^
+||www.zhyivocrjeplby.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -41660,7 +41661,6 @@
 ||zhouduayqq.com^
 ||zhould.com^
 ||zhrrzug.xyz^
-||zhyivocrjeplby.com^
 ||zi.kissbluest.com^
 ||zi8ivy4b0c7l.com^
 ||ziaratjs.tech^

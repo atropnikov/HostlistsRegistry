@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-03T01:06:04.568Z
+! Last modified: 2023-11-03T06:19:06.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13726,7 +13726,9 @@ vkcdnservice.appspot.com^
 ||heebauch.com^
 ||heedsbedeaf.guru^
 ||heelseparateddistinguished.com^
+||heerosha.com^
 ||heeteefu.com^
+||heezylaura.com^
 ||hefeltlonely.one^
 ||heftymynah.com^
 ||hegazedatthewo.com^
@@ -14075,6 +14077,7 @@ vkcdnservice.appspot.com^
 ||hoonaptecun.com^
 ||hoood.info^
 ||hoopbeingsmigraine.com^
+||hoopersnonpoet.com^
 ||hoophaub.com^
 ||hooplejubus.uno^
 ||hooptaik.net^
@@ -17038,6 +17041,7 @@ vkcdnservice.appspot.com^
 ||lolsefti.com^
 ||lonelinessapp.com^
 ||lonfilliongin.com^
+||longeargloving.com^
 ||longerbuttonamendment.com^
 ||longestwaileddeadlock.com^
 ||longingarsonistexemplify.com^
@@ -32828,6 +32832,7 @@ vkcdnservice.appspot.com^
 ||ad.reklamport.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
+||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
 ||adrackpush.azurewebsites.net^
 ||ads-yallo-production.imgix.net^
@@ -32860,6 +32865,7 @@ vkcdnservice.appspot.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
 ||br.coe777.com^
+||bs-adserver.b-cdn.net^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
@@ -52194,6 +52200,10 @@ inapps.appsflyersdk.com^
 ||wutsldsk.xyz^
 ||ybrbdft.xyz^
 ||vdggsd003.com^
+||fenem.top^
+||qboywc.xyz^
+||xlca666.site^
+||eglizqf.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^

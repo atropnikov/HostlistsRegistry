@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-03T06:19:06.914Z
+! Last modified: 2023-11-03T12:29:13.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37921,6 +37921,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||scaredsong.com^
 ||truculentrate.com^
 ||ethereallagoon.com^
 ||tranquilcanyon.com^
@@ -43261,7 +43262,6 @@ inapps.appsflyersdk.com^
 ||scarcesurprise.com^
 ||scarecrowslope.com^
 ||scaredfarm.com^
-||scaredsong.com^
 ||scaredswing.com^
 ||scarfthought.com^
 ||scrapesleep.com^

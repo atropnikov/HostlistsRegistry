@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-11-07T18:18:50.633Z
+! Last modified: 2023-11-08T18:18:47.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1800,6 +1800,7 @@
 ||fireworkanalytics.com^
 ||fireworks-advertising.com^
 ||firstlightera.com^
+||firsttexture.com^
 ||flairadscpc.com^
 ||flakyfeast.com^
 ||flashtalking.com^
@@ -2201,6 +2202,7 @@
 ||lijit.com^
 ||link-booster.de^
 ||link.axios.com^
+||link.email.usmagazine.com^
 ||link.sbstck.com^
 ||link.theatlantic.com^
 ||link.uk.expediamail.com^
@@ -2982,6 +2984,7 @@
 ||securedopen-bp.com^
 ||securely-protectsoft.com^
 ||securemetrics.apple.com^
+||securemetrics.apple.com.cn^
 ||sedoparking.com^
 ||sedotracker.com^
 ||segment-cdn.producthunt.com^

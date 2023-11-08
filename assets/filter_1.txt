@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-08T01:06:27.237Z
+! Last modified: 2023-11-08T06:19:31.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41918,6 +41918,7 @@ inapps.appsflyersdk.com^
 ||engagio.com^
 ||ensighten.com^
 ||entravision.com^
+||envoke.com^
 ||eolcdn.com^
 ||ep4p.com^
 ||escalated.io^
@@ -42861,6 +42862,7 @@ inapps.appsflyersdk.com^
 ||fewjuice.com^
 ||fifthborder.com^
 ||financefear.com^
+||firsttexture.com^
 ||flowersornament.com^
 ||flowerycreature.com^
 ||foamypain.com^
@@ -42982,6 +42984,7 @@ inapps.appsflyersdk.com^
 ||pinpointpotato.com^
 ||piquantprice.com^
 ||placeframe.com^
+||planebasin.com^
 ||planesorder.com^
 ||plantrelation.com^
 ||plausiblecable.com^
@@ -43103,6 +43106,7 @@ inapps.appsflyersdk.com^
 ||spottedsmile.com^
 ||springsister.com^
 ||spurioussquirrel.com^
+||stakingbasket.com^
 ||stampknot.com^
 ||stat.pet^
 ||stayaction.com^
@@ -43134,6 +43138,7 @@ inapps.appsflyersdk.com^
 ||tastelesstoes.com^
 ||tastesnake.com^
 ||tdzvm.pw^
+||tearfulglass.com^
 ||tediousticket.com^
 ||teenytinycellar.com^
 ||telephoneapparatus.com^
@@ -43430,6 +43435,7 @@ inapps.appsflyersdk.com^
 ||d.shareaholic.com^
 ||d1tbj6eaenapdy.cloudfront.net^
 ||d2wa5sea6guof0.cloudfront.net^
+||d3vebqdofhigrn.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
 ||data.eetech.com^
@@ -52029,6 +52035,8 @@ inapps.appsflyersdk.com^
 ||lfhnzbj.xyz^
 ||bzbopfh.cn^
 ||ndbaxn.xyz^
+||aispyd.icu^
+||whols.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^

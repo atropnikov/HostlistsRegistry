@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-08T18:18:46.105Z
+! Last modified: 2023-11-09T01:07:21.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7056,6 +7056,7 @@ vkcdnservice.appspot.com^
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdpommmy.com^
 ||cdrvrs.com^
 ||cdsbnrs.com^
 ||cdtbox.rocks^
@@ -15270,6 +15271,7 @@ vkcdnservice.appspot.com^
 ||jamchew.com^
 ||jamdomn.pro^
 ||jame3s67jo9yc4e.com^
+||jamminds.com^
 ||jamokeuntress.com^
 ||jamsoulsfriday.com^
 ||jamstech.store^
@@ -22993,6 +22995,7 @@ vkcdnservice.appspot.com^
 ||raphanysteers.com^
 ||raphidewakener.com^
 ||rapidhits.net^
+||rapidlybeaver.com^
 ||rapolok.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -27504,6 +27507,7 @@ vkcdnservice.appspot.com^
 ||topprofitablecpm.com^
 ||topprofitablegate.com^
 ||toprevenuecpmnetwork.com^
+||toprevenuegate.com^
 ||toprevenuenetwork.com^
 ||topsummerapps.net^
 ||topswp.com^
@@ -52045,6 +52049,12 @@ inapps.appsflyersdk.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||mlumlio.cn^
+||xxlfteg.xyz^
+||arbbj6.com^
+||sglahyea.xyz^
+||nndytv.xyz^
+||eshbqn.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^

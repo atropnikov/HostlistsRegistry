@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-09T06:19:11.429Z
+! Last modified: 2023-11-09T12:28:37.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9100,6 +9100,7 @@ vkcdnservice.appspot.com^
 ||dessly.ru^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||desugeng.xyz^
 ||desxpbub.xyz^
 ||detachedbates.com^
 ||detachmentoccasionedarena.com^
@@ -22296,6 +22297,7 @@ vkcdnservice.appspot.com^
 ||ptechait.com^
 ||ptecmooz.net^
 ||ptecmuny.com^
+||ptedreer.com^
 ||ptedroab.xyz^
 ||pteeksou.xyz^
 ||pteevaih.xyz^
@@ -52057,6 +52059,7 @@ inapps.appsflyersdk.com^
 ||eshbqn.icu^
 ||muyxmmz.cn^
 ||xlam.cn^
+||toyhyhv.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -57251,6 +57254,8 @@ analytics-*.aasaam.com
 ||sentry.divar.cloud^
 ||actionlog.divar.ir^
 
+
+||sentry.fidibo.net^
 
 ||vast.filmnet.ir^
 

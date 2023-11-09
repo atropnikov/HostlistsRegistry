@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-11-08T20:15:27.435Z
+! Last modified: 2023-11-09T12:28:41.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -304,6 +304,7 @@
 ||1itot7tm.de^
 ||1j771bhgi.de^
 ||1jsskipuf8sd.com^
+||1k2l3m4n5o.com^
 ||1knhg4mmq.de^
 ||1l-hit.mail.ru^
 ||1l-hit.vkplay.ru^
@@ -33141,7 +33142,6 @@
 ||spinbox.techtracker.com^
 ||spinbox.versiontracker.com^
 ||spinbox1.com^
-||spinderirpe.com^
 ||spinna.online^
 ||spinna.shop^
 ||spinna.site^
@@ -39545,7 +39545,6 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
-||www.1k2l3m4n5o.com^
 ||www.7-7-7-partner.com^
 ||www.franciatirribi.com^
 ||www4.hentai-rpg.com^

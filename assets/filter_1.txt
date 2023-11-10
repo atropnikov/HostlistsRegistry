@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-10T01:06:17.499Z
+! Last modified: 2023-11-10T06:19:23.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42081,6 +42081,7 @@ inapps.appsflyersdk.com^
 ||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
+||dependenttrip.com^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||desirebucket.com^
@@ -51035,6 +51036,7 @@ inapps.appsflyersdk.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||realclick.vn^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -51476,7 +51478,6 @@ inapps.appsflyersdk.com^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
@@ -51584,7 +51585,6 @@ inapps.appsflyersdk.com^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
-||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
@@ -52078,6 +52078,7 @@ inapps.appsflyersdk.com^
 ||jppxnhe.xyz^
 ||whqgyo.xyz^
 ||icwnix.icu^
+||bxbyll.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -57292,6 +57293,8 @@ analytics-*.aasaam.com
 ||apptracking.irancell.ir^
 
 ||websocket.ilna.ir^
+||sentry.alibaba.ir^
+||tracker.jabama.com^
 
 ||kar-sentry.karnameh.com^
 

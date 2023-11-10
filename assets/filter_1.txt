@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-10T12:28:32.193Z
+! Last modified: 2023-11-10T15:15:18.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5346,6 +5346,7 @@ vkcdnservice.appspot.com^
 ||baubogla.com^
 ||bauchleredries.com^
 ||baunaurou.com^
+||bauptost.net^
 ||baustraightu.com^
 ||bauvaikul.com^
 ||bauweethie.com^
@@ -6154,6 +6155,7 @@ vkcdnservice.appspot.com^
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||bonzesantra.life^
+||boodaisi.xyz^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -18573,6 +18575,7 @@ vkcdnservice.appspot.com^
 ||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
+||mycelesterno.com^
 ||myckdom.com^
 ||myclickpush.com^
 ||mycoolfeed.com^
@@ -22331,6 +22334,7 @@ vkcdnservice.appspot.com^
 ||ptoahaistais.com^
 ||ptoajait.net^
 ||ptoangir.com^
+||ptoapouk.com^
 ||ptobsagn.com^
 ||ptoftheca.xyz^
 ||ptonauls.net^
@@ -57594,6 +57598,7 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||cdn.us*.exponea.com^|
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
 @@||api.karte.io^|

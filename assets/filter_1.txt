@@ -2,11 +2,19 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-11T12:26:12.669Z
+! Last modified: 2023-11-11T18:17:15.342Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||voxjvytmisj.com^
+||hyofteraq.com^
+||fwrnmmvxsfcrcqk.com^
+||toolughitilagu.com^
+||recrihertrettons.com^
+||nukeluck.net^
+||wbzfybvl.com^
+||asuipiirq.com^
 ||urqxesau.com^
 ||fetinhapinhedt.com^
 ||herdintwillelitt.com^
@@ -1199,6 +1207,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||d3vw74hiy9xqtm.cloudfront.net^
 ||d36utvtykl56bp.cloudfront.net^
 ||d34gjfm75zhp78.cloudfront.net^
 ||d1f7vr2umogk27.cloudfront.net^
@@ -49928,7 +49937,6 @@ inapps.appsflyersdk.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||avault.net^
 
-
 ||1terms.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
@@ -51650,6 +51658,7 @@ inapps.appsflyersdk.com^
 ||24w0p.com^
 ||273knt.xyz^
 ||2c0a5.xyz^
+||2u3v4w5x6y.com^
 ||3562wsgkbcm.xyz^
 ||3dh9y.com^
 ||44jui.top^
@@ -51666,6 +51675,7 @@ inapps.appsflyersdk.com^
 ||aaknmt.icu^
 ||actrqdr.cn^
 ||agossuoeach.com^
+||ahpphkc.xyz^
 ||aidmat.icu^
 ||aispyd.icu^
 ||aknkvallbfml.com^
@@ -51819,6 +51829,7 @@ inapps.appsflyersdk.com^
 ||gnuoipb.cn^
 ||gqleov.icu^
 ||grthhr.xyz^
+||gscsahv011.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -51838,6 +51849,7 @@ inapps.appsflyersdk.com^
 ||huxifena.cn^
 ||hvpard.xyz^
 ||hwuogmusthxfpk.xyz^
+||hwvwxerw.xyz^
 ||hxhx9.cn^
 ||hynahyqq.xyz^
 ||ibsea.cn^
@@ -51857,6 +51869,7 @@ inapps.appsflyersdk.com^
 ||iuvssgh.cn^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
+||jili9.io^
 ||jlhlnd.xyz^
 ||jmhngn.com^
 ||jndxsuy.xyz^
@@ -51906,6 +51919,7 @@ inapps.appsflyersdk.com^
 ||mcds9.icu^
 ||meilunsc.com^
 ||mfnfylx.xyz^
+||mggzah.icu^
 ||mhnzhlase.xyz^
 ||mlumlio.cn^
 ||mmvjuti.cn^
@@ -51915,6 +51929,7 @@ inapps.appsflyersdk.com^
 ||mrthav.xyz^
 ||mryqtym.cn^
 ||muyxmmz.cn^
+||mvng.cn^
 ||mwfyab.icu^
 ||myyxox.icu^
 ||n019q.com^
@@ -51960,6 +51975,7 @@ inapps.appsflyersdk.com^
 ||psroyx.icu^
 ||ptdofj.xyz^
 ||pxxnejx.xyz^
+||pzcogpj.icu^
 ||qauksl.icu^
 ||qbhjokk.xyz^
 ||qboywc.xyz^
@@ -51968,7 +51984,9 @@ inapps.appsflyersdk.com^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
+||qoqoangry.com^
 ||qtq632.com^
+||quqtone.cn^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
@@ -52013,12 +52031,14 @@ inapps.appsflyersdk.com^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
+||uncs7.top^
 ||unidict.cn^
 ||unqrroh.cn^
 ||uqeuxpl.cn^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
+||valerieurania.com^
 ||vdggsd001.com^
 ||vdggsd002.com^
 ||vdggsd003.com^
@@ -52037,9 +52057,11 @@ inapps.appsflyersdk.com^
 ||vdggsd016.com^
 ||vdggsd017.com^
 ||vgjaxnuw.xyz^
+||vhhxnb.xyz^
 ||virginiasibyl.com^
 ||vivienjumpe.com^
 ||vizhtd.xyz^
+||vjzjpt.xyz^
 ||vrivslffndepxqd.xyz^
 ||vrnrpzy.xyz^
 ||vttqld.xyz^
@@ -52059,6 +52081,7 @@ inapps.appsflyersdk.com^
 ||wuyaw.cn^
 ||wvtem.com^
 ||wyiegt.icu^
+||wymzwy.cn^
 ||wyoaij.icu^
 ||wyohm.xyz^
 ||xcqbbcqpl.xyz^
@@ -52106,18 +52129,6 @@ inapps.appsflyersdk.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||uncs7.top^
-||vhhxnb.xyz^
-||quqtone.cn^
-||hwvwxerw.xyz^
-||mggzah.icu^
-||vjzjpt.xyz^
-||ahpphkc.xyz^
-||jili9.io^
-||gscsahv011.com^
-||mvng.cn^
-||pzcogpj.icu^
-||wymzwy.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-11-13T14:14:15.017Z
+! Last modified: 2023-11-16T08:19:23.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -239,7 +239,6 @@
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 cdn.broadstreetads.com
-127.0.0.1 cdn.churnkit.com
 127.0.0.1 cdn.convertbox.com
 127.0.0.1 cdn.cxense.com
 127.0.0.1 cdn.decibelinsight.net
@@ -654,7 +653,6 @@
 127.0.0.1 rabble-res.cloudinary.com
 127.0.0.1 reauthenticator.com
 127.0.0.1 recirculation.spot.im
-127.0.0.1 record.findtrustclicks.com
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 regstat.se
@@ -1043,7 +1041,6 @@
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
 127.0.0.1 www.guesssverige.com.se
-127.0.0.1 www.gymsharkswedens.com
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.mymediaindex.com
 127.0.0.1 www.nichehuset.dk
@@ -1062,6 +1059,7 @@
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.gymshark-sweden.com.se
+127.0.0.1 www.gym-sharksweden.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
 127.0.0.1 z.moatads.com

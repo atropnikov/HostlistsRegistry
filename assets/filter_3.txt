@@ -2,13 +2,12 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-11-15T17:14:09.690Z
+! Last modified: 2023-11-17T12:29:26.334Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
 
-||1-1ads.com^
 ||101com.com^
 ||101order.com^
 ||180hits.de^
@@ -18,7 +17,6 @@
 ||207.net^
 ||247media.com^
 ||24log.com^
-||24log.de^
 ||24pm-affiliation.com^
 ||2mdn.net^
 ||2o7.net^
@@ -94,7 +92,6 @@
 ||ad-balancer.net^
 ||ad-cupid.com^
 ||ad-delivery.net^
-||ad-pay.de^
 ||ad-rotator.com^
 ||ad-score.com^
 ||ad-server.gulasidorna.se^
@@ -667,7 +664,6 @@
 ||ads10.speedbit.com^
 ||ads180.com^
 ||ads2.brazzers.com^
-||ads2.clearchannel.com^
 ||ads2.contentabc.com^
 ||ads2.femmefab.nl^
 ||ads2.gamecity.net^
@@ -1067,7 +1063,6 @@
 ||avocet.io^
 ||awakebird.com^
 ||awempire.com^
-||awesomeagreement.com^
 ||awin1.com^
 ||awstrack.me^
 ||awzbijw.com^
@@ -1426,7 +1421,6 @@
 ||cloisteredcord.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
-||cloudcoins.biz^
 ||cloudflareinsights.com^
 ||cloudiq.com^
 ||clrstm.com^
@@ -2041,7 +2035,6 @@
 ||imprese.cz^
 ||impressionmedia.cz^
 ||impressionmonster.com^
-||impressionz.co.uk^
 ||improvedigital.com^
 ||impulsehands.com^
 ||imrworldwide.com^
@@ -2481,8 +2474,6 @@
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
-||newsadsppush.com^
-||newsletter-link.com^
 ||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
@@ -3401,7 +3392,6 @@
 ||tracking.39-bb4a9-osm.co.uk^
 ||tracking.42-01pr5-osm-secure.co.uk^
 ||tracking.5-47737-bi.co.uk^
-||tracking.emilyclarkconsulting.com^
 ||tracking.epicgames.com^
 ||tracking.exipure.com^
 ||tracking.hyros.com^

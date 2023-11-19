@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2023-11-19T08:17:54.371Z
+! Last modified: 2023-11-19T16:18:18.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -788,6 +788,7 @@
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
+0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk
@@ -18681,6 +18682,7 @@
 0.0.0.0 supertop.ru
 0.0.0.0 supertop100.com
 0.0.0.0 superxxxfree.com
+0.0.0.0 suphelper.com
 0.0.0.0 suppliedhopelesspredestination.com
 0.0.0.0 supportivelosing.com
 0.0.0.0 supremeadblocker.info

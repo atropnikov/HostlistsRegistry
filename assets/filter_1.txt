@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-20T06:21:02.953Z
+! Last modified: 2023-11-20T12:31:03.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dautegoa.xyz^
 ||uueuxygn.com^
 ||jaaqbbqbst.com^
 ||evenghiougher.com^
@@ -38104,6 +38105,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||rtm-tracking.zozo.jp^
+||analytics.netkeiba.com^
 ||d1tprjo2w7krrh.cloudfront.net^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
@@ -40810,12 +40813,14 @@ inapps.appsflyersdk.com^
 ||dspx.tv^
 ||e1e.io^
 ||easycompute.systems^
+||ed-sys.net^
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||envato.market^
+||epsilondelta.co^
 ||eqy.link^
 ||f27tltnd.de^
 ||fairdatacenter.de^
@@ -49508,6 +49513,7 @@ inapps.appsflyersdk.com^
 ||yads.yjtag.yahoo.co.jp^
 ||maillovelove.net^
 
+||creative.141live.com^
 ||shop.vapelog.jp^
 ||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
@@ -50632,6 +50638,7 @@ inapps.appsflyersdk.com^
 ||tracking.etidning.vetlandaposten.se^
 ||tracking.etidning.vlt.se^
 ||tracking.etidning.vn.se^
+||tracking.expressen.se^
 ||tracking.falkopingstidning.se^
 ||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
@@ -52178,7 +52185,6 @@ inapps.appsflyersdk.com^
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
-||l404k.com^
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
@@ -52476,6 +52482,8 @@ inapps.appsflyersdk.com^
 ||rett.top^
 ||zhangyuting04.cn^
 ||holdntlc.com^
+||jane2.top^
+||gcbtgh26.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -56670,6 +56678,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||ipad.pc899.cn^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

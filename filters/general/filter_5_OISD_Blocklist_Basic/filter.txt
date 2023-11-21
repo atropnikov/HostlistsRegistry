@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-11-21T15:16:07.790Z
+! Last modified: 2023-11-21T17:16:47.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -881,6 +881,7 @@
 ||6u4j.icu^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
+||7-7-7-partner.com^
 ||71.am^
 ||714b1bd263.com^
 ||71692fai4cc0.com^
@@ -15188,6 +15189,7 @@
 ||fgjasshw.com^
 ||fgnzdb.xyz^
 ||fgttbz.xyz^
+||fguhyg.cn^
 ||fh.termsixias.com^
 ||fh259by01r25.com^
 ||fhddnh.xyz^
@@ -18162,6 +18164,7 @@
 ||hjxajf.com^
 ||hkctmldg.icu^
 ||hkilops.com^
+||hkljed.xyz^
 ||hkscldggm.xyz^
 ||hktracker.hankookilbo.com^
 ||hl.jinchaovetoer.com^
@@ -37991,6 +37994,7 @@
 ||vrizead.com^
 ||vrlvnz.xyz^
 ||vrnrpzy.xyz^
+||vrosqolcg.com^
 ||vrs.cz^
 ||vrsyd.uno^
 ||vrtzads.com^
@@ -39171,10 +39175,6 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
-||www.7-7-7-partner.com^
-||www.fguhyg.cn^
-||www.hkljed.xyz^
-||www.vrosqolcg.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

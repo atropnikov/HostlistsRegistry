@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-23T01:08:22.955Z
+! Last modified: 2023-11-23T06:19:48.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41052,6 +41052,7 @@ inapps.appsflyersdk.com^
 ||sjpf.io^
 ||snptrk.com^
 ||soapfighters.com^
+||soapps.net^
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
@@ -42139,6 +42140,7 @@ inapps.appsflyersdk.com^
 ||addictedattention.com^
 ||additionant.com^
 ||adorableanger.com^
+||adorableattention.com^
 ||adventurousamount.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
@@ -42246,6 +42248,7 @@ inapps.appsflyersdk.com^
 ||blackbrake.com^
 ||bleachbubble.com^
 ||bleachscarecrow.com^
+||bleedlight.com^
 ||blesspizzas.com^
 ||blotburn.com^
 ||blushingbeast.com^
@@ -42335,6 +42338,7 @@ inapps.appsflyersdk.com^
 ||ceciliavenus.com^
 ||celestialspectra.com^
 ||chairscrack.com^
+||chairsdonkey.com^
 ||chalkoil.com^
 ||channelcamp.com^
 ||chargecracker.com^
@@ -42434,6 +42438,7 @@ inapps.appsflyersdk.com^
 ||cuddlycake.com^
 ||culturedcamera.com^
 ||culturedcrayon.com^
+||culturedfeather.com^
 ||cumbersomecake.com^
 ||cumbersomecar.com^
 ||cumbersomecloud.com^
@@ -42457,6 +42462,7 @@ inapps.appsflyersdk.com^
 ||damdoor.com^
 ||dampdock.com^
 ||dancemistake.com^
+||dangerouswinter.com^
 ||dapperdiscussion.com^
 ||dapperfloor.com^
 ||dashingdirt.com^
@@ -42497,6 +42503,8 @@ inapps.appsflyersdk.com^
 ||detectdiscovery.com^
 ||differentcoat.com^
 ||difficultfog.com^
+||digestiondrawer.com^
+||dinnerquartz.com^
 ||diplomahawaii.com^
 ||direfuldesk.com^
 ||disagreeabledrop.com^
@@ -42536,12 +42544,14 @@ inapps.appsflyersdk.com^
 ||earthquakeend.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
+||eatablesquare.com^
 ||echoinghaven.com^
 ||economicpizzas.com^
 ||efficaciouscactus.com^
 ||ejyymghi.com^
 ||elasticchange.com^
 ||elasticducks.com^
+||elderlybean.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
@@ -42637,6 +42647,7 @@ inapps.appsflyersdk.com^
 ||frailflock.com^
 ||frailfruit.com^
 ||frailoffer.com^
+||framebanana.com^
 ||franticcarpenter.com^
 ||frantictrail.com^
 ||freezingbuilding.com^
@@ -42685,6 +42696,7 @@ inapps.appsflyersdk.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
 ||grandfatherguitar.com^
+||grandiosefire.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
@@ -42957,6 +42969,7 @@ inapps.appsflyersdk.com^
 ||omniscientfeeling.com^
 ||omniscientspark.com^
 ||operationchicken.com^
+||operationnail.com^
 ||opinionsurprise.com^
 ||oppositeoperation.com^
 ||oppositeparcel.com^
@@ -43028,6 +43041,7 @@ inapps.appsflyersdk.com^
 ||pocketfaucet.com^
 ||podiumpresto.com^
 ||poeticpackage.com^
+||pointdigestion.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
@@ -43098,6 +43112,7 @@ inapps.appsflyersdk.com^
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||radiantcanopy.com^
 ||radiateprose.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
@@ -43123,6 +43138,7 @@ inapps.appsflyersdk.com^
 ||rebelhen.com^
 ||rebelsubway.com^
 ||rebelswing.com^
+||receiptcent.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^
@@ -43137,6 +43153,7 @@ inapps.appsflyersdk.com^
 ||regulatesleet.com^
 ||rehabilitatereason.com^
 ||rejectfairies.com^
+||relationrest.com^
 ||rememberdiscussion.com^
 ||repeatsweater.com^
 ||replaceroute.com^
@@ -43305,6 +43322,7 @@ inapps.appsflyersdk.com^
 ||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
+||snakeslang.com^
 ||snakesshop.com^
 ||snakesstone.com^
 ||sneakystew.com^
@@ -43404,6 +43422,7 @@ inapps.appsflyersdk.com^
 ||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
+||stingyshoe.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
 ||stopstomach.com^
@@ -43420,6 +43439,7 @@ inapps.appsflyersdk.com^
 ||stretchsneeze.com^
 ||stretchsquirrel.com^
 ||stringsmile.com^
+||stripedbat.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||strivesquirrel.com^
@@ -43578,6 +43598,7 @@ inapps.appsflyersdk.com^
 ||unwieldyhealth.com^
 ||unwieldyplastic.com^
 ||unwrittenspot.com^
+||uppitytime.com^
 ||usedexample.com^
 ||uselesslumber.com^
 ||uttermosthobbies.com^
@@ -43585,6 +43606,7 @@ inapps.appsflyersdk.com^
 ||vanishmemory.com^
 ||velvetnova.com^
 ||vengefulgrass.com^
+||venomousvessel.com^
 ||venusgloria.com^
 ||verdantanswer.com^
 ||verifyvegetable.com^
@@ -52645,6 +52667,8 @@ inapps.appsflyersdk.com^
 ||dzdxnbc.xyz^
 ||jackdd.xyz^
 ||mhglue.xyz^
+||bfgtfxd.com^
+||fgcxdr.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

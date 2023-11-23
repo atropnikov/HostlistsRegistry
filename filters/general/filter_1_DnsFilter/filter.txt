@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-23T06:19:48.532Z
+! Last modified: 2023-11-23T12:29:33.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34670,6 +34670,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||logging.pw.adn.cloud^
+||admatrix.jp^
 ||meanlytics.com^
 ||app.pendo.io^
 ||vibeaconstr.onezapp.com^
@@ -38189,6 +38191,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||inbound-analytics.pixlee.com^
 ||rtm-tracking.zozo.jp^
 ||analytics.netkeiba.com^
 ||d1tprjo2w7krrh.cloudfront.net^
@@ -44720,7 +44723,6 @@ inapps.appsflyersdk.com^
 ||ad-fam.com^
 ||ad-track.jp^
 ||adapf.com^
-||admatrix.jp^
 ||adpon.jp^
 ||af-z.jp^
 ||afi-b.com^
@@ -52669,6 +52671,10 @@ inapps.appsflyersdk.com^
 ||mhglue.xyz^
 ||bfgtfxd.com^
 ||fgcxdr.cn^
+||ronm.top^
+||wwwww.asia^
+||kbzs88.com^
+||yjbdyjnctgj.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

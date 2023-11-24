@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-24T01:06:55.660Z
+! Last modified: 2023-11-24T06:19:58.647Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41324,6 +41324,7 @@ inapps.appsflyersdk.com^
 ||datasteam.io^
 ||datazoom.io^
 ||ddm.io^
+||deadlinefunnel.com^
 ||debugbear.com^
 ||deep-content.io^
 ||deepattention.com^
@@ -43862,12 +43863,10 @@ inapps.appsflyersdk.com^
 ||caspionlog.appspot.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
-||cdn.trafficexchangelist.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
 ||chanalytics.merchantadvantage.com^
-||check.deadlinefunnel.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
 ||clevertap-prod.com^
@@ -43967,6 +43966,7 @@ inapps.appsflyersdk.com^
 ||dig.ultimedia.com^
 ||dl.episerver.net^
 ||doppler-beacon.cbsivideo.com^
+||doppler-client-events.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -52713,6 +52713,7 @@ inapps.appsflyersdk.com^
 ||djponj.xyz^
 ||huxsvl.xyz^
 ||kkeojk.xyz^
+||tobyxev.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

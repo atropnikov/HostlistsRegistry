@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-11-25T03:15:43.191Z
+! Last modified: 2023-11-25T06:18:23.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8658,6 +8658,7 @@
 ||bravotrk.com^
 ||brazenwholly.com^
 ||brazzerssurvey.com^
+||brcdn.com^
 ||breahant.site^
 ||breakdownreprintsentimental.com^
 ||breakfastinvitingdetergent.com^
@@ -9716,7 +9717,6 @@
 ||cdn.betrad.com^
 ||cdn.bizible.com^
 ||cdn.boomtrain.com^
-||cdn.brcdn.com^
 ||cdn.buram.xyz^
 ||cdn.c-i.as^
 ||cdn.clicktale.net^
@@ -11668,7 +11668,6 @@
 ||cpalead.com^
 ||cpaokhfmaccu.com^
 ||cpaspeed.online^
-||cpatrack.leadn.com^
 ||cpaway.com^
 ||cpays.com^
 ||cpcmart.com^

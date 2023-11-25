@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-11-25T09:13:04.718Z
+! Last modified: 2023-11-25T10:14:25.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -965,6 +965,7 @@
 ||6u4j.icu^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
+||7-7-7-partner.com^
 ||71.am^
 ||714b1bd263.com^
 ||71692fai4cc0.com^
@@ -23201,6 +23202,7 @@
 ||kobeden.com^
 ||kocairdo.net^
 ||kochov.com^
+||kodagupinkoes.com^
 ||kodmagic1.me^
 ||kofirusy.pro^
 ||kogutcho.net^
@@ -43645,8 +43647,6 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
-||www.7-7-7-partner.com^
-||www.kodagupinkoes.com^
 ||www1.pollg.com^
 ||www1.sedoparking.com^
 ||www1.tec-tec-boom.com^

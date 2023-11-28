@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-11-22T13:20:00.772Z
+! Last modified: 2023-11-28T13:18:51.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -199,6 +199,7 @@
 127.0.0.1 bulletproof-analytics.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
+127.0.0.1 c.aaxads.com
 127.0.0.1 c.adsco.re
 127.0.0.1 c.cintnetworks.com
 127.0.0.1 c.eacla.com

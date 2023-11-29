@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-11-29T09:15:27.010Z
+! Last modified: 2023-11-29T10:16:52.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -864,7 +864,6 @@
 ||6u4j.icu^
 ||6ujk8x9soxhm.com^
 ||6zy9yqe1ew.com^
-||7-7-7-partner.com^
 ||71.am^
 ||714b1bd263.com^
 ||71692fai4cc0.com^
@@ -1934,6 +1933,7 @@
 ||ad.xrea.com^
 ||ad.xxam.org^
 ||ad.yemeksepeti.com^
+||ad.zijieapi.com^
 ||ad.zing.vn^
 ||ad.zinimedia.com^
 ||ad.zui.com^
@@ -22823,6 +22823,7 @@
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
+||mcs.zijieapi.com^
 ||mctqu.com^
 ||mcurrentlyse.shop^
 ||mcvwjzj.com^
@@ -23607,6 +23608,7 @@
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
+||mon.zijieapi.com^
 ||monadplug.com^
 ||monadvs.com^
 ||monamudden.digital^
@@ -28846,7 +28848,6 @@
 ||qoqoangry.com^
 ||qoqv.com^
 ||qoredi.com^
-||qoswfds.cn^
 ||qoutec.shop^
 ||qozveo.com^
 ||qppq166n.de^
@@ -38971,6 +38972,7 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
+||www.7-7-7-partner.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

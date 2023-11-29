@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-29T06:20:04.384Z
+! Last modified: 2023-11-29T10:16:48.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||zsgpdafjd.com^
+||wzcznlufq.com^
 ||ytvigqwx.com^
 ||waunsgraphs.website^
 ||homierceston.top^
@@ -40109,7 +40111,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logs.supersonic.com^
 ||ntracker-collector.naver.com^
 ||ace.naver.com^
-||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||flash.sec.intl.miui.com^
 ||api.setting.intl.miui.com^
@@ -52665,6 +52666,7 @@ inapps.appsflyersdk.com^
 ||bavkvoks.xyz^
 ||oouiqi.xyz^
 ||fxkfhbn.xyz^
+||commonwealthproficient.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -58195,6 +58197,7 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||cmp.inmobi.com^|
 @@||cdn.us*.exponea.com^|
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|

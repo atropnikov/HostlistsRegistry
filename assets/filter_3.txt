@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-11-30T14:14:24.680Z
+! Last modified: 2023-12-01T12:29:41.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -508,7 +508,6 @@
 ||ads.kinxxx.com^
 ||ads.kompass.com^
 ||ads.krawall.de^
-||ads.lapalingo.com^
 ||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.liberte.pl^
@@ -870,7 +869,6 @@
 ||advertmedia.de^
 ||advertpro.ya.com^
 ||advertserve.com^
-||advertstream.com^
 ||advertwizard.com^
 ||advideo.uimserv.net^
 ||adview.com^
@@ -1081,7 +1079,6 @@
 ||backbeatmedia.com^
 ||balloontexture.com^
 ||banik.redigy.cz^
-||banner-exchange-24.de^
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
 ||banner.casino.net^
@@ -1251,7 +1248,6 @@
 ||bridgetrack.com^
 ||briefstem.com^
 ||brightcom.com^
-||brightinfo.com^
 ||brightmountainmedia.com^
 ||broadboundary.com^
 ||broadcastbed.com^

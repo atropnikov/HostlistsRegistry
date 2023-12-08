@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-12-07T18:19:33.975Z
+! Last modified: 2023-12-08T01:09:57.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7070,6 +7070,7 @@ vkcdnservice.appspot.com^
 ||cahvpbsikxvvm.xyz^
 ||caicuptu.xyz^
 ||caigluph.xyz^
+||caigobou.com^
 ||caimoasy.net^
 ||cainauhi.xyz^
 ||cainismlungee.uno^
@@ -10512,6 +10513,7 @@ vkcdnservice.appspot.com^
 ||echoachy.xyz^
 ||echoizepheeal.uno^
 ||echskbpghlc.com^
+||eciivxqtur.com^
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
@@ -11054,6 +11056,7 @@ vkcdnservice.appspot.com^
 ||eoveukrnme.info^
 ||eoweridus.com^
 ||eownouncillors.info^
+||eoxaxdglxecvguh.xyz^
 ||epacash.com^
 ||epagogerepines.com^
 ||epailseptox.com^
@@ -14909,6 +14912,7 @@ vkcdnservice.appspot.com^
 ||iletterismyper.info^
 ||ilgwuqgvdzl.com^
 ||iliifmido.xyz^
+||iliketomakingpics.com^
 ||ilinouck.net^
 ||ilkmawgod.site^
 ||illallwoe.com^
@@ -53229,6 +53233,13 @@ inapps.appsflyersdk.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||uito.top^
+||ydv7k.cyou^
+||wwhsxwow.xyz^
+||cnqaaa.xyz^
+||hdbppx.xyz^
+||murdyq.com^
+||wzzlnld.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -57609,6 +57620,7 @@ analytics-*.aasaam.com
 
 ||tracker.farsnews.ir^
 
+||analytics.hostiran.net^
 ||hiads.hidoctor.ir^
 
 ||ipsite.ir^

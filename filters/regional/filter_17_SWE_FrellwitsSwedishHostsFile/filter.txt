@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-12-07T06:20:19.790Z
+! Last modified: 2023-12-10T08:18:19.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -493,6 +493,7 @@
 127.0.0.1 js.glitnoraffiliates.com
 127.0.0.1 js.hsadspixel.net
 127.0.0.1 js.hsleadflows.net
+127.0.0.1 js.multibrandaffiliates.com
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.mgid.com

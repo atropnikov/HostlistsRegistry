@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-12-10T18:17:43.043Z
+! Last modified: 2023-12-11T01:09:54.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31847,6 +31847,7 @@ vkcdnservice.appspot.com^
 ||e-generator.com^
 ||e-planning.net^
 ||e-viral.com^
+||eadsrv.com^
 ||easy-ads.com^
 ||easyhits4u.com^
 ||easyinline.com^
@@ -40503,6 +40504,7 @@ inapps.appsflyersdk.com^
 ||iconnode.com^
 ||id-ward.com^
 ||idx.lat^
+||ilius.net^
 ||impactcdn.com^
 ||impactradius-event.com^
 ||ineed2s.ro^
@@ -44695,6 +44697,7 @@ inapps.appsflyersdk.com^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ||links.boom.ge^
+||stats-real-clients.zentech.gr^
 ||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
@@ -44765,7 +44768,6 @@ inapps.appsflyersdk.com^
 ||ad-tracker-api.luizalabs.com^
 ||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
-||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
 ||hitserver.ibope.com.br^
@@ -50509,6 +50511,7 @@ inapps.appsflyersdk.com^
 ||www.gym-sharksweden.com^
 
 ||adplay.it^
+||brznetwork.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
@@ -50550,7 +50553,6 @@ inapps.appsflyersdk.com^
 ||banzaiadv.it^
 ||beead.it^
 ||break-even.it^
-||brznetwork.com^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
 ||clacson24.com^
@@ -52562,6 +52564,16 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||zf4.top^
+||zxpvalr.xyz^
+||sltle.icu^
+||ptflrj.xyz^
+||aerbgpn.xyz^
+||limopf.top^
+||ravzbd.xyz^
+||ukkkmg.xyz^
+||ucjevgue.xyz^
+||seutop.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

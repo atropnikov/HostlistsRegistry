@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-12-14T01:08:25.157Z
+! Last modified: 2023-12-14T06:20:07.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41416,6 +41416,8 @@ inapps.appsflyersdk.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
+||pixeltracker.co^
+||pixeltracker.im^
 ||pnstat.com^
 ||podcorn.com^
 ||pointillist.com^
@@ -41457,6 +41459,7 @@ inapps.appsflyersdk.com^
 ||rdcdn.com^
 ||reachlocalservices.com^
 ||reallyfreegeoip.org^
+||realtimewebstats.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
@@ -42004,6 +42007,7 @@ inapps.appsflyersdk.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
+||amethystzenith.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -42526,6 +42530,7 @@ inapps.appsflyersdk.com^
 ||franticroof.com^
 ||frantictrail.com^
 ||freezingbuilding.com^
+||frequentflesh.com^
 ||fretfulfurniture.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
@@ -42555,6 +42560,7 @@ inapps.appsflyersdk.com^
 ||gaudybeginner.com^
 ||generalprose.com^
 ||gentlemoonlight.com^
+||giantsvessel.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -43268,6 +43274,7 @@ inapps.appsflyersdk.com^
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
+||soothingglade.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
 ||sordidsmile.com^
@@ -43454,6 +43461,7 @@ inapps.appsflyersdk.com^
 ||terriblethumb.com^
 ||terrificgoose.com^
 ||terrifictooth.com^
+||testadmiral.com^
 ||testedtouch.com^
 ||teststocking.com^
 ||texturetrick.com^
@@ -44161,6 +44169,7 @@ inapps.appsflyersdk.com^
 ||smrt.as^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
+||snowplowjs.darwin.cx^
 ||solutions.invocacdn.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||spa-tracker.spapi.io^

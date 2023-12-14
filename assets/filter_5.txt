@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-12-14T18:19:49.737Z
+! Last modified: 2023-12-14T19:12:18.915Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1854,6 +1854,7 @@
 ||ad.xrea.com^
 ||ad.xxam.org^
 ||ad.yemeksepeti.com^
+||ad.zijieapi.com^
 ||ad.zing.vn^
 ||ad.zinimedia.com^
 ||ad.zui.com^
@@ -22792,6 +22793,7 @@
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
+||mcs.zijieapi.com^
 ||mctqu.com^
 ||mcurrentlyse.shop^
 ||mcvwjzj.com^
@@ -23570,6 +23572,7 @@
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
+||mon.zijieapi.com^
 ||monadplug.com^
 ||monadvs.com^
 ||monamudden.digital^

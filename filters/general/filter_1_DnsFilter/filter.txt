@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-12-15T01:10:13.521Z
+! Last modified: 2023-12-15T06:19:59.168Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42040,6 +42040,7 @@ inapps.appsflyersdk.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
 ||amethystzenith.com^
+||amuckafternoon.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -52975,7 +52976,6 @@ inapps.appsflyersdk.com^
 ||rwnmcum.cn^
 ||xn--1qwynp09f.net^
 ||smbx8.net^
-||sda1.dev^
 ||mross044.com^
 ||maxun103.top^
 ||kfpicimage.xyz^
@@ -52995,6 +52995,9 @@ inapps.appsflyersdk.com^
 ||fhdjdv.xyz^
 ||pgieqr.top^
 ||ajbpcxi.xyz^
+||qtciam.xyz^
+||birglucy.xyz^
+||vjnxpj.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

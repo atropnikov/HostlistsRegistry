@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-12-15T18:19:18.154Z
+! Last modified: 2023-12-16T01:08:21.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35068,6 +35068,7 @@ vkcdnservice.appspot.com^
 ||gnar.grammarly.com^
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
+||events-api.gazetadopovo.com.br^
 ||i-cmg-amlg-prod.appspot.com^
 ||capture-api.autopilotapp.com^
 ||s.autopilotapp.com^
@@ -41291,6 +41292,7 @@ inapps.appsflyersdk.com^
 ||heatmap.services^
 ||heylink.com^
 ||hif.to^
+||highlight.run^
 ||hira-meki.jp^
 ||hit-360.com^
 ||hitsteps.com^
@@ -53035,6 +53037,16 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kyjwtxei.xyz^
+||f780f.space^
+||awzddev.cn^
+||qznjujv.xyz^
+||hvlitr.xyz^
+||mbfhwag.xyz^
+||trojangfw.xyz^
+||nrfhbd.xyz^
+||cfateu.xyz^
+||acemof.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

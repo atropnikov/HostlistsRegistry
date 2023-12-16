@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-12-16T16:18:03.148Z
+! Last modified: 2023-12-16T17:12:27.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,7 +16,6 @@
 ||003store.com^
 ||004809f9da.com^
 ||007angels.com^
-||008f54b4d6.com^
 ||00author.com^
 ||00go.com^
 ||00it.com^
@@ -188,7 +187,6 @@
 ||123movies.to^
 ||123sex.biz^
 ||123w0w.com^
-||1244458189.rsc.cdn77.org^
 ||12cams.be^
 ||12ezo5v60.com^
 ||12masterov.com^
@@ -38881,6 +38879,7 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
+||www.008f54b4d6.com^
 ||www.05fbc08eac.com^
 ||www.1227a.xyz^
 ||www.1287a.xyz^
@@ -38897,7 +38896,6 @@
 ||www.b5c7158627.com^
 ||www.baitu3lllqubyqmttdkjsv.com^
 ||www.bf3572595c.com^
-||www.cfeb0910c5.com^
 ||www.e9c5ee1e68.com^
 ||www.hubbysyndoc.com^
 ||www.jsgmsoapx.com^

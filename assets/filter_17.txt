@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2023-12-19T12:29:05.935Z
+! Last modified: 2023-12-20T10:13:32.651Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -588,6 +588,7 @@
 127.0.0.1 newstats.blogg.se
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nichehuset.dk
+127.0.0.1 nitroscripts.com
 127.0.0.1 norranstats.azurewebsites.net
 127.0.0.1 norstatsurveys.com
 127.0.0.1 npario-inc.net

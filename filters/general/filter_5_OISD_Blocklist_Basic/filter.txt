@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-12-24T21:12:18.151Z
+! Last modified: 2023-12-25T01:09:14.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3792,7 +3792,6 @@
 ||albumsignaturerequested.com^
 ||albynloxia.website^
 ||alcaicsaplasia.casa^
-||alcatza.com^
 ||alcesinassing.xyz^
 ||alchemeeten.com^
 ||alchemysocial.com^
@@ -39227,6 +39226,7 @@
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
 ||www.89hdn.cn^
+||www.alcatza.com^
 ||www.jdxisgqcg.com^
 ||www.tf0.top^
 ||www4.hentai-rpg.com^

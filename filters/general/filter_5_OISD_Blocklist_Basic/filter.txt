@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-12-26T21:12:44.562Z
+! Last modified: 2023-12-26T22:13:34.932Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -783,6 +783,7 @@
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
 ||6zy9yqe1ew.com^
+||7-7-7-partner.com^
 ||71.am^
 ||7162a.com^
 ||71692fai4cc0.com^
@@ -19184,7 +19185,6 @@
 ||inmewa.com^
 ||inminuner.com^
 ||inmobi.cn^
-||inmobi.com^
 ||inmobi.net^
 ||inmobicdn.net^
 ||inmobisdk-a.akamaihd.net^
@@ -19776,6 +19776,7 @@
 ||jdoeknc.com^
 ||jdt8.net^
 ||jdwhlqb.com^
+||jdxisgqcg.com^
 ||je.guancheoutwait.com^
 ||je.sepiasfra.com^
 ||jealouschallenge.pro^
@@ -39099,9 +39100,6 @@
 ||wwrpfevyca.com^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
-||www.7-7-7-partner.com^
-||www.jdxisgqcg.com^
-||www.xiaobizaizi1.top^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -39259,6 +39257,7 @@
 ||xhzz3moj1dsd.com^
 ||xianglong360.cn^
 ||xiaobixiaobi.com^
+||xiaobizaizi1.top^
 ||xiaopinwo.com^
 ||xiaoshuoyun.cn^
 ||xiaoxiuapp.com^

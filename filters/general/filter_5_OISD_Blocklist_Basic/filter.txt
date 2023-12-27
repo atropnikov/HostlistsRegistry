@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2023-12-27T15:14:43.738Z
+! Last modified: 2023-12-27T18:18:14.158Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33206,6 +33206,7 @@
 ||static-addtoany-com.cdn.ampproject.org^
 ||static-ads.akamaized.net^
 ||static-ads.zaloapp.com^
+||static-srv.com^
 ||static-ssp.yidianzixun.com^
 ||static-trackers.adtarget.me^
 ||static-tracking.klaviyo.com^
@@ -39185,7 +39186,6 @@
 ||www.provocativeprivate.com^
 ||www.qqqqbdma.com^
 ||www.rpzbfftekjdz.com^
-||www.static-srv.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^

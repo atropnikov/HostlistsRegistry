@@ -2,7 +2,7 @@
 ! Title: Dandelion Sprout's Game Console Adblock List
 ! Description: Much like there's now lists for AdGuard Home and Pi-hole to block ads on smart-TVs, here's an attempt from me at doing the same for videogame consoles with AdGuard Home.
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2022-01-19T07:13:09.056Z
+! Last modified: 2023-12-27T01:06:28.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27,6 +27,10 @@
 
 
 
+||at.atwola.com^
+||watson.events.data.microsoft.com^
+||nw-umwatson.events.data.microsoft.com^
+*watson.events.data.microsoft.com^
 
 
 

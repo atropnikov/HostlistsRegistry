@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-12-22T12:27:46.654Z
+! Last modified: 2023-12-29T12:25:54.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -62,7 +62,6 @@
 ||aaddzz.com^
 ||aax-eu-dub.amazon.com^
 ||aaxads.com^
-||aaxdetect.com^
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
@@ -571,7 +570,7 @@
 ||ads.pof.com^
 ||ads.powweb.com^
 ||ads.ppvmedien.de^
-||ads.praguetv.cz^
+||ads.primissima.it^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.program3.com^
@@ -698,6 +697,7 @@
 ||adsbydelema.com^
 ||adscale.de^
 ||adscholar.com^
+||adscience.nl^
 ||adsco.re^
 ||adscpm.com^
 ||adsdaq.com^
@@ -939,6 +939,7 @@
 ||aliasanvil.com^
 ||alikeaddition.com^
 ||alipromo.com^
+||all4spy.com^
 ||allosponsor.com^
 ||alluringbucket.com^
 ||aloofmetal.com^
@@ -1537,7 +1538,6 @@
 ||crypto-loot.org^
 ||crystalboulevard.com^
 ||cs.co^
-||ctnetwork.hu^
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
@@ -1941,10 +1941,8 @@
 ||greystripe.com^
 ||groundtruth.com^
 ||gscontxt.net^
-||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
-||guffawdecipher.com^
 ||gunggo.com^
 ||h-bid.com^
 ||h0.t.hubspotemail.net^
@@ -2513,6 +2511,8 @@
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
+||newsadsppush.com^
+||newsletter-link.com^
 ||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^

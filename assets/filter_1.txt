@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-05T06:19:53.375Z
+! Last modified: 2024-01-05T12:28:32.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39211,6 +39211,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||prdwebcollector.ruetracking.com^
 ||analytics-api.invideo.io^
 ||tr.staff-start.com^
 ||rtnl.bxcl.de^
@@ -50008,6 +50009,7 @@ inapps.appsflyersdk.com^
 ||adtima.org^
 ||adv.anhsangvacuocsong.vn^
 ||adv.autosurf.vn^
+||adv.baoangiang.com.vn^
 ||adv.baotintuc.vn^
 ||adv.baovemoitruong.org.vn^
 ||adv.thuvienphapluat.vn^
@@ -50189,6 +50191,7 @@ inapps.appsflyersdk.com^
 ||log.tapchimattran.vn^
 ||log.tapchitaichinh.vn^
 ||log.theleader.vn^
+||log.thuonggiaonline.vn^
 ||log.tienphong.vn^
 ||log.tieudungthoinay.vn^
 ||log.tinnhac.com^
@@ -51681,6 +51684,9 @@ inapps.appsflyersdk.com^
 ||sd2ua.icu^
 ||upyerxzn.xyz^
 ||bpyerxzn.xyz^
+||szbpf.cn^
+||xpyerxzn.xyz^
+||tpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

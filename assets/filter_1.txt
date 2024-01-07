@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-07T06:18:42.731Z
+! Last modified: 2024-01-07T12:27:03.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33966,6 +33966,7 @@ vkcdnservice.appspot.com^
 ||ad.kubiccomps.icu^
 ||ad.netmedia.hu^
 ||ad.reklamport.com^
+||ad.tpmn.co.kr^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
 ||adinplay-venatus.workers.dev^
@@ -34175,6 +34176,7 @@ vkcdnservice.appspot.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aiciyg0qwvvr.cloudfront.net^
+||d1ap9gbbf77h85.cloudfront.net^
 ||d1appgm50chwbg.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1aukpqf83rqhe.cloudfront.net^
@@ -49756,6 +49758,7 @@ inapps.appsflyersdk.com^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
 ||delivery.vtcnews.vn^
+||distinctrobin.com^
 ||donglogs.com^
 ||elogs.vnexpress.net^
 ||eva-ad.24hstatic.com^
@@ -49787,6 +49790,7 @@ inapps.appsflyersdk.com^
 ||la3.vnecdn.net^
 ||lavamedia.vn^
 ||lavanetwork.net^
+||lio.aiservice.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
@@ -50053,6 +50057,7 @@ inapps.appsflyersdk.com^
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
 ||ads.xemtivisohd.net^
+||ads.zunia.vn^
 ||ads1.careerbuilder.vn^
 ||ads8.fpt.vn^
 ||adserver.lag.vn^
@@ -50187,7 +50192,6 @@ inapps.appsflyersdk.com^
 ||file-subiz.com^
 ||financial-agent.headlines.pw^
 ||follow.vnay.vn^
-||gamma.cachefly.net^
 ||go.vnecdn.com^
 ||gtm.saostar.vn^
 ||gtmjs.com^
@@ -50195,6 +50199,7 @@ inapps.appsflyersdk.com^
 ||hexapinow.xyz^
 ||hit.123c.vn^
 ||iads.staticscdn.net^
+||iads.vision^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||intranet.dcorp.com.vn^
@@ -51774,6 +51779,9 @@ inapps.appsflyersdk.com^
 ||lkrv.top^
 ||szmty.cn^
 ||buoizbtl.xyz^
+||xuoizbtl.xyz^
+||dnn1300.top^
+||tuoizbtl.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

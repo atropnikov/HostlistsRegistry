@@ -2,11 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-09T06:20:11.448Z
+! Last modified: 2024-01-09T11:13:09.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||dwvbfnqrbif.com^
+||despectclogwyn.com^
 ||justey.com^
 ||hrkplkgjs.com^
 ||glowedhyalins.com^
@@ -35724,6 +35726,10 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pb.adriver.ru^
+||sync.adspend.space^
+||sync.opendsp.ru^
+||sync.programmatica.com^
 ||tracker.smart-bdash.com^
 ||trk.a-dsp.com^
 ||metrics.plaid.com^
@@ -36429,7 +36435,6 @@ vkcdnservice.appspot.com^
 ||analytics.chase.com^
 ||scripttags.jst.ai^
 ||trace21.dsb-ebusiness.com^
-||adjust.com^
 ||a.ddli.jp^
 ||b92.yahoo.co.jp^
 ||cf-native.karte.io^
@@ -39320,6 +39325,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.msk1.ru^
+||metrics.viqeo.tv^
+||rtb.videonow.ru^
 ||hn-ping*.hashnode.com^
 ||o920916.ingest.sentry.io^
 ||ping.hashnode.com^
@@ -42159,6 +42167,7 @@ inapps.appsflyersdk.com^
 ||ao-freegeoip.herokuapp.com^
 ||api-analytics-prd.pelcro.com^
 ||api.wipmania.com^
+||app.adjust.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||argos.citruserve.com^
@@ -43767,6 +43776,8 @@ inapps.appsflyersdk.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 
+||cchbdata.net^
+||s.ccsyncuuid.net^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
 ||fft.delovoemesto.ru^
@@ -47294,6 +47305,8 @@ inapps.appsflyersdk.com^
 ||xifg6h.ru^
 ||zfvklk.ru^
 
+||exad.smi2.ru^
+||tgb.hsmedia.ru^
 ||market-backend.api.2gis.ru^
 ||sharemefiles.ru^
 ||userdata.ati.su^
@@ -51868,6 +51881,10 @@ inapps.appsflyersdk.com^
 ||ui8l2.xyz^
 ||uzelzfnj.xyz^
 ||bzelzfnj.xyz^
+||szmdp.cn^
+||xzelzfnj.xyz^
+||tzelzfnj.xyz^
+||ljhbhy.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -56702,6 +56719,7 @@ analytics-*.aasaam.com
 @@||forum.notebookreview.com^|
 @@||radiofrance.targetspot.com^|
 @@||awin1.com^|
+@@||app.adjust.com^|
 @@||feed.adrelayer.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||guce.advertising.com^|

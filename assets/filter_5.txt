@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-01-14T12:27:18.400Z
+! Last modified: 2024-01-14T14:13:03.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -331,6 +331,7 @@
 ||19blog.com^
 ||19d1da8898.com^
 ||19fc4acebd.com^
+||1a65658575.com^
 ||1a714ee67c.com^
 ||1a8f9rq9c.de^
 ||1ab9ee01cb.com^
@@ -720,6 +721,7 @@
 ||38d9953876.com^
 ||38kmute.xyz^
 ||39236100.lotre.io^
+||395b8c2123.com^
 ||396ddcf95b.com^
 ||39f204776a.com^
 ||39irqwnzlv.com^
@@ -3907,6 +3909,7 @@
 ||adxchg.com^
 ||adxcorp.kr^
 ||adxfire.in^
+||adxfire.net^
 ||adxion.com^
 ||adxlog-adnet.vivo.com.cn^
 ||adxnexus.com^
@@ -23984,6 +23987,7 @@
 ||luxusbowboy.com^
 ||luyten-98c.com^
 ||luzulabeguile.com^
+||lvaazvwmmvwev.top^
 ||lvbngvy.com^
 ||lvecygampj.com^
 ||lvjptld.com^

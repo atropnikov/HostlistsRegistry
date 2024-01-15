@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-15T01:12:23.559Z
+! Last modified: 2024-01-15T06:21:33.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26060,6 +26060,7 @@ vkcdnservice.appspot.com^
 ||servinghandy.com^
 ||servingserved.com^
 ||servtraff97.com^
+||servw.bid^
 ||sesabercuacroo.xyz^
 ||sesameebookspeedy.com^
 ||sesamefiddlesticks.com^
@@ -44903,7 +44904,6 @@ inapps.appsflyersdk.com^
 ||unhwav.com^
 ||rolzox.com^
 ||baibiigcfdjgdgacig.ru^
-||servw.bid^
 ||retharitus.com^
 ||rfpozf.com^
 ||m-growninppcode.com^
@@ -51186,6 +51186,7 @@ inapps.appsflyersdk.com^
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
+||measure.pti.com.vn^
 ||measure.vndirect.com.vn^
 ||media.dabong247.com^
 ||menu.metu.vn^
@@ -51356,6 +51357,7 @@ inapps.appsflyersdk.com^
 ||009855.com^
 ||010172.com^
 ||0fb.co^
+||0fb.ltd^
 ||113-bca.online^
 ||11tiki.com^
 ||123-vay.com^
@@ -56760,6 +56762,8 @@ inapps.appsflyersdk.com^
 ||uyulwc.xyz^
 ||dafdfd.cn^
 ||2024114t.shop^
+||u2tu4.icu^
+||rvbiocn.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

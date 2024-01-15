@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-01-14T16:18:40.562Z
+! Last modified: 2024-01-15T01:12:27.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4396,8 +4396,8 @@
 ||akmxts.com^
 ||aksao.com^
 ||aksleaj.com^
+||akstat.io^
 ||aktivator-windows10.blogspot.com^
-||aktrack.pubmatic.com^
 ||aktwusgwep.com^
 ||akuhni.by^
 ||akusherok.ru^
@@ -7124,6 +7124,7 @@
 ||bea4f47fc3.com^
 ||beacher56.xyz^
 ||beacon-api.aliyuncs.com^
+||beacon-fullpage-predictor.goguardian.com^
 ||beacon.carfax.com^
 ||beacon.cdn.qq.com^
 ||beacon.digima.com^
@@ -10977,6 +10978,7 @@
 ||countryinflammable.com^
 ||countrynot.com^
 ||countshryw.xyz^
+||countvoncount.goguardian.com^
 ||countypuddleillusion.com^
 ||coupbezzant.com^
 ||coupleairplane.com^
@@ -12726,6 +12728,7 @@
 ||data.kameleoon.io^
 ||data.mimikama.at^
 ||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||data.mob.com^
 ||data.sec.intl.miui.com^
@@ -15990,6 +15993,7 @@
 ||exquisitefundlocations.com^
 ||exrtbsrv.com^
 ||ext.bhol.co.il^
+||ext.goguardian.com^
 ||ext.host-tracker.com^
 ||extend.tv^
 ||extensions-media.com^
@@ -20828,6 +20832,7 @@
 ||inquiredcriticalprosecution.com^
 ||inquiriesdishonest.com^
 ||inquiryclank.com^
+||inquisition.goguardian.com^
 ||inrecsys.popin.cc^
 ||inrhyhorntor.com^
 ||inringtone.com^
@@ -21051,6 +21056,7 @@
 ||iot-logser.realme.com^
 ||ioward.com^
 ||ioxffew.com^
+||ip.goguardian.com^
 ||ip.hivps.xyz^
 ||ip.momentummedia.com.au^
 ||ip.prvtx.net^
@@ -21630,7 +21636,6 @@
 ||joathihandsr.xyz^
 ||jobfilletfortitude.com^
 ||joblouder.com^
-||jobmkewrymmvb.top^
 ||jobsyndicate.com^
 ||jocauzee.net^
 ||jocelynrace.com^
@@ -28125,7 +28130,6 @@
 ||ovibospeseta.com^
 ||ovqds.com^
 ||ovsrhikuma.com^
-||ow.pubmatic.com^
 ||ow5a.net^
 ||owascryingforthem.info^
 ||owbroinothiermol.xyz^
@@ -28384,6 +28388,7 @@
 ||panther.atgonlinecoaching.com^
 ||panther.codyhatfield.me^
 ||panther.essentialwellnessyoga.com.au^
+||panther.goguardian.com^
 ||panther.hoprnet.org^
 ||panther.thestocks.im^
 ||panther.tigil.rs^
@@ -30490,6 +30495,7 @@
 ||publpush.com^
 ||publyads.jstag.space^
 ||pubmaner5.com^
+||pubmatic.com^
 ||pubmine.com^
 ||pubnation.com^
 ||pubnative.info^
@@ -31028,6 +31034,7 @@
 ||quicksandear.com^
 ||quickwriter.com^
 ||quickzo.xyz^
+||quiddity.goguardian.com^
 ||quietannouncementdove.com^
 ||quietlybananasmarvel.com^
 ||quigo.com^
@@ -33069,6 +33076,7 @@
 ||sakguz.icu^
 ||saktismberakes.space^
 ||sakura-traffic.com^
+||sakura.goguardian.com^
 ||sal.isanook.com^
 ||sala5.it^
 ||salablyjagless.uno^
@@ -33359,6 +33367,7 @@
 ||screen.buzzvil.com^
 ||screenshare.pics^
 ||screenshot.best^
+||screenshots.goguardian.com^
 ||scribblemidday.com^
 ||scribe.wongnai.com^
 ||script-ad.mobadme.jp^
@@ -33415,7 +33424,6 @@
 ||sdmfyqkghzedvx.com^
 ||sdprsvbnj.xyz^
 ||sdtagging.azureedge.net^
-||sdtsad.com^
 ||sdxzqec.xyz^
 ||se05.biz^
 ||seaboblit.com^
@@ -33985,7 +33993,6 @@
 ||show-me-how.net^
 ||show-review.com^
 ||show.kc.taotaosou.com^
-||showads.pubmatic.com^
 ||showcasethat.com^
 ||showerymartial.com^
 ||showingdoppia.guru^
@@ -34498,6 +34505,7 @@
 ||snaprosery.com^
 ||snaretoeburp.work^
 ||snarewholly.com^
+||snat.goguardian.com^
 ||snebbubbled.com^
 ||sneezeinterview.com^
 ||sngmta.qq.com^
@@ -41648,6 +41656,8 @@
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x2tsa.com^
+||x3-policy-maker.goguardian.com^
+||x3-predictor.goguardian.com^
 ||x5hnj21.com^
 ||x6.yakiuchi.com^
 ||x7r3mk6ldr.com^
@@ -42270,7 +42280,6 @@
 ||ydgh0zc.com^
 ||ydonkuan.com^
 ||ydtqlmsvocjp.com^
-||ydyympasqrx.com^
 ||ye185hcamw.com^
 ||yeabble.com^
 ||yeah1publishing.com^

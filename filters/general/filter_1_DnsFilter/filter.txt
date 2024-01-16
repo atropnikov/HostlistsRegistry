@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-16T01:10:00.290Z
+! Last modified: 2024-01-16T06:20:34.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27047,6 +27047,7 @@ vkcdnservice.appspot.com^
 ||speani.com^
 ||speato.com^
 ||special-offers.online^
+||specialcraftbox.com^
 ||specialisthuge.com^
 ||specialistinsensitive.com^
 ||specialistrocky.com^
@@ -44284,6 +44285,7 @@ inapps.appsflyersdk.com^
 ||track.kyoads.com^
 ||track.myli.io^
 ||tracking.ecookie.fr^
+||tracking.voxeus.com^
 ||visitping.rossel.be^
 ||wrapper.lemde.fr^
 ||ws3.smartp.com^
@@ -56821,6 +56823,10 @@ inapps.appsflyersdk.com^
 ||kozhyf.icu^
 ||ffawfa.cn^
 ||zghrxn.xyz^
+||8ovgk.online^
+||gkswas.xyz^
+||mvbvvch.xyz^
+||stq89.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

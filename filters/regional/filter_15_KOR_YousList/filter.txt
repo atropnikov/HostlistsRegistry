@@ -2,7 +2,7 @@
 ! Title: KOR: YousList
 ! Description: Block filter for advertisements, mainly on Korean sites.
 ! Homepage: https://github.com/yous/YousList
-! Last modified: 2023-12-25T18:18:08.473Z
+! Last modified: 2024-01-16T13:19:00.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -431,6 +431,7 @@
 0.0.0.0 networkad.nate.com
 0.0.0.0 news.smi2.ru
 0.0.0.0 nex.163.com
+0.0.0.0 next.adfork.co.kr
 0.0.0.0 np-adkpf.newscloud.or.kr
 0.0.0.0 npttech.com
 0.0.0.0 nv.veta.naver.com
@@ -544,6 +545,7 @@
 0.0.0.0 stt.pltapad.com
 0.0.0.0 sunnyworks.co.kr
 0.0.0.0 surgeprice.com
+0.0.0.0 sv.govkorea24.com
 0.0.0.0 swf.adget.co.kr
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com

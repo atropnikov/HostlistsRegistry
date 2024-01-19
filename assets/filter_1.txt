@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-19T06:20:38.625Z
+! Last modified: 2024-01-19T12:29:26.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||snipersex.com^
 ||auhpaewvbgwjr.com^
 ||wokaptoa.com^
 ||lambedbarbal.website^
@@ -26901,7 +26902,6 @@ vkcdnservice.appspot.com^
 ||snhtvtp.com^
 ||snicherchitra.space^
 ||snidethereto.com^
-||snipersex.com^
 ||snippystowstool.com^
 ||snippyteevee.com^
 ||snippyyuncan.uno^
@@ -57008,6 +57008,8 @@ inapps.appsflyersdk.com^
 ||l7ghj.xyz^
 ||xwlnhw.com^
 ||stbwhln.cn^
+||m6500.top^
+||rotondelibya.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

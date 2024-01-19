@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-01-18T08:19:26.629Z
+! Last modified: 2024-01-19T12:29:27.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -64,7 +64,6 @@
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
-||abackframe.com^
 ||abandonedaction.com^
 ||abc-ads.com^
 ||ablink.comms.trainline.com^
@@ -807,7 +806,6 @@
 ||adsrv2.swidnica24.pl^
 ||adsrvr.org^
 ||adstacks.in^
-||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
 ||adsupply.com^
@@ -1572,7 +1570,6 @@
 ||dc-storm.com^
 ||de17a.com^
 ||deadpangate.com^
-||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -1677,7 +1674,6 @@
 ||eiv.baidu.com^
 ||ejyymghi.com^
 ||elasticchange.com^
-||elasticducks.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
 ||elephantqueue.com^
@@ -1751,6 +1747,7 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
+||exchangedetail.com^
 ||exclusivebrass.com^
 ||exelate.com^
 ||exelator.com^

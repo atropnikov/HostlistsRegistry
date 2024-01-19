@@ -2,11 +2,25 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-19T01:10:33.178Z
+! Last modified: 2024-01-19T06:20:38.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||auhpaewvbgwjr.com^
+||wokaptoa.com^
+||lambedbarbal.website^
+||jghjhtz.com^
+||ctrtrk.com^
+||mztqgmr.com^
+||ntlysearchingf.info^
+||etingplansfor.org^
+||uqpvrqplyqm.com^
+||wnwkzzzheca.com^
+||aysdsvtd.com^
+||sjmbwxnqz.com^
+||kxkqqycs.xyz^
+||psumainy.xyz^
 ||xhfvljklvq.com^
 ||moxuthoo.net^
 ||detergentkindlyrandom.com^
@@ -1303,6 +1317,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||dic9vgwbkxd8r.cloudfront.net^
 ||fentent.stre4mplay.one^
 ||d2s31asn9gp5vl.cloudfront.net^
 ||sponsor.imacdn.com^
@@ -56990,6 +57005,9 @@ inapps.appsflyersdk.com^
 ||bxnxdlb.xyz^
 ||1821z.website^
 ||sukneyu.com^
+||l7ghj.xyz^
+||xwlnhw.com^
+||stbwhln.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

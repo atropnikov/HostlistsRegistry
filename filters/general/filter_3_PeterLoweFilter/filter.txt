@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-01-19T12:29:27.109Z
+! Last modified: 2024-01-19T13:18:45.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2504,6 +2504,7 @@
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
+||newsadsppush.com^
 ||newsletter-link.com^
 ||newstarads.com^
 ||newt1.adultadworld.com^
@@ -2821,7 +2822,6 @@
 ||quantummetric.com^
 ||quarterbean.com^
 ||quarterserver.de^
-||questaffiliates.net^
 ||quickkoala.io^
 ||quicksandear.com^
 ||quietknowledge.com^
@@ -3016,7 +3016,6 @@
 ||seadform.net^
 ||searchmarketing.com^
 ||searchramp.com^
-||seashoreturn.com^
 ||secre.jp^
 ||secretivecub.com^
 ||secretspiders.com^
@@ -3754,7 +3753,6 @@
 ||yieldmo.com^
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
-||yldbt.com^
 ||ymetrica1.com^
 ||yoads.net^
 ||yoggrt.com^

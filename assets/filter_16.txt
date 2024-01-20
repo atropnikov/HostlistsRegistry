@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-01-15T17:14:02.357Z
+! Last modified: 2024-01-20T10:15:20.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9881,9 +9881,6 @@
 0.0.0.0 venatusmedia.com
 0.0.0.0 balancer.devtodev.com
 0.0.0.0 statgw.devtodev.com
-0.0.0.0 cdn.openinstall.io
-0.0.0.0 res.cdn.openinstall.io
-0.0.0.0 web.cdn.openinstall.io
 0.0.0.0 data.mediaintelligence.de
 0.0.0.0 mediaintelligence.de
 0.0.0.0 www.mediaintelligence.de
@@ -10504,6 +10501,7 @@
 0.0.0.0 adobecorp.data.adobedc.net
 0.0.0.0 adobemobiledev.data.adobedc.net
 0.0.0.0 esdk.data.adobedc.net
+0.0.0.0 edge.adobedc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 hb.omtrdc.net
 0.0.0.0 omtrdc.net
@@ -10926,6 +10924,9 @@
 0.0.0.0 ap1.event.dfinery.io
 0.0.0.0 ap2.event.dfinery.io
 0.0.0.0 event.dfinery.io
+0.0.0.0 collect.banggood.com
+0.0.0.0 dc.banggood.com
+0.0.0.0 web-device-id.banggood.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -18879,6 +18880,7 @@
 0.0.0.0 tibcpowpiaqv.com
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tieszhu.com
 0.0.0.0 tiijdxto.com
 0.0.0.0 timzanzcuff.com
 0.0.0.0 tinkeregojut.com
@@ -19693,6 +19695,7 @@
 0.0.0.0 yawledabobra.com
 0.0.0.0 yawnspuker.com
 0.0.0.0 ybrantdigital.com
+0.0.0.0 ybs2ffs7v.com
 0.0.0.0 ydworld.com
 0.0.0.0 yealnk.com
 0.0.0.0 yeanstights.store

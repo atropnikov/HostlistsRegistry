@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-01-24T10:17:03.193Z
+! Last modified: 2024-01-26T12:26:26.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -64,6 +64,7 @@
 ||abacho.net^
 ||abackafterthought.com^
 ||abackchain.com^
+||abackframe.com^
 ||abandonedaction.com^
 ||abc-ads.com^
 ||ablink.comms.trainline.com^
@@ -143,7 +144,6 @@
 ||ad.mynetreklam.com.streamprovider.net^
 ||ad.nachtagenten.de^
 ||ad.nettvservices.com^
-||ad.nozonedata.com^
 ||ad.nttnavi.co.jp^
 ||ad.nwt.cz^
 ||ad.period-calendar.com^
@@ -467,7 +467,6 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
-||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gld.dk^
 ||ads.gmodules.com^
@@ -485,7 +484,6 @@
 ||ads.heartlight.org^
 ||ads.hollywood.com^
 ||ads.horsehero.com^
-||ads.horyzon-media.com^
 ||ads.hsoub.com^
 ||ads.ibest.com.br^
 ||ads.ibryte.com^
@@ -806,6 +804,7 @@
 ||adsrv2.swidnica24.pl^
 ||adsrvr.org^
 ||adstacks.in^
+||adstanding.com^
 ||adstat.4u.pl^
 ||adstest.weather.com^
 ||adsupply.com^
@@ -1570,6 +1569,7 @@
 ||dc-storm.com^
 ||de17a.com^
 ||deadpangate.com^
+||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -1934,6 +1934,7 @@
 ||grouchybrothers.com^
 ||groundtruth.com^
 ||gscontxt.net^
+||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||gunggo.com^
@@ -3018,6 +3019,7 @@
 ||seadform.net^
 ||searchmarketing.com^
 ||searchramp.com^
+||seashoreturn.com^
 ||secre.jp^
 ||secretivecub.com^
 ||secretspiders.com^
@@ -3755,6 +3757,7 @@
 ||yieldmo.com^
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
+||yldbt.com^
 ||ymetrica1.com^
 ||yoads.net^
 ||yoggrt.com^

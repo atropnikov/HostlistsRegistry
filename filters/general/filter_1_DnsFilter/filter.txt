@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-01-26T06:19:26.277Z
+! Last modified: 2024-01-26T12:26:24.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||riweeboo.com^
 ||8trd.online^
 ||publisher1st.com^
 ||avglfookdjuj.com^
@@ -41793,6 +41794,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||pdsssl.gmarket.co.kr^
+||pds.gmarket.co.kr^
+||uts.gmarket.co.kr^
 ||prebid-log.getpublica.com^
 ||dmp.truoptik.com^
 ||analytics.nova.foxsports.com^
@@ -43999,6 +44003,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||events.character.ai^
 ||sb.scorecard.research.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
@@ -51435,6 +51440,7 @@ inapps.appsflyersdk.com^
 ||classic.avantlink.com^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
+||cl-eu4.k5a.io^
 ||cmp.network-n.com^
 ||cncpt.dk^
 ||cncptx.com^
@@ -58589,6 +58595,7 @@ inapps.appsflyersdk.com^
 ||cpkxahje.xyz^
 ||rmxizma.cn^
 ||jyewkb.icu^
+||xpkxahje.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

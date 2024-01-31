@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-01-29T01:05:35.407Z
+! Last modified: 2024-01-31T22:14:25.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1907,6 +1907,7 @@
 0.0.0.0 espaceagazines.fr
 0.0.0.0 espub.fr
 0.0.0.0 et-1nt3rc.com
+0.0.0.0 et-interac.etransfers1.com
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
@@ -2722,6 +2723,7 @@
 0.0.0.0 secretosdelagua.fr
 0.0.0.0 secure-accept-e-transfer-interac.info
 0.0.0.0 secure-fidosolutions.com
+0.0.0.0 securedeposit-et.com
 0.0.0.0 securielite.com
 0.0.0.0 securityscan.us
 0.0.0.0 seebox.fr

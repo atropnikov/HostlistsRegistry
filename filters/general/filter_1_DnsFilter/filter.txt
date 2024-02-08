@@ -2,11 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-02-08T06:19:28.260Z
+! Last modified: 2024-02-08T10:15:02.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||evoutouk.com^
+||boptegre.com^
+||nisdnwiug.com^
 ||bqeuffmdobmpoe.xyz^
 ||njsbccyenjyq.com^
 ||vowpairmax.live^
@@ -1318,7 +1321,6 @@
 ||d71e6dd31a026d45.com
 ||adrunnr.com^
 ||samsungtvads.com^
-||adconsent.samsungrs.com^
 
 ||ads.videy.co^
 ||ads.sportslocalmedia.com^
@@ -38819,6 +38821,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pubperf.com^
 ||stats.getaim.org^
 ||analytics-cf.bigcrunch.com^
 ||trackerapi.ebxcdn.com^
@@ -45926,7 +45929,6 @@ inapps.appsflyersdk.com^
 ||trbo.com^
 ||txt.eu^
 ||undom.net^
-||uniconsent.com^
 ||usage.seibert-media.io^
 ||usemaxserver.de^
 ||vtracy.de^
@@ -57482,6 +57484,8 @@ inapps.appsflyersdk.com^
 ||bcttodv.cn^
 ||cdhfvrug.xyz^
 ||bbtta91.shop^
+||pzpivx.xyz^
+||komvkup.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

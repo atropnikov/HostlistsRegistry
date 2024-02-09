@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-02-08T10:15:03.945Z
+! Last modified: 2024-02-09T12:26:16.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -55,7 +55,6 @@
 ||a.xanga.com^
 ||a135.wftv.com^
 ||a5.overclockers.ua^
-||a8a8altrk.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
 ||aa-metrics.trip-ai.jp^
@@ -895,7 +894,6 @@
 ||affili.net^
 ||affiliate.1800flowers.com^
 ||affiliate.dtiserv.com^
-||affiliate.gamestop.com^
 ||affiliate.rusvpn.com^
 ||affiliate.travelnow.com^
 ||affiliate.treated.com^

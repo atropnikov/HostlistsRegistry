@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-02-13T13:17:13.776Z
+! Last modified: 2024-02-13T16:18:57.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10429,7 +10429,6 @@
 ||click2freemoney.com^
 ||click2paid.com^
 ||click4free.info^
-||clickability.com^
 ||clickadz.com^
 ||clickagents.com^
 ||clickagy.com^
@@ -32086,7 +32085,6 @@
 ||q.azcentral.com^
 ||q.ikre.xyz^
 ||q1-tdsge.com^
-||q1gel.icu^
 ||q1mediahydraplatform.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||q2i8kd5n.de^

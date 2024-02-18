@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-02-18T06:18:27.390Z
+! Last modified: 2024-02-18T12:25:01.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36939,6 +36939,24 @@ vkcdnservice.appspot.com^
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+||utiq-aws.net^
+||utiq.24auto.de^
+||utiq.24hamburg.de^
+||utiq.24rhein.de^
+||utiq.buzzfeed.de^
+||utiq.come-on.de^
+||utiq.einfach-tasty.de^
+||utiq.fnp.de^
+||utiq.fr.de^
+||utiq.hna.de^
+||utiq.ingame.de^
+||utiq.kreiszeitung.de^
+||utiq.merkur.de^
+||utiq.mopo.de^
+||utiq.op-online.de^
+||utiq.soester-anzeiger.de^
+||utiq.tz.de^
+||utiq.wa.de^
 
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
@@ -39214,6 +39232,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||event.lib.visumo.io^
 ||gtm.taginstall.com^
 ||mdstats.info^
 ||site-config.com^
@@ -42640,6 +42659,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.castel.jp^
 ||tagging.anaxago.com^
 ||tagging.boataround.com^
 ||tagging.bokus.com^
@@ -56236,6 +56256,7 @@ inapps.appsflyersdk.com^
 ||uu22662.com^
 ||benpsbp.com^
 ||tu2024020388.com^
+||xdybwjpa.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^

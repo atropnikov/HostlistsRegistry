@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-02-19T06:19:54.946Z
+! Last modified: 2024-02-19T12:27:42.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30327,7 +30327,6 @@ vkcdnservice.appspot.com^
 ||taxmenredug.top^
 ||taxodiu2m2dis7tichum.com^
 ||taxpillsqueal.com^
-||tayloryourbestlife.com^
 ||tazagdv.com^
 ||tberjonk.com^
 ||tbgmckdemnv.com^
@@ -37157,6 +37156,7 @@ vkcdnservice.appspot.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||winonexd.b-cdn.net^
+||wixlabs-adsense-v3.uc.r.appspot.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
@@ -49515,6 +49515,8 @@ inapps.appsflyersdk.com^
 
 ||kz.cateredjapish.com^
 ||adserver.icimedias.ca^
+||ad1.girls-affiliate.com^
+||manga.boy.jp^
 ||af.atsoho.com^
 ||flux-cdn.com^
 ||seo.linel.top^
@@ -56297,6 +56299,7 @@ inapps.appsflyersdk.com^
 ||nkbkor.icu^
 ||szbhb.cn^
 ||cvudqzoa.xyz^
+||xvudqzoa.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^

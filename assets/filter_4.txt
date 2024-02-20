@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-02-20T03:15:40.335Z
+! Last modified: 2024-02-20T18:20:21.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2473,6 +2473,7 @@
 0.0.0.0 neko-scan.fr
 0.0.0.0 neon-genesis-evangelion-online.fr
 0.0.0.0 neowordprss.fr
+0.0.0.0 netflix-memberships.com
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 netflixca-updateprofilehelp.com

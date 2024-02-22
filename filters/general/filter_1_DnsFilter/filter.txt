@@ -2,11 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-02-22T12:26:33.586Z
+! Last modified: 2024-02-22T18:18:38.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||ganehangmen.com^
 ||ipurseeh.xyz^
 ||reonews.pl^
 ||reomanager.pl^
@@ -6652,6 +6653,7 @@ vkcdnservice.appspot.com^
 ||cajesa.uno^
 ||cajggfj.com^
 ||cajipdiqqjijeh.xyz^
+||cajrijrhov.com^
 ||cajunecch.guru^
 ||cakeprofessionally.com^
 ||caketteemblem.uno^
@@ -9747,6 +9749,7 @@ vkcdnservice.appspot.com^
 ||distractfragment.com^
 ||distractiontradingamass.com^
 ||distressamusement.com^
+||distressedsoultabloid.com^
 ||distributionrealmoth.com^
 ||districtacrid.com^
 ||districtbaloneywhiskers.com^
@@ -12377,6 +12380,7 @@ vkcdnservice.appspot.com^
 ||fihsgqbif.com^
 ||fiinann.com^
 ||fiinnancesur.com^
+||fiisscqwokt.com^
 ||fijekone.com^
 ||fijetuxa.com^
 ||fikedaquabib.com^
@@ -13442,6 +13446,7 @@ vkcdnservice.appspot.com^
 ||gauzedisparage.com^
 ||gauzon.com^
 ||gavnogeeygaika.com^
+||gawainshirty.com^
 ||gayadpros.com^
 ||gayalgenipa.digital^
 ||gayuxhswva.com^
@@ -15917,6 +15922,7 @@ vkcdnservice.appspot.com^
 ||idelv.net^
 ||identifiernancy.com^
 ||identifierslionessproof.com^
+||identifierssadlypreferred.com^
 ||identitymansfield.com^
 ||idescargarapk.com^
 ||idiafix.com^
@@ -19276,6 +19282,7 @@ vkcdnservice.appspot.com^
 ||loglaupt.com^
 ||logystowtencon.info^
 ||loinpriestinfected.com^
+||loivpcn.com^
 ||loivpdbzx.com^
 ||loketsaucy.com^
 ||lokinatoer5.com^
@@ -20225,6 +20232,7 @@ vkcdnservice.appspot.com^
 ||memoriagamine.com^
 ||memorizeaestheticspiders.com^
 ||memorizematch.com^
+||memuiynuldyoh.com^
 ||memunjcvfv.xyz^
 ||mendationforca.info^
 ||mendedrefuel.com^
@@ -24833,6 +24841,7 @@ vkcdnservice.appspot.com^
 ||poorlytanrubbing.com^
 ||poorstress.pro^
 ||poosoahe.com^
+||poostith.net^
 ||poosugap.com^
 ||pop.dojo.cc^
 ||pop5sjhspear.com^
@@ -26111,6 +26120,7 @@ vkcdnservice.appspot.com^
 ||qoredi.com^
 ||qorlxle.com^
 ||qovwrntfxpilyt.com^
+||qowncyf.com^
 ||qowqnnhf.com^
 ||qoytmrsfvu.com^
 ||qozveo.com^
@@ -28327,6 +28337,7 @@ vkcdnservice.appspot.com^
 ||senagegrasper.com^
 ||senatescouttax.com^
 ||sendmepush.com^
+||senecaanoles.com^
 ||sength.com^
 ||seniorstemsdisability.com^
 ||senonsiatinus.com^
@@ -45254,6 +45265,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||analytics.starmakerstudios.com^
+||track.starmakerstudios.com^
 ||volceapplog.com^
 ||toblog.tobsnssdk.com^
 ||tobapplog.tobsnssdk.com^

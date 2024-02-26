@@ -2,11 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-02-26T01:06:30.774Z
+! Last modified: 2024-02-26T12:26:57.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
+||rwwmbymwbzbea.top^
+||adnext.pl^
+||nativeone.pl^
+||naitive.pl^
 ||4lke.online^
 ||agazejagless.com^
 ||forestallbladdermajestic.com^
@@ -43089,6 +43093,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||faro-collector-prod-*.grafana.net^
+||affiliates.audiobooks.com^
 ||events.caffeine.tv^
 ||analytics.totalprosports.com^
 ||analytics-conomi.line.me^
@@ -53232,6 +53238,8 @@ inapps.appsflyersdk.com^
 ||getmacos.org^
 ||getwindowsactivator.info^
 ||ggzzmm.shop^
+||ghnn11.com^
+||ghnn22.com^
 ||ghnn33.com^
 ||giaingan799.com^
 ||giainganonline799.com^
@@ -54568,6 +54576,7 @@ inapps.appsflyersdk.com^
 ||saokenganhangvn.com^
 ||sbetviet.com^
 ||sc0mvn.com^
+||scb.nanghanmucthenganhangvisa.com^
 ||scdienmayxanh.com^
 ||sd0053.shop^
 ||sd062.com^
@@ -55079,6 +55088,7 @@ inapps.appsflyersdk.com^
 ||sp315693vn.com^
 ||sp8668vn.com^
 ||spark123.shop^
+||spmail88.com^
 ||spohopena.com^
 ||spohopenm.com^
 ||spohopenm.org^
@@ -55426,6 +55436,7 @@ inapps.appsflyersdk.com^
 ||tindung188.com^
 ||tindung24h-vietcombank.online^
 ||tindung24h.com^
+||tindungcanhan.online^
 ||tindungnganhang-vietnam247.online^
 ||tindungnganhang-vietnam365.online^
 ||tindungnganhang.biz^
@@ -56059,6 +56070,7 @@ inapps.appsflyersdk.com^
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
+||vinideal-sale.pro^
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
@@ -56407,6 +56419,7 @@ inapps.appsflyersdk.com^
 ||wviietcombank.com^
 ||wvvietcombank.com^
 ||wvwiietcoombank.com^
+||www-icloud.com^
 ||www-icloudid.com^
 ||www-mfacebook.com.vn^
 ||xa38.xyz^
@@ -56622,6 +56635,9 @@ inapps.appsflyersdk.com^
 ||hozatr.xyz^
 ||qrkhwe.xyz^
 ||vhvwlb.xyz^
+||szmnd.cn^
+||qqkkpos.com^
+||xklofoz.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^

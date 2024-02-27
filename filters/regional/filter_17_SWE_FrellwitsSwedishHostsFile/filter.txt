@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-02-24T11:11:29.062Z
+! Last modified: 2024-02-27T12:26:18.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -405,6 +405,7 @@
 127.0.0.1 ezodn.com
 127.0.0.1 f.convertkit.com
 127.0.0.1 fapp.pw
+127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 feed.aservice.tools
 127.0.0.1 feedads.feedblitz.com
@@ -757,6 +758,7 @@
 127.0.0.1 spel.expressen.se
 127.0.0.1 sprinklecontent.com
 127.0.0.1 sprinkletxt.com
+127.0.0.1 sp-eu.dev.polarbyte.com
 127.0.0.1 ssl.webserviceaward.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssp-nj.webtradehub.com

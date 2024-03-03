@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-03-01T07:13:49.261Z
+! Last modified: 2024-03-03T12:25:24.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -275,6 +275,7 @@
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.dep-x.com
+127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.relevant-digital.com
 127.0.0.1 cdn.stat-track.com
 127.0.0.1 cdn.vip-hd-movies.xyz
@@ -567,6 +568,7 @@
 127.0.0.1 meltwater.com
 127.0.0.1 metapic.se
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 mindreskatt.se
 127.0.0.1 missaffiliate.com
@@ -989,6 +991,7 @@
 127.0.0.1 tracking.ystadsallehanda.se
 127.0.0.1 tracking.etidning.fagersta-posten.se
 127.0.0.1 tracking.fagersta-posten.se
+127.0.0.1 tradecore.tradehouse.media
 127.0.0.1 traffic.feedremedy.com
 127.0.0.1 trafficgateway.research-int.se
 127.0.0.1 trckr.nordiskemedier.dk

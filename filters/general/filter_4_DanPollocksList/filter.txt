@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-03-05T04:18:44.959Z
+! Last modified: 2024-03-06T21:12:20.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2019,6 +2019,7 @@
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get24update.link4all.info
 0.0.0.0 getdispadsshop.com
+0.0.0.0 getnexuscard.com
 0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gifii.fr
 0.0.0.0 gigaonclick.com
@@ -3068,6 +3069,7 @@
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com

@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-11T06:19:33.078Z
+! Last modified: 2024-03-11T12:27:53.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||owfrbdikoorgn.xyz^
 ||qfyavpwmraqibv.com^
 ||cqeomumqwx.com^
 ||d3c.life^
@@ -706,6 +707,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 
+||rec.deezer.com^
 ||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
@@ -40454,6 +40456,7 @@ vkcdnservice.appspot.com^
 ||t.adbr.io^
 ||cizion.com^
 ||analytics.iss.one^
+||reports-tsi.tangerine.io^
 ||analytics.partcommunity.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
@@ -40518,7 +40521,6 @@ vkcdnservice.appspot.com^
 ||uplift-platform.com^
 ||lmepbq.com^
 ||cdn.rlets.com^
-||tangerine.io^
 ||b.sli-spark.com^
 ||tracker-rec.smart-bdash.com^
 ||perzonalization.com^
@@ -43560,7 +43562,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
-||ljc.coupang.com^
+||tracking.pennypublications.com^
 |c.blue.*.com^|
 ||apcdp.apnews.com^
 ||3p-udc.yahoo.com^
@@ -57242,6 +57244,8 @@ inapps.appsflyersdk.com^
 ||lafirx.xyz^
 ||gkutca.xyz^
 ||qw9cu.cyou^
+||jbmfldt.cn^
+||diccsbhij.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^

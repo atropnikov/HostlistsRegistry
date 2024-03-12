@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-12T01:03:56.456Z
+! Last modified: 2024-03-12T06:19:13.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -51322,16 +51322,24 @@ inapps.appsflyersdk.com^
 ||alkemi.com.se^
 ||ambassador.referralhero.com^
 ||amd.sellingsimplified.net^
+||analytics.allas.se^
 ||analytics.apotekhjartat.se^
 ||analytics.ciseway.se^
+||analytics.elle.se^
+||analytics.femina.se^
 ||analytics.gen.shield.monitoringservice.co^
+||analytics.hant.se^
 ||analytics.hpscloud.se^
 ||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kb.se^
+||analytics.mabra.com^
+||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
+||analytics.residencemagazine.se^
 ||analytics.smhi.se^
 ||analytics.sunet.se^
+||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.undeco.se^
 ||analytics.vackertvader.se^
@@ -57347,6 +57355,9 @@ inapps.appsflyersdk.com^
 ||rcyzsh.icu^
 ||snifdlab.top^
 ||oppnfev.xyz^
+||0tq6ub.cn^
+||njhvalu.cn^
+||osisk.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^

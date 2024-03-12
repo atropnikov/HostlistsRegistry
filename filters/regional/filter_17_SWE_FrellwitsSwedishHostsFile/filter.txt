@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-03-03T12:25:24.208Z
+! Last modified: 2024-03-12T04:20:13.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -103,21 +103,29 @@
 127.0.0.1 ambassador.referralhero.com
 127.0.0.1 amd.sellingsimplified.net
 127.0.0.1 ana.headerlift.com
+127.0.0.1 analytics.allas.se
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 analytics.ciseway.se
 127.0.0.1 analytics.clickdimensions.com
 127.0.0.1 analytics.codigo.se
+127.0.0.1 analytics.elle.se
+127.0.0.1 analytics.femina.se
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.gen.shield.monitoringservice.co
+127.0.0.1 analytics.hant.se
 127.0.0.1 analytics.hpscloud.se
 127.0.0.1 analytics.icagruppen.se
 127.0.0.1 analytics.ica.se
 127.0.0.1 analytics.kaltura.com
 127.0.0.1 analytics.kb.se
+127.0.0.1 analytics.mabra.com
 127.0.0.1 analytics.mailmunch.co
+127.0.0.1 analytics.motherhood.se
 127.0.0.1 analytics.nikkasystems.com
+127.0.0.1 analytics.residencemagazine.se
 127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.sunet.se
+127.0.0.1 analytics.svenskdam.se
 127.0.0.1 analytics.svt.se
 127.0.0.1 analytics.undeco.se
 127.0.0.1 analytics.vackertvader.se

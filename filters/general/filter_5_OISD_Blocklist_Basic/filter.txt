@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-03-13T18:18:15.586Z
+! Last modified: 2024-03-13T19:12:15.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2262,6 +2262,7 @@
 ||admobe.com^
 ||admonishmentforcedirritating.com^
 ||admonitor.com^
+||admost.com^
 ||admothreewallent.com^
 ||admotion.com.ar^
 ||admozartxml.com^
@@ -8862,7 +8863,6 @@
 ||cdn-ads.thesaigontimes.vn^
 ||cdn-ads.tmap.co.kr^
 ||cdn-adtrue.com^
-||cdn-api.admost.com^
 ||cdn-b.notsy.io^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||cdn-cf.postitial.com^
@@ -24841,7 +24841,6 @@
 ||mechanicsforgave.com^
 ||meconicoutfish.com^
 ||mecurs.com^
-||med-api.admost.com^
 ||meddleachievehat.com^
 ||meddlekilled.com^
 ||media-adrunner.mycomputer.com^

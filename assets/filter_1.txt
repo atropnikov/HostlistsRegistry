@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-17T06:17:43.536Z
+! Last modified: 2024-03-17T12:26:01.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -220,7 +220,6 @@
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
 ||zusepe.xyz^
-||cdn.applixir.com^
 ||selfishmourninhabitants.com^
 ||monsy.com^
 ||fireworkadservices1.com^
@@ -37346,6 +37345,7 @@ vkcdnservice.appspot.com^
 ||apexcdn.com^
 ||aphookkensidah.pro^
 ||apmebf.com^
+||applixir.com^
 ||appnext.com^
 ||apprupt.com^
 ||apptap.com^
@@ -46937,6 +46937,7 @@ inapps.appsflyersdk.com^
 ||analyticssec.overwolf.com^
 ||ao-freegeoip.herokuapp.com^
 ||api-analytics-prd.pelcro.com^
+||api.country.is^
 ||api.wipmania.com^
 ||app.adjust.com^
 ||apple.www.letv.com^
@@ -57754,6 +57755,9 @@ inapps.appsflyersdk.com^
 ||pa4ye.cyou^
 ||lulgef.icu^
 ||fhtfnb.xyz^
+||drummers.cn^
+||zailgrae.com^
+||uljoifw.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^

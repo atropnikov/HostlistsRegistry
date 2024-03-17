@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-03-12T04:20:13.011Z
+! Last modified: 2024-03-17T06:17:49.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -127,6 +127,7 @@
 127.0.0.1 analytics.sunet.se
 127.0.0.1 analytics.svenskdam.se
 127.0.0.1 analytics.svt.se
+127.0.0.1 analytics.teknikveckan.se
 127.0.0.1 analytics.undeco.se
 127.0.0.1 analytics.vackertvader.se
 127.0.0.1 analytics-sdk.yle.fi
@@ -637,6 +638,7 @@
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 plus.sharedcount.com
+127.0.0.1 pm.azerioncircle.com
 127.0.0.1 popitunder.com
 127.0.0.1 portalhc.com
 127.0.0.1 pp.lp4.io

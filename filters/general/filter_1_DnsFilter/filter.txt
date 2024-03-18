@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-18T01:05:59.075Z
+! Last modified: 2024-03-18T12:26:55.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||aetgjds.com^
+||ndqkxjo.com^
 ||pekroace.net^
 ||vikaez.xyz^
 ||nodreewy.net^
@@ -39917,6 +39919,7 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||kiesta.net^
 ||cdn-ads.tmap.co.kr^
 ||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
@@ -40562,6 +40565,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||app.ardalio.com^
 ||events-ingestion.services.gorgias.com^
 ||accuratecoal.com^
 ||sdk-cdn.optimove.net^
@@ -43987,6 +43991,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.3c5.com^
+||unidentifiedanalytics.web.app^
 ||t.poki.io^
 ||p.armorgames.net^
 ||analytics.crazygames.com^
@@ -57766,6 +57772,9 @@ inapps.appsflyersdk.com^
 ||onifdlak.top^
 ||nlhpxj.xyz^
 ||rghqrj.xyz^
+||nljrvdh.xyz^
+||savionl.com^
+||dorper.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-22T18:17:51.744Z
+! Last modified: 2024-03-22T20:14:52.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -942,8 +942,13 @@
 
 ||gjc.gjirafa.com^
 ||code.ainsyndication.com^
+||a.mabipa.com^
+||klik-slider.morgancode.com^
+||lupon.media^
+||redakcija.alo.rs^
 ||traffic.styria.hr^
 ||widget.admiral.hr^
+||widgets.jutarnji.hr^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||subs.vingd.com^
 ||banner.mob.hr^
@@ -40106,7 +40111,6 @@ vkcdnservice.appspot.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
-||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -40942,7 +40946,7 @@ vkcdnservice.appspot.com^
 ||px*.mediahills.ru^
 ||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
-||posthog.com^
+||app.posthog.com^
 ||crossees.com^
 ||plausiblecdn.co^
 ||humanz.com^
@@ -47339,6 +47343,7 @@ inapps.appsflyersdk.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
+||i.posthog.com^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^

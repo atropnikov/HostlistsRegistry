@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-03-22T09:17:21.511Z
+! Last modified: 2024-03-22T12:27:13.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4895,7 +4895,6 @@
 ||api-analytics.rozetka.com.ua^
 ||api-exponea.o2.cz^
 ||api-exponea.o2.sk^
-||api-gtm.grubhub.com^
 ||api-logdev.sohatv.vn^
 ||api.140proof.com^
 ||api.ad-locus.com^
@@ -12515,6 +12514,7 @@
 ||datadbs.com^
 ||datajsext.com^
 ||datakitschelm.com^
+||dataryon.com^
 ||datas.tianqistatic.com^
 ||datatechone.com^
 ||datatechonert.com^
@@ -28512,6 +28512,7 @@
 ||oxthrilled.com^
 ||oxtracking.com^
 ||oxtsale1.com^
+||oxvlxwz.xyz^
 ||oxxvikappo.com^
 ||oxybe.com^
 ||oxydaserucked.com^
@@ -37445,6 +37446,7 @@
 ||tapjoy.com^
 ||tapjoy.net^
 ||tapjoyads.com^
+||taplytics-umami.grubhub.com^
 ||tapone.jp^
 ||tapproveofchild.info^
 ||tappx.com^
@@ -42326,6 +42328,7 @@
 ||wingerssetiger.com^
 ||wingingtuzzle.space^
 ||wingleeer.space^
+||wingsurf.cn^
 ||winneradsmedia.com^
 ||winnersolutions.net^
 ||winningdotaltar.com^
@@ -44002,6 +44005,7 @@
 ||zfp32.buzz^
 ||zfpkrl.xyz^
 ||zfvtswv.xyz^
+||zfzys.top^
 ||zg.butaneailment.com^
 ||zghrxn.xyz^
 ||zghsep.icu^

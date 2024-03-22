@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-03-15T12:26:43.355Z
+! Last modified: 2024-03-22T13:15:43.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13,10 +13,12 @@
 ||101order.com^
 ||180hits.de^
 ||180searchassistant.com^
+||1link2020.com^
 ||1rx.io^
 ||207.net^
 ||247media.com^
 ||24log.com^
+||24pm-affiliation.com^
 ||2mdn.net^
 ||2o7.net^
 ||2znp09oa.com^
@@ -781,7 +783,6 @@
 ||adsmogo.com^
 ||adsnative.com^
 ||adsoftware.com^
-||adsoldier.com^
 ||adsolut.in^
 ||adspeed.net^
 ||adspirit.de^
@@ -815,7 +816,6 @@
 ||adtegrity.net^
 ||adthis.com^
 ||adthrive.com^
-||adthurst.com^
 ||adtiger.de^
 ||adtilt.com^
 ||adtng.com^
@@ -892,6 +892,7 @@
 ||affiliate.treated.com^
 ||affiliatefuture.com^
 ||affiliates.allposters.com^
+||affiliates.babylon.com^
 ||affiliates.digitalriver.com^
 ||affiliates.globat.com^
 ||affiliates.rozetka.com.ua^
@@ -2944,7 +2945,6 @@
 ||rtbpop.com^
 ||rtbpopd.com^
 ||rtmark.net^
-||rtpdn11.com^
 ||rtxplatform.com^
 ||ru4.com^
 ||rubiconproject.com^
@@ -3253,14 +3253,12 @@
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
-||surfmusik-adserver.de^
 ||surveygizmobeacon.s3.amazonaws.com^
 ||sw88.espn.com^
 ||swan-swan-goose.com^
 ||swankysquare.com^
 ||swimslope.com^
 ||swingslip.com^
-||swordfishdc.com^
 ||swordgoose.com^
 ||synonymoussticks.com^
 ||t.bawafx.com^

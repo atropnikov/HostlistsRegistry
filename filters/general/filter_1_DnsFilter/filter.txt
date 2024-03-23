@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-22T20:14:52.509Z
+! Last modified: 2024-03-23T01:03:37.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10529,6 +10529,7 @@ vkcdnservice.appspot.com^
 ||dsstrk.com^
 ||dsultra.com^
 ||dswqtkpk.com^
+||dsxwcas.com^
 ||dsygubntxgvxo.com^
 ||dt4ever.com^
 ||dt51.net^
@@ -24180,6 +24181,7 @@ vkcdnservice.appspot.com^
 ||owrddzml.com^
 ||owrkwilxbw.com^
 ||owtvhrydewc.com^
+||owwafgaqdapg.com^
 ||owwczycust.com^
 ||owwogmlidz.com^
 ||owxanjxlxtfbjw.com^
@@ -47112,6 +47114,7 @@ inapps.appsflyersdk.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||bacon.section.io^
 ||barium.cheezdev.com^
+||baxter.olx.org^
 ||bc.geocities.
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
@@ -57970,6 +57973,14 @@ inapps.appsflyersdk.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||0lmv9e.cn^
+||ityusio.top^
+||xizanzhi.com^
+||hitchun.com^
+||lwrohd.xyz^
+||clmkwi.xyz^
+||fpvdrzx.xyz^
+||hbxzlf.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-03-22T13:15:43.001Z
+! Last modified: 2024-03-29T12:28:17.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -568,7 +568,6 @@
 ||ads.prisacom.com^
 ||ads.program3.com^
 ||ads.psd2html.com^
-||ads.quasaraffiliates.com^
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
@@ -832,7 +831,6 @@
 ||adv.donejty.pl^
 ||adv.freeonline.it^
 ||adv.hwupgrade.it^
-||adv.livedoor.com^
 ||adv.mpvc.it^
 ||adv.nexthardware.com^
 ||adv.webmd.com^
@@ -3253,6 +3251,7 @@
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
+||surfmusik-adserver.de^
 ||surveygizmobeacon.s3.amazonaws.com^
 ||sw88.espn.com^
 ||swan-swan-goose.com^

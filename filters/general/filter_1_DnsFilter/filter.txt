@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-03-30T01:03:16.742Z
+! Last modified: 2024-03-30T06:18:11.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -49674,6 +49674,7 @@ inapps.appsflyersdk.com^
 ||log.tagtic.cn^
 ||mcs.zijieapi.com^
 ||p.tencentmind.com^
+||pr.nss.netease.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
 ||ssac.suning.com^
@@ -49852,6 +49853,7 @@ inapps.appsflyersdk.com^
 ||1to1.bbva.com^
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
+||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^
 ||collector-videoplayer.5centscdn.net^
@@ -59404,6 +59406,7 @@ inapps.appsflyersdk.com^
 ||kfpnqug.cn^
 ||qrovwu.xyz^
 ||rofmjd.xyz^
+||qdtzbbh.xyz^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
@@ -59413,6 +59416,12 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
+||xylhwdu.com^
+||hfbfbvmjdmxc.com^
+||byuwkbv.top^
+||pseudonym.cn^
+||utxmb.cn^
+||lbyx.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

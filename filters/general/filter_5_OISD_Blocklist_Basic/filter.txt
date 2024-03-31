@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-03-30T21:12:06.387Z
+! Last modified: 2024-03-31T01:11:35.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -578,6 +578,7 @@
 ||3ng6p6m0.de^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
+||3q1lsj.cn^
 ||3qfe1gfa.de^
 ||3redlightfix.com^
 ||3sk7d418al8u.com^
@@ -4594,6 +4595,7 @@
 ||analytics.maxroll.gg^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
+||analytics.mercadolibre.com^
 ||analytics.metrix.ir^
 ||analytics.mindjolt.com^
 ||analytics.mobile.walmart.com^
@@ -8715,7 +8717,6 @@
 ||byteyieldcreated.com^
 ||bytogeticr.com^
 ||bytupkvc.xyz^
-||byuwkbv.top^
 ||byvlph.xyz^
 ||byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com^
 ||bywntfg.com^
@@ -9301,6 +9302,7 @@
 ||cdgtw3.guapaijia.com^
 ||cdhfvrug.xyz^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
+||cdmgac.xyz^
 ||cdmjur.xyz^
 ||cdmnlxtu.xyz^
 ||cdn-adn.rayjump.com^
@@ -20989,6 +20991,7 @@
 ||hvooyieoei.com^
 ||hvpard.xyz^
 ||hvpguevleand.com^
+||hvxrvef.xyz^
 ||hw-ot-ad.a.yximgs.com^
 ||hw.testulebottega.com^
 ||hwa.his.huawei.com^
@@ -31559,6 +31562,7 @@
 ||pqxyqq.com^
 ||pr-star.de^
 ||pr.ikovrov.ru^
+||pr.nss.netease.com^
 ||pr.rusmed.ru^
 ||pr0gram.org^
 ||pr88vhg.com^
@@ -34950,6 +34954,7 @@
 ||rydyvv.xyz^
 ||rydzfldt.xyz^
 ||ryepublisher.com^
+||ryhkft.xyz^
 ||ryllae.com^
 ||ryminos.com^
 ||ryremovement.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-03-31T03:17:02.659Z
+! Last modified: 2024-03-31T09:14:43.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3027,6 +3027,7 @@
 ||adsilo.pro^
 ||adsimilis.com^
 ||adsinstant.com^
+||adsinteractive-794b.kxcdn.com^
 ||adskape.ru^
 ||adskeeper.co.uk^
 ||adskeeper.com^
@@ -12765,6 +12766,7 @@
 ||d3qilfrpqzfrg4.cloudfront.net^
 ||d3qinhqny4thfo.cloudfront.net^
 ||d3qk9u6c2k2cid.cloudfront.net^
+||d3qrbrazsnzdog.cloudfront.net^
 ||d3qttli028txpv.cloudfront.net^
 ||d3qu0b872n4q3x.cloudfront.net^
 ||d3qvcyf9oa6vhw.cloudfront.net^

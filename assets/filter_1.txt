@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-01T12:30:00.289Z
+! Last modified: 2024-04-01T18:18:15.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -49984,6 +49984,7 @@ inapps.appsflyersdk.com^
 ||templates.buscape.com^
 ||yestorrents.org^
 
+||luxcdn.com^
 ||vqhrqt.com^
 ||marketer.lv^
 ||programmatica.com^
@@ -59079,6 +59080,7 @@ inapps.appsflyersdk.com^
 ||elisium.cn^
 ||ellingsen.cn^
 ||elphhrj.xyz^
+||eluocs.xyz^
 ||endolift.cn^
 ||enifdlaw.top^
 ||eqqwgw.xyz^
@@ -59094,6 +59096,7 @@ inapps.appsflyersdk.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
 ||fmfnrf.xyz^
+||fmssoj.icu^
 ||fpjjjh.xyz^
 ||fpvdrzx.xyz^
 ||frtnqps358.shop^
@@ -59167,6 +59170,7 @@ inapps.appsflyersdk.com^
 ||jubnpx.xyz^
 ||justapp.top^
 ||jvkqkzu.cn^
+||jyuwkba.top^
 ||jzjpntr.xyz^
 ||kbomku.xyz^
 ||kdeh.cn^
@@ -59209,6 +59213,7 @@ inapps.appsflyersdk.com^
 ||mnifdlax.top^
 ||moberg.cn^
 ||mondigo.cn^
+||mpn56e.cn^
 ||mrtxtrq.xyz^
 ||mtddqjk.cn^
 ||mthhhuq.cn^
@@ -59259,10 +59264,12 @@ inapps.appsflyersdk.com^
 ||pkyjuc.cn^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
+||polepole.cn^
 ||pressit.cn^
 ||prhfziq.xyz^
 ||przbzr.xyz^
 ||pseudonym.cn^
+||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pxzrlf.xyz^
 ||qbhzghb.xyz^
@@ -59401,6 +59408,7 @@ inapps.appsflyersdk.com^
 ||wsdwbfs.cn^
 ||wtyusie.top^
 ||wwjtdjj.cn^
+||wxfdmri.xyz^
 ||xcypgd.icu^
 ||xdfhidrk.xyz^
 ||xdmnlxtu.xyz^
@@ -59452,13 +59460,6 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||pwhkfd.xyz^
-||wxfdmri.xyz^
-||eluocs.xyz^
-||fmssoj.icu^
-||mpn56e.cn^
-||polepole.cn^
-||jyuwkba.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

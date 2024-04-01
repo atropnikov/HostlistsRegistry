@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-01T06:19:53.504Z
+! Last modified: 2024-04-01T12:30:00.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42025,6 +42025,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||jubbie.de^
 ||collector.lunalabs.io^
 ||greenbids.ai^
 ||track.migattenogokui.com^
@@ -53160,7 +53161,6 @@ inapps.appsflyersdk.com^
 ||ads.skolvarlden.se^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
-||ads.veterinaren.nu^
 ||adserver.ddev.site^
 ||adserver.infotorg.se^
 ||adserver.so-rummet.se^
@@ -53235,7 +53235,6 @@ inapps.appsflyersdk.com^
 ||browser.covatic.io^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
-||bulletproof-analytics.com^
 ||buzzador.com^
 ||c.eacla.com^
 ||cargodisplayads.com^
@@ -53302,7 +53301,6 @@ inapps.appsflyersdk.com^
 ||d9v72urx9pbbc.cloudfront.net^
 ||d33s3ffr7fotas.cloudfront.net^
 ||dackpartner-web.s3.amazonaws.com^
-||dakine.com.se^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
 ||di.insplanet.com^
@@ -53319,7 +53317,6 @@ inapps.appsflyersdk.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
-||evtr.nordiskemedier.dk^
 ||expo.ads.ramsalt.com^
 ||extern.prisjakt.nu^
 ||external.reseguiden.se^
@@ -53355,6 +53352,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||ion.btcswe.com^
+||js.evtr.nordiskemedier.dk^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
 ||js.multibrandaffiliates.com^
@@ -53364,7 +53362,6 @@ inapps.appsflyersdk.com^
 ||keenstockholm.com.se^
 ||ksdarprt.reseguiden.se^
 ||kyrkoskatten.se^
-||kyrkskatt.se^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
 ||lasso.link^
@@ -53452,7 +53449,6 @@ inapps.appsflyersdk.com^
 ||revive.99mac.se^
 ||revrelations.com^
 ||richmediastudio.com^
-||rockeringformsweden.com^
 ||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
@@ -53486,8 +53482,6 @@ inapps.appsflyersdk.com^
 ||sgtm.inet.se^
 ||skattamindre.se^
 ||sleeknote.com^
-||smetrics.aftonbladet.se^
-||sneakersisverige.com^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -59464,6 +59458,7 @@ inapps.appsflyersdk.com^
 ||fmssoj.icu^
 ||mpn56e.cn^
 ||polepole.cn^
+||jyuwkba.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

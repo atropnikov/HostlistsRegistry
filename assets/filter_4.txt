@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-04-01T03:16:10.330Z
+! Last modified: 2024-04-01T17:16:24.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1709,6 +1709,7 @@
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
+0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com

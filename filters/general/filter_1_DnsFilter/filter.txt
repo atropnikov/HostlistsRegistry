@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-02T01:08:55.313Z
+! Last modified: 2024-04-02T06:19:44.609Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -59466,6 +59466,8 @@ inapps.appsflyersdk.com^
 ||xgjidt.xyz^
 ||jwhdgt.icu^
 ||npjvgug.xyz^
+||szmyl.cn^
+||osusjsga.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -63986,7 +63988,7 @@ inapps.appsflyersdk.com^
 ||b1.xiao84.com^
 ||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
-||bai.luyouwang.com^
+||192.luyouwang.com^
 ||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
 ||baidujs.cnys.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-04-03T10:16:52.491Z
+! Last modified: 2024-04-03T12:27:39.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1076,7 +1076,6 @@
 ||a.kizzteen.com^
 ||a.ladipage.com^
 ||a.letsjerk.org^
-||a.letsjerk.to^
 ||a.letsjerk.tv^
 ||a.mabipa.com^
 ||a.medialaancdn.be^
@@ -34034,7 +34033,6 @@
 ||rogerohowked.top^
 ||rogligh.ehrydnmdoe.com^
 ||rogueschedule.com^
-||roi.ediscom.it^
 ||roia.biz^
 ||roikingdom.com^
 ||roilsnadirink.com^

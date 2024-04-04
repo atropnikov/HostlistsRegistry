@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-03T17:13:11.176Z
+! Last modified: 2024-04-04T01:06:52.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -39259,6 +39259,7 @@ vkcdnservice.appspot.com^
 ||offersquared.com^
 ||og-affiliate.com^
 ||okanjo.com^
+||oneadz.com^
 ||onetag-sys.com^
 ||onlyalad.net^
 ||onscroll.com^
@@ -50274,7 +50275,6 @@ inapps.appsflyersdk.com^
 ||alli-ti-hunter.com^
 ||ogtz5yn2u1.ru^
 ||69qa.club^
-||fast-hunter.com^
 ||xxyolk.com^
 ||mountrs.com^
 ||multibux.org^
@@ -50375,9 +50375,9 @@ inapps.appsflyersdk.com^
 ||newscode.online^
 ||infocode.tech^
 ||informer.link^
-||kataprius.com^
 ||yxswtummev.info^
 ||quaruzon.com^
+||kataprius.com^
 ||sereendipit.com^
 ||sdmot.ru^
 ||qfhzki.com^
@@ -50393,6 +50393,7 @@ inapps.appsflyersdk.com^
 ||iulftx.com^
 ||eqmx04n5s0.ru^
 ||qerusgreyt.com^
+||fast-hunter.com^
 ||bigbonga.com^
 ||fbcctf.com^
 ||kopterka.ru^
@@ -50513,7 +50514,6 @@ inapps.appsflyersdk.com^
 ||mdyhb.com^
 ||adstime.org^
 ||fqab5xq7qlgt.info^
-||adbean.ru^
 ||quantumpers.com^
 ||cloudfastads.ru^
 ||2sfygwfxvsxv.info^
@@ -50671,6 +50671,7 @@ inapps.appsflyersdk.com^
 ||ad2.rambler.ru^
 ||ad3.rambler.ru^
 ||ad4sell.com^
+||adbean.ru^
 ||adbid.pl^
 ||adbn.ru^
 ||adbomb.ru^
@@ -59401,6 +59402,13 @@ inapps.appsflyersdk.com^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
+||lznfuab.xyz^
+||ei1s7b.cn^
+||knalzld.top^
+||fadhvz.xyz^
+||wioboy.xyz^
+||rkgbqn.icu^
+||pp1hl.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-04-03T22:13:23.341Z
+! Last modified: 2024-04-04T01:06:54.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1057,6 +1057,8 @@
 ||ay.delivery^
 ||aztracking.net^
 ||b-s.tercept.com^
+||b.videoamp.com^
+||b3.videoamp.com^
 ||ba.afl.rakuten.co.jp^
 ||backbeatmedia.com^
 ||balloontexture.com^
@@ -3590,7 +3592,6 @@
 ||vidcpm.com^
 ||video-stats.video.google.com^
 ||videoadex.com^
-||videoamp.com^
 ||videoegg.com^
 ||videostats.kakao.com^
 ||vidible.tv^

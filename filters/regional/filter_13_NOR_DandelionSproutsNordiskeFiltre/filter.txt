@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2024-02-10T06:17:52.476Z
+! Last modified: 2024-04-10T22:16:08.667Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,7 +19,6 @@
 ||ad.shareholders.dk^
 
 ||ad.wmt.dk^
-
 ||addmoviesnow.com^
 ||adext.inkclub.com^
 ||adidasko.com^
@@ -60,11 +59,8 @@
 
 
 
-
-
 ||ads2.webdrive.no^
 ||ads3.webdrive.no^
-
 
 
 
@@ -76,7 +72,6 @@
 ||adservice.google.is^
 ||adservice.google.no^
 ||adservicemedia.dk^
-
 
 
 
@@ -128,8 +123,6 @@
 ||banner.skisport.dk^
 ||bcm.interactives.dk^
 ||beacon.krxd.net^
-||bershka-norge.com^
-||bershkadenmark.com^
 ||betterbanners.org^
 ||betterbannerscloud.com^
 ||betzykrisesenter.no^
@@ -258,7 +251,6 @@
 ||hugobossbutikk.com^
 ||hunter-danmark.com^
 ||hunternorge.co^
-||hunternorge.co.no^
 ||hunternorgeno.com^
 ||hunternorgesalg.com^
 ||hunterstovlerbutikk.com^
@@ -286,7 +278,6 @@
 ||k-yw.com^
 ||keensandalertilbud.com^
 ||kjaerra.no^
-||kobconcerta54mgonlineidanmark.wordpress.com^
 ||kohlershop.dk^
 ||kontrast1.no^
 ||kunde.apt.no^
@@ -302,7 +293,6 @@
 ||lysing.in.fo^
 ||marked.no^
 ||marson.footeo.com^
-||martensnorge.co.no^
 ||martenssalg.com^
 ||marvelouskaunas.club^
 ||matriell.dm-storage.no^
@@ -393,7 +383,6 @@
 ||probenefit.net^
 ||prod-adops-proxy.dnitv.net^$ctag=os_android|os_ios|device_tv
 ||psscdn.com^
-||puma-norge.co.no^
 ||quiksilverdanmark.com^
 ||quiksilvernorge.com^
 ||quiksilvertilbud.com^
@@ -406,7 +395,6 @@
 ||salgvejanorge.com^
 ||salomomnorgeoutlet.com^
 ||salomon-danmark.net^
-||salomon-norge.co.no^
 ||salomonbutikdanmark.com^
 ||salomonidanmark.com^
 ||salomonoutletnorge.com^
@@ -452,7 +440,6 @@
 ||tevadanmarkshop.com^
 ||tevanorgeshop.com^
 ||thecoolgirl.no^
-||thenorthfacenorge.co.no^
 ||tnooutlet.com^
 ||tns-gallup.dk^
 ||topshineauto.no^
@@ -471,7 +458,6 @@
 ||underarmourdks.com^
 ||userneeds.dk^
 ||valspe.com.br^
-||vansnorge.co.no^
 ||vanssnorge.com^
 ||vefbordar.jl.is^
 ||vefbordi.is^

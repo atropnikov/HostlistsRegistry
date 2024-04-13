@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-04-13T06:15:12.424Z
+! Last modified: 2024-04-13T13:14:49.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1166,7 +1166,6 @@
 ||a.xanga.com^
 ||a.xixiyishu.com^
 ||a.xmanga.online^
-||a.xolen.xyz^
 ||a.xue126.com^
 ||a.xuezizhai.com^
 ||a.xvidxxx.com^
@@ -45149,6 +45148,7 @@
 ||xo28pclotovi.com^
 ||xobr219pa.com^
 ||xogtrmjz.xyz^
+||xolen.xyz^
 ||xoqsxdpx.xyz^
 ||xotgpql.com^
 ||xpdronhu.xyz^

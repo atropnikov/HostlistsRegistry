@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-04-12T21:13:27.850Z
+! Last modified: 2024-04-13T03:13:05.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9019,7 +9019,6 @@
 ||capwilyunseen.com^
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.randyhamiltonelectric.com^
-||car-cra.sh^
 ||car.qcmrjx.com^
 ||caraboajibstay.digital^
 ||carafebanyai.uno^

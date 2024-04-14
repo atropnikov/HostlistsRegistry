@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-04-09T17:13:19.217Z
+! Last modified: 2024-04-14T22:07:59.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -228,7 +228,6 @@
 0.0.0.0 guomob.com
 0.0.0.0 immob.cn
 0.0.0.0 intely.cn
-0.0.0.0 ipinyou.com
 0.0.0.0 kejet.net
 0.0.0.0 oadz.com
 0.0.0.0 optaim.com
@@ -243,7 +242,6 @@
 0.0.0.0 wooboo.com.cn
 0.0.0.0 wqmobile.com
 0.0.0.0 zhiziyun.com
-0.0.0.0 atm.youku.com
 0.0.0.0 simaba.taobao.com
 0.0.0.0 cupid.iqiyi.com
 0.0.0.0 cupid.qiyi.com
@@ -2255,6 +2253,13 @@
 0.0.0.0 httpkafka-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 httpkafka.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
+0.0.0.0 iads.unity3d.com
+0.0.0.0 a-uap.iads.unity3d.com
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com
 0.0.0.0 a.applvn.com
 0.0.0.0 applvn.com
 0.0.0.0 d.applvn.com
@@ -2983,14 +2988,11 @@
 0.0.0.0 taplytics.com
 0.0.0.0 wpengine.taplytics.com
 0.0.0.0 www.taplytics.com
-0.0.0.0 amplitude.com
-0.0.0.0 analytics.amplitude.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.eu.amplitude.com
+0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 info.amplitude.com
-0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 static.amplitude.com
 0.0.0.0 b-stage.measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 measuread.com
@@ -5264,24 +5266,6 @@
 0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 static.cbsileads.com
 0.0.0.0 www.cbsileads.com
-0.0.0.0 adops.cbsinteractive.com
-0.0.0.0 ads.asia.cbsinteractive.com
-0.0.0.0 asia.cbsinteractive.com
-0.0.0.0 b2b-ma.cbsinteractive.com
-0.0.0.0 cbsinteractive.com
-0.0.0.0 cnu.cbsinteractive.com
-0.0.0.0 connect.cbsinteractive.com
-0.0.0.0 ddpefewest.cbsinteractive.com
-0.0.0.0 gadgets.cbsinteractive.com
-0.0.0.0 gammo.cbsinteractive.com
-0.0.0.0 i.asia.cbsinteractive.com
-0.0.0.0 legalterms.cbsinteractive.com
-0.0.0.0 nls.cbsinteractive.com
-0.0.0.0 ocp.cbsinteractive.com
-0.0.0.0 secure-ca.cbsinteractive.com
-0.0.0.0 vidtech.cbsinteractive.com
-0.0.0.0 vtstage.cbsinteractive.com
-0.0.0.0 www.cbsinteractive.com
 0.0.0.0 adsfactor.net
 0.0.0.0 cdn.adsfactor.net
 0.0.0.0 cdn-html.adsfactor.net
@@ -10311,7 +10295,6 @@
 0.0.0.0 sophi.io
 0.0.0.0 adimg.cbsi.com
 0.0.0.0 adlog.cbsi.com
-0.0.0.0 at.cbsi.com
 0.0.0.0 intent.cbsi.com
 0.0.0.0 om.cbsi.com
 0.0.0.0 ads.play.cbsi.video
@@ -10620,6 +10603,7 @@
 0.0.0.0 www.clickcease.com
 0.0.0.0 ads.trackingtraffo.com
 0.0.0.0 rtb.trackingtraffo.com
+0.0.0.0 track-eu.trackingtraffo.com
 0.0.0.0 track.trackingtraffo.com
 0.0.0.0 trackingtraffo.com
 0.0.0.0 adapf.com
@@ -10973,6 +10957,38 @@
 0.0.0.0 jsc.yodimedia.com
 0.0.0.0 ios-pclog.3u.com
 0.0.0.0 ios.pclog.3u.com
+0.0.0.0 maxvaluead.com
+0.0.0.0 media.maxvaluead.com
+0.0.0.0 srv.maxvaluead.com
+0.0.0.0 track.maxvaluead.com
+0.0.0.0 adsrv.net
+0.0.0.0 api.adsrv.net
+0.0.0.0 media-master.adsrv.net
+0.0.0.0 media.adsrv.net
+0.0.0.0 node-01.adsrv.net
+0.0.0.0 node-02.adsrv.net
+0.0.0.0 node-03.adsrv.net
+0.0.0.0 node-04.adsrv.net
+0.0.0.0 node-05.adsrv.net
+0.0.0.0 node-06.adsrv.net
+0.0.0.0 srv.adsrv.net
+0.0.0.0 track.adsrv.net
+0.0.0.0 zabbix.adsrv.net
+0.0.0.0 adx-open-service.youku.com
+0.0.0.0 cad.youku.com
+0.0.0.0 ems.youku.com
+0.0.0.0 pcapp-data-collect.youku.com
+0.0.0.0 ykad-data.youku.com
+0.0.0.0 ykad-gateway.youku.com
+0.0.0.0 ad.youku.com
+0.0.0.0 pre-yk-ssp.ad.youku.com
+0.0.0.0 yk-ssp.ad.youku.com
+0.0.0.0 atm.youku.com
+0.0.0.0 cm.miaozhen.atm.youku.com
+0.0.0.0 m.atm.youku.com
+0.0.0.0 val.atm.youku.com
+0.0.0.0 adashx.ut.youku.com
+0.0.0.0 h-adashx.ut.youku.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -12418,6 +12434,7 @@
 0.0.0.0 bgadx.com
 0.0.0.0 bidgear-syndication.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
+0.0.0.0 cdn.adxcontent.com
 0.0.0.0 cdn.qc24h.com
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 chiasephim.xyz
@@ -13775,6 +13792,7 @@
 0.0.0.0 ahtsrekzeb.com
 0.0.0.0 ahura-maz.com
 0.0.0.0 aibsgc.com
+0.0.0.0 aickeebsi.com
 0.0.0.0 aihoasso.net
 0.0.0.0 ailalbapt.club
 0.0.0.0 ailpielei.com
@@ -14536,6 +14554,7 @@
 0.0.0.0 callloop.com
 0.0.0.0 callousbrake.com
 0.0.0.0 camberchimp.com
+0.0.0.0 cameesse.net
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 campaigns.williamhill.com
 0.0.0.0 campongprecant.com
@@ -15799,6 +15818,7 @@
 0.0.0.0 gipaxqfpopu.com
 0.0.0.0 gipxpuotwv.com
 0.0.0.0 girawrolrorf.com
+0.0.0.0 gishejuy.com
 0.0.0.0 gk79a2oup.com
 0.0.0.0 gkemujoccwin.com
 0.0.0.0 gketcakpeh.com
@@ -16028,6 +16048,7 @@
 0.0.0.0 hicawxojvcc.com
 0.0.0.0 hidden.gogoceleb.com
 0.0.0.0 hidelen.com
+0.0.0.0 highcpmcreativeformat.com
 0.0.0.0 highcpmrevenuenetwork.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highfalutinroom.com
@@ -17010,6 +17031,7 @@
 0.0.0.0 moodokay.com
 0.0.0.0 moolahmedia.com
 0.0.0.0 moonlitturbots.com
+0.0.0.0 moonoafy.net
 0.0.0.0 moradu.com
 0.0.0.0 morguebattle.com
 0.0.0.0 morrowfreezer.com
@@ -19183,6 +19205,7 @@
 0.0.0.0 ueikno.com
 0.0.0.0 uejwqbgtjxdw.com
 0.0.0.0 ueypzubwo.com
+0.0.0.0 ufiledsit.com
 0.0.0.0 uge521.com
 0.0.0.0 uhealth.care
 0.0.0.0 uhxmyqyevkcvit.com
@@ -19303,6 +19326,7 @@
 0.0.0.0 variousformatscontent.com
 0.0.0.0 vasgenerete.site
 0.0.0.0 vattingbalak.com
+0.0.0.0 vaugroar.com
 0.0.0.0 vcuobpfisalm.com
 0.0.0.0 vdopia.com
 0.0.0.0 ve01.mgod33cme.com
@@ -19916,6 +19940,7 @@
 0.0.0.0 zorprhbnwbezie.com
 0.0.0.0 zosteraclumsy.website
 0.0.0.0 zouemtjzuae.com
+0.0.0.0 zovidree.com
 0.0.0.0 zpbhjatpnaovj.com
 0.0.0.0 zpidadpuhcm.com
 0.0.0.0 zrljkhcwhxhh.com
@@ -20235,6 +20260,7 @@
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invoca.net
 0.0.0.0 iovation.com
+0.0.0.0 ipinyou.com
 0.0.0.0 js.go2sdk.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsleadflows.net

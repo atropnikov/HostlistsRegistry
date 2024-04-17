@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-17T06:22:20.863Z
+! Last modified: 2024-04-17T12:28:29.270Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||globalwoldsinc.com^
 ||ciqahsejb.com^
 ||qomffnmxgwcon.com^
 ||jxhbpcdzcg.com^
@@ -6069,6 +6070,7 @@ vkcdnservice.appspot.com^
 ||blatwalm.com^
 ||blaze-media.com^
 ||blazesomeplacespecification.com^
+||blazonstowel.com^
 ||blbazybajjevv.top^
 ||blbazybajvzvw.top^
 ||blbesnuff.digital^
@@ -31136,6 +31138,7 @@ vkcdnservice.appspot.com^
 ||sentimentalclient.pro^
 ||sentimenthypocrisy.com^
 ||sentimentsvarious.com^
+||sentinelp.com^
 ||seo-overview.com^
 ||separashparyro.info^
 ||separatecolonist.com^
@@ -41105,6 +41108,7 @@ vkcdnservice.appspot.com^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
+||iili.io^
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.manga1001.win^
@@ -54702,6 +54706,7 @@ inapps.appsflyersdk.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
 ||ntrfr.expekt.se^
+||ntrfr.pixel.bet^
 ||nucleusanalytics.io^
 ||omni-ad-blocket.herokuapp.com^
 ||openx.financialpublishers.nl^

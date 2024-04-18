@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-18T06:20:26.105Z
+! Last modified: 2024-04-18T12:27:39.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||lkhfkjp.com^
 ||aickeebsi.com^
 ||hstbbmtyptovqmw.com^
 ||vmimbrygee.com^
@@ -46698,6 +46699,32 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||location.cyou^
+||mymap.icu^
+||mymap.quest^
+||mapss.icu^
+||map-s.online^
+||crypto-o.click^
+||cryp-o.online^
+||customer.autos^
+||account.beauty^
+||bank.charity^
+||photospace.life^
+||mymassive.pics^
+||photovault.store^
+||imagehub.fun^
+||picturestash.mom^
+||clickthis.photo^
+||sharevault.cloud^
+||picshare.mom^
+||picshare.hair^
+||imagestash.pics^
+||xtube.chat^
+||myprivate.yachts^
+||screensnaps.top^
+||customersupport.click^
+||mypicparade.pics^
+||imagevault.cloud^
 ||bathtub.pics^
 ||catsnthing.com^
 ||catsnthings.fun^
@@ -46783,6 +46810,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||aclog.itmedia.co.jp^
+||fc.itmedia.co.jp^
 ||log.jd.com^
 ||tracker.myth.dev^
 ||metrics.baitoru.com^
@@ -56505,6 +56534,7 @@ inapps.appsflyersdk.com^
 ||cgovn.cc^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachhang-thang4.com.vn^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.cc^
@@ -60985,6 +61015,7 @@ inapps.appsflyersdk.com^
 ||vkdgdt.xyz^
 ||rbfxoex.xyz^
 ||gcomwx.icu^
+||szftg.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^

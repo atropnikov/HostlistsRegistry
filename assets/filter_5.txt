@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-04-18T09:15:40.455Z
+! Last modified: 2024-04-18T15:15:54.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2711,6 +2711,7 @@
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
 ||ads.hentaiheart.com^
+||ads.heytapmobile.com^
 ||ads.hollywood.com^
 ||ads.home.vn^
 ||ads.homedy.net^
@@ -3425,7 +3426,6 @@
 ||adwx6vcj.com^
 ||adx-dre.op.hicloud.com^
 ||adx-exchange.toast.com^
-||adx-in.ads.heytapmobile.com^
 ||adx-open-service.youku.com^
 ||adx-tk.rayjump.com^
 ||adx.36kr.com^

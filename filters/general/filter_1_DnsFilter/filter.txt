@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-18T01:06:19.377Z
+! Last modified: 2024-04-18T06:20:26.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23474,6 +23474,7 @@ vkcdnservice.appspot.com^
 ||natseegirde.net^
 ||nattepush.com^
 ||nattierariosi.space^
+||natuarycomping.com^
 ||naturalhealthsource.club^
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
@@ -60983,6 +60984,7 @@ inapps.appsflyersdk.com^
 ||oweeiyw.icu^
 ||vkdgdt.xyz^
 ||rbfxoex.xyz^
+||gcomwx.icu^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -65289,6 +65291,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||bm.h576.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

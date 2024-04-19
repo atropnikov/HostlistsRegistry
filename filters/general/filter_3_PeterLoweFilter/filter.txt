@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-04-12T11:15:19.202Z
+! Last modified: 2024-04-19T12:27:57.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1410,7 +1410,6 @@
 ||cloisteredhydrant.com^
 ||closedcows.com^
 ||cloudflareinsights.com^
-||cloudiq.com^
 ||clrstm.com^
 ||cluster.adultworld.com^
 ||clustrmaps.com^
@@ -2378,6 +2377,7 @@
 ||mkto-ab410147.com^
 ||mktoresp.com^
 ||ml314.com^
+||mlm.de^
 ||mlsend.com^
 ||mltrk.io^
 ||mmismm.com^
@@ -2596,7 +2596,6 @@
 ||oxen.hillcountrytexas.com^
 ||p-n.io^
 ||p.nag.ru^
-||paddleangle.com^
 ||padsbrown.com^
 ||pagead.l.google.com^
 ||pagefair.com^
@@ -2977,7 +2976,6 @@
 ||scorecardresearch.com^
 ||scratch2cash.com^
 ||screechingfurniture.com^
-||screechingslip.com^
 ||screechingstocking.com^
 ||screechingstove.com^
 ||scripte-monster.de^
@@ -3021,7 +3019,6 @@
 ||shakegoldfish.com^
 ||shakesuggestion.com^
 ||shakytaste.com^
-||shareadspace.com^
 ||shareasale.com^
 ||sharethrough.com^
 ||sharppatch.com^
@@ -3556,7 +3553,6 @@
 ||vengefulgrass.com^
 ||ventivmedia.com^
 ||venturead.com^
-||verblife-5.co^
 ||vericlick.com^
 ||vertamedia.com^
 ||verticalmass.com^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-04-17T08:18:50.692Z
+! Last modified: 2024-04-19T07:15:26.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31,6 +31,7 @@
 127.0.0.1 ad.lkqd.net
 127.0.0.1 ad.mox.tv
 127.0.0.1 ad.sxp.smartclip.net
+127.0.0.1 ad.vidverto.io
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.zanox.com
 127.0.0.1 adcell.io
@@ -823,6 +824,7 @@
 127.0.0.1 t.contentinsights.com
 127.0.0.1 t.elasticsuite.io
 127.0.0.1 t.fml.rip
+127.0.0.1 t.gatorleads.co.uk
 127.0.0.1 t.myvisitors.se
 127.0.0.1 t.raptorsmartadvisor.com
 127.0.0.1 t0.extreme-dm.com

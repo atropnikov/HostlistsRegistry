@@ -2,7 +2,7 @@
 ! Title: KOR: YousList
 ! Description: Block filter for advertisements, mainly on Korean sites.
 ! Homepage: https://github.com/yous/YousList
-! Last modified: 2024-04-23T04:18:47.691Z
+! Last modified: 2024-04-23T06:22:03.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -437,6 +437,7 @@
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mv.ad.naver.com
 0.0.0.0 mxttrf.com
+0.0.0.0 my.newscover.co.kr
 0.0.0.0 mycdn.co
 0.0.0.0 na.mmnneo.com
 0.0.0.0 nefing.com

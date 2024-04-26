@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-04-22T17:12:49.073Z
+! Last modified: 2024-04-26T12:28:32.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -598,7 +598,6 @@
 ||ads.suomiautomaatti.com^
 ||ads.supplyframe.com^
 ||ads.syscdn.de^
-||ads.tahono.com^
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
@@ -2124,7 +2123,6 @@
 ||kanoodle.com^
 ||kargo.com^
 ||karonty.com^
-||kesmatic.com^
 ||keymedia.hu^
 ||kindads.com^
 ||kissmetrics.com^
@@ -3428,7 +3426,6 @@
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
 ||tracking.shopstyle.com^
-||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
 ||tracking.utlservice.com^
 ||tracking.wetter.at^

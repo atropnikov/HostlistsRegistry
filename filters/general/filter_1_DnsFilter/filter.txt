@@ -2,10 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-26T12:28:31.069Z
+! Last modified: 2024-04-26T18:19:16.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||ewpubiimput.com^
+||nuptoomaugou.net^
+||bsbrcdna.com^
+||crazy-baboon.com^
 ||idyllicjazz.com^
 ||orclrul.com^
 ||vmkdfdjsnujy.xyz^
@@ -8643,6 +8647,7 @@ vkcdnservice.appspot.com^
 ||colorfulspecialinsurance.com^
 ||colorinmeasure.com^
 ||colorschemeas.com^
+||colossalanswer.com^
 ||colourevening.com^
 ||colourinitiative.com^
 ||coloursstandard.com^
@@ -17490,6 +17495,7 @@ vkcdnservice.appspot.com^
 ||hzogncbobfb.com^
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
+||hzzgnwdsha.com^
 ||i-afk.com^
 ||i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz^
 ||i0xz2.top^
@@ -34653,6 +34659,7 @@ vkcdnservice.appspot.com^
 ||tjaard11.xyz^
 ||tjavravj.com^
 ||tjclskcamptg.com^
+||tjegljkugvrr.com^
 ||tjgpeswdkrym.com^
 ||tjibxzqxtl.com^
 ||tjnkrrygmgp.com^
@@ -35363,6 +35370,7 @@ vkcdnservice.appspot.com^
 ||tthathehadstop.info^
 ||ttidstfuqhj.xyz^
 ||ttkhtwqi.com^
+||ttlmqhbbkd.com^
 ||ttney.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
@@ -37699,6 +37707,7 @@ vkcdnservice.appspot.com^
 ||weeprobbery.com^
 ||weestuch.com^
 ||weethery.com^
+||weewhunoamo.xyz^
 ||weewowshrinky.com^
 ||wefoonsaidoo.com^
 ||weftsgeogeny.com^
@@ -38482,6 +38491,7 @@ vkcdnservice.appspot.com^
 ||wsmobltyhs.com^
 ||wsokomw.com^
 ||wspsbhvnjk.com^
+||wstyruafypihv.xyz^
 ||wt20trk.com^
 ||wt2noay3fgjn.com^
 ||wtcmjppejjb.com^
@@ -38515,6 +38525,7 @@ vkcdnservice.appspot.com^
 ||wuqconn.com^
 ||wurqaz.com^
 ||wussucko.com^
+||wutcifjtapa.com^
 ||wutseelo.xyz^
 ||wutsumazxq.com^
 ||wuujae.com^
@@ -39702,6 +39713,7 @@ vkcdnservice.appspot.com^
 ||zoologyhuntingblanket.com^
 ||zoopaweb.com^
 ||zoopsame.com^
+||zoozishooh.com^
 ||zorango.com^
 ||zouard.com^
 ||zouemtjzuae.com^
@@ -43606,6 +43618,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||antillephone.com^
+||prodalet.ru^
 ||zdw.w8.com.cn^
 ||pbjs-stream.bydata.com^
 ||collector*.ex.co^
@@ -47071,6 +47085,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||flask.us.nextdoor.com^
 ||ev.indianexpress.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.hotpepper.jp^
@@ -50816,7 +50831,6 @@ inapps.appsflyersdk.com^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
-||antillephone.com^
 ||beyondsecurity.com^
 ||guarantee-cdn.com^
 ||nsg.symantec.com^
@@ -51617,6 +51631,7 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||ssrv7.com^
 ||zszhfffyd.ru^
 ||tracker.pushmeback.com^
 ||isrv07.com^
@@ -61404,6 +61419,7 @@ inapps.appsflyersdk.com^
 ||rnzmynh.cn^
 ||ixstng.cn^
 ||ewjhic.cn^
+||polyfill.io^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^

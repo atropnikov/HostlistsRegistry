@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-27T06:20:06.534Z
+! Last modified: 2024-04-27T12:25:59.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||go.syndcloud.com^
 ||lwhyihajamafu.com^
 ||utygdjcs.xyz^
 ||ewpubiimput.com^
@@ -6026,6 +6027,7 @@ vkcdnservice.appspot.com^
 ||biphic.com^
 ||bipidoan.com^
 ||biplihopsdim.com^
+||bipmwuhisvp.com^
 ||biptolyla.com^
 ||bipwmskhqe.com^
 ||birchdynamicunicorn.com^
@@ -7705,6 +7707,7 @@ vkcdnservice.appspot.com^
 ||cementobject.com^
 ||cemeterybattleresigned.com^
 ||cemeterysimilar.com^
+||cemiocw.com^
 ||cenaclesuccoth.com^
 ||cenceevent.club^
 ||cendantofth.org^
@@ -7764,6 +7767,7 @@ vkcdnservice.appspot.com^
 ||cffujnudcdy.com^
 ||cfgr1.com^
 ||cfgr5.com^
+||cfgrcr1.com^
 ||cfikgqraxgznj.com^
 ||cfivfadtlr.com^
 ||cflmdoigokoeld.com^
@@ -41258,6 +41262,7 @@ vkcdnservice.appspot.com^
 ||googlevads-cn.com^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
+||3a2e.site^
 ||48a16802.site^
 ||4a0e.xyz^
 ||4e55.xyz^
@@ -53979,6 +53984,7 @@ inapps.appsflyersdk.com^
 ||ads.dugwood.com^
 
 ||adserver.icimedias.ca^
+||ad.unique1static.jp^
 ||bance.jp^
 ||appdraft.link^
 ||ad.adpon-affi.net^

@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-04-29T06:21:17.160Z
+! Last modified: 2024-04-29T12:29:43.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||ssm.codes^
 ||makeupenumerate.com^
 ||hagnutrient.com^
 ||naiantcapling.com^
@@ -8326,7 +8327,6 @@ vkcdnservice.appspot.com^
 ||clickgate08.biz^
 ||clickintext.com^
 ||clickiocdn.com^
-||clickmagick.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -40502,6 +40502,7 @@ vkcdnservice.appspot.com^
 ||clickfuse.com^
 ||clickinc.com^
 ||clickintext.net^
+||clickmagick.com^
 ||clickmon.co.kr^
 ||clickoutcare.io^
 ||clickpoint.com^
@@ -41252,6 +41253,7 @@ vkcdnservice.appspot.com^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
 ||bcbe.site^
+||ca3d.site^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^

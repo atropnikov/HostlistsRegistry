@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-04-30T15:13:10.564Z
+! Last modified: 2024-04-30T21:15:36.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4801,6 +4801,7 @@
 ||analytics.us.archive.org^
 ||analytics.valiuz.com^
 ||analytics.vedantu.com^
+||analytics.verfacto.com^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -16656,6 +16657,7 @@
 ||eupornstar.info^
 ||eurekster.com^
 ||euro-referer.click^
+||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
 ||europeanbubblyclosed.com^
 ||europeanurinebanana.com^
 ||europefreeze.com^
@@ -26468,6 +26470,7 @@
 ||mainroll.com^
 ||mainsmrtnews.pro^
 ||maintenancewinning.com^
+||mainting-minues.xyz^
 ||maio.jp^
 ||maioux.xyz^
 ||maipofok.net^
@@ -43820,6 +43823,7 @@
 ||uojoqx.icu^
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
+||uosxdmk.cn^
 ||uotbzz.xyz^
 ||uoutube.com^
 ||up-banner.wavecdn.net^

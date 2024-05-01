@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-01T01:12:35.670Z
+! Last modified: 2024-05-01T06:21:51.318Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -55187,7 +55187,6 @@ inapps.appsflyersdk.com^
 ||revive.99mac.se^
 ||revrelations.com^
 ||richmediastudio.com^
-||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
@@ -55219,7 +55218,6 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
-||skattamindre.se^
 ||sleeknote.com^
 ||source.advisible.com^
 ||spel.expressen.se^
@@ -55344,7 +55342,6 @@ inapps.appsflyersdk.com^
 ||tracking.ht.se^
 ||tracking.illvet.se^
 ||tracking.inboxads.com^
-||tracking.jnytt.se^
 ||tracking.jp.se^
 ||tracking.kalmarposten.se^
 ||tracking.klt.nu^
@@ -55428,14 +55425,12 @@ inapps.appsflyersdk.com^
 ||www.guesssverige.com.se^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
-||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.vejaskor.com.se^
 ||www.vejasskor.com^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
-||www.gym-sharksweden.com^
 
 ||adplay.it^
 ||brznetwork.com^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-04-25T06:20:15.343Z
+! Last modified: 2024-05-01T04:18:25.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28,7 +28,6 @@
 127.0.0.1 ad.impactify.io
 127.0.0.1 ad.iplayer.org
 127.0.0.1 ad.linksynergy.com
-127.0.0.1 ad.lkqd.net
 127.0.0.1 ad.mox.tv
 127.0.0.1 ad.sxp.smartclip.net
 127.0.0.1 ad.vidverto.io
@@ -678,7 +677,6 @@
 127.0.0.1 richmediastudio.com
 127.0.0.1 richmetrics.com
 127.0.0.1 ridsport.adhost.se
-127.0.0.1 rockportskorsverige.com
 127.0.0.1 rotarb.bid
 127.0.0.1 rotator.riedta.com
 127.0.0.1 route.carambo.la
@@ -752,7 +750,6 @@
 127.0.0.1 se-ads-microservice.ads.allermedia.io
 127.0.0.1 sgtm.inet.se
 127.0.0.1 sibautomation.com
-127.0.0.1 skattamindre.se
 127.0.0.1 sleeknote.com
 127.0.0.1 sleeknotecustomerscripts.sleeknote.com
 127.0.0.1 smtvn.112.2o7.net
@@ -945,7 +942,6 @@
 127.0.0.1 tracking.ht.se
 127.0.0.1 tracking.illvet.se
 127.0.0.1 tracking.inboxads.com
-127.0.0.1 tracking.jnytt.se
 127.0.0.1 tracking.jp.se
 127.0.0.1 tracking.kalmarposten.se
 127.0.0.1 tracking.klt.nu
@@ -1012,7 +1008,6 @@
 127.0.0.1 umami.nordiskehandel.cloud
 127.0.0.1 upsales.com
 127.0.0.1 utt.impactcdn.com
-127.0.0.1 v.lkqd.net
 127.0.0.1 valentinosverige.com
 127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 viagogo.se
@@ -1071,7 +1066,6 @@
 127.0.0.1 www.npttech.com
 127.0.0.1 www.onclickalgo.com
 127.0.0.1 www.resultify.com
-127.0.0.1 www.runningshoessverige.com
 127.0.0.1 www.stadiumstage.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.tamgrt.com
@@ -1083,7 +1077,6 @@
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.gymshark-sweden.com.se
-127.0.0.1 www.gym-sharksweden.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
 127.0.0.1 z.moatads.com

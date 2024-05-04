@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-05-04T01:07:30.161Z
+! Last modified: 2024-05-04T06:19:43.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2027,7 +2027,6 @@
 ||ad.zinimedia.com^
 ||ad.zui.com^
 ||ad0.bigmir.net^
-||ad0001.aniyae.net^
 ||ad01.mediacorpsingapore.com^
 ||ad01.tmgrup.com.tr^
 ||ad1.emule-project.org^
@@ -32513,6 +32512,7 @@
 ||pokiespedule.guru^
 ||pokingtrainswriter.com^
 ||pokomopunkin.top^
+||pokrutim.ru^
 ||polacrereacts.top^
 ||polads.pro^
 ||poland-money.fun^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-04T01:07:26.346Z
+! Last modified: 2024-05-04T06:19:38.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26128,6 +26128,7 @@ vkcdnservice.appspot.com^
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikoaza.net^
@@ -40514,6 +40515,7 @@ vkcdnservice.appspot.com^
 ||bestdeals.ws^
 ||bestforexpartners.com^
 ||besthitsnow.com^
+||bestodds.com^
 ||bestofferdirect.com^
 ||bestonlinecoupons.com^
 ||bet3000partners.com^
@@ -41206,7 +41208,6 @@ vkcdnservice.appspot.com^
 ||starlayer.com^
 ||starti.pl^
 ||statsperformdev.com^
-||stay22.com^
 ||stocker.bonnint.net^
 ||stratos.blue^
 ||streamdefence.com^
@@ -61656,6 +61657,8 @@ inapps.appsflyersdk.com^
 ||azkrya.xyz^
 ||rmbvzh.xyz^
 ||eyuwkbw.top^
+||qwerioy.top^
+||mercor.cn^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^

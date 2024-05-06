@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-06T06:21:29.125Z
+! Last modified: 2024-05-06T12:29:49.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||advertsource.co.uk^
 ||iedprivatedqu.com^
 ||stownrusis.com^
 ||ebaticalfel.com^
@@ -41518,6 +41519,7 @@ vkcdnservice.appspot.com^
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
+||b9f25b.site^
 ||bcbe.site^
 ||ca3d.site^
 ||d84bc26d.site^
@@ -47352,6 +47354,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||collect.alphastream.io^
 ||sid.nordstrom.com^
 ||amethyst.zappos.com^
 ||sgmcdn.racingpost.com^
@@ -50427,7 +50430,6 @@ inapps.appsflyersdk.com^
 ||cod.bitrec.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
-||collect.alphastream.io^
 ||collect.analyse.lnearn.com^
 ||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
@@ -61006,6 +61008,7 @@ inapps.appsflyersdk.com^
 ||yxgqgq.xyz^
 ||sxoejoc.icu^
 ||verstug.cn^
+||muntfd62.shop^
 ||uweriot.top^
 ||0322cfmtl.cc^
 ||0940088.com^

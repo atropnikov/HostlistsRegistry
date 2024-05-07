@@ -2,10 +2,15 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-07T06:21:20.108Z
+! Last modified: 2024-05-07T12:28:55.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||pjagilteei.com^
+||tjtmjjigtdoah.com^
+||odssyvfqrlwwj.com^
+||houboajaithu.net^
+||nderpurganismpr.info^
 ||hborq.com^
 ||oszlnxwqlc.com^
 ||fkodq.com^
@@ -32942,7 +32947,6 @@ vkcdnservice.appspot.com^
 ||spotbeepgreenhouse.com^
 ||spotdimesulky.com^
 ||spotlessabridge.com^
-||spotlightstores.com^
 ||spotofspawn.com^
 ||spotrails.com^
 ||spotscenered.info^
@@ -40593,6 +40597,7 @@ vkcdnservice.appspot.com^
 ||ahvclick.com^
 ||aim4media.com^
 ||ainsyndication.com^
+||airfind.com^
 ||akavita.com^
 ||aklamator.com^
 ||alienhub.xyz^
@@ -41535,6 +41540,7 @@ vkcdnservice.appspot.com^
 ||3a2e.site^
 ||48a16802.site^
 ||4a0e.xyz^
+||4aae8f.site^
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
@@ -51953,6 +51959,9 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||tzbirdcod.com^
+||audiotouch.info^
+||videotouch88.info^
 ||ippunet.site^
 ||ssrv7.com^
 ||zszhfffyd.ru^
@@ -54070,6 +54079,7 @@ inapps.appsflyersdk.com^
 ||adsy.mail.bg^
 
 
+||yonderdim.com^
 ||gr.hdream.cfd^
 ||kriptoparahaber.care^
 ||alty.fun^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-08T00:57:12.341Z
+! Last modified: 2024-05-08T06:18:02.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9222,6 +9222,7 @@ vkcdnservice.appspot.com^
 ||corvetwoorari.com^
 ||corvinapaella.life^
 ||corymbszinzar.com^
+||cosiequiapo.com^
 ||cosmatitacker.top^
 ||cosmeticlevy.com^
 ||cosmeticsgenerosity.com^
@@ -15538,6 +15539,7 @@ vkcdnservice.appspot.com^
 ||gloufteglouw.com^
 ||gloumsee.net^
 ||gloumsie.net^
+||glounugeepse.xyz^
 ||glouseer.net^
 ||gloussowu.xyz^
 ||gloustoa.net^
@@ -28559,6 +28561,7 @@ vkcdnservice.appspot.com^
 ||puerq.com^
 ||puerty.com^
 ||puffexies.com^
+||puffingtiffs.com^
 ||pugdisguise.com^
 ||pugehjjxdr.xyz^
 ||pughoomo.xyz^
@@ -51897,6 +51900,7 @@ inapps.appsflyersdk.com^
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
 
+||assets.etus.digital^
 ||lyappreciat.info^
 ||adzonestatic.com^
 ||adzep.com.br^
@@ -56663,8 +56667,10 @@ inapps.appsflyersdk.com^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baolaocai.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
+||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
@@ -61944,6 +61950,7 @@ inapps.appsflyersdk.com^
 ||bydebd.xyz^
 ||lweriol.top^
 ||nrbqgf.cn^
+||qmgria.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^

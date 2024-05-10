@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-05-05T20:15:00.008Z
+! Last modified: 2024-05-10T12:28:46.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1009,7 +1009,6 @@
 ||ard.xxxblackbook.com^
 ||argyresthia.com^
 ||aromamirror.com^
-||artisany.net^
 ||as.webmd.com^
 ||as2.adserverhd.com^
 ||aserv.motorsgate.com^
@@ -1762,7 +1761,6 @@
 ||farethief.com^
 ||farmergoldfish.com^
 ||fascinatedfeather.com^
-||fast-redirecting.com^
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^
@@ -3348,7 +3346,6 @@
 ||tm.br.de^
 ||tnkexchange.com^
 ||tns-counter.ru^
-||tntclix.co.uk^
 ||toothbrushnote.com^
 ||top-casting-termine.de^
 ||top-site-list.com^
@@ -3364,6 +3361,7 @@
 ||toplista.mw.hu^
 ||toplistcity.com^
 ||topsir.com^
+||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
 ||totemcash.com^

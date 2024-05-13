@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-05-13T06:21:59.846Z
+! Last modified: 2024-05-13T08:21:00.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9569,6 +9569,7 @@
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
+0.0.0.0 ukrashulya.ru
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ultrasponsor.com
 0.0.0.0 ulusalofis.com
@@ -9922,6 +9923,7 @@
 0.0.0.0 www.aureate.com
 0.0.0.0 www.autohipnose.com
 0.0.0.0 www.automotive-offer.com
+0.0.0.0 www.avenues-inc.com
 0.0.0.0 www.avsads.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.baba-t.com

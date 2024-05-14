@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-05-14T15:18:22.937Z
+! Last modified: 2024-05-14T19:12:13.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28012,6 +28012,7 @@
 ||moonads.net^
 ||moonheappyr.com^
 ||moonicorn.network^
+||moonjscdn.info^
 ||moonlitturbots.com^
 ||moonoafy.net^
 ||moonrocketaffiliates.com^

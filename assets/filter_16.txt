@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-05-14T14:15:02.933Z
+! Last modified: 2024-05-15T03:20:18.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11984,8 +11984,7 @@
 0.0.0.0 j.t.sieu-viet.com
 0.0.0.0 t.sieu-viet.com
 0.0.0.0 public-gcs.subiz-cdn.com
-0.0.0.0 subiz-cdn.com
-0.0.0.0 www.subiz-cdn.com
+0.0.0.0 vcdn.subiz-cdn.com
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 static.subiz.com
 0.0.0.0 widget.subiz.com
@@ -20120,6 +20119,7 @@
 0.0.0.0 apac.kingston.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
+0.0.0.0 api.iterable.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.taps.io

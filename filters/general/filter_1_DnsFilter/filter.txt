@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-15T18:20:16.670Z
+! Last modified: 2024-05-16T01:10:07.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -51335,9 +51335,11 @@ inapps.appsflyersdk.com^
 ||businessclick.ch^
 ||content-garden.com^
 ||contiamo.com^
+||counter-zaehler.de^
 ||dcmn.io^
 ||dl8.me^
 ||etrust.eu^
+||fast-counter.net^
 ||giga-abs.de^
 ||haymarketstat.de^
 ||hstrck.com^
@@ -51734,6 +51736,7 @@ inapps.appsflyersdk.com^
 ||trecker.aklamio.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
+||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||zs.dhl.de^
 ||affiliation.planethoster.info^
@@ -62151,6 +62154,11 @@ inapps.appsflyersdk.com^
 ||ta20k.xyz^
 ||awunkse72.shop^
 ||cergbtb36.shop^
+||gaochen12.top^
+||azsqkrc.icu^
+||wgidskie.top^
+||bqnxff.xyz^
+||wacisi.xyz^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^

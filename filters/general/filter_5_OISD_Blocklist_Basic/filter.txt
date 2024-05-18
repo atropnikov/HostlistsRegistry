@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-05-18T15:16:50.508Z
+! Last modified: 2024-05-18T18:19:56.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3158,7 +3158,6 @@
 ||adsmart.co.uk^
 ||adsmart.com^
 ||adsmart.net^
-||adsmaster.dev^
 ||adsmeasurement.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmind.gdtimg.com^
@@ -26781,6 +26780,8 @@
 ||matiro.com^
 ||matomo.a1.by^
 ||matomo.cloudfront.similarweb.io^
+||matomo.menshealth.de^
+||matomo.motorpresse.de^
 ||matomo.quan.hoabinh.vn^
 ||matomo.shoppersguide.com.ph^
 ||matomo.similarweb.io^

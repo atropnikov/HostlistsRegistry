@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-21T12:30:25.820Z
+! Last modified: 2024-05-21T18:20:34.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -44150,6 +44150,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sync.outbrain.com^
+||elb.the-ozone-project.com^
 ||pbcs.nypost.com^
 ||pbcs.decider.com^
 ||pbcs.pagesix.com^
@@ -47625,6 +47627,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.lasegunda.ecn.cl^
+||analytics.emol.com^
+||webc2s.pubgw.yahoo.com^
 ||tracking.cosme.net^
 ||matomo.motorpresse.de^
 ||matomo.menshealth.de^
@@ -51135,7 +51140,6 @@ inapps.appsflyersdk.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
 ||surveywall-api.survata.com^
-||sync.outbrain.com^
 ||t.a3cloud.net^
 ||t.auditedmedia.org.au^
 ||t.bimvid.com^
@@ -52085,7 +52089,6 @@ inapps.appsflyersdk.com^
 ||stat.ringier.sk^
 ||1to1.bbva.com^
 ||analitica.webrpp.com^
-||analytics.lasegunda.ecn.cl^
 ||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^

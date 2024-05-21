@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-21T06:22:12.531Z
+! Last modified: 2024-05-21T11:14:20.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||synchroscript.deliveryengine.adswizz.com^
 ||pubtrky.com^
 ||mpqgoircwb.com^
 ||moawgsfidoqm.com^
@@ -54340,6 +54341,7 @@ inapps.appsflyersdk.com^
 ||adsy.mail.bg^
 
 
+||kingads2.org^
 ||ad-service.shop^
 ||yonderdim.com^
 ||gr.hdream.cfd^
@@ -62676,6 +62678,18 @@ inapps.appsflyersdk.com^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
 ||zxqiwe.cn^
+||555bbb777www.com^
+||66308888.com^
+||666bbb888www.com^
+||777aa888bb.com^
+||888aa111bb.com^
+||888aa222bb.com^
+||mito03.top^
+||mttpsy6666.cc^
+||w7044.com^
+||yuanpinghengkangfuyouxiangongsi.top^
+||efs604.top^
+||692881.com^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -68009,6 +68023,7 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||secureimage.securedataimages.com^|
 @@||infra-api.newrelic.com^|
 @@||tms.capitalone.com^|
 @@||redir.ownpage.fr^|

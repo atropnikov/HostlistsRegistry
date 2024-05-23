@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-05-22T18:21:09.778Z
+! Last modified: 2024-05-23T01:10:03.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4580,6 +4580,7 @@
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
 ||analytics-mkt.wemakeprice.com^
+||analytics-prd.aws.wehaa.net^
 ||analytics-production.hapyak.com^
 ||analytics-sdk.yle.fi^
 ||analytics-server.gimbal.com^
@@ -14110,6 +14111,7 @@
 ||developmentgoat.com^
 ||devilnonamaze.com^
 ||devilwholehorse.com^
+||devisdirect.com^
 ||deviseoats.com^
 ||deviseundress.com^
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
@@ -15197,6 +15199,7 @@
 ||dressmakerdisturb.com^
 ||dressmakertumble.com^
 ||dresul.com^
+||dreuaxk.icu^
 ||drewfoolery.com^
 ||dreyeli.info^
 ||drf8e429z5jzt.cloudfront.net^
@@ -16572,6 +16575,11 @@
 ||especiallyspawn.com^
 ||espinotyponym.com^
 ||espionagegardenerthicket.com^
+||espmp-agfr.net^
+||espmp-aufr.net^
+||espmp-cufr.net^
+||espmp-nifr.net^
+||espmp-pofr.net^
 ||espritensemble.com^
 ||esqhsm.xyz^
 ||esrbkneqve.com^
@@ -23058,6 +23066,7 @@
 ||istri.it^
 ||istsldaheh.com^
 ||iswhatappyouneed.net^
+||isylieo.top^
 ||iszbxqps.com^
 ||itad.linetv.tw^
 ||itadapi.ithome.com.tw^
@@ -23462,6 +23471,7 @@
 ||jhfhdkhkh.site^
 ||jhkfd.com^
 ||jhkggrr.icu^
+||jhnnnb.xyz^
 ||jhoncj.com^
 ||jhpbtp.xyz^
 ||jhtiyfioidhvl.com^
@@ -24112,6 +24122,7 @@
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgdyoh.icu^
 ||kgelugaz.com^
+||kgeqsu.xyz^
 ||kgfjrb711.com^
 ||kgfrstw.com^
 ||kggikf.icu^
@@ -24292,6 +24303,7 @@
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmodukuleqasfo.info^
 ||kmp.twbymc.cn^
+||kmwclt.xyz^
 ||kmyaklgcik.com^
 ||knackseafood.com^
 ||knappedmurshid.com^
@@ -28330,6 +28342,7 @@
 ||mw19c3mi5a.com^
 ||mwazhey.com^
 ||mwcvu.com^
+||mweriox.top^
 ||mwfdaciicqhyrj.com^
 ||mwfyab.icu^
 ||mwikpepfiw.com^
@@ -28848,8 +28861,12 @@
 ||nestledoubtlog.com^
 ||net-filter.com^
 ||net.contoseroticoscnn.com^
+||net.daraz.com^
+||net.iberia.com^
+||net.jumia.com^
 ||net.rayjump.com^
 ||net.sexstories69.com^
+||net.shop.com.mm^
 ||netaffiliation.com^
 ||netagent.cz^
 ||netavenir.com^
@@ -29999,6 +30016,7 @@
 ||ohmy.bid^
 ||ohmyad.co^
 ||ohmygosh.info^
+||ohncc.cn^
 ||ohndsplu.com^
 ||ohognoul.com^
 ||ohopao.xyz^
@@ -31070,6 +31088,7 @@
 ||pagerank4you.com^
 ||pageranktop.com^
 ||pageswork.guru^
+||pageviews.tray.com.br^
 ||pahbasqibpih.com^
 ||pahccuafbom.com^
 ||paht.tech^
@@ -37572,6 +37591,7 @@
 ||sharkbleed.com^
 ||sharkflowing.com^
 ||sharks.vn^
+||sharpmarketing.eu^
 ||sharpofferlinks.com^
 ||sharpphysicallyupcoming.com^
 ||sharpwavedreinforce.com^
@@ -42719,6 +42739,11 @@
 ||trekachy.com^
 ||trekblue.com^
 ||trekdata.com^
+||treker.fun^
+||trekkeeee.fun^
+||trekkeeee.space^
+||trekkww.fun^
+||trekkww.space^
 ||treklizard.com^
 ||trekstereo.com^
 ||trellian.com^
@@ -42795,6 +42820,7 @@
 ||trk.123c.vn^
 ||trk.a-dsp.com^
 ||trk.adbutter.net^
+||trk.agency^
 ||trk.decido.io^
 ||trk.fensi.plus^
 ||trk.i0.cz^
@@ -43288,6 +43314,7 @@
 ||u25011.com^
 ||u25022.com^
 ||u29qnuav3i6p.com^
+||u2w95z.xyz^
 ||u33011.com^
 ||u55011.com^
 ||u595sebqih.com^
@@ -44494,6 +44521,7 @@
 ||vexevutus.com^
 ||vezizey.xyz^
 ||vezvpd.xyz^
+||vf.startpage.com^
 ||vfghd.com^
 ||vfhkljw5f6ss.com^
 ||vfl81ea28aztw7y3.pro^

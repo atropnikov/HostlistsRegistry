@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-05-25T01:09:19.044Z
+! Last modified: 2024-05-25T03:20:01.232Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5388,6 +5388,7 @@
 ||analytics.contentexchange.me^
 ||analytics.contents.by-fw.jp^
 ||analytics.cookiefirst.dev^
+||analytics.cosmonova.net^
 ||analytics.crazygames.com^
 ||analytics.crea.ca^
 ||analytics.dap-networks.de^
@@ -5426,6 +5427,7 @@
 ||analytics.gameforge.de^
 ||analytics.gamesdrive.net^
 ||analytics.githubassets.com^
+||analytics.global.sky.com^
 ||analytics.gnetworks.xyz^
 ||analytics.google.com^
 ||analytics.googleapis.com^
@@ -22836,6 +22838,7 @@
 ||ie.exhumeaueto.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
+||ieapak.xyz^
 ||iedprivatedqu.com^
 ||ieequd.icu^
 ||ielmzzm.com^
@@ -24722,6 +24725,7 @@
 ||jxlxeeo.com^
 ||jxmiyrh.icu^
 ||jxpjlb.xyz^
+||jxqdl.cn^
 ||jxtejf.xyz^
 ||jxuhurp.icu^
 ||jxvyrv.xyz^
@@ -26586,6 +26590,7 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.tossinvest.com^
 ||log.tpns.gz2.tencent.com^
 ||log.tpns.tencent.com^
 ||log.trackingio.com^
@@ -32842,6 +32847,7 @@
 ||pihu.xxxpornhd.pro^
 ||pihzhhn.com^
 ||pikedhelloed.com^
+||piksrie.icu^
 ||pilaffskoniga.com^
 ||pilaryhurrah.com^
 ||piledannouncing.com^
@@ -33677,6 +33683,7 @@
 ||pqaz.xyz^
 ||pqjeoqa.cn^
 ||pqnqrjxe.xyz^
+||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
 ||pr.ikovrov.ru^
 ||pr.nss.netease.com^
@@ -35451,6 +35458,7 @@
 ||rbodwtj.icu^
 ||rbqcg6g.de^
 ||rbrightscarletcl.info^
+||rbrmhz.xyz^
 ||rbsodzgoy.xyz^
 ||rbthre.work^
 ||rbtwo.bid^
@@ -46950,7 +46958,6 @@
 ||wqjzajr.com^
 ||wqorxfp.com^
 ||wqvbuj.icu^
-||wqzmed.cn^
 ||wqzyxxrrep.com^
 ||wr.rugosehoarish.com^
 ||wr.yiyouliao.com^

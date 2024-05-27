@@ -2,10 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-27T12:30:46.678Z
+! Last modified: 2024-05-27T18:20:52.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||rndskittytor.com^
+||waisheph.com^
+||batch.com^
+||flx2.pnl.agency^
 ||amon1.net^
 ||gaptooju.net^
 ||ptoakooph.net^
@@ -9616,6 +9620,7 @@ vkcdnservice.appspot.com^
 ||coysjayesh.com^
 ||coysotown.com^
 ||coyward.com^
+||cozeswracks.com^
 ||cpa-optimizer.online^
 ||cpa3iqcp.de^
 ||cpabeyond.com^
@@ -11104,6 +11109,7 @@ vkcdnservice.appspot.com^
 ||disciplineinspirecapricorn.com^
 ||discloseprogramwednesday.com^
 ||discodjxkqya.com^
+||discomantles.com^
 ||discomforttruant.com^
 ||disconnectedponder.com^
 ||disconnectthirstyron.com^
@@ -15624,6 +15630,7 @@ vkcdnservice.appspot.com^
 ||ginchoirblessed.com^
 ||ginfohpg.com^
 ||gingercompute.com^
+||ginglmiresaw.com^
 ||ginkscarnal.top^
 ||ginningsteri.com^
 ||ginnyclairvoyantapp.com^
@@ -15968,7 +15975,6 @@ vkcdnservice.appspot.com^
 ||goaboomy.com^
 ||goaciptu.net^
 ||goads.pro^
-||goadserver.com^
 ||goadx.com^
 ||goaffmy.com^
 ||goagloow.xyz^
@@ -18643,6 +18649,7 @@ vkcdnservice.appspot.com^
 ||inkfeedmausoleum.com^
 ||inkingleran.com^
 ||inklestutted.com^
+||inklikesearce.com^
 ||inklinkor.com^
 ||inkornesto.com^
 ||inkstorylikeness.com^
@@ -21242,6 +21249,7 @@ vkcdnservice.appspot.com^
 ||lepiotaspectry.com^
 ||leptidunhaunt.com^
 ||leqjnmmyqtb.com^
+||leroonge.xyz^
 ||lerrdoriak.com^
 ||leskdywzbfk.com^
 ||lesoocma.net^
@@ -25353,6 +25361,7 @@ vkcdnservice.appspot.com^
 ||octoatesamhain.com^
 ||octobergypsydeny.com^
 ||octobermindless.com^
+||octopidroners.com^
 ||octopod.cc^
 ||octopusiron.com^
 ||octopuspop.com^
@@ -30833,7 +30842,6 @@ vkcdnservice.appspot.com^
 ||rndhaunteran.com^
 ||rndmusharnar.com^
 ||rndnoibattor.com^
-||rndskittytor.com^
 ||rnfwyvgoxu.com^
 ||rnldustal.com^
 ||rnmd.net^
@@ -34269,6 +34277,7 @@ vkcdnservice.appspot.com^
 ||swindlehumorfossil.com^
 ||swindlelaceratetorch.com^
 ||swinegraveyardlegendary.com^
+||swinehalurgy.com^
 ||swinesuburbanclue.com^
 ||swingebudded.com^
 ||swingelinseys.com^
@@ -38073,7 +38082,6 @@ vkcdnservice.appspot.com^
 ||waihoz.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
-||waisheph.com^
 ||waistcoataskeddone.com^
 ||waistdeafgeorgiana.com^
 ||waisttrustworthy.com^
@@ -41374,6 +41382,7 @@ vkcdnservice.appspot.com^
 ||geozo.com^
 ||germaniavid.com^
 ||girls.xyz^
+||goadserver.com^
 ||gourmetads.com^
 ||gplinks.in^
 ||graciamediaweb.com^
@@ -41976,6 +41985,7 @@ vkcdnservice.appspot.com^
 ||58e0.site^
 ||5ceea3.xyz^
 ||5fd6bc.xyz^
+||605efe.xyz^
 ||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
@@ -44377,6 +44387,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||plausible.scimago.es^
+||analytics.qushad.com^
 ||orangeclickmedia.com^
 ||pageviews.tray.com.br^
 ||convertbox.com^
@@ -50348,7 +50360,6 @@ inapps.appsflyersdk.com^
 ||audid-api.taobao.com^
 ||analytics.ff.avast.com^
 ||node.aibeacon.jp^
-||wsmetrics.batch.com^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
 ||mon.isnssdk.com^
@@ -51941,7 +51952,6 @@ inapps.appsflyersdk.com^
 ||ad5track.com^
 ||bob-recs.com^
 ||btg360.com.br^
-||clearsale.com.br^
 ||enviou.com.br^
 ||fulllab.com.br^
 ||hariken.co^

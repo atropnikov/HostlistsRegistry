@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-05-30T06:22:04.779Z
+! Last modified: 2024-05-30T10:17:24.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42052,6 +42052,7 @@ vkcdnservice.appspot.com^
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||ce357c.xyz^
+||cfb98a.xyz^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
 ||d980ed.xyz^
@@ -47934,6 +47935,26 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||v225.ksbw.com^
+||k030.koco.com^
+||u082.wapt.com^
+||f361.wvtm13.com^
+||t733.wjcl.com^
+||r255.wmtw.com^
+||j178.wmur.com^
+||p769.wgal.com^
+||v066.wxii12.com^
+||s811.ketv.com^
+||m886.kmbc.com^
+||w110.kcra.com^
+||u999.wcvb.com^
+||e459.kcci.com^
+||h019.wtae.com^
+||y000.wyff4.com^
+||q511.wpbf.com^
+||c677.wisn.com^
+||u578.wlwt.com^
+||e993.wlky.com^
 ||collect.biomedcentral.com^
 ||eproof.drudgereport.com^
 ||doppler-beacon.cbsivideo.com^
@@ -52549,6 +52570,7 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||isatonabench.com^
 ||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
@@ -56340,6 +56362,7 @@ inapps.appsflyersdk.com^
 ||petrk.com^
 ||pixel-profile-cloud.eniro.com^
 ||platform-api.sharethis.com^
+||plausible.webfokus.no^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
 ||popitunder.com^
@@ -68610,7 +68633,6 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
-@@||cloud.roistat.com^|
 @@||secureimage.securedataimages.com^|
 @@||infra-api.newrelic.com^|
 @@||tms.capitalone.com^|

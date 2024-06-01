@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-01T01:15:51.415Z
+! Last modified: 2024-06-01T06:21:16.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -56156,7 +56156,6 @@ inapps.appsflyersdk.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
-||adcell.io^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -56332,7 +56331,6 @@ inapps.appsflyersdk.com^
 ||doktor-se.onelink.me^
 ||driftt.com^
 ||dspk.kindredplc.com^
-||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
 ||eas.mediekompaniet.com^
 ||edge.atmtd.com^
 ||embi-media.com^
@@ -56394,10 +56392,8 @@ inapps.appsflyersdk.com^
 ||libring.com^
 ||live.demand.supply^
 ||loader.wisepops.com^
-||loewe.com.se^
 ||log-api.newrelic.com^
 ||longchampstockholm.com.se^
-||low1sneakerssverige.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
@@ -56420,7 +56416,6 @@ inapps.appsflyersdk.com^
 ||meltwater.com^
 ||metapic.se^
 ||micro.rubiconproject.com^
-||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^
 ||mraffiliate.com^
@@ -56510,7 +56505,6 @@ inapps.appsflyersdk.com^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
 ||static.matchads.net^
-||static.stat.truthlyanalytics.com^
 ||static.step.dk^
 ||static.ws.apsis.one^
 ||static.zotabox.com^
@@ -62164,6 +62158,8 @@ inapps.appsflyersdk.com^
 ||vutjnt.xyz^
 ||mgmuye.xyz^
 ||zqgixxp.icu^
+||dssdfsf.cn^
+||cpgou.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

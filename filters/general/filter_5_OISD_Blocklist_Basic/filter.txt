@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-04T12:31:11.749Z
+! Last modified: 2024-06-04T16:21:14.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5500,6 +5500,7 @@
 ||analytics.pixels.ai^
 ||analytics.plaid.com^
 ||analytics.plex.tv^
+||analytics.poferries.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.portal.gov.bd^
 ||analytics.posttv.com^
@@ -5920,7 +5921,6 @@
 ||api-exponea.o2.cz^
 ||api-exponea.o2.sk^
 ||api-logdev.sohatv.vn^
-||api-marketolog.mts.ru^
 ||api.140proof.com^
 ||api.ad-locus.com^
 ||api.ad.xiaomi.com^
@@ -8340,6 +8340,7 @@
 ||bincatracs.com^
 ||bindingtimetablejosie.com^
 ||bineukdwithmef.info^
+||bing003.shop^
 ||binmenkollast.com^
 ||binomnet.com^
 ||binomnet3.com^
@@ -11825,7 +11826,6 @@
 ||contentr.net^
 ||contentshamper.com^
 ||context.hotline.ua^
-||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contineljs.com^
@@ -44664,7 +44664,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldpraisedcloud.com^
 ||worldsportlife.com^
@@ -44954,6 +44953,7 @@
 ||xaxoro.com^
 ||xaxrtiahkft.com^
 ||xazwlyh.com^
+||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbtw.com^
 ||xc.macd.cn^

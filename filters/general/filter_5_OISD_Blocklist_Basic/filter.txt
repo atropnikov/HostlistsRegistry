@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-07T18:23:02.586Z
+! Last modified: 2024-06-07T21:17:23.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10220,6 +10220,7 @@
 ||cdn.stat-track.com^
 ||cdn.stoic-media.com^
 ||cdn.studiosis.in^
+||cdn.track.olx.com.br^
 ||cdn.tracking.prepr.io^
 ||cdn.tsepyk.com^
 ||cdn.uiopkl.com^
@@ -26107,6 +26108,7 @@
 ||managementhans.com^
 ||managesborerecords.com^
 ||manahegazedatth.info^
+||manalyticshub.com^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
 ||manboo.xyz^
@@ -33055,6 +33057,7 @@
 ||px9.nuderedtube.com^
 ||pxdghffadlhpbw.com^
 ||pxfindone.com^
+||pxl.knam.pro^
 ||pxlctl.elpais.com^
 ||pxltrck.com^
 ||pxpfnbe1t1.com^
@@ -41795,6 +41798,7 @@
 ||uads.store^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
+||uaiosio.top^
 ||uakxkb.icu^
 ||uarating.com^
 ||uavbgdw.com^

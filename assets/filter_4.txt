@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-05-21T17:14:22.963Z
+! Last modified: 2024-06-10T05:16:32.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2742,6 +2742,7 @@
 0.0.0.0 schlaukopf.fr
 0.0.0.0 sciencesetlavenir.fr
 0.0.0.0 scoietegenerale.fr
+0.0.0.0 scotiahelp-loginscotia.com
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screencast-o-matic.fr

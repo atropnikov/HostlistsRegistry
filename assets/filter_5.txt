@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-12T18:22:24.163Z
+! Last modified: 2024-06-12T21:15:46.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5989,6 +5989,7 @@
 ||api-exponea.o2.cz^
 ||api-exponea.o2.sk^
 ||api-logdev.sohatv.vn^
+||api-marketolog.mts.ru^
 ||api.140proof.com^
 ||api.ad-locus.com^
 ||api.ad.xiaomi.com^
@@ -11893,6 +11894,7 @@
 ||contentr.net^
 ||contentshamper.com^
 ||context.hotline.ua^
+||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contineljs.com^
@@ -29234,6 +29236,7 @@
 ||offergate-apps-pubrel.com^
 ||offergate-games-download1.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -44494,6 +44497,7 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
+||worldinform.ru^
 ||worldlyyouth.com^
 ||worldpraisedcloud.com^
 ||worldsportlife.com^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-06-14T11:13:42.908Z
+! Last modified: 2024-06-14T12:31:36.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1689,6 +1689,7 @@
 ||fam-ad.com^
 ||farethief.com^
 ||farmergoldfish.com^
+||fast-redirecting.com^
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^
@@ -1971,7 +1972,6 @@
 ||install.365-stream.com^
 ||instantmadness.com^
 ||insticator.com^
-||instinctiveads.com^
 ||intelliads.com^
 ||intelligenceadx.com^
 ||interactive.forthnet.gr^
@@ -3531,7 +3531,6 @@
 ||yoggrt.com^
 ||youradexchange.com^
 ||ypu.samsungelectronics.com^
-||yrquuaxo.ajrimmobilier.fr^
 ||zangocash.com^
 ||zanox-affiliate.de^
 ||zanox.com^

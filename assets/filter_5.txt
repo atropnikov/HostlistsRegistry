@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-14T20:17:19.671Z
+! Last modified: 2024-06-15T03:17:54.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10293,6 +10293,7 @@
 ||cdn.optoutadvertising.com^
 ||cdn.pranmcpkx.com^
 ||cdn.ptomw.com^
+||cdn.pubnub.com^
 ||cdn.qc24h.com^
 ||cdn.rawqel.com^
 ||cdn.responsiq.com^
@@ -40844,6 +40845,7 @@
 ||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.iltrovatore.it^
+||tracker.insurads.com^
 ||tracker.iplocation.net^
 ||tracker.joongang.co.kr^
 ||tracker.joost.com^
@@ -45994,6 +45996,7 @@
 ||zitchuhoove.com^
 ||zitscassias.top^
 ||zivtux.com^
+||ziwelatum.com^
 ||ziziasonable.top^
 ||zizoxozoox.com^
 ||zj.rochermack.com^

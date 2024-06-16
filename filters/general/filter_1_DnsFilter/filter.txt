@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-16T01:18:33.538Z
+! Last modified: 2024-06-16T06:22:16.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -59998,6 +59998,7 @@ inapps.appsflyersdk.com^
 ||spsinhlychinhhang.com^
 ||sputrey567rik.cfd^
 ||squashtalk.com^
+||sso-garena.vn^
 ||sso-hotro-taikhoan.com^
 ||ssvnshop.com^
 ||standardresourcebank.com^
@@ -60023,6 +60024,7 @@ inapps.appsflyersdk.com^
 ||sukien-latquaff.com^
 ||sukien-lienminh.com^
 ||sukien-lienminhtocchien.site^
+||sukien-lienquanmobile.com^
 ||sukien-lmht.com^
 ||sukien-lq-garena.com^
 ||sukien-nhanqua-garena.com^
@@ -61462,6 +61464,7 @@ inapps.appsflyersdk.com^
 ||adzo.cn^
 ||aeyyck.xyz^
 ||poxdpj.xyz^
+||fujnrh.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
@@ -66679,6 +66682,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||ds.ruanwengfa.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

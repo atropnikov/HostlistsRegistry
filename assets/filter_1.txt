@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-17T01:15:23.803Z
+! Last modified: 2024-06-17T06:24:22.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41384,6 +41384,7 @@ vkcdnservice.appspot.com^
 ||a67d12.xyz^
 ||b0eb63.xyz^
 ||b211.xyz^
+||b2bf222e.xyz^
 ||b51475b8.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
@@ -41396,6 +41397,7 @@ vkcdnservice.appspot.com^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
+||cd57296e.xyz^
 ||ce357c.xyz^
 ||cfb98a.xyz^
 ||d84bc26d.site^
@@ -57207,6 +57209,7 @@ inapps.appsflyersdk.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
 ||upfile16.mediaphim.com^
+||upl.net-solutions.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -61481,6 +61484,9 @@ inapps.appsflyersdk.com^
 ||plzblz.xyz^
 ||rrkouuz.icu^
 ||cdoshbf.top^
+||60jxn4.xyz^
+||rghbvp.xyz^
+||szdgl.cn^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^

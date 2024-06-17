@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-06-15T15:17:04.459Z
+! Last modified: 2024-06-17T05:19:53.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10999,6 +10999,13 @@
 0.0.0.0 kinkadservercdn.com
 0.0.0.0 adsbetnet.com
 0.0.0.0 cdn.adsbetnet.com
+0.0.0.0 ads.beesads.com
+0.0.0.0 beesads.com
+0.0.0.0 cdn.beesads.com
+0.0.0.0 sdk.beesads.com
+0.0.0.0 mnaspm.com
+0.0.0.0 creative.mnaspm.com
+0.0.0.0 go.mnaspm.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -11083,6 +11090,7 @@
 0.0.0.0 rec.admicro.vn
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 static-cmsads.admicro.vn
+0.0.0.0 supply-sspapi.admicro.vn
 0.0.0.0 systracking.admicro.vn
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 www.admicro.vn
@@ -12830,6 +12838,7 @@
 0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
+0.0.0.0 upl.net-solutions.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vn.alexajstrack.com
@@ -15057,7 +15066,6 @@
 0.0.0.0 creasureeffe.club
 0.0.0.0 creative-serving.com
 0.0.0.0 creative.leojmp.com
-0.0.0.0 creative.mnaspm.com
 0.0.0.0 creative.myavlive.com
 0.0.0.0 creativeformatsnetwork.com
 0.0.0.0 creatives.livejasmin.com

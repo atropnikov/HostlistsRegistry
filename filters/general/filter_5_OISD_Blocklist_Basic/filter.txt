@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-18T22:16:00.109Z
+! Last modified: 2024-06-19T01:13:48.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6316,6 +6316,7 @@
 ||arwartortleer.com^
 ||arwhismura.com^
 ||arwobaton.com^
+||arylidealchemy.com^
 ||arzanphearse.com^
 ||as.adfonic.net^
 ||as.chartsurfer.de^
@@ -20498,7 +20499,6 @@
 ||hddcode.com^
 ||hdjfeed.top^
 ||hdlckellock.com^
-||hdoshbu.top^
 ||hdsrc-a.akamaihd.net^
 ||hdtcode.com^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
@@ -32949,7 +32949,6 @@
 ||qqvlsr.icu^
 ||qqyjis.xyz^
 ||qr-captcha.com^
-||qr.arylidealchemy.com^
 ||qr.heezyvedaism.com^
 ||qractv.com^
 ||qrirud.xyz^

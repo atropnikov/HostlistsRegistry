@@ -2,10 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-20T06:23:02.463Z
+! Last modified: 2024-06-20T12:31:25.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||kms-full.com^
+||kmspico.ws^
+||kmspico.io^
 ||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^
@@ -47376,6 +47379,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.sonjj.com^
 ||status.techtarget.itmedia.co.jp^
 ||ephemeralcounters.api.roblox.com^
 ||px.adfulplatform.com^
@@ -51855,6 +51859,7 @@ inapps.appsflyersdk.com^
 ||analytics.spun.com.br^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
+||feature-flag-edge.live.clickbus.net^
 ||hitserver.ibope.com.br^
 ||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
@@ -54383,6 +54388,7 @@ inapps.appsflyersdk.com^
 ||caraneoutraze.uno^
 
 ||adserver.icimedias.ca^
+||appropriate-bag.pro^
 ||adleap.jp^
 ||ad.unique1static.jp^
 ||appdraft.link^
@@ -61632,6 +61638,7 @@ inapps.appsflyersdk.com^
 ||fpfbbn.xyz^
 ||engwsq.xyz^
 ||jdrlfn.xyz^
+||doujs01.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^

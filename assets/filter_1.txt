@@ -2,10 +2,18 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-20T18:23:01.116Z
+! Last modified: 2024-06-21T01:12:24.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||wrrlidnlerx.com^
+||rmtckjzct.com^
+||ilaterdeallyighab.info^
+||iththinleldedallov.info^
+||gugletkvarner.top^
+||emigreehurty.top^
+||cufultahaur.com^
+||rcdjkdesdn.com^
 ||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^
@@ -51905,6 +51913,7 @@ inapps.appsflyersdk.com^
 ||counter.megaindex.ru^
 ||counter.photopulse.ru^
 ||counter.reddigital.ru^
+||counter.smotrim.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
@@ -61619,6 +61628,11 @@ inapps.appsflyersdk.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
 ||ccccc88kkkkk.com^
+||qzehwg.xyz^
+||nzhzzd.xyz^
+||sggu.cn^
+||puwkcqp.icu^
+||kdoshbd.top^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^

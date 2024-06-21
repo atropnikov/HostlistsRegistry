@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-06-14T12:31:36.513Z
+! Last modified: 2024-06-21T12:30:54.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -576,7 +576,6 @@
 ||ads.scifi.com^
 ||ads.seniorfriendfinder.com^
 ||ads.servebom.com^
-||ads.sexgratuit.tv^
 ||ads.shizmoo.com^
 ||ads.shopstyle.com^
 ||ads.sift.co.uk^
@@ -1689,7 +1688,6 @@
 ||fam-ad.com^
 ||farethief.com^
 ||farmergoldfish.com^
-||fast-redirecting.com^
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^

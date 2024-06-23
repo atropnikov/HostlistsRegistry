@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-22T18:20:30.326Z
+! Last modified: 2024-06-23T01:17:29.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -48874,7 +48874,6 @@ vkcdnservice.appspot.com^
 ||lcs.modoo.at^
 ||lcs.naver.com^
 ||lexip.4pcdn.de^
-||lexip.4players.de^
 ||librato-collector.genius.com^
 ||live.rezync.com^
 ||livecounter.theyosh.nl^
@@ -49080,7 +49079,6 @@ vkcdnservice.appspot.com^
 ||pix.telekom.de^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
-||pixel.4players.de^
 ||pixel.anyclip.com^
 ||pixel.bridge.dooca.store^
 ||pixel.bullion.media^
@@ -49405,7 +49403,6 @@ vkcdnservice.appspot.com^
 ||sts.eccmp.com^
 ||stt.nimbusweb.me^
 ||style.onvz.nl^
-||subpixel.4players.de^
 ||swa.metro.co.uk^
 ||sync.adap.tv^
 ||sysmon.kakaku.com^
@@ -61698,6 +61695,12 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||talyrt.xyz^
+||okagcw.xyz^
+||vtlyrj.xyz^
+||saeo.cn^
+||edoshbw.top^
+||blciqbk.icu^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^

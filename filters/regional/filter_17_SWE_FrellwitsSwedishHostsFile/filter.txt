@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-06-21T04:19:54.031Z
+! Last modified: 2024-06-24T05:16:16.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -689,6 +689,7 @@
 127.0.0.1 rum-reporter-prod.exp.bn.nr
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 runtnc.net
+127.0.0.1 s.cartbooster.io
 127.0.0.1 s.moatads.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.pubmine.com

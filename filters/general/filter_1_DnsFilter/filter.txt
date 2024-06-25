@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-25T01:13:15.964Z
+! Last modified: 2024-06-25T06:23:14.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41526,6 +41526,7 @@ vkcdnservice.appspot.com^
 ||7fc8.site^
 ||814272c4.xyz^
 ||8acc5c.site^
+||8b71e197.xyz^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
 ||977878.xyz^
 ||97b448.xyz^
@@ -54769,6 +54770,7 @@ inapps.appsflyersdk.com^
 ||bance.jp^
 ||maillovelove.net^
 
+||api.ad-platform.jmty.jp^
 ||adserv2.suumo.jp^
 ||ad.woman.mynavi.jp^
 ||shop.vapelog.jp^
@@ -61748,6 +61750,7 @@ inapps.appsflyersdk.com^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||google-js-01.xyz^
+||google-js-02.xyz^
 ||afopr.cn^
 ||qdoshby.top^
 ||eyislow.top^
@@ -61755,6 +61758,8 @@ inapps.appsflyersdk.com^
 ||dnpalh.xyz^
 ||cresqoirz.com^
 ||mcighme.icu^
+||hvuqkb.cn^
+||wyisloe.top^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^

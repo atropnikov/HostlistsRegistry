@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-26T18:21:45.155Z
+! Last modified: 2024-06-27T06:23:24.313Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||precedelaxative.com^
 ||pepiggies.xyz^
 ||shuanshu.com.com^
 ||kuurza.com^
@@ -1559,6 +1560,7 @@
 ||d6swopgiplmy0.cloudfront.net^
 
 ||gjc.gjirafa.com^
+||rolpenszimocca.com^
 ||a.mabipa.com^
 ||klik-slider.morgancode.com^
 ||lupon.media^
@@ -9200,6 +9202,7 @@ vkcdnservice.appspot.com^
 ||condensedmassagefoul.com^
 ||condensedspoon.com^
 ||condescendingcertainly.com^
+||conditioneavesdroppingbarter.com^
 ||condles-temark.com^
 ||condodgy.com^
 ||condofeijoa.top^
@@ -40131,6 +40134,7 @@ vkcdnservice.appspot.com^
 ||zzjwblqbwlrnj.top^
 ||zzkwsosixkdu.com^
 ||zzqolojyqkamj.top^
+||zztsxepxumxoyw.com^
 ||zzzjvqzkmqjlo.top^
 ||zzzjvqzkmqjyb.top^
 ||729drainer.com^
@@ -61769,6 +61773,16 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||67.21.92.*.gif
+||107.167.16.*.gif
+||efhis.cn^
+||udoshbt.top^
+||lhtzfn.xyz^
+||stsesc.xyz^
+||gjwxy.cn^
+||ytoeyxz.icu^
+||szdtf.cn^
+||tyisloi.top^
 ||talyrt.xyz^
 ||okagcw.xyz^
 ||vtlyrj.xyz^

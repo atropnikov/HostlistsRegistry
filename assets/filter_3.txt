@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-06-25T23:15:59.333Z
+! Last modified: 2024-06-28T12:32:04.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -72,7 +72,6 @@
 ||abtasty.com^
 ||ac.rnm.ca^
 ||acemlnb.com^
-||acid-adserver.click^
 ||acridtwist.com^
 ||actionsplash.com^
 ||actonsoftware.com^
@@ -180,7 +179,6 @@
 ||adadvisor.net^
 ||adalliance.io^
 ||adanging.blog^
-||adap.tv^
 ||adapt.tv^
 ||adaranth.com^
 ||adbilty.me^
@@ -390,7 +388,6 @@
 ||ads.boerding.com^
 ||ads.boylesports.com^
 ||ads.brabys.com^
-||ads.brazzers.com^
 ||ads.bumq.com^
 ||ads.canalblog.com^
 ||ads.casinocity.com^
@@ -859,7 +856,6 @@
 ||adx.gayboy.at^
 ||adxpansion.com^
 ||adxpose.com^
-||adyea.com^
 ||adyoulike.com^
 ||adz.rashflash.com^
 ||adz2you.com^
@@ -1689,6 +1685,7 @@
 ||fam-ad.com^
 ||farethief.com^
 ||farmergoldfish.com^
+||fast-redirecting.com^
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^
@@ -1703,7 +1700,6 @@
 ||fimserve.com^
 ||findcommerce.com^
 ||findyourcasino.com^
-||fineoffer.net^
 ||fingahvf.top^
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
@@ -2324,9 +2320,7 @@
 ||mypagerank.net^
 ||mypagerank.ru^
 ||mypowermall.com^
-||mystat-in.net^
 ||mystat.pl^
-||mytop-in.net^
 ||n2.mouseflow.com^
 ||n69.com^
 ||naj.sk^
@@ -2705,7 +2699,6 @@
 ||reachjunction.com^
 ||reactx.com^
 ||readingguilt.com^
-||readserver.net^
 ||readymoon.com^
 ||realcastmedia.com^
 ||realclever.com^
@@ -2871,7 +2864,6 @@
 ||serving-sys.com^
 ||sessioncam.com^
 ||sexcounter.com^
-||sexinyourcity.com^
 ||sexlist.com^
 ||sextracker.com^
 ||shakegoldfish.com^

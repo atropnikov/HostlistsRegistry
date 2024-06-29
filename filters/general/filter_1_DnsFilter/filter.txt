@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-06-28T18:21:20.054Z
+! Last modified: 2024-06-29T01:12:24.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8738,7 +8738,6 @@ vkcdnservice.appspot.com^
 ||clickgate.biz^
 ||clickgate08.biz^
 ||clickintext.com^
-||clickiocdn.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -19860,6 +19859,7 @@ vkcdnservice.appspot.com^
 ||jyozavoyyykby.top^
 ||jyqekzewvyojy.top^
 ||jyrfbtmbuqeaeo.com^
+||jysocexrxbodh.com^
 ||jytbxzil.com^
 ||jyuirxswk.com^
 ||jywczbx.com^
@@ -26629,6 +26629,7 @@ vkcdnservice.appspot.com^
 ||pccasia.xyz^
 ||pcdgninekvch.com^
 ||pcfchubby.top^
+||pcglvhrln.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
 ||pcirurrkeazm.com^
@@ -44694,6 +44695,7 @@ vkcdnservice.appspot.com^
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
 ||events-api.gazetadopovo.com.br^
+||s.clickiocdn.com^
 ||i-cmg-amlg-prod.appspot.com^
 ||a.myfidevs.io^
 ||capture-api.autopilotapp.com^
@@ -61842,6 +61844,13 @@ inapps.appsflyersdk.com^
 ||555ppp777ppp.com^
 ||666ppp222ppp.com^
 ||sxlmggx12.com^
+||adhvz.cn^
+||qeedaa.xyz^
+||ldoshbl.top^
+||kfycmiu.icu^
+||xrmfjzqo.xyz^
+||bbxyxt.xyz^
+||5gxs.org^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^

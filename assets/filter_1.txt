@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-01T01:21:29.852Z
+! Last modified: 2024-07-01T06:25:35.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -54883,7 +54883,6 @@ inapps.appsflyersdk.com^
 ||js.hs-banner.com^
 ||keenstockholm.com.se^
 ||ksdarprt.reseguiden.se^
-||kyrkoskatten.se^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
 ||lasso.link^
@@ -55036,7 +55035,6 @@ inapps.appsflyersdk.com^
 ||tagging-service.fotbollskanalen.se^
 ||tagging-service.tv4play.se^
 ||tagging-service.tv4.se^
-||tapet.bonniernews.se^
 ||telemetry.bambuser.io^
 ||tools.ascontentcloud.com^
 ||toppmarkensverige.com^
@@ -56680,7 +56678,7 @@ inapps.appsflyersdk.com^
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
-||binhchoncuocthivetranhsinhvien2024.wee^
+||binhchoncuocthivetranhsinhvien2024.weebly.com^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
@@ -60781,6 +60779,9 @@ inapps.appsflyersdk.com^
 ||htrurb.xyz^
 ||qkikkg.xyz^
 ||vatzxd.xyz^
+||cdipsumf.top^
+||twamjb.cn^
+||hdipsumu.top^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^

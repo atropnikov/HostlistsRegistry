@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-07-01T04:19:46.047Z
+! Last modified: 2024-07-02T05:17:06.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -446,6 +446,7 @@
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
 127.0.0.1 gtm.allabolag.se
+127.0.0.1 gtm.ekonomifakta.se
 127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gtm.proff.se
 127.0.0.1 gtm.stampenmedia.se
@@ -572,6 +573,7 @@
 127.0.0.1 meltwater.com
 127.0.0.1 metapic.se
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 metrics-fe-na1.hubspot.com
 127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 missaffiliate.com

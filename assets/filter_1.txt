@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-02T11:14:08.504Z
+! Last modified: 2024-07-02T12:30:37.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42931,6 +42931,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||track.fluffyfalcon.com^
 ||gojsmanager.com^
 ||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
@@ -48119,7 +48120,6 @@ vkcdnservice.appspot.com^
 ||prudsys-rde.de^
 ||prx.wayfair.com^
 ||pv.hd.sohu.com^
-||pv.sohu.com^
 ||pw.gigazine.net^
 ||px.dynamicyield.com^
 ||px.gfycat.com^

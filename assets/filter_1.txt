@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-03T01:13:48.678Z
+! Last modified: 2024-07-03T06:25:00.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -50432,7 +50432,6 @@ inapps.appsflyersdk.com^
 ||do09.net^
 ||early-birds.io^
 ||et-gv.fr^
-||ew3.io^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
 ||hunkal.com^
@@ -54897,6 +54896,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||ion.btcswe.com^
+||js.adsaga.se^
 ||js.evtr.nordiskemedier.dk^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
@@ -55185,6 +55185,7 @@ inapps.appsflyersdk.com^
 ||tracking.vastgotabladet.se^
 ||tracking.vaxjobladet.se^
 ||tracking.vetlandaposten.se^
+||tracking.viivilla.se^
 ||tracking.visitorsvoice.com^
 ||tracking.vlt.se^
 ||tracking.vn.se^
@@ -60782,6 +60783,8 @@ inapps.appsflyersdk.com^
 ||hyislou.top^
 ||tlpyft.xyz^
 ||jbkqemk.icu^
+||jdipsuma.top^
+||fzllis.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

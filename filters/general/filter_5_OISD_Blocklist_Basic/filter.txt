@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-04T20:16:48.897Z
+! Last modified: 2024-07-04T21:15:26.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -260,6 +260,7 @@
 ||15d113e19a.com^
 ||15f7a5a67a.com^
 ||16-merchant-s.com^
+||165tchuang.com^
 ||166f.com^
 ||1675450967.rsc.cdn77.org^
 ||16c8nh2801z2.top^
@@ -3224,6 +3225,7 @@
 ||ads.justhungry.com^
 ||ads.kaktuz.net^
 ||ads.kelbymediagroup.com^
+||ads.kelkoo.com^
 ||ads.kiemsat.vn^
 ||ads.kinxxx.com^
 ||ads.kompass.com^
@@ -4150,6 +4152,7 @@
 ||afoaglux.com^
 ||afodreet.net^
 ||afootwitword.com^
+||afoqs.cn^
 ||afosseel.net^
 ||afpbuzfwyjri.com^
 ||afr4g5.de^
@@ -5610,7 +5613,6 @@
 ||api-exponea.o2.sk^
 ||api-fangarma.utyug.media^
 ||api-logdev.sohatv.vn^
-||api-marketolog.mts.ru^
 ||api.140proof.com^
 ||api.ad-locus.com^
 ||api.ad-platform.jmty.jp^
@@ -18530,6 +18532,7 @@
 ||fxiuuaa.com^
 ||fxjnfn.xyz^
 ||fxkfhbn.xyz^
+||fxnmjb.xyz^
 ||fxrbsadtui.com^
 ||fxstyle.net^
 ||fyber.com^
@@ -24657,7 +24660,6 @@
 ||liveadexchanger.com^
 ||liveads.jp^
 ||liveagent.mobilbonus.cz^
-||liveclix.net^
 ||livecounter.theyosh.nl^
 ||livedspoonsbun.com^
 ||liveintent.com^
@@ -36068,6 +36070,7 @@
 ||shot-date.com^
 ||shotdynastyimpetuous.com^
 ||shoubsee.net^
+||shouldercommandmentlimitless.com^
 ||shouldknownews.com^
 ||shouldmeditate.com^
 ||shouldscornful.com^
@@ -37220,6 +37223,7 @@
 ||spratstatters.com^
 ||spreement.com^
 ||spreespoiled.com^
+||sprewcereous.com^
 ||sprincipal.com^
 ||springraptureimprove.com^
 ||sprinkletxt.com^
@@ -44001,7 +44005,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldpraisedcloud.com^
 ||worldsportlife.com^

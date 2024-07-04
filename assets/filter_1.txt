@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-04T01:14:02.818Z
+! Last modified: 2024-07-04T06:23:58.591Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2242,6 +2242,7 @@ vkcdnservice.appspot.com^
 ||6207684432.com^
 ||62b70ac32d4614b.com^
 ||62ca04e27a.com^
+||63912b9175.com^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
@@ -8432,6 +8433,7 @@ vkcdnservice.appspot.com^
 ||ckspodaotjotkn.com^
 ||ckuwrlxngdrfk.com^
 ||ckwvebqkbl.xyz^
+||ckynh.com^
 ||ckywou.com^
 ||cl0udh0st1ng.com^
 ||cladlukewarmjanitor.com^
@@ -13772,6 +13774,7 @@ vkcdnservice.appspot.com^
 ||fjhfruuhmgnrt.com^
 ||fjmgnfoedmsjj.xyz^
 ||fjmksbwxb.com^
+||fjojdlcz.com^
 ||fjwymafkgqfq.xyz^
 ||fjxdafshdrnnvdw.com^
 ||fjxowepqiwrdao.com^
@@ -18861,6 +18864,7 @@ vkcdnservice.appspot.com^
 ||jhxqfgbj.com^
 ||jibaeolia.com^
 ||jickodsa.com^
+||jiclzori.com^
 ||jieaxwgwnydl.com^
 ||jigdigtry.com^
 ||jigffltdbcdjq.com^
@@ -26814,6 +26818,7 @@ vkcdnservice.appspot.com^
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polpepsn.com^
 ||polredsy.com^
 ||poltarimus.com^
 ||polyad.net^
@@ -27625,6 +27630,7 @@ vkcdnservice.appspot.com^
 ||psouzoub.com^
 ||psozoult.net^
 ||pssy.xyz^
+||pstmqnplyzqahq.com^
 ||pstnmhftix.xyz^
 ||pstreetma.com^
 ||psuaqpz.com^
@@ -60837,6 +60843,8 @@ inapps.appsflyersdk.com^
 ||iyisloo.top^
 ||cuaeblh.icu^
 ||xxxuhx.xyz^
+||fxnmjb.xyz^
+||kdipsumd.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

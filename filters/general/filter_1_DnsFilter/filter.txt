@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-05T06:24:25.638Z
+! Last modified: 2024-07-05T12:31:20.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40634,6 +40634,7 @@ vkcdnservice.appspot.com^
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
+||fe30a5b4.xyz^
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
 ||ads.samsung.com^
@@ -43015,6 +43016,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||srvr.dmvs-apac.com^
 ||dash.zintrack.com^
 ||revotas.com^
 ||track.fluffyfalcon.com^
@@ -46542,6 +46544,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
 ||track.amebame.com^
 ||pks-analytics.raenonx.cc^
@@ -50997,6 +51000,7 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||log.f-tra.com^
+||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
@@ -60867,6 +60871,7 @@ inapps.appsflyersdk.com^
 ||urtlist.top^
 ||ortlisk.top^
 ||dmnxkj.cn^
+||gw2cddpt2hao.cloud^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^

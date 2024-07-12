@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-07-10T18:24:29.201Z
+! Last modified: 2024-07-12T12:33:04.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -554,7 +554,6 @@
 ||ads.pni.com^
 ||ads.pof.com^
 ||ads.powweb.com^
-||ads.ppvmedien.de^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.program3.com^
@@ -926,7 +925,6 @@
 ||analytics.inlinemanual.com^
 ||analytics.jst.ai^
 ||analytics.justuno.com^
-||analytics.live.com^
 ||analytics.lucid.app^
 ||analytics.mailmunch.co^
 ||analytics.mobile.yandex.net^
@@ -1730,7 +1728,6 @@
 ||freecounterstat.com^
 ||freelogs.com^
 ||freepay.com^
-||freeskreen.com^
 ||freestats.com^
 ||freestats.tv^
 ||freewebcounter.com^
@@ -1926,7 +1923,6 @@
 ||image6.pubmatic.com^
 ||imagecash.net^
 ||images-pw.secureserver.net^
-||imarketservices.com^
 ||img.prohardver.hu^
 ||imgpromo.easyrencontre.com^
 ||immensehoney.com^
@@ -3235,7 +3231,6 @@
 ||tracker.samplicio.us^
 ||tracker.vgame.us^
 ||tracking.1-a1502-bi.co.uk^
-||tracking.1-kv015-ap.co.uk^
 ||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
@@ -3441,7 +3436,6 @@
 ||webstat.channel4.com^
 ||webstat.com^
 ||webstat.net^
-||webtracker.jp^
 ||webtrackerplus.com^
 ||webtracky.com^
 ||webtraffic.se^

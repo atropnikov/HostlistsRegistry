@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-13T06:22:53.389Z
+! Last modified: 2024-07-13T12:29:37.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5991,6 +5991,7 @@ vkcdnservice.appspot.com^
 ||beklefkiom.com^
 ||beklinkor.com^
 ||belamicash.com^
+||belatedsafety.pro^
 ||belavoplay.com^
 ||belaya2shu1ba1.com^
 ||belengougha.com^
@@ -31229,6 +31230,7 @@ vkcdnservice.appspot.com^
 ||shocked-failure.com^
 ||shockedfoxed.top^
 ||shocking-design.pro^
+||shocking-profile.pro^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shoeingneurone.com^
@@ -37404,6 +37406,7 @@ vkcdnservice.appspot.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopping-sea.com^
 ||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^

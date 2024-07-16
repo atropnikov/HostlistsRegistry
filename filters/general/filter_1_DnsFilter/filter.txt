@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-15T18:22:42.356Z
+! Last modified: 2024-07-16T01:16:52.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2148,6 +2148,7 @@ vkcdnservice.appspot.com^
 ||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
+||4a9517991d.com^
 ||4b215e3bcf.com^
 ||4b41484f8e.com^
 ||4b6994dfa47cee4.com^
@@ -16163,6 +16164,7 @@ vkcdnservice.appspot.com^
 ||gyudlffoisng.com^
 ||gyxkmpf.com^
 ||gzcxtuxgqjrhz.com^
+||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||gzigudxidz.com^
 ||gzkkbuvz.com^
@@ -29588,6 +29590,7 @@ vkcdnservice.appspot.com^
 ||rfaatlrdr.com^
 ||rfeablduda.com^
 ||rfhddwa.com^
+||rficarolnak.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfimzurarqk.com^
@@ -36125,6 +36128,7 @@ vkcdnservice.appspot.com^
 ||vauthaud.net^
 ||vavcashpop.com^
 ||vavhhpkmfc.com^
+||vavuwetus.com^
 ||vawauoggraokog.com^
 ||vawsmoocah.com^
 ||vax-boost.com^
@@ -61138,6 +61142,10 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||wnootzc.icu^
+||eiuoom.xyz^
+||bavotr.xyz^
+||jyfdbj.xyz^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^

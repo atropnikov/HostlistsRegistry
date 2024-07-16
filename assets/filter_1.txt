@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-16T06:24:17.871Z
+! Last modified: 2024-07-16T12:32:08.551Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||syndicatedsearch.goog^
 ||duxlveokumpmd.com^
 ||stoogouy.net^
 ||equipmentapes.com^
@@ -41058,6 +41059,7 @@ vkcdnservice.appspot.com^
 ||pics.firstload.de^
 ||plchldr.co^
 ||popmog.com^
+||probid.ai^
 ||promos.fling.com^
 ||protected-redirect.click^
 ||proto2ad.durasite.net^
@@ -55019,6 +55021,7 @@ inapps.appsflyersdk.com^
 ||adservice.google.se^
 ||advert.livesportmedia.eu^
 ||advert.rabaldermedia.se^
+||aeonmedia.matomo.cloud^
 ||af.analytics.elx.cloud^
 ||affiliatemedia.speedybet.com^
 ||affiliates.videoslots.com^
@@ -55128,6 +55131,7 @@ inapps.appsflyersdk.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn.pushmaster-cdn.xyz^
 ||cdn.vip-hd-movies.xyz^
+||cdp-eu.customer.io^
 ||cintnetworks.com^
 ||cision.com^
 ||cl.k5a.io^
@@ -66667,6 +66671,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||udd1i5.zhihu.com^
 ||hl.dyq.cn^
 ||003store.com^
 ||0941.org^

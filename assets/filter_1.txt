@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-17T06:24:11.288Z
+! Last modified: 2024-07-17T12:32:59.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1305,6 +1305,7 @@ serve.bussyhunter.com^
 ||revrtb.com^
 ||newbluetrue.xyz^
 ||onemediawork.com^
+||d162h6x3rxav67.cloudfront.net^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
@@ -43241,6 +43242,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||t.mm-uxrv.com^
 ||sec.webeyez.com^
 ||michiganrobotflower.com^
 ||uid.mediacorp.sg^
@@ -46769,6 +46771,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||stats.habr.com^
+||analytics.qs-apps.com^
 ||cnt.web-apps-prod.wo-cloud.com^
 ||akn.analytics.autodesk.com^
 ||marketing.dropbox.com^
@@ -49897,6 +49901,7 @@ inapps.appsflyersdk.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||botdetection.hbrsd.com^
+||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
@@ -55094,7 +55099,6 @@ inapps.appsflyersdk.com^
 ||boost-cdn.manatee.dk^
 ||borsvarlden-banners.azurewebsites.net^
 ||brandy.bonniernewslifestyle.se^
-||browser.covatic.io^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
 ||buzzador.com^
@@ -61161,6 +61165,7 @@ inapps.appsflyersdk.com^
 ||ldipsuml.top^
 ||qhscsu.xyz^
 ||vxdrfr.xyz^
+||mkscy6.cn^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-17T01:15:48.442Z
+! Last modified: 2024-07-17T06:24:11.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1385,7 +1385,6 @@ serve.bussyhunter.com^
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^
-||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||d10fhz7gnk5369.cloudfront.net^
@@ -25687,7 +25686,6 @@ vkcdnservice.appspot.com^
 ||pahtzh.tech^
 ||paibopse.com^
 ||paichaus.com^
-||paid.outbrain.com^
 ||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
@@ -40335,6 +40333,7 @@ vkcdnservice.appspot.com^
 ||networld.hk^
 ||neudesicmediagroup.com^
 ||newdosug.eu^
+||newormedia.com^
 ||newsadsppush.com^
 ||newsarmor.com^
 ||newsnet.in.ua^
@@ -43284,7 +43283,6 @@ vkcdnservice.appspot.com^
 ||orangeclickmedia.com^
 ||pageviews.tray.com.br^
 ||convertbox.com^
-||sync.outbrain.com^
 ||elb.the-ozone-project.com^
 ||pbcs.nypost.com^
 ||pbcs.decider.com^
@@ -44463,7 +44461,6 @@ vkcdnservice.appspot.com^
 ||collector.mazeberry.com^
 ||email-reflex.com^
 ||tracker.azet.sk^
-||videoevents.outbrain.com^
 ||ringsrecord.com^
 ||plantdigestion.com^
 ||leadsmonitor.io^
@@ -44521,7 +44518,6 @@ vkcdnservice.appspot.com^
 ||1dmp.io^
 ||wheredoyoucomefrom.ovh^
 ||profusesupport.com^
-||log-ird.outbrain.com^
 ||analytics*.clickdimensions.com^
 ||pngme.ru^
 ||qoopler.ru^
@@ -46082,7 +46078,6 @@ vkcdnservice.appspot.com^
 ||ru4.com^
 ||rucounter.ru^
 ||rumanalytics.com^
-||rva.outbrain.com^
 ||rztrkr.com^
 ||s3s-main.net^
 ||sageanalyst.net^
@@ -47610,7 +47605,6 @@ vkcdnservice.appspot.com^
 ||alb.reddit.com^
 ||alpha.tracedock.com^
 ||als-svc.nytimes.com^
-||amplifypixel.outbrain.com^
 ||ampltd.top.gg^
 ||an.reflektion.com^
 ||analysis.afreecatv.com^
@@ -48037,7 +48031,6 @@ vkcdnservice.appspot.com^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
-||eventlog.outbrain.com^
 ||eventlogger.soundcloud.com^
 ||events-api*.outfit7.com^
 ||events-collector.spot.im^
@@ -48224,7 +48217,6 @@ vkcdnservice.appspot.com^
 ||log.newsbreak.jp^
 ||log.newsvine.com^
 ||log.olark.com^
-||log.outbrain.com^
 ||log.outbrainimg.com^
 ||log.pinterest.com^
 ||log.polarisoffice.com^
@@ -48365,7 +48357,6 @@ vkcdnservice.appspot.com^
 ||nmtracking.netflix.com^
 ||notify-bugs-fra1.rtl.de^
 ||ns336739.ip-37-187-249.eu^
-||odb.outbrain.com^
 ||oimg.nbcuni.com^
 ||om.cbsi.com^
 ||om.dowjoneson.com^
@@ -48807,7 +48798,6 @@ vkcdnservice.appspot.com^
 ||tr.ds.kakao.com^
 ||tr.junaroad.com^
 ||tr.marsflag.com^
-||tr.outbrain.com^
 ||tr.snapchat.com^
 ||tr.suedkurier.de^
 ||tr1.admeira.ch^
@@ -49775,7 +49765,6 @@ inapps.appsflyersdk.com^
 ||affiliate-api.raptive.com^
 ||affiliates.minglematch.com^
 ||alexandria.marfeelcdn.com^
-||amplify.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
 ||analytic.rollout.io^
@@ -50113,7 +50102,6 @@ inapps.appsflyersdk.com^
 ||hit.mybestpro.com^
 ||hits.getelevar.com^
 ||hits.informer.com^
-||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
 ||i.posthog.com^
@@ -50208,6 +50196,7 @@ inapps.appsflyersdk.com^
 ||onespot-tracking.herokuapp.com^
 ||openxcdn.net^
 ||orts.wixawin.com^
+||outbrain.com^
 ||p.metrilo.com^
 ||p.typekit.net^
 ||page-events-ustats.udemy.com^
@@ -50310,7 +50299,6 @@ inapps.appsflyersdk.com^
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||staging-pt.ispot.tv^
-||stas.outbrain.com^
 ||stat.absolutist.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
@@ -50385,6 +50373,7 @@ inapps.appsflyersdk.com^
 ||t.spbx.app^
 ||t.spot.im^
 ||t2.t2b.click^
+||taboolasyndication.com^
 ||tag-manager.playbuzz.com^
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
@@ -50535,7 +50524,6 @@ inapps.appsflyersdk.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||webtracker.apicasystem.com^
-||widget-pixels.outbrain.com^
 ||widget.educationdynamics.com^
 ||win.staticstuff.net^
 ||wl-pixel.index.digital^
@@ -50641,7 +50629,6 @@ inapps.appsflyersdk.com^
 ||stats.afrocave.com^
 ||stats.boringproxy.io^
 ||stats.how.wtf^
-||urc.taboolasyndication.com^
 ||ascpqnj-oam.global.ssl.fastly.net^
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||mjca-yijws.global.ssl.fastly.net^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-18T12:33:48.176Z
+! Last modified: 2024-07-18T18:23:26.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42637,6 +42637,7 @@ vkcdnservice.appspot.com^
 ||deapi.afreecatv.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
 ||s-odx.oleads.com^
 ||mediation.unity3d.com^
@@ -43307,7 +43308,6 @@ vkcdnservice.appspot.com^
 ||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
 ||pixel.mintigo.com^
-||api.sardine.ai^
 ||dmp.one^
 ||dmp-ai.ru^
 ||dmp-one.ru^
@@ -46820,6 +46820,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||trackid.globoid.globo.com^
 ||stats.habr.com^
 ||analytics.qs-apps.com^
 ||cnt.web-apps-prod.wo-cloud.com^
@@ -46937,7 +46938,6 @@ vkcdnservice.appspot.com^
 ||lp.spac.me^
 ||analytics.verfacto.com^
 ||flask.us.nextdoor.com^
-||ev.indianexpress.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.hotpepper.jp^
 ||c615.denverpost.com^
@@ -49662,7 +49662,6 @@ inapps.appsflyersdk.com^
 ||an.batmobi.net^
 ||analytics.any.do^
 ||m.vpadn.com^
-||api.instabug.com^
 ||sts.batmobi.net^
 ||pps-log.op-mobile.opera.com^
 ||tktracker.aotter.net^
@@ -53658,6 +53657,7 @@ inapps.appsflyersdk.com^
 ||adsy.mail.bg^
 
 
+||baglanbize.net^
 ||cdn.cdnhipter.xyz^
 ||kingads2.org^
 ||ad-service.shop^

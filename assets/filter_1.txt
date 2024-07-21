@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-21T12:31:06.968Z
+! Last modified: 2024-07-21T18:20:49.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32870,6 +32870,7 @@ vkcdnservice.appspot.com^
 ||strikinghystericalglove.com^
 ||stringssymptomfishing.com^
 ||stringthumbprowl.com^
+||stripedcover.pro^
 ||stripedonerous.com^
 ||striperaised.com^
 ||striperewind.com^
@@ -33708,6 +33709,7 @@ vkcdnservice.appspot.com^
 ||teeglimu.com^
 ||teelconch.com^
 ||teemcapablespinal.com^
+||teemingweekend.com^
 ||teemooge.net^
 ||teenagerapostrophe.com^
 ||teensexgfs.com^
@@ -40929,6 +40931,7 @@ vkcdnservice.appspot.com^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
+||e75d10b9.live^
 ||ec44.site^
 ||f090.site^
 ||f2f8.xyz^
@@ -46871,6 +46874,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||test.torrentfreak.com^
 ||datum.jsdelivr.com^
 ||trackid.globoid.globo.com^
 ||stats.habr.com^
@@ -67875,6 +67879,7 @@ analytics-*.aasaam.com
 ||sentry.fidibo.net^
 
 ||vast.filmnet.ir^
+||sentry.filmnet.ir^
 
 ||analytics.football360.ir^
 

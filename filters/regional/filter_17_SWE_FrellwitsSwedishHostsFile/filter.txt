@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-07-16T08:22:12.939Z
+! Last modified: 2024-07-23T04:19:54.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -881,6 +881,7 @@
 127.0.0.1 tracking.blt.se
 127.0.0.1 tracking.bonnier.news
 127.0.0.1 tracking.borlangetidning.se
+127.0.0.1 tracking.borssnack.di.se
 127.0.0.1 tracking.bt.se
 127.0.0.1 tracking.byggindustrin.se
 127.0.0.1 tracking.dagensmedia.se

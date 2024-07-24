@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-24T06:24:25.572Z
+! Last modified: 2024-07-24T12:32:33.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||prwfwayui.com^
+||pteegostie.com^
 ||frutwafiwah.com^
 ||maya15.site^
 ||ljr3.site^
@@ -2146,6 +2148,7 @@ vkcdnservice.appspot.com^
 ||442fc29954.com^
 ||445d1bd01a.com^
 ||44a9217f10.com^
+||44e29c19ac.com^
 ||44ffd27303.com^
 ||452tapgn.de^
 ||453130fa9e.com^
@@ -15673,6 +15676,7 @@ vkcdnservice.appspot.com^
 ||gonews2.com^
 ||gonzalodaemon.top^
 ||gooblesdd.com^
+||good-ads-online.com^
 ||goodadvert.ru^
 ||goodappforyou.com^
 ||goodbusinesspark.com^
@@ -17273,6 +17277,7 @@ vkcdnservice.appspot.com^
 ||hqsimfxiwyb.com^
 ||hqtwyhampwu.xyz^
 ||hqwa.xyz^
+||hqxghzyfvxrdpt.com^
 ||hraawjaaaluqboj.com^
 ||hrahdmon.com^
 ||hrczhdv.com^
@@ -23453,6 +23458,7 @@ vkcdnservice.appspot.com^
 ||ncwabgl.com^
 ||nczxuga.com^
 ||ndandinter.hair^
+||ndaspiratiotyukn.com^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
 ||nddnvliv.com^
@@ -24344,6 +24350,7 @@ vkcdnservice.appspot.com^
 ||o18.link^
 ||o2c7dks4.de^
 ||o313o.com^
+||o3sxhw5ad.com^
 ||o4nofsh6.de^
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
@@ -29968,6 +29975,7 @@ vkcdnservice.appspot.com^
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
 ||rockyou.net^
@@ -32362,6 +32370,7 @@ vkcdnservice.appspot.com^
 ||spo-play.live^
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
+||spokesperson254.fun^
 ||spondeetougher.guru^
 ||spongecell.com^
 ||spongemilitarydesigner.com^
@@ -35669,6 +35678,8 @@ vkcdnservice.appspot.com^
 ||unlinedcap.pro^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
+||unlocky.org^
+||unlocky.xyz^
 ||unloetiosal.com^
 ||unluciddesmids.top^
 ||unluckydead.pro^
@@ -36062,6 +36073,7 @@ vkcdnservice.appspot.com^
 ||uwrzjgtnur.com^
 ||uwzxukualwdkx.com^
 ||uxicgxqq.com^
+||uxjpyfzorpkcg.com^
 ||uxpascal.com^
 ||uxwnqppdma.com^
 ||uxxsiyokw.com^
@@ -36858,6 +36870,7 @@ vkcdnservice.appspot.com^
 ||vs3.com^
 ||vscfbcovhctu.com^
 ||vsgfjfsmcewnuhx.com^
+||vsgyfixkbow.com^
 ||vshzouj.com^
 ||vskfeduxg.xyz^
 ||vsnpfmoxb.xyz^
@@ -41135,6 +41148,7 @@ vkcdnservice.appspot.com^
 ||bs-adserver.b-cdn.net^
 ||btr.domywife.com^
 ||c.bannerflow.net^
+||c.bigcomics.win^
 ||c2shb.pubgw.yahoo.com^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
@@ -46914,6 +46928,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||beacon.radiko.jp^
 ||a.visme.co^
 ||events.framer.com^
 ||static.runconverge.com^
@@ -61342,6 +61357,9 @@ inapps.appsflyersdk.com^
 ||doujs01.shop^
 ||bewr1.com^
 ||heatherssb.com^
+||xs6po.icu^
+||yje912.cn^
+||byretuv.top^
 ||yfasjfk.icu^
 ||hetlwsu.top^
 ||1p3yg.icu^

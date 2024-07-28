@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-07-23T04:19:54.337Z
+! Last modified: 2024-07-28T04:18:58.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -103,6 +103,7 @@
 127.0.0.1 ambassador.referralhero.com
 127.0.0.1 amd.sellingsimplified.net
 127.0.0.1 ana.headerlift.com
+127.0.0.1 analys.landskrona.se
 127.0.0.1 analytics.allas.se
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 analytics.arvika.se
@@ -124,6 +125,7 @@
 127.0.0.1 analytics.motherhood.se
 127.0.0.1 analytics.nikkasystems.com
 127.0.0.1 analytics.residencemagazine.se
+127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.sunet.se
 127.0.0.1 analytics.svenskdam.se

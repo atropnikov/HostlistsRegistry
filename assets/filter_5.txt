@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-29T01:17:59.352Z
+! Last modified: 2024-07-29T06:24:43.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35013,6 +35013,7 @@
 ||sbfsdvc.com^
 ||sbhc.portalhc.com^
 ||sbhduht.xyz^
+||sbhight.com^
 ||sbiloi.xyz^
 ||sbpb1.chuiyue.com^
 ||sbrakepads.com^

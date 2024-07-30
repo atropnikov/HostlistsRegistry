@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-30T06:24:03.901Z
+! Last modified: 2024-07-30T12:33:02.070Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||thauckeesse.net^
+||lixxqkaqaragxu.com^
 ||kurjutodbxca.com^
 ||ywmvppnlwwxkgt.com^
 ||chouchicky.com^
@@ -39812,6 +39814,7 @@ vkcdnservice.appspot.com^
 ||yimkju.com^
 ||zhu-ni-hao-yun.sh^
 ||zxcbaby.ru^
+||123-stream.org^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||asqualmag.com^
@@ -41264,7 +41267,6 @@ vkcdnservice.appspot.com^
 ||1200932035.rsc.cdn77.org^
 ||1201741305.rsc.cdn77.org^
 ||1204491360.rsc.cdn77.org^
-||123-stream.org^
 ||1273167513.rsc.cdn77.org^
 ||1278977604.rsc.cdn77.org^
 ||1288151678.rsc.cdn77.org^
@@ -51530,6 +51532,7 @@ inapps.appsflyersdk.com^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
+||dt.xfyun.cn^
 ||epro.sogou.com^
 ||experiments.sparanoid.net^
 ||g.yccdn.com^
@@ -54555,6 +54558,7 @@ inapps.appsflyersdk.com^
 ||twiago.com^
 ||bauernative.com^
 
+||qetlwsy.top^
 ||cengqinglin.cn^
 ||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
@@ -61588,6 +61592,9 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||balili2024.top^
+||w0079.com^
+||w0082.com^
 ||shbzpgs.cn^
 ||bxmazls.icu^
 ||guyhok.xyz^
@@ -61595,9 +61602,9 @@ inapps.appsflyersdk.com^
 ||hov15.icu^
 ||qvxtzi.xyz^
 ||nxxkxr.xyz^
-||qetlwsy.top^
 ||4oz4n.icu^
 ||kwerilxd.top^
+||shbzngs.cn^
 ||aiqks.top^
 ||sikapo.top^
 ||sikaq.top^

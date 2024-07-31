@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-07-31T06:19:43.221Z
+! Last modified: 2024-07-31T12:33:50.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||kaxjtkvgo.com^
+||whouvoart.com^
 ||hksnu.com^
 ||cndynza.click^
 ||thauckeesse.net^
@@ -22422,6 +22424,7 @@ vkcdnservice.appspot.com^
 ||mewgzllnsp.com^
 ||mewlstomolo.top^
 ||mexicantransmission.com^
+||mexoacmaidu.com^
 ||meyopuae.com^
 ||meyximegrgypnv.com^
 ||mf233y3dg6n.shop^
@@ -43657,6 +43660,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pixeltrack.clientgear.com^
+||event.clientgear.com^
 ||api.receptivity.io^
 ||static.target2sell.com^
 ||sumatra.ai^
@@ -44697,7 +44702,6 @@ vkcdnservice.appspot.com^
 ||tag.pprl.io^
 ||collector.mediator.media^
 ||rc.vtex.com.br^
-||telemetric.dk^
 ||browser.events.data.msn.cn^
 ||browser.events.data.msn.com^
 ||lngtd.com^
@@ -47195,6 +47199,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||c1-stats.shopifysvc.com^
 ||telemetry.stytch.com^
 ||stat.le.com^
 ||fe-go.letv.com^
@@ -49852,6 +49857,7 @@ inapps.appsflyersdk.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
+||rtlog*.tiktokv.us^
 ||rtlog*.tiktokv.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
@@ -51258,6 +51264,7 @@ inapps.appsflyersdk.com^
 ||semnicneposilejte.cz^
 ||smartselling.cz^
 ||digitaladvisor.dk^
+||telemetric.dk^
 ||onlinesucces.nl^
 ||synovite-scripts.com^
 ||leiki.com^
@@ -56840,6 +56847,7 @@ inapps.appsflyersdk.com^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||aff.atp.vn^
+||aff2.linksht.online^
 ||affiliate.chiaki.vn^
 ||ailamtrieuphu.com^
 ||aj2393.online^
@@ -60582,6 +60590,7 @@ inapps.appsflyersdk.com^
 ||tracuugiaodichvi.com^
 ||tracuugplx.vn^
 ||tracuuthenap247.com^
+||tracuutthvt.com^
 ||traderviet88.com^
 ||traffic-c.com^
 ||trang-chu-vn.com^
@@ -61644,6 +61653,7 @@ inapps.appsflyersdk.com^
 ||tetlwsi.top^
 ||swerilxb.top^
 ||shbznkj.cn^
+||shbzkkj.cn^
 ||balili2024.top^
 ||w0079.com^
 ||w0082.com^

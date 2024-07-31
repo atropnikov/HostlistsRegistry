@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-31T12:33:54.365Z
+! Last modified: 2024-07-31T15:17:53.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9275,7 +9275,6 @@
 ||c.tbex.ru^
 ||c.tvsou.com^
 ||c.vrvm.com^
-||c.webp2p.letv.com^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
 ||c0.adalyser.com^
@@ -15003,7 +15002,6 @@
 ||dougale.com^
 ||douglaug.net^
 ||douhooke.net^
-||doujs03.shop^
 ||doukoula.com^
 ||douthosh.net^
 ||dove.hoku.nz^
@@ -39035,7 +39033,6 @@
 ||testsite34.com^
 ||tesupervis.hair^
 ||tethsrump.com^
-||tetlwsi.top^
 ||tetrdracausa.com^
 ||tetrylscullion.com^
 ||tevermotoriesmyst.info^
@@ -43114,6 +43111,7 @@
 ||webmine.cz^
 ||webminepool.com^
 ||webminerpool.com^
+||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
 ||webpsts.com^

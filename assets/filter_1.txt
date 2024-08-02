@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-02T12:33:01.601Z
+! Last modified: 2024-08-02T18:23:00.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41300,6 +41300,7 @@ vkcdnservice.appspot.com^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
 ||e75d10b9.live^
+||e8e2063b.xyz^
 ||ea6c0ac4.xyz^
 ||ec44.site^
 ||f090.site^
@@ -43726,6 +43727,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||yatr.ru^
+||analytics-fe.digital-cloud.medallia.eu^
 ||umami.aigenerations.net^
 ||brilliantcollector.com^
 ||flag.lab.amplitude.com^
@@ -47270,6 +47273,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tracking.aws.judge.me^
+||analytics.rev.iq^
 ||error-tracking.reddit.com^
 ||c1-stats.shopifysvc.com^
 ||telemetry.stytch.com^
@@ -52002,6 +52007,7 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||newton1.ru^
 ||sheisnotateacher.com^
 ||kissedthetrain.com^
 ||srvd2204.com^

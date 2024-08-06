@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-08-06T12:33:27.462Z
+! Last modified: 2024-08-06T21:16:06.255Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1583,6 +1583,7 @@
 ||elitedollars.com^
 ||elitetoplist.com^
 ||em1.yoursantander.co.uk^
+||email-link.adtidy.info^
 ||email-link.adtidy.net^
 ||email-link.adtidy.org^
 ||email-links.crowdfireapp.com^
@@ -2142,6 +2143,7 @@
 ||lucidmedia.com^
 ||luckyorange.com^
 ||ludicrousarch.com^
+||lyricshook.com^
 ||lytics.io^
 ||lzjl.com^
 ||m.trb.com^
@@ -2459,6 +2461,7 @@
 ||otto-images.developershed.com^
 ||outbrain.com^
 ||overconfidentfood.com^
+||overkick.com^
 ||overture.com^
 ||ow.pubmatic.com^
 ||owebanalytics.com^
@@ -2940,6 +2943,7 @@
 ||softclick.com.br^
 ||soggysponge.com^
 ||soggyzoo.com^
+||soicos.com^
 ||sombersea.com^
 ||sombersquirrel.com^
 ||sombersurprise.com^
@@ -3059,6 +3063,7 @@
 ||sumo.com^
 ||sumome.com^
 ||superawesome.tv^
+||superchichair.com^
 ||superclix.de^
 ||superficialsquare.com^
 ||supersonicads.com^

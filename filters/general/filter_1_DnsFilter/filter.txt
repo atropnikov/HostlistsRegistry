@@ -2,10 +2,14 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-09T12:33:36.193Z
+! Last modified: 2024-08-09T18:23:31.341Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||signamentswithded.com^
+||atethebenefitsshe.com^
+||d3nz96k4xfpkvu.cloudfront.net^
+||rtoukfareputfe.info^
 ||boqmjxtkwn.com^
 ||smart1adserver.com^
 ||polisnetwork.io^
@@ -30603,7 +30607,6 @@ vkcdnservice.appspot.com^
 ||rtncskottpfwb.com^
 ||rtoadlavcam.com^
 ||rtorvhhdru.xyz^
-||rtoukfareputfe.info^
 ||rtphit.com^
 ||rtpnt.xyz^
 ||rtqdgro.com^
@@ -43883,6 +43886,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pixel-*.convertagain.net^
 ||app.kuvio.io^
 ||data.media-lab.ai^
 ||kapetracking.com^
@@ -47433,6 +47437,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||fresnel-events.vimeocdn.com^
+||evt.ilovepdf.com^
 ||beacon.adelphic.com^
 ||pixels.spotify.com^
 ||ylog.huya.com^
@@ -66381,7 +66387,6 @@ inapps.appsflyersdk.com^
 ||b1.c1km4.com^
 ||b1.engdvd.com^
 ||b1.xiao84.com^
-||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
 ||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
@@ -66671,7 +66676,6 @@ inapps.appsflyersdk.com^
 ||jibn12.jintang114.org^
 ||jinhonghao.cn^
 ||jintonghua.com^
-||jiyan.net^
 ||jke1.jianke.com^
 ||jquery.envi-met.com.cn^
 ||js.263y.com^

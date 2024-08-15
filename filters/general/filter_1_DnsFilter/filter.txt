@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-15T06:24:27.502Z
+! Last modified: 2024-08-15T12:33:38.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||wpwserawnuwq.com^
+||zbysshlpgvl.com^
 ||ravm.tv^
 ||hjjpsotb.com^
 ||zoustara.net^
@@ -13280,6 +13282,7 @@ vkcdnservice.appspot.com^
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotsanrantan.com^
 ||flounderhomemade.com^
@@ -15374,6 +15377,7 @@ vkcdnservice.appspot.com^
 ||halftimestarring.com^
 ||halfwayscratchcoupon.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallucinatecompute.com^
 ||hallucinatediploma.com^
 ||hallucinatepromise.com^
@@ -24295,6 +24299,7 @@ vkcdnservice.appspot.com^
 ||panisicelectre.top^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -28011,6 +28016,7 @@ vkcdnservice.appspot.com^
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -29792,6 +29798,7 @@ vkcdnservice.appspot.com^
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -40951,6 +40958,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||s2s.adjust.com^
+||view.adjust.com^
+||engagements.appsflyer.com^
 ||pageview.click^
 ||viaklera.com^
 ||pixel-*.convertagain.net^
@@ -58980,6 +58990,8 @@ inapps.appsflyersdk.com^
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -63598,7 +63610,6 @@ inapps.appsflyersdk.com^
 ||cdnjs.z-face.cn^
 ||cee1.iteye.com^
 ||chong-wu.net^
-||chunyuqiufeng.com^
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^

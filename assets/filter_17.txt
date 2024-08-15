@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-08-09T06:25:37.246Z
+! Last modified: 2024-08-15T04:19:46.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -147,6 +147,7 @@
 127.0.0.1 api.getlevelten.com
 127.0.0.1 api.lab.eu.amplitude.com
 127.0.0.1 api.retargetly.com
+127.0.0.1 api.rudderstack.com
 127.0.0.1 api.segment.io
 127.0.0.1 api3847.d41.co
 127.0.0.1 app.converdiant.com

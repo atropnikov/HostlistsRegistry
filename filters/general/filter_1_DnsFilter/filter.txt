@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-16T12:33:30.062Z
+! Last modified: 2024-08-16T18:23:20.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||jifflebreasts.com^
 ||wpwserawnuwq.com^
 ||zbysshlpgvl.com^
 ||ravm.tv^
@@ -40993,6 +40994,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||fndrsp.net^
+||positional.ai^
+||positional-bucket.com^
 ||collector-pxebumdlwe.px-cloud.net^
 ||collector-pxebumdlwe.px-cdn.net^
 ||s2s.adjust.com^
@@ -44551,6 +44555,11 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||stats.browsertrix.com^
+||sgmnt.beacons.ai^
+||track.lc.quark.cn^
+||nsclick.baidu.com^
+||ipgeolocation.abstractapi.com^
 ||trace.mjyx.com^
 ||event-router.chime.com^
 ||t3.cdnpure.com^
@@ -59031,6 +59040,8 @@ inapps.appsflyersdk.com^
 ||npbtnl.xyz^
 ||ljzcawea.icu^
 ||lumnxiel.top^
+||baijs07.shop^
+||dasdujaosjdioad.com^
 ||wnstug.xyz^
 ||shbzhkj.cn^
 ||jrjtibez.icu^

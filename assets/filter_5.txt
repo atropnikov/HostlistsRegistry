@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-20T01:16:59.450Z
+! Last modified: 2024-08-20T03:20:02.772Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1836,6 +1836,7 @@
 ||abc.colayun.cn^
 ||abc.douguo.com^
 ||abc.esprit.de^
+||abc.espritshop.pl^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
 ||abc.rwpt.top^
@@ -16508,6 +16509,7 @@
 ||events.demoup.com^
 ||events.flagship.io^
 ||events.funnelish.com^
+||events.getmodemagic.com^
 ||events.getsitectrl.com^
 ||events.iap.unity3d.com^
 ||events.ifunny.co^
@@ -28418,6 +28420,7 @@
 ||octopusiron.com^
 ||octopusnewsmagazine.com^
 ||octopuspop.com^
+||ocular.mydealz.de^
 ||ocuwyfarlvbq.com^
 ||ocwdkp.icu^
 ||oczqhythihhu.com^
@@ -39111,6 +39114,7 @@
 ||tipsembankment.com^
 ||tipslyrev.com^
 ||tiptoecentral.com^
+||tiq.espritshop.pl^
 ||tirebrevity.com^
 ||tirecolloquialinterest.com^
 ||tireconfessed.com^

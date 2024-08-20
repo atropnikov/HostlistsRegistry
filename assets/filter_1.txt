@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-20T12:34:09.501Z
+! Last modified: 2024-08-20T18:23:12.541Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40677,7 +40677,6 @@ vkcdnservice.appspot.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||app.adjust.world^
-||app.adjust.net.in^
 ||ads.feelingtouch.com^
 ||ad.tencentmusic.com^
 ||ads.iosappsworld.com^
@@ -41183,7 +41182,6 @@ vkcdnservice.appspot.com^
 ||sec.webeyez.com^
 ||michiganrobotflower.com^
 ||uid.mediacorp.sg^
-||exacttarget.com^
 ||analytics.launch.bz^
 ||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
@@ -44715,7 +44713,6 @@ vkcdnservice.appspot.com^
 ||trace.mjyx.com^
 ||event-router.chime.com^
 ||t3.cdnpure.com^
-||counter.wikiwiki.jp^
 ||applytics.nordvpn.com^
 ||d.analyticsmania.com^
 ||gtm.lercio.it^
@@ -45302,7 +45299,6 @@ vkcdnservice.appspot.com^
 ||storelog.kode.co.kr^
 ||telemetry*.transcend.io^
 ||ampltd2.medal.tv^
-||l.bfmtv.com^
 ||stats.debatdirect.tweedekamer.nl
 ||analytics.dugun.com^
 ||report2.iciba.com^

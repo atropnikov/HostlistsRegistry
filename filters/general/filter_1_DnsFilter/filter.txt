@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-22T06:24:12.615Z
+! Last modified: 2024-08-22T12:33:50.850Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||flyads1.com^
+||fasgazazxvi.com^
 ||meableabede.click^
 ||valuatesharki.com^
 ||earshambitty.com^
@@ -38669,6 +38671,7 @@ vkcdnservice.appspot.com^
 ||googleadsserving.cn^
 ||googlevads-cn.com^
 ||00701059.xyz^
+||01045395.xyz^
 ||02777e.site^
 ||03180d2d.live^
 ||0395d1.xyz^
@@ -44730,6 +44733,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.valotool.com^
 ||analytics.floris.amsterdam^
 ||suchanalytik.hideandsec.sh^
 ||tealium.cbsnews.com^
@@ -47224,6 +47228,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^
@@ -49360,6 +49365,7 @@ inapps.appsflyersdk.com^
 ||stat.matichon.co.th^
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
+||analytics.faprika.net^
 ||analytics.turk.pro^
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
@@ -59227,6 +59233,7 @@ inapps.appsflyersdk.com^
 ||reacdf311.cn^
 ||jewruta.top^
 ||uerbgnkas.com^
+||uftcfo.xyz^
 ||55726zubo56686.com^
 ||sauyv.top^
 ||imgoss820.top^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-24T09:17:58.660Z
+! Last modified: 2024-08-24T13:18:03.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9775,7 +9775,6 @@
 ||cdn.insta.playbryte.com^
 ||cdn.insurads.com^
 ||cdn.jampp.com^
-||cdn.jhoncj.com^
 ||cdn.jkpes.com^
 ||cdn.kaizenplatform.net^
 ||cdn.kelpo.cloud^
@@ -22466,6 +22465,7 @@
 ||jgydqhp.com^
 ||jhkfd.com^
 ||jhnnnb.xyz^
+||jhoncj.com^
 ||jhpbtp.xyz^
 ||jhrfemourkojc.com^
 ||jhulubwidas.com^

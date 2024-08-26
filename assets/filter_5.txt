@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-26T15:18:07.769Z
+! Last modified: 2024-08-26T16:23:23.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -79,7 +79,6 @@
 ||07c6b39b80.com^
 ||07de571526.e04f630ca8.com^
 ||07dy.cc^
-||0819478661.com^
 ||0833309e72.com^
 ||08666f3ca4.com^
 ||0881dd11d9.com^
@@ -113,7 +112,6 @@
 ||0e78376a1b.com^
 ||0eade9dd8d.com^
 ||0eijh8996i.com^
-||0f0b46245d.com^
 ||0f269944ac.9c98029b1e.com^
 ||0f3887f8af.com^
 ||0f461325bf56c3e1b9.com^
@@ -7366,7 +7364,6 @@
 ||bazamodov.ru^
 ||bazao.xyz^
 ||bb.lekumo.jp^
-||bb3830357b.com^
 ||bb73db8996.7857ab56f4.com^
 ||bb8.aotter.net^
 ||bba9603w.com^
@@ -35623,7 +35620,6 @@
 ||snappedanticipation.com^
 ||snappedtesting.com^
 ||snaretoeburp.work^
-||snarewholly.com^
 ||snarlaptly.com^
 ||snat.goguardian.com^
 ||sneaknonstopattribute.com^
@@ -39175,7 +39171,6 @@
 ||track.promptfile.com^
 ||track.push-ad.com^
 ||track.pushbullet.com^
-||track.realtimeboard.com^
 ||track.rheinpfalz.de^
 ||track.robee.tech^
 ||track.saigon.pro^

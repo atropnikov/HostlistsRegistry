@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-28T08:22:37.310Z
+! Last modified: 2024-08-28T09:19:15.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21812,6 +21812,7 @@
 ||insights-mxp.coursecareers.com^
 ||insights.algolia.io^
 ||insights.hotjar.com^
+||insights.zennioptical.com^
 ||insigit.com^
 ||insignificantretained.com^
 ||insistauthorities.com^
@@ -34548,6 +34549,7 @@
 ||santtacklingallaso.com^
 ||santuao.xyz^
 ||sapfailedfelon.com^
+||sapi.tremendous.com^
 ||saptiledispatch.com^
 ||saptorge.com^
 ||sar.66.ru^
@@ -35153,6 +35155,7 @@
 ||servicegetbook.net^
 ||services.aomg5bzv7.com^
 ||services.bionika-digital.ru^
+||services.haaretz.com^
 ||services.hearstmags.com^
 ||services.sdiapi.com^
 ||services.wetek.com^
@@ -39564,6 +39567,7 @@
 ||track.hk01.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
+||track.hydro.online^
 ||track.icheck.com.vn^
 ||track.juststarz.com^
 ||track.kueez.com^

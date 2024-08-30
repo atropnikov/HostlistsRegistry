@@ -2,12 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-30T06:25:33.778Z
+! Last modified: 2024-08-30T12:34:14.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||akaroafrypan.com^
+||unbeardgorraf.top^
 ||lunse.ajscdn.com^
-||papatrol.xyz^
 ||ohjlghirnbkosdh.com^
 ||whudroots.net^
 ||yhklljct.xyz^
@@ -17,6 +18,7 @@
 ||vetchesthiever.com^
 ||st.zarebasdezaley.com^
 ||pkazd.xyz^
+||papatrol.xyz^
 ||wwcpyupbrcuhcsn.com^
 ||peenuteque.net^
 ||palaesavgs.com^
@@ -3077,6 +3079,7 @@ vkcdnservice.appspot.com^
 ||addroplet.com^
 ||addthief.com^
 ||adeditiontowri.org^
+||adelphic.net^
 ||adenza.dev^
 ||adevbom.com^
 ||adevppl.com^
@@ -5228,6 +5231,7 @@ vkcdnservice.appspot.com^
 ||aveugleghettos.top^
 ||avgive3431.fun^
 ||avglfookdjuj.com^
+||avhduwvirosl.com^
 ||avhtaapxml.com^
 ||aviationbe.com^
 ||avichigangway.top^
@@ -23991,6 +23995,7 @@ vkcdnservice.appspot.com^
 ||orchestraanticipation.com^
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
+||orcnakokt.com^
 ||ordbzeokdxku.com^
 ||ordciqczaox.com^
 ||orderlydividepawn.com^
@@ -31208,6 +31213,7 @@ vkcdnservice.appspot.com^
 ||storyblizzard.com^
 ||storyquail.com^
 ||storyrelatively.com^
+||storystaffrings.com^
 ||stotinggunne.uno^
 ||stotoowu.net^
 ||stotseepta.com^
@@ -52121,7 +52127,6 @@ inapps.appsflyersdk.com^
 ||caraneoutraze.uno^
 
 ||adserver.icimedias.ca^
-||avhduwvirosl.com^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^

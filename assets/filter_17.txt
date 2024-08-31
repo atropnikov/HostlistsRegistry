@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-08-17T04:22:12.609Z
+! Last modified: 2024-08-31T05:16:22.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -817,6 +817,7 @@
 127.0.0.1 strossle.com
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 survey.interquest.com
+127.0.0.1 svanalytics.containers.piwik.pro
 127.0.0.1 svt.d3.sc.omtrdc.net
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.richaudience.com

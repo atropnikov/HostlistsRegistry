@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-08-31T06:23:15.581Z
+! Last modified: 2024-08-31T12:32:26.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25022,7 +25022,6 @@ vkcdnservice.appspot.com^
 ||pereliaastroid.com^
 ||perennialsecondly.com^
 ||perfb.com^
-||perfdrive.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
 ||perfectlywent.com^
@@ -33269,7 +33268,6 @@ vkcdnservice.appspot.com^
 ||truthhascudgel.com^
 ||truthordarenewsmagazine.com^
 ||truthvexedben.com^
-||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -44146,6 +44144,7 @@ vkcdnservice.appspot.com^
 ||peakcounter.dk^
 ||peerius.com^
 ||percentmobile.com^
+||perfdrive.com^
 ||perfectaudience.com^
 ||perfiliate.com^
 ||performancerevenues.com^
@@ -48178,6 +48177,7 @@ inapps.appsflyersdk.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^
+||analytics.plasmic.app^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
 ||analytics.qualityunit.com^
@@ -48611,6 +48611,7 @@ inapps.appsflyersdk.com^
 ||rum.perfops.net^
 ||rw.marchex.io^
 ||s.logsss.com^
+||s.vibe.co^
 ||sa.scorpion.co^
 ||scripts.psyma.com^
 ||sdrive.skoda-auto.com^
@@ -59588,6 +59589,7 @@ inapps.appsflyersdk.com^
 ||lewrutl.top^
 ||jditera.top^
 ||gbgedashb8.fun^
+||caqreg.xyz^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-30T22:17:02.966Z
+! Last modified: 2024-08-31T03:18:33.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20290,7 +20290,6 @@
 ||hades.qyer.com^
 ||hadfrizzprofitable.com^
 ||hadmiredinde.info^
-||hadronid.net^
 ||hadsans.com^
 ||hadsanz.com^
 ||hadseaside.com^
@@ -31549,7 +31548,6 @@
 ||postfix.aomg5bzv7.com^
 ||posthog.tarnkappe.info^
 ||postlnk.com^
-||postokdesk.live^
 ||postrelease.com^
 ||postthieve.com^
 ||postureunlikeagile.com^

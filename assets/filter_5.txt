@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-08-31T09:17:39.813Z
+! Last modified: 2024-08-31T10:17:14.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5352,6 +5352,7 @@
 ||analytics.pinterest.com^
 ||analytics.pixels.ai^
 ||analytics.plaid.com^
+||analytics.plasmic.app^
 ||analytics.plex.tv^
 ||analytics.poferries.com^
 ||analytics.pointdrive.linkedin.com^
@@ -10027,6 +10028,7 @@
 ||cdn.pranmcpkx.com^
 ||cdn.ptomw.com^
 ||cdn.qc24h.com^
+||cdn.ravm.tv^
 ||cdn.rawqel.com^
 ||cdn.responsiq.com^
 ||cdn.revive-adserver.net^
@@ -35004,6 +35006,7 @@
 ||s.trvdp.com^
 ||s.tuoitre.vn^
 ||s.valuemedia-ltd.com^
+||s.vibe.co^
 ||s.vlink6.com^
 ||s.vws4brkfst.com^
 ||s.wayfair.com^
@@ -38909,6 +38912,7 @@
 ||tag.lexer.io^
 ||tag.myplay.com^
 ||tag.nifty.com^
+||tag.pearldiver.io^
 ||tag.pprl.io^
 ||tag.regieci.com^
 ||tag.rightmessage.com^

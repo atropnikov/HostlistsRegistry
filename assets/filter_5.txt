@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-06T02:41:45.263Z
+! Last modified: 2024-09-06T03:19:45.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -45428,7 +45428,6 @@
 ||yabun.club^
 ||yacurlik.com^
 ||yads.yahoo.co.jp^
-||yads.yjtag.yahoo.co.jp^
 ||yaefddu.com^
 ||yafastdie.live^
 ||yafkhmosihg.com^
@@ -45582,6 +45581,7 @@
 ||yjnqeeocqrs.com^
 ||yjrlciff.com^
 ||yjrrwchaz.com^
+||yjtag.yahoo.co.jp^
 ||yjxzvqy.xyz^
 ||yjyfxgoasocy.com^
 ||yk.dissentsangir.com^

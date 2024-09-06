@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-09-05T08:23:22.906Z
+! Last modified: 2024-09-06T04:21:12.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11066,6 +11066,13 @@
 0.0.0.0 luminati.io
 0.0.0.0 csp.secureserver.net
 0.0.0.0 events.api.secureserver.net
+0.0.0.0 lucead.com
+0.0.0.0 prebid.lucead.com
+0.0.0.0 s.lucead.com
+0.0.0.0 adservrs.com
+0.0.0.0 tg1.adservrs.com
+0.0.0.0 ads.rwadx.com
+0.0.0.0 rwadx.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13350,6 +13357,7 @@
 0.0.0.0 adlike.com
 0.0.0.0 adlink.de
 0.0.0.0 adlite.net
+0.0.0.0 adlive.io
 0.0.0.0 adloox.com
 0.0.0.0 adlure.net
 0.0.0.0 adm.shinobi.jp
@@ -14013,6 +14021,7 @@
 0.0.0.0 ak.ceegriwuwoa.net
 0.0.0.0 ak.groaxonsoow.net
 0.0.0.0 ak.oneegrou.net
+0.0.0.0 ak.ptailadsol.net
 0.0.0.0 ak0gsh40.com
 0.0.0.0 akjotpoxwp.com
 0.0.0.0 aklaszonkob.com
@@ -14830,6 +14839,7 @@
 0.0.0.0 causecherry.com
 0.0.0.0 causlesscauslessdisapproval.com
 0.0.0.0 cauvousy.net
+0.0.0.0 cavbildi.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
@@ -18172,7 +18182,6 @@
 0.0.0.0 prchecker.info
 0.0.0.0 pre.glotgrx.com
 0.0.0.0 pre4sentre8dhf.com
-0.0.0.0 prebid.lucead.com
 0.0.0.0 prebid.trustedstack.com
 0.0.0.0 preciousawareness.pro
 0.0.0.0 precisioncounter.com

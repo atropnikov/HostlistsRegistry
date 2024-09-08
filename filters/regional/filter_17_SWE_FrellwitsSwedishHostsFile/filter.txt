@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-09-05T06:25:53.781Z
+! Last modified: 2024-09-08T06:23:49.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -356,6 +356,7 @@
 127.0.0.1 darwin.affiliatewindow.com
 127.0.0.1 data.adnuntius.com
 127.0.0.1 data.gblcdn.com
+127.0.0.1 dc.schibsted.io
 127.0.0.1 deals.innocode.no
 127.0.0.1 delivered-by-madington.com
 127.0.0.1 delivery.adnuntius.com
@@ -722,6 +723,7 @@
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 sdkconfig.pulse.schibsted.io
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com
 127.0.0.1 se5.pliing.com

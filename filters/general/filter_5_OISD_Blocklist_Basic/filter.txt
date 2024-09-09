@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-09T17:16:50.553Z
+! Last modified: 2024-09-09T18:24:28.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38,7 +38,6 @@
 ||01counter.com^
 ||01d0c91c0d.com^
 ||01jud3v55z.com^
-||021f9bc640.6a34d15d38.com^
 ||023hysj.com^
 ||0265331.com^
 ||027f8ac71a.5b4ed922fe.com^
@@ -1176,6 +1175,7 @@
 ||69oxt4q05.com^
 ||69v.club^
 ||6a0d38e347.com^
+||6a34d15d38.com^
 ||6a3a727872.com^
 ||6ac78725fd.com^
 ||6af461b907c5b.com^
@@ -1191,7 +1191,7 @@
 ||6de72955d8.com^
 ||6dffc00153.com^
 ||6e.co.kr^
-||6e8a9948e0.6e391732a2.com^
+||6e391732a2.com^
 ||6e8db01a49.26c42ca1c2.com^
 ||6ec5c9fcec.com^
 ||6ec7e42994.com^
@@ -31726,7 +31726,6 @@
 ||pogothere.xyz^
 ||pogyreflush.com^
 ||pohsoneche.info^
-||poiejdhmkjcnd.top^
 ||poignantsensitivenessforming.com^
 ||poinct.com^
 ||pointeddifference.com^

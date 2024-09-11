@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-09-11T12:36:15.196Z
+! Last modified: 2024-09-11T18:24:28.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||js.trendmd.com^
 ||fimrg.ajscdn.com^
 ||2497may2024.com^
 ||wgnefmhwookdh.com^
@@ -1502,6 +1503,7 @@ vkcdnservice.appspot.com^
 ||26485.top^
 ||268stephe5en3king.com^
 ||2690dny5l.com^
+||26ea4af114.com^
 ||26q4nn691.de^
 ||26y7fyw3o.com^
 ||2799f73c61.com^
@@ -8197,6 +8199,7 @@ vkcdnservice.appspot.com^
 ||cocklacock.com^
 ||cocklystats.top^
 ||cockyinaccessiblelighter.com^
+||cockysnailleather.com^
 ||cocoaadornment.com^
 ||cocoaexpansionshrewd.com^
 ||coconutfieryreferee.com^
@@ -10824,6 +10827,7 @@ vkcdnservice.appspot.com^
 ||dttaupjvj.com^
 ||dtx.click^
 ||dtybyfo.com^
+||dtylhedgelnham.com^
 ||dualmarket.info^
 ||dualp.xyz^
 ||duamilsyr.com^
@@ -10862,6 +10866,7 @@ vkcdnservice.appspot.com^
 ||dugothitachan.com^
 ||dugraukeeck.net^
 ||duhafaroalub.com^
+||duhthvtcgp.com^
 ||duili-mtp.com^
 ||duimspruer.life^
 ||dujcubbzog.com^
@@ -17404,6 +17409,7 @@ vkcdnservice.appspot.com^
 ||isolationoranges.com^
 ||isomeremankin.top^
 ||isparkmedia.com^
+||isreputysolomo.com^
 ||issomeoneinth.info^
 ||issuedindiscreetcounsel.com^
 ||isthmjays.click^
@@ -18522,6 +18528,7 @@ vkcdnservice.appspot.com^
 ||keyrunmodel.com^
 ||keywordblocks.com^
 ||keywordsconnect.com^
+||kezytpdsxmw.com^
 ||kfareputfeab.org^
 ||kfbdnyeelfxctc.com^
 ||kffawlmqdahowhr.com^
@@ -20043,6 +20050,7 @@ vkcdnservice.appspot.com^
 ||lstonorallantyne.com^
 ||lsvblpynuezkbf.com^
 ||lszydrtzsh.com^
+||ltapsxz.xyz^
 ||ltassrv.com.s3.amazonaws.com^
 ||ltassrv.com^
 ||ltedinncreasuke.org^
@@ -22390,6 +22398,7 @@ vkcdnservice.appspot.com^
 ||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
+||nijosgstamb.com^
 ||nikkiexxxads.com^
 ||nilmc7i0w.com^
 ||nilreels.com^
@@ -23718,6 +23727,7 @@ vkcdnservice.appspot.com^
 ||oppressiveconnoisseur.com^
 ||oppressiveoversightnight.com^
 ||oppxzerrufhe.com^
+||opqhihiw.com^
 ||opreseynatcreativei.com^
 ||oprill.com^
 ||opsaupsa.com^
@@ -27392,6 +27402,7 @@ vkcdnservice.appspot.com^
 ||raw-co.com^
 ||rawasy.com^
 ||rawoarsy.com^
+||rawqel.com^
 ||raylnk.com^
 ||raymondcarryingordered.com^
 ||rayshopsshabby.com^
@@ -29066,6 +29077,7 @@ vkcdnservice.appspot.com^
 ||sb-stat1.com^
 ||sb4you1.com^
 ||sb89347.com^
+||sbboppwsuocy.com^
 ||sbfsdvc.com^
 ||sbhight.com^
 ||sbonjqsxicqfo.xyz^
@@ -36571,6 +36583,7 @@ vkcdnservice.appspot.com^
 ||xuclkzjh.com^
 ||xueserverhost.com^
 ||xuffojr.com^
+||xuiqxlhqyo.com^
 ||xuircnbbidmu.com^
 ||xujhdtynpgctncq.com^
 ||xukevxdf.com^
@@ -39041,6 +39054,7 @@ vkcdnservice.appspot.com^
 ||4e68.xyz^
 ||4fb60fd0.xyz^
 ||54019033.xyz^
+||54199287.xyz^
 ||54eeeadb.xyz^
 ||55cc9d.xyz^
 ||56514411.xyz^
@@ -41218,7 +41232,6 @@ vkcdnservice.appspot.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||abbott.vo.llnwd.net^
 ||behance.vo.llnwd.net^
-||kjos.vo.llnwd.net^
 ||synthes.vo.llnwd.net^
 ||teachscape.vo.llnwd.net^
 ||tmz.vo.llnwd.net^

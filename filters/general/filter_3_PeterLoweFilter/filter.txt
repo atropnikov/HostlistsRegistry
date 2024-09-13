@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-09-09T16:22:35.955Z
+! Last modified: 2024-09-13T12:34:35.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -236,6 +236,7 @@
 ||adhese.be^
 ||adhese.com^
 ||adhigh.net^
+||adhoc4.net^
 ||adhunter.media^
 ||adimage.guardian.co.uk^
 ||adimages.been.com^
@@ -1210,7 +1211,6 @@
 ||calypsocapsule.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
-||capablecows.com^
 ||capriciouscorn.com^
 ||captainbicycle.com^
 ||carambo.la^
@@ -1954,6 +1954,7 @@
 ||inskinad.com^
 ||inspectlet.com^
 ||install.365-stream.com^
+||instantmadness.com^
 ||insticator.com^
 ||intelliads.com^
 ||intelligenceadx.com^
@@ -2043,6 +2044,7 @@
 ||leadclick.com^
 ||leadinfo.net^
 ||leadingedgecash.com^
+||leadplace.fr^
 ||leadspace.com^
 ||leadzupc.com^
 ||leaplunchroom.com^
@@ -2573,7 +2575,6 @@
 ||premium-offers.com^
 ||presetrabbits.com^
 ||previousplayground.com^
-||previouspotato.com^
 ||prf.hn^
 ||priceypies.com^
 ||pricklydebt.com^
@@ -3438,7 +3439,6 @@
 ||webtracky.com^
 ||webtraffic.se^
 ||webtraxx.de^
-||webtrendslive.com^
 ||webxcdn.com^
 ||wellmadefrog.com^
 ||welved.com^
@@ -3544,6 +3544,5 @@
 ||zonewedgeshaft.com^
 ||zpu.samsungelectronics.com^
 ||zqtk.net^
-||zukxd6fkxqn.com^
 ||zy16eoat1w.com^
 ||zzhc.vnet.cn^

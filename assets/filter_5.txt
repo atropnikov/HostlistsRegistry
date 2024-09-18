@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-18T21:16:57.887Z
+! Last modified: 2024-09-18T22:17:36.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -870,6 +870,7 @@
 ||452tapgn.de^
 ||453130fa9e.com^
 ||45ba1be349.com^
+||45cb7b8453.com^
 ||45cf2c258c.a272118d17.com^
 ||45d31559c9.26fc91ec79.com^
 ||45eijvhgj2.com^
@@ -4112,7 +4113,6 @@
 ||adzpower.com^
 ||adzs.com^
 ||ae1a1e258b8b016.com^
-||ae277b422a.45cb7b8453.com^
 ||ae2f6a33e6.com^
 ||aeace15a82.com^
 ||aeb92e4b9d.com^
@@ -7166,7 +7166,6 @@
 ||ba.jeux-gratuits.com^
 ||ba.journaldesfemmes.com^
 ||ba46b70722.com^
-||ba488608ee.com^
 ||baaomenaltho.com^
 ||baarspo.ru^
 ||babblelessenairline.com^
@@ -11637,7 +11636,6 @@
 ||constableleapedrecruit.com^
 ||constellation3x.fun^
 ||constellationtrafficdenounce.com^
-||consternationbale.com^
 ||consternationmysticalstuff.com^
 ||constintptr.com^
 ||constituentcreepingabdicate.com^
@@ -20936,7 +20934,6 @@
 ||hjxajf.com^
 ||hk.aomg5bzv7.com^
 ||hkilops.com^
-||hkiztcykfb.com^
 ||hkpeghqu.icu^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -34155,7 +34152,6 @@
 ||rkomf.com^
 ||rkskillsombineukd.com^
 ||rkwithcatuk.org^
-||rl.fracturmeropia.com^
 ||rldwideorgani.org^
 ||rldwideorganizat.org^
 ||rle.ru^

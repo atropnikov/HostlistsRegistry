@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-19T20:19:17.206Z
+! Last modified: 2024-09-19T21:17:32.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3158,6 +3158,7 @@
 ||ads-platform.zalo.me^
 ||ads-query.luizalabs.com^
 ||ads-resources.waze.com^
+||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-server.mxplay.com^
@@ -5132,6 +5133,7 @@
 ||anale-sex.nl^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
+||analitik.pendik.bel.tr^
 ||analitits.com^
 ||analog.cell.phone.service.sms13.de^
 ||analog.sms13.de^

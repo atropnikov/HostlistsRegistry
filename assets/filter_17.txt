@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-09-11T06:26:03.166Z
+! Last modified: 2024-09-21T06:24:28.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -193,6 +193,7 @@
 127.0.0.1 bilpolicydi.bytelab.dk
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 bitstarz.com
+127.0.0.1 bongeo.bonad.io
 127.0.0.1 boost-cdn.manatee.dk
 127.0.0.1 boot.pbstck.com
 127.0.0.1 borsvarlden-banners.azurewebsites.net
@@ -725,6 +726,7 @@
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 sdkconfig.pulse.m10s.io
 127.0.0.1 sdkconfig.pulse.schibsted.io
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com

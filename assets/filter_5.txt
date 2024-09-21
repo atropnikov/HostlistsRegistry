@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-21T08:21:34.629Z
+! Last modified: 2024-09-21T10:17:28.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3380,7 +3380,6 @@
 ||ads.mediaodyssey.com^
 ||ads.mediastinct.com^
 ||ads.medienhaus.de^
-||ads.mercadoclics.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
 ||ads.mmania.com^
@@ -20053,7 +20052,6 @@
 ||grownupsufferinginward.com^
 ||growthbuddy.app^
 ||grs.hicloud.com^
-||grsm.io^
 ||grt02.com^
 ||grtaanmdu.com^
 ||grtexch.com^
@@ -23156,7 +23154,6 @@
 ||jogdied.com^
 ||joggingavenge.com^
 ||jogglenetwork.com^
-||jogglesflocky.com^
 ||join-admaven.com^
 ||joindetox.info^
 ||joinelegancetitanic.com^
@@ -30382,7 +30379,6 @@
 ||pbkdf.com^
 ||pblcpush.com^
 ||pbnet.ru^
-||pbox.photobox.de^
 ||pbterra.com^
 ||pbxopblttvorhd.com^
 ||pbyvehcz.com^

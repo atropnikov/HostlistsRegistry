@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-24T18:25:55.453Z
+! Last modified: 2024-09-24T20:20:43.253Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20624,7 +20624,6 @@
 ||harvester.cms.markiza.sk^
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
-||hasdarot.info^
 ||hasdarot.vip^
 ||hasdrs.com^
 ||hash-hash-tag.com^

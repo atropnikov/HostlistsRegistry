@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-09-26T19:14:44.288Z
+! Last modified: 2024-09-26T20:20:03.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7812,7 +7812,6 @@
 ||beacon.shazam.com^
 ||beacon.sina.com.cn^
 ||beacon.sojern.com^
-||beacon.statful.com^
 ||beacon.toyota.co.jp^
 ||beacon.tws.toyota.jp^
 ||beacon.vertebrae-axis.com^
@@ -15622,7 +15621,6 @@
 ||dtscdn.com^
 ||dtscout.com^
 ||dtsedge.com^
-||dtsuqeneaipu.com^
 ||dttrk.com^
 ||dtu2kitmpserg.cloudfront.net^
 ||dtv5loup63fac.cloudfront.net^
@@ -18831,7 +18829,6 @@
 ||fuyviz.com^
 ||fuywsmvxhtg.com^
 ||fuzakumpaks.com^
-||fuzinghummaul.com^
 ||fuzvjy.com^
 ||fuzzydinnerbedtime.com^
 ||fuzzyincline.com^
@@ -22052,7 +22049,6 @@
 ||impassabletitanicjunction.com^
 ||impatientliftdiploma.com^
 ||impatientlyastonishing.com^
-||impavidcircean.com^
 ||impavidmarsian.com^
 ||impeccablewriter.com^
 ||impendingboisterousastray.com^
@@ -22791,7 +22787,6 @@
 ||iteyi.xyz^
 ||itfarm.com^
 ||itgiblean.com^
-||itheatmora.com^
 ||itheatmoran.com^
 ||ithoughtsustache.info^
 ||iththinleldedallov.info^
@@ -40730,7 +40725,6 @@
 ||track.storm.mg^
 ||track.strife.com^
 ||track.sunmedia.tv^
-||track.swaptrap.live^
 ||track.td3x.com^
 ||track.tenjin.com^
 ||track.tenjin.io^

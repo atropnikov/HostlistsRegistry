@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-09-27T06:27:41.562Z
+! Last modified: 2024-09-27T12:37:19.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||peagsraters.com^
 ||qqbqy.com^
 ||phidianowlet.com^
 ||hfhppxseee.com^
@@ -41077,6 +41078,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||brwsrfrm.com^
 ||adtrace.ai^
 ||mato.clanto.cloud^
 ||matomo.clanto.cloud^
@@ -44657,6 +44659,10 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||ana.3751chat.com^
+||ana.chat.shalove.net^
+||ana.luvul.net^
+||ana.skypemeet.net^
 ||counter.best-hit.tv^
 ||analytics-op.streak.ninja^
 ||track.streak.ninja^
@@ -51825,6 +51831,7 @@ inapps.appsflyersdk.com^
 ||caraneoutraze.uno^
 
 ||adserver.icimedias.ca^
+||recruitbox.media.iid.jp^
 ||creative-klepon-3f0ecb.netlify.app^
 ||effulgent-stroopwafel-efb9ce.netlify.app^
 ||adma.xsrv.jp^
@@ -59263,6 +59270,8 @@ inapps.appsflyersdk.com^
 ||hongi7ie8owiie01.site^
 ||jiuab8eig2oateh01.site^
 ||jdiekknmcb.com^
+||dkasdeerw.xyz^
+||ggfdgd88.fun^
 ||ghiuge55.fun^
 ||xkgttas.icu^
 ||czpnpjrg.xyz^

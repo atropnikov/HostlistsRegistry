@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-09-29T06:25:04.072Z
+! Last modified: 2024-09-29T12:34:25.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41154,6 +41154,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ultraimpression.jp^
 ||brwsrfrm.com^
 ||adtrace.ai^
 ||mato.clanto.cloud^
@@ -49259,6 +49260,7 @@ inapps.appsflyersdk.com^
 ||statistics.rbi-nl.com^
 ||tags.hilabel.nl^
 ||tr.mediafin.be^
+||trjs2.mediafin.be^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
@@ -53407,6 +53409,7 @@ inapps.appsflyersdk.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
+||stat.devote.se^
 ||stat.modette.se^
 ||stat.nyheter24.se^
 ||stat.torgen.se^
@@ -59341,6 +59344,7 @@ inapps.appsflyersdk.com^
 ||itqwesk.icu^
 ||heryt111.fun^
 ||roxwusak.icu^
+||jeryt111.fun^
 ||cfdvd779.fun^
 ||dajs001.shop^
 ||kfocken.icu^

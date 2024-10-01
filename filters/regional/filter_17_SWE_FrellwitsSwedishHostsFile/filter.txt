@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-09-29T11:15:11.856Z
+! Last modified: 2024-10-01T06:28:24.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -522,7 +522,6 @@
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-banner.com
 127.0.0.1 jtp.expressen.se
-127.0.0.1 keenstockholm.com.se
 127.0.0.1 kiosked.com
 127.0.0.1 ksdarprt.reseguiden.se
 127.0.0.1 l.betrad.com
@@ -558,7 +557,6 @@
 127.0.0.1 macro.adnami.io
 127.0.0.1 marfeel.com
 127.0.0.1 markhor.organicfruitapps.com
-127.0.0.1 masture.mobi
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomo.chsc.dk
@@ -587,7 +585,6 @@
 127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 missaffiliate.com
-127.0.0.1 mmetrix.mobi
 127.0.0.1 mraffiliate.com
 127.0.0.1 mrporter-creative.prf.hn
 127.0.0.1 mtpc.se

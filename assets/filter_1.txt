@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-10-01T01:40:49.298Z
+! Last modified: 2024-10-01T06:28:18.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -53319,7 +53319,6 @@ inapps.appsflyersdk.com^
 ||jssdk.pulse.schibsted.com^
 ||jssdkcdns.mparticle.com^
 ||js.hs-banner.com^
-||keenstockholm.com.se^
 ||ksdarprt.reseguiden.se^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
@@ -53336,7 +53335,6 @@ inapps.appsflyersdk.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
-||masture.mobi^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
 ||matomo.lulea.se^
@@ -53356,7 +53354,6 @@ inapps.appsflyersdk.com^
 ||metapic.se^
 ||micro.rubiconproject.com^
 ||missaffiliate.com^
-||mmetrix.mobi^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
 ||mtpc.se^
@@ -59365,6 +59362,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||tuxpfiok.icu^
 ||ieryt111.fun^
 ||cwwgqu.xyz^
 ||ckyriuf.icu^
@@ -59372,6 +59370,7 @@ inapps.appsflyersdk.com^
 ||4ir17.icu^
 ||rsyepnq.icu^
 ||xeryt111.fun^
+||aryici.xyz^
 ||opqnkw.xyz^
 ||rk6h3.icu^
 ||ghwqbii.icu^

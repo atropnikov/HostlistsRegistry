@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-09-27T12:37:21.271Z
+! Last modified: 2024-10-04T12:36:50.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -643,7 +643,6 @@
 ||ads2.hsoub.com^
 ||ads2.net-communities.co.uk^
 ||ads2.rne.com^
-||ads2.techads.info^
 ||ads2.virtual-nights.com^
 ||ads2.webdrive.no^
 ||ads2.xnet.cz^
@@ -838,7 +837,6 @@
 ||advisormedia.cz^
 ||adviva.net^
 ||advnt.com^
-||adwebone.com^
 ||adwhirl.com^
 ||adworldnetwork.com^
 ||adworx.at^
@@ -1453,7 +1451,6 @@
 ||crypto-loot.org^
 ||crystalboulevard.com^
 ||cs.co^
-||cumbersomecloud.com^
 ||curtaincows.com^
 ||cushiondrum.com^
 ||customad.cnn.com^
@@ -3154,7 +3151,6 @@
 ||theadex.com^
 ||theadhost.com^
 ||thebugs.ws^
-||theclickads.com^
 ||themoneytizer.com^
 ||therapistla.com^
 ||thinkitten.com^
@@ -3235,8 +3231,6 @@
 ||tracker.metricswave.com^
 ||tracker.mmdlv.it^
 ||tracker.samplicio.us^
-||tracker.vgame.us^
-||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
 ||tracking.42-01pr5-osm-secure.co.uk^
@@ -3401,7 +3395,6 @@
 ||vivtracking.com^
 ||vmmpxl.com^
 ||voicefive.com^
-||voicelessvein.com^
 ||volatilevessel.com^
 ||voluum.com^
 ||voluumtrk2.com^

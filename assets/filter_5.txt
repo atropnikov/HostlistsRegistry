@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-10-05T03:22:36.239Z
+! Last modified: 2024-10-05T04:22:52.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25247,7 +25247,6 @@
 ||logs.gshopper.com^
 ||logs.ironsrc.mobi^
 ||logs.mezmo.com^
-||logs.netflix.com^
 ||logs.ntvplus.tv^
 ||logs.openbank.com^
 ||logs.roku.com^
@@ -42308,6 +42307,7 @@
 ||uwoaptee.com^
 ||uwougheels.net^
 ||uwrzjgtnur.com^
+||uwursert.top^
 ||ux782mkgx.com^
 ||uyaeco.xyz^
 ||uycxhgrp.xyz^

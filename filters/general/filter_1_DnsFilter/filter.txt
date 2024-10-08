@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-10-08T01:25:44.381Z
+! Last modified: 2024-10-08T06:27:05.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38849,6 +38849,7 @@ vkcdnservice.appspot.com^
 ||30937261.xyz^
 ||32472254.xyz^
 ||33848102.xyz^
+||36833185.xyz^
 ||38835571.xyz^
 ||38941752.xyz^
 ||3a2e.site^
@@ -53612,9 +53613,14 @@ inapps.appsflyersdk.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
+||stat.alltforforaldrar.se^
+||stat.blogg.se^
+||stat.brollopstorget.se^
 ||stat.devote.se^
+||stat.familjeliv.se^
 ||stat.modette.se^
 ||stat.nyheter24.se^
+||stat.rodeo.net^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
 ||statcounter.va-endpoint.com^
@@ -59577,6 +59583,8 @@ inapps.appsflyersdk.com^
 ||nqyrywn.icu^
 ||oxkqeu.xyz^
 ||ukkiftx.icu^
+||iwursero.top^
+||kvkcei.xyz^
 ||i2wq4.icu^
 ||uegsjnk.com^
 ||hwurseru.top^

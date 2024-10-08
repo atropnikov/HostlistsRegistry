@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-10-03T04:23:50.157Z
+! Last modified: 2024-10-08T22:18:10.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2680,6 +2680,7 @@
 0.0.0.0 qbittorrent.com
 0.0.0.0 qevia.doubleclick.bond
 0.0.0.0 qfsya.comfortykive.xyz
+0.0.0.0 qouv.fr
 0.0.0.0 quaidesbulles.fr
 0.0.0.0 question2answer.com
 0.0.0.0 quickchess.fr
@@ -7776,6 +7777,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l2.l.qq.com
+0.0.0.0 labashl.de
 0.0.0.0 laborex.hu
 0.0.0.0 ladyclicks.ru
 0.0.0.0 laltraimmagine.ss.it

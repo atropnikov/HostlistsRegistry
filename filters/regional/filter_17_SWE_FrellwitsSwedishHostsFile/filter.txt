@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-10-08T06:27:10.842Z
+! Last modified: 2024-10-09T04:22:25.329Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -720,6 +720,7 @@
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.makeinfluence.com
 127.0.0.1 scripts.mediavine.com
+127.0.0.1 scripts.simpleanalyticscdn.com
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com

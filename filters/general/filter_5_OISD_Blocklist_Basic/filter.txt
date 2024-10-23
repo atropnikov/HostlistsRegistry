@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-10-23T12:37:39.097Z
+! Last modified: 2024-10-23T13:26:06.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -270,6 +270,7 @@
 ||1583263508.rsc.cdn77.org^
 ||159f70698e.e806dd6aba.com^
 ||15d113e19a.com^
+||15f7a5a67a.com^
 ||15x.info^
 ||16-merchant-s.com^
 ||165tchuang.com^
@@ -900,7 +901,6 @@
 ||4e0622e316.com^
 ||4e26d342b8.com^
 ||4e2c896383.com^
-||4e5aac7959.15f7a5a67a.com^
 ||4ed196b502.com^
 ||4ed5560812.com^
 ||4ever.cc^
@@ -18147,7 +18147,6 @@
 ||flat-ads.com^
 ||flatepicbats.com^
 ||flatteringscanty.com^
-||flatterpopulum.click^
 ||flaviusemulsor.com^
 ||flavourforgave.com^
 ||flawerosion.com^
@@ -24471,7 +24470,6 @@
 ||laughedrevealedpears.com^
 ||laughingrecordinggossipy.com^
 ||laughteroccasionallywarp.com^
-||lauglaph.net^
 ||laugoust.com^
 ||lauhefoo.com^
 ||lauhoosh.net^
@@ -29304,7 +29302,6 @@
 ||ointmentapathetic.com^
 ||ointmentbarely.com^
 ||oipzyrzffum.ovh^
-||oiu09.cn^
 ||oiuuuc.xyz^
 ||oiya.ru^
 ||oiycak.com^
@@ -34809,7 +34806,6 @@
 ||rouwhapt.com^
 ||rovion.com^
 ||rovno.xyz^
-||rowingzipper.com^
 ||rowlnk.com^
 ||roxfrv.xyz^
 ||roxr.net^
@@ -35949,7 +35945,6 @@
 ||seegraufah.com^
 ||seekmymatch.com^
 ||seekoflol.com^
-||seeluphill.shop^
 ||seemingverticallyheartbreak.com^
 ||seemoraldisobey.com^
 ||seemreflexdisable.com^
@@ -36003,7 +35998,6 @@
 ||selphiu.com^
 ||selwrite.com^
 ||semblanceindulgebellamy.com^
-||semeeclots.top^
 ||semenaonline.sk^
 ||semhgk.xyz^
 ||semi-cod.nnmclub.ch^
@@ -42570,7 +42564,6 @@
 ||uslphoctxrpwry.com^
 ||uslsxe.com^
 ||usltmus.cn^
-||usmgoxe.cn^
 ||usninicsooey.com^
 ||usonar.jp^
 ||usounoul.com^
@@ -46340,7 +46333,6 @@
 ||zwnhufcwhaw.com^
 ||zwnoeqzsuz.com^
 ||zwsxsqp.com^
-||zwuqvpi.com^
 ||zwyjpyocwv.com^
 ||zwzdjb.xyz^
 ||zx.docin.com^

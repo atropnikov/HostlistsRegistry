@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-10-29T12:43:18.433Z
+! Last modified: 2024-10-29T18:26:29.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8689,6 +8689,7 @@ vkcdnservice.appspot.com^
 ||detectedadvancevisiting.com^
 ||detectedpectoral.com^
 ||detectiveestrange.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -12771,6 +12772,7 @@ vkcdnservice.appspot.com^
 ||goufldsbktds.com^
 ||gouheethsurvey.space^
 ||gounevou.net^
+||gounodogaptofok.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||goutee.top^
@@ -19263,6 +19265,7 @@ vkcdnservice.appspot.com^
 ||novadune.com^
 ||novel-inevitable.com^
 ||novelcompliance.com^
+||novelslopeoppressive.com^
 ||novelty.media^
 ||noveltyensue.com^
 ||novemberadventures.com^
@@ -21077,6 +21080,7 @@ vkcdnservice.appspot.com^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||petsavoury.com^
+||pettyachras.shop^
 ||pexkmaebfy.xyz^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -26198,6 +26202,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -29708,6 +29713,7 @@ vkcdnservice.appspot.com^
 ||vuftouks.com^
 ||vufzuld.com^
 ||vugnubier.com^
+||vugpakba.com^
 ||vuhnvtrfj.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -29728,6 +29734,7 @@ vkcdnservice.appspot.com^
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
@@ -35740,6 +35747,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||prodregistryv2.org^
 ||ads.mythad.com^
 ||ga2.getresponse.com^
 ||events.split.io^
@@ -39340,6 +39348,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
@@ -42571,6 +42581,7 @@ inapps.appsflyersdk.com^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
 ||analytics.shorthand.com^
+||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.supplyframe.com^
@@ -48088,7 +48099,6 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
-||sleeknote.com^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -54066,6 +54076,8 @@ inapps.appsflyersdk.com^
 ||kemmars.com^
 ||sv5nm.icu^
 ||treferty33.fun^
+||coublif.top^
+||cadcc.icu^
 ||1gmzo.icu^
 ||crnmyrk.icu^
 ||hdxyj.icu^
@@ -59753,6 +59765,8 @@ analytics-*.aasaam.com
 ||tradergpt.ai^
 ||meashstis.ir^
 
+||mobon.net^
+||nhnace.com^
 ||middlepoint.co.kr^
 ||authanalysis.com^
 ||planmix.co.kr^
@@ -59765,7 +59779,6 @@ analytics-*.aasaam.com
 ||quantserve.com^
 ||marketingking.co.kr^
 ||catad5959.com^
-||mobon.net^
 ||thetopic.co.kr^
 ||msadsense.com^
 ||tadapi.info^
@@ -59803,7 +59816,6 @@ analytics-*.aasaam.com
 ||sv.govkorea24.com^
 ||static.bidrich.com^
 ||ad.tpmn.io^
-||cdn.nhnace.com^
 ||d23poh9wsma6va.cloudfront.net^
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^

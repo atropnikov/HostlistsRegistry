@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-10-30T01:26:50.927Z
+! Last modified: 2024-10-30T02:52:05.787Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3446,6 +3446,7 @@
 ||ads.multimania.lycos.fr^
 ||ads.museum.or.jp^
 ||ads.mxhnkn.pro^
+||ads.mythad.com^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
 ||ads.newmedia.cz^
@@ -14011,6 +14012,7 @@
 ||dasyuredenmark.com^
 ||data-collector.wefi.com^
 ||data-data-vac.com^
+||data-ingestion.flowgpt.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||data-px.services^
 ||data.adwombat.com^
@@ -32176,6 +32178,7 @@
 ||prodalet.ru^
 ||prodmp.ru^
 ||prodownload.newbetakey.com^
+||prodregistryv2.org^
 ||prodresell.com^
 ||producebreed.com^
 ||producedendorsecamp.com^
@@ -40036,6 +40039,7 @@
 ||ti-files.org^
 ||ti.alcorpanocha.com^
 ||ti.tradetracker.net^
+||tianji.flowgpt.com^
 ||tiaoap.xyz^
 ||tibacta.com^
 ||tibcpowpiaqv.com^

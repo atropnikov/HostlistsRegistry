@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-10-29T18:26:35.985Z
+! Last modified: 2024-10-31T07:17:50.512Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -49,6 +49,7 @@
 127.0.0.1 ads.aland.com
 127.0.0.1 ads.annonsbladet.com
 127.0.0.1 ads.aralego.com
+127.0.0.1 ads.bethard.com
 127.0.0.1 ads.compro.se
 127.0.0.1 ads.docunordic.net
 127.0.0.1 ads.exakt24.se
@@ -134,6 +135,7 @@
 127.0.0.1 analytics.teknikveckan.se
 127.0.0.1 analytics.undeco.se
 127.0.0.1 analytics.vackertvader.se
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-sdk.yle.fi
 127.0.0.1 analytics-smhise.smhi.se
 127.0.0.1 analytics.ci-360.se

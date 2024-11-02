@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-02T01:24:48.080Z
+! Last modified: 2024-11-02T06:26:14.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2656,6 +2656,7 @@ vkcdnservice.appspot.com^
 ||adonweb.ru^
 ||adoopaqueentering.com^
 ||adopexchange.com^
+||adopstar.uk^
 ||adoptedproducerdiscernible.com^
 ||adoptioneitherrelaxing.com^
 ||adoptum.net^
@@ -24763,6 +24764,7 @@ vkcdnservice.appspot.com^
 ||seducingtemporarily.com^
 ||seeablywitness.com^
 ||seebait.com^
+||seecaimooth.com^
 ||seedconsistedcheerful.com^
 ||seedlingneurotic.com^
 ||seedlingpenknifecambridge.com^
@@ -53967,6 +53969,9 @@ inapps.appsflyersdk.com^
 ||heiviek.com^
 ||wmcbld.top^
 ||ifmccdn.icu^
+||vrelai.com^
+||woublie.top^
+||ti4la.icu^
 ||graesol.com^
 ||ctlacnh.icu^
 ||xggcyef.icu^

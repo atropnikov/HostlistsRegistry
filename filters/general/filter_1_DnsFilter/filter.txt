@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-01T18:26:08.923Z
+! Last modified: 2024-11-02T01:24:48.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5239,6 +5239,7 @@ vkcdnservice.appspot.com^
 ||bidbrain.app^
 ||bidclickmedia.com^
 ||biddingfitful.com^
+||bidehunter.com^
 ||bidfhimuqwij.com^
 ||bidiology.com^
 ||bidsxchange.com^
@@ -18269,6 +18270,7 @@ vkcdnservice.appspot.com^
 ||mosquitosubjectsimportantly.com^
 ||mosrtaek.net^
 ||mossgaietyhumiliation.com^
+||mossyiapyges.com^
 ||mostauthor.com^
 ||mostlyparabledejected.com^
 ||mostlysolecounsellor.com^
@@ -35618,6 +35620,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||datafa.st^
 ||new-access802.net^
 ||majime-site-rk.com^
 ||yonemoku.rdy.jp^
@@ -53958,6 +53961,12 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vuirssd.icu^
+||kjnsgqe.icu^
+||rbift.icu^
+||heiviek.com^
+||wmcbld.top^
+||ifmccdn.icu^
 ||graesol.com^
 ||ctlacnh.icu^
 ||xggcyef.icu^

@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-02T12:34:49.775Z
+! Last modified: 2024-11-02T18:23:40.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||synchroparomologyauditable.monster^
+||webfreesave.monster^
 ||ptuxapow.com^
 ||nvwjhrimontqvjo.com^
 ||managetroubles.com^
@@ -34971,6 +34973,7 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||ads-config-engine-noneu.truecaller.com^
 ||ad.inston.ltd^
 ||ad.deepthought.industries^
 ||ad.bandlab.io^
@@ -34978,7 +34981,7 @@ vkcdnservice.appspot.com^
 ||inmense.site^
 ||dollphoin.site^
 ||news-cdn.site^
-||adx.mossru.com^
+||mossru.com^
 ||jjpp.lmtjapi.com^
 ||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
@@ -41813,6 +41816,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||insights-categorizer-noneu.truecaller.com^
+||event-dot-learning-piano.appspot.com^
 ||log.cleanertoolboxonline.live^
 ||amplitude.life360.com^
 ||events.swiftlycontent.net^
@@ -53979,6 +53984,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||qoubliy.top^
 ||vuirssd.icu^
 ||kjnsgqe.icu^
 ||rbift.icu^

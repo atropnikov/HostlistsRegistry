@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-11-02T23:19:42.257Z
+! Last modified: 2024-11-03T01:39:03.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3162,6 +3162,7 @@
 ||ads-click.com^
 ||ads-cloud.rovio.com^
 ||ads-collector.luizalabs.com^
+||ads-config-engine-noneu.truecaller.com^
 ||ads-connect.com^
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
@@ -4115,7 +4116,6 @@
 ||adx.hoanggia.net.vn^
 ||adx.kul.vn^
 ||adx.mala.cn^
-||adx.mossru.com^
 ||adx.opera.com^
 ||adx.phunuadong.vn^
 ||adx.xemvtv.net^
@@ -8000,7 +8000,6 @@
 ||believersheet.com^
 ||believersymphonyaunt.com^
 ||beliketheappyri.info^
-||belittlepads.com^
 ||bellacomparisonluke.com^
 ||bellamyawardinfallible.com^
 ||bellmandrawbar.com^
@@ -9691,7 +9690,6 @@
 ||camelcappuccino.com^
 ||cameradiminishunkind.com^
 ||camiocw.com^
-||cammak.xyz^
 ||camomilegentlemennotable.com^
 ||camouque.net^
 ||campaign-remp.444.hu^
@@ -10871,7 +10869,6 @@
 ||cleanflawlessredir.com^
 ||cleaningmaturegallop.com^
 ||cleanmediaads.com^
-||cleannow.click^
 ||cleanplentifulnomad.com^
 ||cleanresound.com^
 ||cleantrafficrotate.com^
@@ -11235,7 +11232,6 @@
 ||coachingminceur.go2cloud.org^
 ||coactedtoe.top^
 ||coads.akipress.org^
-||coafogle.com^
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
@@ -11473,7 +11469,6 @@
 ||come-get-s0me.com^
 ||come-get-s0me.net^
 ||comeadvertisewithus.com^
-||comedianbrown.com^
 ||comedianthirteenth.com^
 ||comedyjav128.fun^
 ||comemumu.info^
@@ -11686,7 +11681,6 @@
 ||conquestdrawers.com^
 ||conreyeanling.com^
 ||consargyle.com^
-||conscienciaecompletude.com^
 ||consciousness2.fun^
 ||consciousnessmost.com^
 ||consciousslice.com^
@@ -12410,7 +12404,6 @@
 ||crudequeenrome.com^
 ||cruel-national.pro^
 ||cruiserx.net^
-||cruisetitleclosed.com^
 ||crumblerefunddiana.com^
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
@@ -17255,7 +17248,6 @@
 ||eyjvq.xyz^
 ||eymaume.com^
 ||eymised.com^
-||eynicit.com^
 ||eynol.xyz^
 ||eypqbjju.xyz^
 ||eyrybuiltin.shop^
@@ -17765,7 +17757,6 @@
 ||fgnfpnae.icu^
 ||fgoqnva.com^
 ||fgttbz.xyz^
-||fguhyg.cn^
 ||fgwuw.com^
 ||fh259by01r25.com^
 ||fhahujwafaf.com^
@@ -20543,7 +20534,6 @@
 ||haveflat.com^
 ||havegrosho.com^
 ||havejav11.fun^
-||havenadverb.com^
 ||havenalcoholantiquity.com^
 ||havencharacteristic.com^
 ||havenetjagong.click^
@@ -20824,7 +20814,6 @@
 ||hfqnbrrutmyqlo.com^
 ||hfr67jhqrw8.com^
 ||hfufkifmeni.com^
-||hfwld.cn^
 ||hg-bn.com^
 ||hgads.com^
 ||hgbn.rocks^
@@ -21808,7 +21797,6 @@
 ||illuminateinconveniencenutrient.com^
 ||illuminatelocks.com^
 ||illusiondramaexploration.com^
-||illusiveremarkstreat.com^
 ||illustriousoatmeal.com^
 ||ilo134ulih.com^
 ||iloacmoam.com^
@@ -21863,7 +21851,6 @@
 ||imcod.net^
 ||imedia.cz^
 ||imemediates.org^
-||imevzbn.cn^
 ||img.0279.net^
 ||img.175532.com^
 ||img.3sjt.com^
@@ -22103,7 +22090,6 @@
 ||indor.site^
 ||indratankman.com^
 ||induceresistbrotherinlaw.com^
-||induedtwists.com^
 ||industrybrains.com^
 ||inedibleendless.com^
 ||inedibleproductiveunbelievable.com^
@@ -25607,7 +25593,6 @@
 ||luyouxia.net^
 ||luyten-98c.com^
 ||lv5hj.top^
-||lvbngvy.com^
 ||lvhcqaku.com^
 ||lvkwz.com^
 ||lvnlrmn.xyz^
@@ -27216,6 +27201,7 @@
 ||mosquitosubjectsimportantly.com^
 ||mosrtaek.net^
 ||mossgaietyhumiliation.com^
+||mossru.com^
 ||mossyiapyges.com^
 ||mostauthor.com^
 ||moster.granny-xxx-video.com^
@@ -28962,7 +28948,6 @@
 ||ofdrapiona.com^
 ||ofdxfsho.com^
 ||ofebyk.xyz^
-||ofedupub.com^
 ||offalakazaman.com^
 ||offchatotor.com^
 ||offclaydolon.com^
@@ -29683,7 +29668,6 @@
 ||otingolston.com^
 ||otisephie.com^
 ||otjawzdugg.com^
-||otlopudpvfq.com^
 ||otnolabttmup.com^
 ||otnolatrnup.com^
 ||otoadom.com^
@@ -30859,7 +30843,6 @@
 ||pickedincome.com^
 ||picklecandourbug.com^
 ||picklesdumb.com^
-||picklespealwanderer.com^
 ||pickupfaxmultitude.com^
 ||pickuppestsyndrome.com^
 ||pickvideolink.com^
@@ -31168,7 +31151,6 @@
 ||plasticskilledlogs.com^
 ||plastleislike.com^
 ||platchteopan.com^
-||platedmanlily.com^
 ||platelosingshameless.com^
 ||platesnervous.com^
 ||platesworked.com^
@@ -34551,7 +34533,6 @@
 ||rouvoute.net^
 ||rouvuchoabas.net^
 ||rouwhapt.com^
-||rovion.com^
 ||rovno.xyz^
 ||rowlnk.com^
 ||roxfrv.xyz^
@@ -34972,7 +34953,6 @@
 ||ryllae.com^
 ||ryminos.com^
 ||rypltcelpr.com^
-||ryqgdrh.icu^
 ||ryqlbqdj.com^
 ||ryremovement.com^
 ||ryrmvd.xyz^
@@ -38172,7 +38152,6 @@
 ||stoopeddemandsquint.com^
 ||stoopedsignbookkeeper.com^
 ||stoopfalse.com^
-||stoopjam.com^
 ||stoopsellers.com^
 ||stoorgel.com^
 ||stoorgouxy.com^
@@ -38820,7 +38799,6 @@
 ||szbnnqyqn.com^
 ||szbxm.cn^
 ||szbxw.cn^
-||szddm.cn^
 ||szdxw.cn^
 ||szfmr.cn^
 ||szftg.cn^
@@ -39307,7 +39285,6 @@
 ||tedtaxi.com^
 ||tedtug.com^
 ||teefookugoo.top^
-||teefuthe.com^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
@@ -41617,7 +41594,6 @@
 ||uafkcvpvvelp.com^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
-||uahpycewbx.com^
 ||uaoaig.xyz^
 ||uarating.com^
 ||uavbgdw.com^
@@ -42551,7 +42527,6 @@
 ||vaxoovos.net^
 ||vazshojt.com^
 ||vazypteke.pro^
-||vbammlgpfg.com^
 ||vbhuivr.com^
 ||vbiakpu.icu^
 ||vbrbgki.com^
@@ -45838,7 +45813,6 @@
 ||zjplnz.xyz^
 ||zjpwrpo.com^
 ||zk.cacciasupflame.com^
-||zkahobbcfkyz.com^
 ||zkarinoxmq.com^
 ||zkcvb.com^
 ||zkczzltlhp6y.com^

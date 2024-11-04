@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-11-03T23:19:34.555Z
+! Last modified: 2024-11-04T01:35:56.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3146,6 +3146,7 @@
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
 ||ads-delivery.gameforge.com^
+||ads-delivery.gunosy.com^
 ||ads-delivery.milenarmedia.pt^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||ads-gdl.imovideo.ru^
@@ -12588,7 +12589,6 @@
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||d.post-gazette.com^
-||d.reccent.online^
 ||d.reddit.com^
 ||d.shareaholic.com^
 ||d.sondakika.com^
@@ -18449,7 +18449,6 @@
 ||fritterfainest.com^
 ||frivolous-copy.pro^
 ||frizzannoyance.com^
-||frmsafe.com^
 ||frntzz.xyz^
 ||frocogue.store^
 ||frog.editorx.com^
@@ -18931,7 +18930,6 @@
 ||geiybze.com^
 ||gejusherstertithap.info^
 ||gekeebsirs.com^
-||gekroome.com^
 ||gelatineabstainads.com^
 ||gelatinelighter.com^
 ||gelhp.com^
@@ -27707,7 +27705,6 @@
 ||neess105.top^
 ||neezausu.net^
 ||nefdcnmvbt.com^
-||negatesupervisor.com^
 ||negationomitor.com^
 ||negative-might.pro^
 ||neglectblessing.com^
@@ -28096,7 +28093,6 @@
 ||noisesperusemotel.com^
 ||noisyjoke.pro^
 ||noisyoursarrears.com^
-||noisytariff.com^
 ||noisyunidentifiedinherited.com^
 ||nojazz.eu^
 ||nojhhsg.com^
@@ -28460,7 +28456,6 @@
 ||nyfstb.xyz^
 ||nygwcwsvnu.com^
 ||nyhgjmlg.xyz^
-||nyhrgss.com^
 ||nyihcpzdloe.com^
 ||nylonnickel.com^
 ||nylonnickel.xyz^
@@ -28708,7 +28703,6 @@
 ||oehgk.com^
 ||oektiu.xyz^
 ||oestpq.com^
-||oetkwahrsdvrnn.com^
 ||oeubqjx.com^
 ||oevll.com^
 ||oewa.at^
@@ -32548,7 +32542,6 @@
 ||qcerujcajnme.com^
 ||qcohkm.xyz^
 ||qcotzalsettiv.com^
-||qcsjmidihe.com^
 ||qcsvku.xyz^
 ||qctop.com^
 ||qctt24h.24h.com.vn^
@@ -33866,7 +33859,6 @@
 ||revupads.com^
 ||rewaawoyammbk.top^
 ||rewardjav128.fun^
-||rewardrush.life^
 ||rewardsaffiliates.com^
 ||rewindgills.com^
 ||rewindgranulatedspatter.com^
@@ -36503,7 +36495,6 @@
 ||sobakenchmaphk.com^
 ||sobbingservingcolony.com^
 ||sobnineteen.com^
-||socalledscanty.com^
 ||soccerflog.com^
 ||soccerprolificforum.com^
 ||socde.com^
@@ -40911,7 +40902,6 @@
 ||truehits3.gits.net.th^
 ||trulydevotionceramic.com^
 ||trulysuitedcharges.com^
-||trulyunderestimatediscard.com^
 ||trumppuffy.com^
 ||trumpsurgery.com^
 ||trumpthisaccepted.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-12T06:26:17.736Z
+! Last modified: 2024-11-12T12:37:36.063Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1263,6 +1263,7 @@ serve.bussyhunter.com^
 ||reklammen.spellchecker.lu^
 ||bn.gogo.mn^
 ||widget.tippebannere.no^
+||linksprf.com^$badfilter
 ||c2c24.pl^
 ||cdn.gallery^
 ||llog.pl^
@@ -5907,6 +5908,7 @@ vkcdnservice.appspot.com^
 ||bulcqmteuc.com^
 ||bulginglair.com^
 ||bulkaccompanying.com^
+||bulkagetufas.com^
 ||bulkconflictpeculiarities.com^
 ||bulkd.co^
 ||bulky-battle.com^
@@ -5969,6 +5971,7 @@ vkcdnservice.appspot.com^
 ||burntarcherydecompose.com^
 ||burntclear.com^
 ||burydwellingchristmas.com^
+||busherdebates.com^
 ||bushibousy.click^
 ||bushsurprising.com^
 ||busilyenterprisingforetaste.com^
@@ -6709,6 +6712,7 @@ vkcdnservice.appspot.com^
 ||choptacache.com^
 ||choreinevitable.com^
 ||choruslockdownbumpy.com^
+||chorwatcurlike.com^
 ||choseing.com^
 ||chosenchampagnesuspended.com^
 ||choto.xyz^
@@ -7737,8 +7741,10 @@ vkcdnservice.appspot.com^
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
 ||crummygoddess.com^
+||crumpedglome.com^
 ||crumplylenient.com^
 ||crunchslipperyperverse.com^
+||cruorinalgesic.com^
 ||crvxhuxcel.com^
 ||crxmaotidrf.xyz^
 ||cryingforanythi.com^
@@ -11505,6 +11511,7 @@ vkcdnservice.appspot.com^
 ||geephenuw.com^
 ||geeptaunip.net^
 ||geerairu.net^
+||geeseruesome.com^
 ||geetacog.xyz^
 ||geethaihoa.com^
 ||geethaiw.xyz^
@@ -14419,6 +14426,7 @@ vkcdnservice.appspot.com^
 ||jhwo.info^
 ||jicamadoless.com^
 ||jiclzori.com^
+||jiggleowk.com^
 ||jighucme.com^
 ||jignairy.com^
 ||jigsawchristianlive.com^
@@ -15372,6 +15380,7 @@ vkcdnservice.appspot.com^
 ||leapretrieval.com^
 ||learningcontainscaterpillar.com^
 ||learntinga.com^
+||leasedrowte.com^
 ||leasemiracle.com^
 ||leasepotwort.click^
 ||leashextendposh.com^
@@ -17542,6 +17551,7 @@ vkcdnservice.appspot.com^
 ||necessaryescort.com^
 ||necheadirtlse.org^
 ||nechupsu.com^
+||neckedhilting.com^
 ||neckloveham.live^
 ||nedamericantpas.info^
 ||nedouseso.com^
@@ -19515,6 +19525,7 @@ vkcdnservice.appspot.com^
 ||peachywaspish.com^
 ||peacto.com^
 ||peakclick.com^
+||peanutsfuscin.com^
 ||pearowa.com^
 ||pearterkubachi.top^
 ||peasbishopgive.com^
@@ -20833,6 +20844,7 @@ vkcdnservice.appspot.com^
 ||pswagjx.com^
 ||pswfwedv.com^
 ||pswticsbnt.com^
+||psychicendozoa.com^
 ||psychologicalpaperworkimplant.com^
 ||psykterfaulter.com^
 ||pt-xb.xyz^
@@ -21710,6 +21722,7 @@ vkcdnservice.appspot.com^
 ||reasoningarcherassuage.com^
 ||reassurehintholding.com^
 ||reate.info^
+||reatushaithal.com^
 ||rebatelirate.top^
 ||rebelfarewe.org^
 ||rebelhaggard.com^
@@ -21868,6 +21881,7 @@ vkcdnservice.appspot.com^
 ||refrigeratespinsterreins.com^
 ||refugedcuber.com^
 ||refugeintermediate.com^
+||refulgebesague.com^
 ||refundlikeness.com^
 ||refundsreisner.life^
 ||refuseddissolveduniversity.com^
@@ -23014,6 +23028,7 @@ vkcdnservice.appspot.com^
 ||schizorecooks.shop^
 ||schizypdq.com^
 ||schjmp.com^
+||schmoosspue.com^
 ||scholarkeyboarddoom.com^
 ||scholarsgrewsage.com^
 ||schoolboyfingernail.com^
@@ -23430,6 +23445,7 @@ vkcdnservice.appspot.com^
 ||shebudriftaiter.net^
 ||sheefursoz.com^
 ||sheegiwo.com^
+||sheeltaibu.net^
 ||sheeptie.xyz^
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
@@ -24048,6 +24064,7 @@ vkcdnservice.appspot.com^
 ||soocaips.com^
 ||soodupsep.xyz^
 ||soogandrooped.cam^
+||sookypapoula.com^
 ||soommezail.com^
 ||soonlint.com^
 ||soonpersuasiveagony.com^
@@ -24544,6 +24561,8 @@ vkcdnservice.appspot.com^
 ||stockingplaice.com^
 ||stockingsight.com^
 ||stocksinvulnerablemonday.com^
+||stogiescounter.com^
+||stoicpre.com^
 ||stolenforensicssausage.com^
 ||stonkstime.com^
 ||stooboastaud.net^
@@ -25091,6 +25110,7 @@ vkcdnservice.appspot.com^
 ||tahrsli.com^
 ||tahwox.com^
 ||taicheetee.com^
+||taichnewcal.com^
 ||taidainy.net^
 ||taigasdoeskin.guru^
 ||taigrooh.net^
@@ -28113,6 +28133,7 @@ vkcdnservice.appspot.com^
 ||whiteaccompanypreach.com^
 ||whitenoisenews.com^
 ||whitepark9.com^
+||whizzerrapiner.com^
 ||whoaglouvawe.com^
 ||whoansodroas.net^
 ||whoartairg.com^
@@ -28509,6 +28530,7 @@ vkcdnservice.appspot.com^
 ||wretcheddrunkard.com^
 ||wrgjbsjxb.xyz^
 ||wringdecorate.com^
+||wrinkleinworn.shop^
 ||wrinkleirritateoverrated.com^
 ||wristhunknagging.com^
 ||wristtrunkpublication.com^
@@ -36943,6 +36965,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||stats.vidbinge.com^
@@ -37268,7 +37291,6 @@ vkcdnservice.appspot.com^
 ||unidentifiedanalytics.web.app^
 ||t.poki.io^
 ||p.armorgames.net^
-||analytics.crazygames.com^
 ||tracker.sqreemtech.com^
 ||analytics.waifu2x.org^
 ||analytics-api.vanceai.com^
@@ -51743,6 +51765,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||stunkrins.com^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^

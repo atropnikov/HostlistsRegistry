@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-11-13T01:25:32.718Z
+! Last modified: 2024-11-13T02:49:02.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -682,6 +682,7 @@
 ||30d0b97ffa.com^
 ||30d5shnjq.de^
 ||30e4a37eb7.com^
+||30eb1eca12.d1a0c6affa.com^
 ||30hccor10.de^
 ||30koqnlks.de^
 ||30m4hpei1.de^
@@ -7256,7 +7257,6 @@
 ||b724ebdb0a.00f031b898.com^
 ||b73b66d5e6.144a0bcf96.com^
 ||b73uszzq3g9h.com^
-||b754af79a7.com^
 ||b7ab7d0f42.30d52e951d.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b8118ff927.806cb9d130.com^
@@ -12844,7 +12844,6 @@
 ||d19uh5b0umbjrr.cloudfront.net^
 ||d19xf4taj229i8.cloudfront.net^
 ||d19y03yc9s7c1c.cloudfront.net^
-||d1a0c6affa.com^
 ||d1a3jb5hjny5s4.cloudfront.net^
 ||d1aa9f6zukqylf.cloudfront.net^
 ||d1ac2du043ydir.cloudfront.net^
@@ -14623,7 +14622,6 @@
 ||dgafgadsgkjg.top^
 ||dgaxrjj0jwpwp.cloudfront.net^
 ||dgcollector.evidon.com^
-||dgfywlmyneo.com^
 ||dggaenaawxe8z.cloudfront.net^
 ||dggwqknub.com^
 ||dgkmdia.com^
@@ -18223,7 +18221,6 @@
 ||flurry.com^
 ||flurryad.com^
 ||flurrylimmu.com^
-||flushafterwardinteger.com^
 ||flushconventional.com^
 ||flushedheartedcollect.com^
 ||flushoriginring.com^
@@ -21012,7 +21009,6 @@
 ||hirurdou.net^
 ||hispherefair.com^
 ||hissedapostle.com^
-||hissedassessmentmistake.com^
 ||hisstrappedperpetual.com^
 ||histats.com^
 ||historicalsenseasterisk.com^

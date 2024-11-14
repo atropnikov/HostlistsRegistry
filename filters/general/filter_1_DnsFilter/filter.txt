@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-14T06:27:20.524Z
+! Last modified: 2024-11-14T12:38:34.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36993,6 +36993,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
 ||cza.crazygames.com^
@@ -38398,6 +38399,7 @@ vkcdnservice.appspot.com^
 ||estat.zum.com^
 ||et.nytimes.com^
 ||eum*.instana.io^
+||ev2.api.bdg.com^
 ||ev.api.bdg.com^
 ||ev.kck.st^
 ||events.popinfo.jp^
@@ -39568,6 +39570,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||ads-image.production-public.tubi.io^
+||user-signals.production-public.tubi.io^
 ||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
@@ -51807,6 +51811,7 @@ inapps.appsflyersdk.com^
 ||iweisio.top^
 ||u5ps5.icu^
 ||lwvrv.icu^
+||vnuuh.icu^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^

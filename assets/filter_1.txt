@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-14T12:38:34.025Z
+! Last modified: 2024-11-14T18:26:39.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2265,6 +2265,7 @@ vkcdnservice.appspot.com^
 ||absentlybiddingleopard.com^
 ||absentlygratefulcamomile.com^
 ||absentlyrindbulk.com^
+||absentmissingaccept.com^
 ||abservinean.com^
 ||abskursin.com^
 ||abslroan.com^
@@ -6001,6 +6002,7 @@ vkcdnservice.appspot.com^
 ||buttersource.com^
 ||buuftxcii.com^
 ||buxbaumiaceae.sbs^
+||buxfmookn.com^
 ||buyadvupfor24.com^
 ||buyfrightencheckup.com^
 ||buylnk.com^
@@ -11869,6 +11871,7 @@ vkcdnservice.appspot.com^
 ||gloumsie.net^
 ||glounugeepse.xyz^
 ||glouseer.net^
+||glousoonomsy.xyz^
 ||gloussowu.xyz^
 ||gloustoa.net^
 ||gloutanacard.com^
@@ -19056,6 +19059,7 @@ vkcdnservice.appspot.com^
 ||outofthecath.org^
 ||outrotomr.com^
 ||outseeltor.com^
+||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outsimiseara.com^
@@ -22273,6 +22277,7 @@ vkcdnservice.appspot.com^
 ||rhinocerosobtrusive.com^
 ||rhombicsomeday.com^
 ||rhouseoyopers.info^
+||rhoxbneasg.xyz^
 ||rhrim.com^
 ||rhsorga.com^
 ||rhubarbmasterpiece.com^
@@ -26646,6 +26651,7 @@ vkcdnservice.appspot.com^
 ||umoxomv.icu^
 ||umpedshumal.com^
 ||umqmxawxnrcp.com^
+||umtchdhkrx.com^
 ||umtudo.com^
 ||umumallowecouldl.info^
 ||unacceptableclevercapable.com^
@@ -36993,6 +36999,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||fail.adr.ec^
+||t.adii.se^
 ||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
@@ -39570,6 +39578,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||atsod.launch.liveramp.com^
 ||ads-image.production-public.tubi.io^
 ||user-signals.production-public.tubi.io^
 ||sonar*.xy.fbcdn.net^
@@ -51812,6 +51821,7 @@ inapps.appsflyersdk.com^
 ||u5ps5.icu^
 ||lwvrv.icu^
 ||vnuuh.icu^
+||jweisia.top^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^

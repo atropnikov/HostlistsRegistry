@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-17T06:26:37.440Z
+! Last modified: 2024-11-17T12:35:27.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33456,7 +33456,6 @@ vkcdnservice.appspot.com^
 ||prodregistryv2.org^
 ||ads.mythad.com^
 ||ga2.getresponse.com^
-||events.split.io^
 ||analytics.wikitide.net^
 ||shgcdn3.com^
 ||rmonitor.qq.com^
@@ -40510,7 +40509,6 @@ inapps.appsflyersdk.com^
 ||edge.adobedc.net^
 ||edge.bredg.com^
 ||eel.transistor.fm^
-||ele26126.jscrambler.com^
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||errors.snackly.co^
@@ -40537,6 +40535,7 @@ inapps.appsflyersdk.com^
 ||events.missena.io^
 ||events.realgravity.com^
 ||events.shareably.net^
+||events.split.io^
 ||events.storifyme.com^
 ||events.yourcx.io^
 ||eventsproxy.gargantuan.futureplc.com^

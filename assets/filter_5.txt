@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-11-19T19:15:23.485Z
+! Last modified: 2024-11-19T21:18:24.545Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11200,7 +11200,6 @@
 ||cmap.alibaba.com^
 ||cmclean.club^
 ||cmcxmh.com^
-||cmelr.com^
 ||cmfads.com^
 ||cmhoriu.com^
 ||cmm.xmfish.com^
@@ -38472,7 +38471,6 @@
 ||sunlightmetrics.b-cdn.net^
 ||sunmediaads.com^
 ||sunnshele.com^
-||sunnudvelure.com^
 ||sunnycategoryopening.com^
 ||sunnyscanner.com^
 ||sunriseholler.com^

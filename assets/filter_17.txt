@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-11-18T06:29:13.951Z
+! Last modified: 2024-11-19T05:18:56.746Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -235,6 +235,7 @@
 127.0.0.1 cdn.adt357.net
 127.0.0.1 cdn.adt361.com
 127.0.0.1 cdn.adt511.net
+127.0.0.1 cdn.adt512.com
 127.0.0.1 cdn.adt523.net
 127.0.0.1 cdn.adt532.com
 127.0.0.1 cdn.adt545.net

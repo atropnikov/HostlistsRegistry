@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-11-24T04:22:57.932Z
+! Last modified: 2024-11-26T05:19:05.723Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -464,6 +464,7 @@
 127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gtm.proff.se
 127.0.0.1 gtm.stampenmedia.se
+127.0.0.1 gtm-service.flygbra.se
 127.0.0.1 gwen.insertcoin.se
 127.0.0.1 hapyak.com
 127.0.0.1 hb.adpone.com
@@ -1079,6 +1080,7 @@
 127.0.0.1 www.filasverigese.com
 127.0.0.1 www.guesssverige.com.se
 127.0.0.1 www.kundvisaren.se
+127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.mymediaindex.com
 127.0.0.1 www.nichehuset.dk
 127.0.0.1 www.npttech.com

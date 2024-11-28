@@ -2,7 +2,7 @@
 ! Title: KOR: YousList
 ! Description: Block filter for advertisements, mainly on Korean sites.
 ! Homepage: https://github.com/yous/YousList
-! Last modified: 2024-11-08T06:26:20.586Z
+! Last modified: 2024-11-28T06:29:16.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -204,6 +204,7 @@
 0.0.0.0 api.linkmine.co.kr
 0.0.0.0 api.ootoo.co.kr
 0.0.0.0 api.screensharp.kr
+0.0.0.0 apis.aedi.ai
 0.0.0.0 apis.piclick.me
 0.0.0.0 applog.ssgdfs.com
 0.0.0.0 as.dc.impact-ad.jp

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-11-26T22:18:56.986Z
+! Last modified: 2024-11-29T12:39:42.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1113,6 +1113,7 @@
 ||bidclix.com^
 ||bidclix.net^
 ||bidr.io^
+||bidsopt.com^
 ||bidswitch.net^
 ||bidtellect.com^
 ||bidvertiser.com^
@@ -1137,7 +1138,6 @@
 ||blogherads.com^
 ||blogtoplist.se^
 ||blogtopsites.com^
-||blueadvertise.com^
 ||blueconic.com^
 ||blueconic.net^
 ||bluekai.com^
@@ -3255,7 +3255,6 @@
 ||tracking22.com^
 ||trackingsoft.com^
 ||trackmysales.com^
-||trackuhub.com^
 ||tradeadexchange.com^
 ||tradedoubler.com^
 ||traffic-exchange.com^

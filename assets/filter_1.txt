@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-11-29T06:28:42.350Z
+! Last modified: 2024-11-29T12:39:40.682Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36040,6 +36040,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||gh.fanatical.com^
 ||heartbeat.crackle.com^
 ||event.geniee-search.net^
 ||matomo.oekoloewe.de^
@@ -46322,6 +46323,7 @@ inapps.appsflyersdk.com^
 ||vietdorje.com^
 ||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamdaily-log.trithuccuocsong.vn^
+||vietpub.com^
 ||vlxx.host^
 ||vnadssb.com^
 ||web-analytic.ghtk.vn^
@@ -46672,6 +46674,7 @@ inapps.appsflyersdk.com^
 ||caoviet.net^
 ||card-tindung-vp.com^
 ||card-tindung.com^
+||cardano-ada.live^
 ||cardshinhan.com^
 ||cardzstorezone.com^
 ||casneon.com^

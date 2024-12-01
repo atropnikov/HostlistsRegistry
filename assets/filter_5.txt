@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-01T08:24:04.796Z
+! Last modified: 2024-12-01T09:19:12.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7269,7 +7269,6 @@
 ||backbeatmedia.com^
 ||backdoor.thumblogger.com^
 ||backedliar.com^
-||backetkidlike.com^
 ||backfiremountslippery.com^
 ||backfirestomachreasoning.com^
 ||backforward.bid^
@@ -21499,6 +21498,7 @@
 ||iad.appboy.com^
 ||iadnet.com^
 ||iads.staticscdn.net^
+||iads.unity3d.com^
 ||iads.vision^
 ||iadsdk.apple.com^
 ||iairuo.xyz^
@@ -26223,6 +26223,7 @@
 ||mediatext.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
 ||mediation.mwmadnetworks.com^
+||mediation.unity3d.com^
 ||mediative.ca^
 ||mediative.com^
 ||mediator.imgsmail.ru^

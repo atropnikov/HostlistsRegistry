@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-02T06:29:53.504Z
+! Last modified: 2024-12-02T12:41:39.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -960,6 +960,8 @@
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
 
+||openx.tiesraides.lv^
+||ctent.povvverz.one^
 ||az-neverblock.aznude.workers.dev^
 ||creatives.wetransfer.net^
 ||ad.wrtn.ai^
@@ -36299,6 +36301,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||analytics.shorthand.com^
 ||gh.fanatical.com^
 ||heartbeat.crackle.com^
 ||event.geniee-search.net^
@@ -39584,7 +39587,6 @@ inapps.appsflyersdk.com^
 ||analytics.reyrey.net^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
-||analytics.shorthand.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
@@ -45501,6 +45503,7 @@ inapps.appsflyersdk.com^
 ||adreach.co^
 ||adreviewcamp.com^
 ||ads-link.net^
+||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
@@ -51175,6 +51178,8 @@ inapps.appsflyersdk.com^
 ||ig69.vip^
 ||qdamcsy.top^
 ||dv0i.icu^
+||4cx5.icu^
+||criqai.com^
 ||jcwlsofn.icu^
 ||brircel.com^
 ||af6s.icu^

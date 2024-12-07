@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-12-01T05:19:00.569Z
+! Last modified: 2024-12-07T07:19:26.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 127.0.0.1 a.optmnstr.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.thelocal.com
+127.0.0.1 a.vdo.ai
 127.0.0.1 a.zxcvads.com
 127.0.0.1 ab.fastighetsvarlden.se
 127.0.0.1 acceptable.a-ads.com

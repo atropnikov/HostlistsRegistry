@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-12-08T17:15:59.524Z
+! Last modified: 2024-12-10T10:22:41.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11131,6 +11131,8 @@
 0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 ad.api.attribuly.com
 0.0.0.0 tr.attribuly.com
+0.0.0.0 mntzrlt.net
+0.0.0.0 knl.mntzrlt.net
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -12397,6 +12399,7 @@
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 logperf.vnexpress.net
+0.0.0.0 s-logperf.vnexpress.net
 0.0.0.0 tracking-amp.vnexpress.net
 0.0.0.0 fly-ads.net
 0.0.0.0 tags.fly-ads.net
@@ -12836,6 +12839,7 @@
 0.0.0.0 log.beecost.com
 0.0.0.0 log.beecost.vn
 0.0.0.0 log.bizlive.vn
+0.0.0.0 log.daibieunhandan.vn
 0.0.0.0 log.daidoanket.vn
 0.0.0.0 log.dav.edu.vn
 0.0.0.0 log.doanhnhan.vn
@@ -14976,6 +14980,7 @@
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
+0.0.0.0 casmp.adperfect.com
 0.0.0.0 cassoonhins.tech
 0.0.0.0 cassoonspigot.com
 0.0.0.0 catvmuvkibud.com
@@ -14996,6 +15001,11 @@
 0.0.0.0 cdn-plus.roxot-panel.com
 0.0.0.0 cdn-server.top
 0.0.0.0 cdn.adimo.co
+0.0.0.0 cdn.adt328.com
+0.0.0.0 cdn.adt545.net
+0.0.0.0 cdn.adt567.net
+0.0.0.0 cdn.adt574.com
+0.0.0.0 cdn.adt598.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.easyads28.mobi
 0.0.0.0 cdn.exmarketplace.com
@@ -15390,6 +15400,7 @@
 0.0.0.0 ctengine.io
 0.0.0.0 ctiotjobkfu.com
 0.0.0.0 ctoosqtuxgaq.com
+0.0.0.0 cts.tradepub.com
 0.0.0.0 ctubhxbaew.com
 0.0.0.0 cubbakawwxzy.com
 0.0.0.0 cubics.com
@@ -21554,6 +21565,7 @@
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.metricool.com
+0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.toolpg.com
 0.0.0.0 tracker.vgame.us
@@ -21561,6 +21573,7 @@
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking-user-behavior.meeyland.com
 0.0.0.0 tracking.apptrackerlink.com
+0.0.0.0 tracking.aws.judge.me
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.bodis.com
 0.0.0.0 tracking.g2crowd.com

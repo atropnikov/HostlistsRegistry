@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-11T06:29:17.674Z
+! Last modified: 2024-12-11T12:41:07.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32973,6 +32973,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||gw-dv.vip^
 ||trk.svr-algorix.com^
 ||tpi-app.herokuapp.com^
 ||api.rvere.com^
@@ -36584,6 +36585,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||f793.inc.com^
+||mytop.live.vkvideo.ru^
+||f703.twincities.com^
 ||event.newsbreak.com^
 ||pixel-static.spotify.com^
 ||pixel-config.reddit.com^
@@ -41530,6 +41534,9 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||dosawes.com^
+||lusupodum.com^
+||clairpixum.com^
 ||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
@@ -47373,7 +47380,19 @@ inapps.appsflyersdk.com^
 ||congthongtinvidientu.com^
 ||congtykiman.org^
 ||congtytaichinhlotte.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -49140,6 +49159,7 @@ inapps.appsflyersdk.com^
 ||pkkti888.com^
 ||platinum-ruttientindung247.com^
 ||play.appgoogle.cc^
+||playgooglevn.vip^
 ||playtogethernapthe.com^
 ||playtogetherquabaotri.online^
 ||playtogethershop.com^
@@ -51467,6 +51487,7 @@ inapps.appsflyersdk.com^
 ||x4d.icu^
 ||ojimtyk.top^
 ||tteferty33.fun^
+||suzalsln.com^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^

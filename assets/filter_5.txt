@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-12T07:20:35.187Z
+! Last modified: 2024-12-12T08:27:02.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26678,7 +26678,6 @@
 ||mmchoicehaving.com^
 ||mme.zedcdn.me^
 ||mmentorapp.com^
-||mmgap.cn^
 ||mmi.bemobile.ua^
 ||mmm.theweek.co.uk^
 ||mmmdn.net^
@@ -30692,7 +30691,6 @@
 ||pisism.com^
 ||piskaday.com^
 ||pistolstumbled.com^
-||pistolterrificsuspend.com^
 ||pitcharduous.com^
 ||pitchedfurs.com^
 ||pitchedvalleyspageant.com^

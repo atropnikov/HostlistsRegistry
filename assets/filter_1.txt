@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-15T06:27:12.041Z
+! Last modified: 2024-12-15T12:37:16.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5755,6 +5755,7 @@ vkcdnservice.appspot.com^
 ||bryond.com^
 ||bsantycbjnf.com^
 ||bsbrcdna.com^
+||bservr.com^
 ||bsgbd77l.de^
 ||bshrdr.com^
 ||bsilzzc.com^
@@ -12542,7 +12543,6 @@ vkcdnservice.appspot.com^
 ||heavespectaclescoefficient.com^
 ||heavyuniversecandy.com^
 ||hebenonwidegab.top^
-||hebiichigo.com^
 ||hectorfeminine.com^
 ||hectorobedient.com^
 ||hedgehoghugsyou.com^
@@ -28450,7 +28450,6 @@ vkcdnservice.appspot.com^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
-||xupalace.org^
 ||xuqza.com^
 ||xvbwvle.com^
 ||xvfyubhqjp.xyz^
@@ -41036,6 +41035,7 @@ inapps.appsflyersdk.com^
 ||gsspcln.jp^
 ||gyro-n.com^
 ||h-cast.jp^
+||hebiichigo.com^
 ||i2i.jp^
 ||iid-network.jp^
 ||iogous.com^
@@ -51634,6 +51634,10 @@ inapps.appsflyersdk.com^
 ||aigfednd.icu^
 ||chonaesor.com^
 ||warped-bus.com^
+||ktimiyd.top^
+||a5t.icu^
+||xpicj0.icu^
+||siconoi.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-12-13T12:40:05.808Z
+! Last modified: 2024-12-20T12:36:51.346Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -871,7 +871,6 @@
 ||affiliatetracking.com^
 ||affiliatetracking.net^
 ||affiliatewindow.com^
-||affiliation-france.com^
 ||afflnx.com^
 ||afftracking.justanswer.com^
 ||afraidlanguage.com^
@@ -1325,7 +1324,6 @@
 ||clickfuse.com^
 ||clickhereforcellphones.com^
 ||clicklink.jp^
-||clickmate.io^
 ||clickngo.pro^
 ||clickonometrics.pl^
 ||clicks.deliveroo.co.uk^
@@ -2370,6 +2368,7 @@
 ||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
+||nexac.com^
 ||nexage.com^
 ||ng3.ads.warnerbros.com^
 ||nitroclicks.com^
@@ -3242,6 +3241,7 @@
 ||trackedweb.net^
 ||tracker-pm2.spilleren.com^
 ||tracker.bannerflow.com^
+||tracker.cdnbye.com^
 ||tracker.icerocket.com^
 ||tracker.metricswave.com^
 ||tracker.mmdlv.it^
@@ -3445,7 +3445,6 @@
 ||webstat.com^
 ||webstat.net^
 ||webtrackerplus.com^
-||webtracky.com^
 ||webtraffic.se^
 ||webtraxx.de^
 ||webxcdn.com^

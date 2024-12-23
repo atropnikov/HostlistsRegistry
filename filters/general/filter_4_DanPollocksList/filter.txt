@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-12-17T03:01:47.519Z
+! Last modified: 2024-12-23T08:25:11.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1818,6 +1818,7 @@
 0.0.0.0 coordino.com
 0.0.0.0 cosmopolian.fr
 0.0.0.0 cosmopolita.fr
+0.0.0.0 costco-rewardsaccount1.com
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr

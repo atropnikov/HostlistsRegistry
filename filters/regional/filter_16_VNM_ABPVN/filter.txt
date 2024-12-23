@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-12-22T17:15:38.280Z
+! Last modified: 2024-12-23T17:16:32.505Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11153,6 +11153,8 @@
 0.0.0.0 77980.bodis.com
 0.0.0.0 bodis.com
 0.0.0.0 tracking.bodis.com
+0.0.0.0 ad-m.asia
+0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14813,6 +14815,7 @@
 0.0.0.0 bridesmaidspamimmortal.com
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightadnetwork.com
+0.0.0.0 brightcriticism.com
 0.0.0.0 brightgluttony.com
 0.0.0.0 brightinfo.com
 0.0.0.0 brightonclick.com

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-24T01:25:57.180Z
+! Last modified: 2024-12-24T06:26:52.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6838,6 +6838,7 @@ vkcdnservice.appspot.com^
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clmbtech.com^
 ||clnk.me^
 ||cloakedpsyche.click^
@@ -8921,6 +8922,7 @@ vkcdnservice.appspot.com^
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
@@ -36329,6 +36331,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
@@ -37697,7 +37700,6 @@ vkcdnservice.appspot.com^
 ||data-collector.wefi.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
-||dbfukofby5ycr.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^
@@ -51325,6 +51327,9 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||beenedsl.com^
+||tghrfv.icu^
+||wwilmie.top^
+||k9u.icu^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^

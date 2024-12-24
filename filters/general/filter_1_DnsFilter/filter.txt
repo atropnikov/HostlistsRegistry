@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-24T06:26:52.894Z
+! Last modified: 2024-12-24T12:37:01.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21,6 +21,7 @@
 ||ageetsaimouphih.net^
 ||cedrt6.pro^
 ||cpngiubbcnq.love^
+||ads.twdcgrid.com^
 ||myaudioads.com^
 ||rixengine.com^
 ||nearkillgift.life^
@@ -25847,7 +25848,6 @@ vkcdnservice.appspot.com^
 ||tvprocessing.com^
 ||twaitevirgal.com^
 ||twazzyoidwlfe.com^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
@@ -44094,6 +44094,9 @@ inapps.appsflyersdk.com^
 ||twiago.com^
 ||bauernative.com^
 
+||towmfs.com^
+||hfisngksng.com^
+||sikncs.com^
 ||qimaf.com^
 ||renrenkanpian.com^
 ||b10.justacdn.net^
@@ -51330,6 +51333,7 @@ inapps.appsflyersdk.com^
 ||tghrfv.icu^
 ||wwilmie.top^
 ||k9u.icu^
+||shuucerz.com^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^

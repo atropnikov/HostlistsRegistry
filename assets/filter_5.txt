@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-25T14:16:37.761Z
+! Last modified: 2024-12-25T16:22:34.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1717,7 +1717,6 @@
 ||a.yellowurl.cn^
 ||a.youdao.com^
 ||a.zdg.de^
-||a.zillastream.com^
 ||a.ztulcrynw.online^
 ||a00s.net^
 ||a0152829.xsph.ru^
@@ -21417,6 +21416,7 @@
 ||i.wideblacks.com^
 ||i027m.top^
 ||i16-tb.isnssdk.com^
+||i18n-pglstatp.com^
 ||i1i.heyaiii111iidsfsdbfjb132222ffco.xyz^
 ||i1media.no^
 ||i2ad.jp^
@@ -35575,7 +35575,6 @@
 ||sexygirlshd.com^
 ||sexystat.com^
 ||sezonlukdizi.com^
-||sf16-static.i18n-pglstatp.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sfdsplvyphk.com^
 ||sffsdvc.com^

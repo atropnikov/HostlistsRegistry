@@ -2,10 +2,13 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-25T14:16:33.796Z
+! Last modified: 2024-12-25T18:24:55.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||gsrgjsmymkwt.com^
+||zeecajichaiw.net^
+||server.megabrain.co^
 ||cf.adxcel.com^
 ||cda7k-ddok.com^
 ||sat.cellordion3.net^
@@ -878,6 +881,7 @@
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
 
+||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^
 ||ctent.povvverz.one^
 ||az-neverblock.aznude.workers.dev^
@@ -13897,6 +13901,7 @@ vkcdnservice.appspot.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
 ||jamstech.store^
+||janads.shop^
 ||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
@@ -20232,6 +20237,7 @@ vkcdnservice.appspot.com^
 ||protawe.com^
 ||protectonlinenow.com^
 ||protectorincorporatehush.com^
+||protectwborcn.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
 ||proteininnovationpioneer.com^
@@ -36340,6 +36346,9 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||log.shortbread.analytics.console.aws.a2z.com^
+||log.shortbread.aws.dev^
+||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
 ||minerva.devices.a2z.com^
 ||s.pie.org^
 ||t.pie.org^
@@ -51350,6 +51359,7 @@ inapps.appsflyersdk.com^
 ||bpxxgkoj.icu^
 ||gmso12251oka.top^
 ||6cs.icu^
+||uwilmit.top^
 ||beenedsl.com^
 ||tghrfv.icu^
 ||wwilmie.top^
@@ -56245,6 +56255,9 @@ analytics-*.aasaam.com
 ||xmlx.lol^
 
 ||yelloadwise.ir^
+
+||sentry.yektanet.tech^
+
 ||yekbux.com^
 
 ||zarad.net^

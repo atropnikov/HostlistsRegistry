@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2024-12-26T12:37:09.063Z
+! Last modified: 2024-12-26T18:25:30.598Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32723,6 +32723,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sentinelbi.com^
 ||ascendeummedia.com^
 ||agma-analytics.de^
 ||cdn-gw-dv.vip^
@@ -32885,7 +32886,6 @@ vkcdnservice.appspot.com^
 ||pbcs.decider.com^
 ||pbcs.pagesix.com^
 ||tagtoo.co^
-||sentinelbi.com^
 ||count.sibbo.net^
 ||umami.is^
 ||logger.torimochi-ad.net^
@@ -36300,6 +36300,7 @@ vkcdnservice.appspot.com^
 ||atinternet.com^
 ||tagcommander.com^
 ||commandersact.com^
+||tccd.douglas.
 ||storetail.io^
 ||dnsdelegation.io^
 ||dataunlocker.com^
@@ -36335,6 +36336,12 @@ vkcdnservice.appspot.com^
 ||trekkww.space^
 ||trekkeeee.space^
 ||trekkww.fun^
+.stape.net
+|load.gtm.
+|load.sgtm.
+|load.ss.
+|load.sst.
+||thegreatesthits.
 ||e.truedata.co^
 ||webtrekk.com^
 ||webtrekk-asia.net^
@@ -36343,11 +36350,12 @@ vkcdnservice.appspot.com^
 ||webtrekk.net^
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
-.stape.net
 
 ||tagman.britishairways.com^
 |piwik.
+||syndication.twitter.com^
 ||gtm.temu.com^
+.prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.analytics.console.aws.a2z.com^
 ||log.shortbread.aws.dev^
 ||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -39020,6 +39028,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
@@ -47178,6 +47187,7 @@ inapps.appsflyersdk.com^
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -49059,6 +49069,7 @@ inapps.appsflyersdk.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profileid.info^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^
@@ -51362,6 +51373,8 @@ inapps.appsflyersdk.com^
 ||zaeqrath.com^
 ||qovunx.com^
 ||lurefq.com^
+||5ik.icu^
+||lwilmil.top^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
@@ -51615,7 +51628,6 @@ inapps.appsflyersdk.com^
 ||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
-||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
 ||wcwkcus.top^

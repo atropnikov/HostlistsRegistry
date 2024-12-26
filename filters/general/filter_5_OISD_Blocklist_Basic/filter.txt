@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-26T07:17:40.770Z
+! Last modified: 2024-12-26T10:19:13.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4466,6 +4466,7 @@
 ||agloogly.com^
 ||aglowpanion.top^
 ||aglurj.com^
+||agma-analytics.de^
 ||agmtrk.com^
 ||agnrcrpwyyn.com^
 ||agonyenginedrivermansion.com^
@@ -6464,6 +6465,7 @@
 ||ascc.javquick.com^
 ||asccdn.com^
 ||asce.xyz^
+||ascendeummedia.com^
 ||ascensionrelativestuck.com^
 ||ascensionunfinished.com^
 ||ascentflabbysketch.com^
@@ -24787,6 +24789,8 @@
 ||log.saigondautu.com.vn^
 ||log.seekda.com^
 ||log.sggp.org.vn^
+||log.shortbread.analytics.console.aws.a2z.com^
+||log.shortbread.aws.dev^
 ||log.shufoo.net^
 ||log.sina.cn^
 ||log.smoney.vn^
@@ -26373,6 +26377,7 @@
 ||mineraltip.com^
 ||minergate.com^
 ||minero.cc^
+||minerva.devices.a2z.com^
 ||mingleabstainsuccessor.com^
 ||mingledcommit.com^
 ||mingledcounterfeittitanic.com^
@@ -26619,6 +26624,7 @@
 ||mobile-campaigns.avast.com^
 ||mobile-collector.newrelic.com^
 ||mobile-events.eservice.emarsys.net^
+||mobile-production.content-square.net^
 ||mobile.slgnt.eu^
 ||mobile333.com^
 ||mobilead.vn^
@@ -34519,6 +34525,7 @@
 ||s.opti-digital.com^
 ||s.optidigital.com^
 ||s.oralblow.com^
+||s.pie.org^
 ||s.pixsrvcs.com^
 ||s.playa.to^
 ||s.porndub.us^
@@ -37432,7 +37439,6 @@
 ||statstools.porn.fr^
 ||statt-collect.herokuapp.com^
 ||status.kino-dom.org^
-||status.techtarget.itmedia.co.jp^
 ||statwup.huya.com^
 ||statwup.nimo.tv^
 ||statxpress.com^
@@ -38266,6 +38272,7 @@
 ||t.n.mcdonalds.de^
 ||t.nativendo.de^
 ||t.ofsys.com^
+||t.pie.org^
 ||t.pointandplace.com^
 ||t.poki.io^
 ||t.police1.com^

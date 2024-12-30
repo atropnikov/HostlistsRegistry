@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-29T22:16:44.684Z
+! Last modified: 2024-12-30T01:36:02.982Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3392,7 +3392,6 @@
 ||ads.hollywood.com^
 ||ads.home.vn^
 ||ads.homedy.net^
-||ads.horyzon-media.com^
 ||ads.i-bidder.com^
 ||ads.ibest.com.br^
 ||ads.icq.com^
@@ -10040,7 +10039,6 @@
 ||cdn-cf.postitial.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-dynamic.optimonk.com^
-||cdn-gw-dv.vip^
 ||cdn-image.com^
 ||cdn-ketchapp.akamaized.net^
 ||cdn-partners-references.lesoir.be^
@@ -20904,7 +20902,6 @@
 ||hokarsoud.com^
 ||hoktrips.com^
 ||holahupa.com^
-||holbrooked.top^
 ||holdenthusiastichalt.com^
 ||holder.com.ua^
 ||holdhostel.space^

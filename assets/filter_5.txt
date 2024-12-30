@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-12-30T11:15:10.063Z
+! Last modified: 2024-12-30T12:37:16.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13994,7 +13994,6 @@
 ||dauntgolfconfiscate.com^
 ||dauntroof.com^
 ||dauptoawhi.com^
-||dausoofo.net^
 ||davtvd.xyz^
 ||davycrile.com^
 ||dawmal.com^
@@ -36091,6 +36090,7 @@
 ||smetrics.cnn.com^
 ||smetrics.foxnews.com^
 ||smetrics.jcb.co.jp^
+||smetrics.kawai-juku.ac.jp^
 ||smetrics.kone.vn^
 ||smetrics.marriott.com^
 ||smetrics.nfl.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-01-03T14:16:57.948Z
+! Last modified: 2025-01-03T18:25:53.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3686,6 +3686,7 @@
 ||ads.tso.dennisnet.co.uk^
 ||ads.tvb.com^
 ||ads.tvp.pl^
+||ads.twdcgrid.com^
 ||ads.ultimate-guitar.com^
 ||ads.ultraviewer.net^
 ||ads.uncrate.com^
@@ -40868,7 +40869,6 @@
 ||tvprocessing.com^
 ||twazzyoidwlfe.com^
 ||twch.femina.ch^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||tweedygirly.com^
 ||twelfthcomprehendgrape.com^

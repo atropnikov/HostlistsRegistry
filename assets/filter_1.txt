@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-01-04T18:24:10.376Z
+! Last modified: 2025-01-05T01:39:33.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36544,6 +36544,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||intake-analytics.wikimedia.org^
 ||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
@@ -37398,7 +37399,6 @@ vkcdnservice.appspot.com^
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
 ||stats.tirexo.blue^
-||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
@@ -39222,6 +39222,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||collect.4gtv.tv^
+||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
@@ -51557,6 +51559,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||lirretsn.com^
+||nmzbrd.icu^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^

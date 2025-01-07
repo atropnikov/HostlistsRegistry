@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2025-01-02T18:26:00.622Z
+! Last modified: 2025-01-07T01:26:42.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2479,6 +2479,7 @@
 0.0.0.0 mycnal.fr
 0.0.0.0 mydreamday.fr
 0.0.0.0 myedebred.fr
+0.0.0.0 myhst2024.com
 0.0.0.0 mylike.co.uk				# Facebook trojan
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com

@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-01-09T12:38:02.353Z
+! Last modified: 2025-01-09T18:26:52.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||uz-kqtecqs.space^
 ||mqprzapns.com^
 ||dzeaqmeuaql.com^
 ||bjjky.cfd^
@@ -32968,6 +32969,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -39294,6 +39296,13 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||nstool.netease.com^
+||data.kuiniuca.com^
+||clientlogsf.music.163.com^
+||ye.dun.163yun.com^
+||netapm.music.163.com^
+||clientlogdep.music.163.com^
+||clientlog3.music.163.com^
 ||collect.4gtv.tv^
 ||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
@@ -44070,6 +44079,7 @@ inapps.appsflyersdk.com^
 
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||sb-hip-happy.ourservice.jp^
 ||carrier202205.tokyo^
 ||axesslove.mixh.jp^
 ||kaomanko.axesslove.com^

@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-01-09T16:24:22.724Z
+! Last modified: 2025-01-09T17:16:20.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9165,6 +9165,7 @@
 0.0.0.0 app-shake.xml-eu.ak-is2.net
 0.0.0.0 app-shake.xs.ak-is2.net
 0.0.0.0 bappaads.xml.ak-is2.net
+0.0.0.0 cachegorilla.xml.ak-is2.net
 0.0.0.0 ctrtraffic.fs.ak-is2.net
 0.0.0.0 danarimedia.xml.ak-is2.net
 0.0.0.0 explorads.xml.ak-is2.net
@@ -11174,6 +11175,8 @@
 0.0.0.0 engine.adlogists.com
 0.0.0.0 insights.rtgio.co
 0.0.0.0 rtgio.co
+0.0.0.0 ttrk.io
+0.0.0.0 wdc.ttrk.io
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13387,6 +13390,7 @@
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
 0.0.0.0 adentifi.com
+0.0.0.0 adeumssp.com
 0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexpose.com
@@ -14378,6 +14382,7 @@
 0.0.0.0 atmnjcinews.pro
 0.0.0.0 atonementwisely.com
 0.0.0.0 atp.io
+0.0.0.0 atrochaxctl.shop
 0.0.0.0 atsabwhkox.com
 0.0.0.0 atsvheqamd.com
 0.0.0.0 attractionbanana.com
@@ -14681,6 +14686,7 @@
 0.0.0.0 betotodilea.com
 0.0.0.0 betteradsystem.com
 0.0.0.0 bewilderedblade.com
+0.0.0.0 bfiauqscsotjcy.com
 0.0.0.0 bfijteodglun.com
 0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bhalukecky.com
@@ -14996,6 +15002,7 @@
 0.0.0.0 cassoonhins.tech
 0.0.0.0 cassoonspigot.com
 0.0.0.0 catvmuvkibud.com
+0.0.0.0 caugrithoowhu.net
 0.0.0.0 causecherry.com
 0.0.0.0 causlesscauslessdisapproval.com
 0.0.0.0 cautiouslyanalysecrystal.com
@@ -18857,6 +18864,7 @@
 0.0.0.0 qpeoctxiqaxw.com
 0.0.0.0 qquhzi4f3.com
 0.0.0.0 qrodufobzbav.com
+0.0.0.0 qruqon.com
 0.0.0.0 qskvfuiywah.com
 0.0.0.0 qthiqwum.com
 0.0.0.0 qtspkqzn.com
@@ -20093,6 +20101,7 @@
 0.0.0.0 tripphloems.com
 0.0.0.0 tristatemyo.com
 0.0.0.0 trix.net
+0.0.0.0 trk.twofeeds.com
 0.0.0.0 trk4ppl.com
 0.0.0.0 trmit.com
 0.0.0.0 trololopush2023push.com
@@ -20993,9 +21002,11 @@
 0.0.0.0 zrwpporp.com
 0.0.0.0 ztumuvofzbfe.com
 0.0.0.0 zubxukxkuot.com
+0.0.0.0 zucoagorsout.com
 0.0.0.0 zucqcozmv.com
 0.0.0.0 zudoldaclhug.com
 0.0.0.0 zugloopt.com
+0.0.0.0 zuisinchills.shop
 0.0.0.0 zumdivdwug.com
 0.0.0.0 zumobi.com
 0.0.0.0 zumrieth.com

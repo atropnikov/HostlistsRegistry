@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-01-12T17:14:52.766Z
+! Last modified: 2025-01-16T16:23:07.200Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6425,6 +6425,7 @@
 0.0.0.0 www.trafficstars.com
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 r-eu.tsyndicate.com
 0.0.0.0 rtb.tsyndicate.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 vcdn.tsyndicate.com
@@ -9185,6 +9186,9 @@
 0.0.0.0 onwardclick.fs.ak-is2.net
 0.0.0.0 onwardclick.xs.ak-is2.net
 0.0.0.0 popmonetizer.xml.ak-is2.net
+0.0.0.0 popsgg.xml-eu-v4.ak-is2.net
+0.0.0.0 popsgg.xml-v4.ak-is2.net
+0.0.0.0 popsgg.xml.ak-is2.net
 0.0.0.0 pressize.xml-eu.ak-is2.net
 0.0.0.0 pulsefintech.xs.ak-is2.net
 0.0.0.0 pushub.xml-eu.ak-is2.net
@@ -11178,6 +11182,10 @@
 0.0.0.0 rtgio.co
 0.0.0.0 ttrk.io
 0.0.0.0 wdc.ttrk.io
+0.0.0.0 pops.gg
+0.0.0.0 xml-eu-v4.pops.gg
+0.0.0.0 xml-v4.pops.gg
+0.0.0.0 xml.pops.gg
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -14731,6 +14739,7 @@
 0.0.0.0 blacurlik.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blastcahs.com
+0.0.0.0 blearspellaea.shop
 0.0.0.0 bleedlight.com
 0.0.0.0 bleokerrie.com
 0.0.0.0 bletretzian.com
@@ -15383,6 +15392,7 @@
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyabuse.pro
+0.0.0.0 crazyads.fusetracking.com
 0.0.0.0 crazypopups.com
 0.0.0.0 crazywingflap.com
 0.0.0.0 creafi-online-media.com
@@ -15604,6 +15614,7 @@
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delicatedimlysloppy.com
 0.0.0.0 deligrassdull.com
+0.0.0.0 deliriamorula.shop
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 deliver.vkcdnservice.com
 0.0.0.0 deloo.de
@@ -16539,6 +16550,7 @@
 0.0.0.0 gycqna.com
 0.0.0.0 gyfumobo.com
 0.0.0.0 gzefitkcep.com
+0.0.0.0 gzegwior.com
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h4aock41f.com
 0.0.0.0 h4r7dvewa.com
@@ -17011,6 +17023,7 @@
 0.0.0.0 ivypixel.com
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 iyfbodn.com
+0.0.0.0 izleskulked.shop
 0.0.0.0 j0x87i0og.com
 0.0.0.0 j6rudlybdy.com
 0.0.0.0 j93557g.com
@@ -17061,6 +17074,7 @@
 0.0.0.0 jivox.com
 0.0.0.0 jiwire.com
 0.0.0.0 jizoqsor.com
+0.0.0.0 jjczoufb.com
 0.0.0.0 jjpjpyvdasbvt.com
 0.0.0.0 jjvnlfpywgbxgt.com
 0.0.0.0 jkfdnofnz.com
@@ -17128,6 +17142,7 @@
 0.0.0.0 kabquravcofq.com
 0.0.0.0 kaffnet.com
 0.0.0.0 kagbydhgwbq.com
+0.0.0.0 kaisauwoure.net
 0.0.0.0 kalmukrattail.com
 0.0.0.0 kamak-mab.com
 0.0.0.0 kampyle.com
@@ -18095,6 +18110,7 @@
 0.0.0.0 ofrvpeodmba.com
 0.0.0.0 ofsyuxaveckulgf.com
 0.0.0.0 ofvogxvzagh.com
+0.0.0.0 og-shopee9.com
 0.0.0.0 oggakmsumxa.com
 0.0.0.0 ogghpaoxwv.com
 0.0.0.0 oghqvffmnt.com
@@ -18961,6 +18977,7 @@
 0.0.0.0 rcuafjdnsocpr.xyz
 0.0.0.0 rdgtvgmtauro.com
 0.0.0.0 rdr.wargaming.net
+0.0.0.0 rduaagcwsw.com
 0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
@@ -19656,6 +19673,7 @@
 0.0.0.0 stihruojvag.com
 0.0.0.0 stingyshoe.com
 0.0.0.0 stinicf.com
+0.0.0.0 stoampaliy.net
 0.0.0.0 stogivpi.com
 0.0.0.0 stolenforensicssausage.com
 0.0.0.0 stoopfalse.com
@@ -19939,6 +19957,7 @@
 0.0.0.0 thruport.com
 0.0.0.0 thterras.com
 0.0.0.0 thubanoa.com
+0.0.0.0 thvhjgxmyjnoqvq.com
 0.0.0.0 tiaraedmessing.uno
 0.0.0.0 tiarasorthose.website
 0.0.0.0 tibacta.com
@@ -20631,6 +20650,7 @@
 0.0.0.0 wotlinkmeatmen.digital
 0.0.0.0 woubitpopess.life
 0.0.0.0 wouhaugiby.com
+0.0.0.0 wounofoarausooy.net
 0.0.0.0 wowhugoo.com
 0.0.0.0 wowserskersey.digital
 0.0.0.0 wowshortvideos.com

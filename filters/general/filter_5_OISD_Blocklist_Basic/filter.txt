@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-01-22T20:20:07.526Z
+! Last modified: 2025-01-22T21:14:21.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30799,7 +30799,6 @@
 ||primusad.com^
 ||princesinistervirus.com^
 ||princessdazzlepeacefully.com^
-||princessmodern.com^
 ||principaldingdecadence.com^
 ||principlede.info^
 ||principlessilas.com^
@@ -31069,6 +31068,7 @@
 ||proximitywars.com^
 ||proxy.ads.canalplus-bo.net^
 ||proxy.dzeio.com^
+||proxy.optoutadserving.com^
 ||proxy.trysavvy.com^
 ||proxy.vidazoo.com^
 ||prplad.com^
@@ -34967,7 +34967,6 @@
 ||shinebliss.com^
 ||shinep.xyz^
 ||shingleexpressing.com^
-||shinnedsoughed.com^
 ||shinygabbleovertime.com^
 ||shinyspiesyou.com^
 ||shinystat.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-01-27T12:37:08.376Z
+! Last modified: 2025-01-27T14:17:48.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -45238,7 +45238,6 @@ inapps.appsflyersdk.com^
 ||adsushi.de^
 ||advendi.de^
 ||advert-layer.de^
-||advolution.biz^
 ||advolution.de^
 ||adworx.at^
 ||aff-handler.com^
@@ -45384,7 +45383,6 @@ inapps.appsflyersdk.com^
 ||solads.media^
 ||sparkads.ws^
 ||sparkassen-partner.de^
-||special-sponsor.de^
 ||sponsortown.de^
 ||spoods.io^
 ||stilanzeigen.net^
@@ -52172,6 +52170,7 @@ inapps.appsflyersdk.com^
 ||as01271kkp.xyz^
 ||veilengh.com^
 ||fcbdpock.icu^
+||t2s.fun^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
@@ -57532,6 +57531,8 @@ analytics-*.aasaam.com
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
 @@|www.daraz.pk^|
 @@|daraz.com^|
 @@||sbs.demdex.net^|

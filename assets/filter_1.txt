@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-01-27T01:25:16.910Z
+! Last modified: 2025-01-27T12:37:08.376Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32746,6 +32746,8 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||r0.mail.ru^
+||r0.mradx.net^
 ||serveraddr.service.kugou.com^
 ||d.kugou.com^
 ||nbcollect.kugou.com^
@@ -39794,6 +39796,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
@@ -52165,6 +52168,10 @@ inapps.appsflyersdk.com^
 ||xxsmad5.com^
 ||hostolhg.com^
 ||4zn.fun^
+||rajxjj.icu^
+||as01271kkp.xyz^
+||veilengh.com^
+||fcbdpock.icu^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-02-04T06:26:51.566Z
+! Last modified: 2025-02-04T11:15:39.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33666,6 +33666,7 @@ vkcdnservice.appspot.com^
 ||mktp-base.mktplatforms.com^
 ||f-tra.com^
 ||event.dfinery.io^
+||oasjs.kataweb.it^
 ||polaranalytics.com^
 ||wsknow.net^
 ||api.taggrs.io^
@@ -33681,7 +33682,6 @@ vkcdnservice.appspot.com^
 ||danatrak.com^
 ||optiyield.opti-digital.com^
 ||twitter.sx^
-||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
 ||cdn.q0losid.com^
 ||tags.fullcontact.com^
@@ -37317,6 +37317,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mcs-*.lemon8-app.com^
@@ -52330,6 +52331,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||hdinmau.top^
 ||feronyv.com^
 ||tciqgx.xyz^
 ||crolerl.com^
@@ -57757,6 +57759,7 @@ analytics-*.aasaam.com
 @@||www.dogpile.com^|
 @@||acs-m.daraz.com.bd^|
 @@||f-gear.ec-optimizer.com^|
+@@||get.neofinancial.com^|
 @@||hidive.com^|
 @@||learn.khanacademy.org^|
 @@||res.ads.nicovideo.jp^|

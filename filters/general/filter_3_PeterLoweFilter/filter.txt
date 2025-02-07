@@ -2,13 +2,12 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-02-05T15:19:39.722Z
+! Last modified: 2025-02-07T12:36:28.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
 
-||1-1ads.com^
 ||101com.com^
 ||180hits.de^
 ||180searchassistant.com^
@@ -384,7 +383,6 @@
 ||ads.boerding.com^
 ||ads.boylesports.com^
 ||ads.brabys.com^
-||ads.bumq.com^
 ||ads.canalblog.com^
 ||ads.casinocity.com^
 ||ads.casumoaffiliates.com^
@@ -495,7 +493,6 @@
 ||ads.lordlucky.com^
 ||ads.ma7.tv^
 ||ads.mail.bg^
-||ads.mariuana.it^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
 ||ads.mediaodyssey.com^
@@ -593,6 +590,7 @@
 ||ads.tripod.lycos.nl^
 ||ads.tso.dennisnet.co.uk^
 ||ads.twitter.com^
+||ads.twojatv.info^
 ||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
 ||ads.unison.bg^
@@ -663,7 +661,6 @@
 ||adsbydelema.com^
 ||adscale.de^
 ||adscholar.com^
-||adscience.nl^
 ||adsco.re^
 ||adscpm.com^
 ||adsdaq.com^
@@ -981,6 +978,7 @@
 ||at-o.net^
 ||atdmt.com^
 ||athena-ads.wikia.com^
+||ato.mx^
 ||attractionbanana.com^
 ||attribution.report^
 ||atwola.com^
@@ -1653,7 +1651,6 @@
 ||extractobservation.com^
 ||extreme-dm.com^
 ||extremetracking.com^
-||eyeblaster.com^
 ||eyeota.net^
 ||eyeviewads.com^
 ||eyewonder.com^
@@ -1809,7 +1806,6 @@
 ||grouchybrothers.com^
 ||groundtruth.com^
 ||gscontxt.net^
-||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||gunggo.com^
@@ -2359,8 +2355,6 @@
 ||newnudecash.com^
 ||newopenx.detik.com^
 ||newsadsppush.com^
-||newsletter-link.com^
-||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
 ||nexac.com^
@@ -3383,7 +3377,6 @@
 ||verticalmass.com^
 ||vervewireless.com^
 ||vgnp3trk.com^
-||vibrantmedia.com^
 ||vibrantsundown.com^
 ||vid.pubmatic.com^
 ||vidcpm.com^

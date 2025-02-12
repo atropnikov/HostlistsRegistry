@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-02-11T18:25:04.651Z
+! Last modified: 2025-02-12T01:25:14.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16316,6 +16316,7 @@ vkcdnservice.appspot.com^
 ||masculineillness.com^
 ||masklink.org^
 ||masonopen.com^
+||masonrycruor.shop^
 ||masqueradeentrustveneering.com^
 ||masqueradethousand.com^
 ||massacreintentionalmemorize.com^
@@ -33430,6 +33431,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||squeezely.tech^
@@ -37103,6 +37105,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||inf.miui.com^
 ||q.quora.com^
 ||mssdk*.capcutapi.com^
 ||evts.ecocart.io^
@@ -39844,6 +39847,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.ultimatecleaner.pro^
 ||impression.link^
 ||rm.aarki.net^
 ||use-cr.svr-algorix.com^
@@ -52134,6 +52138,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||traukvan.com^
+||20wx.com^
+||vitqzd.icu^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^

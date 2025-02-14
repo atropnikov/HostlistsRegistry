@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-02-14T06:26:20.753Z
+! Last modified: 2025-02-14T12:36:56.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||splendid-concert.com^
 ||engine.trialhd.com^
 ||getwptag.org^
 ||directone.xyz^
@@ -37171,6 +37172,7 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||tracker.multisearch.io^
 ||apm.yahoo.co.jp^
 ||malog.byapps.co.kr^
 ||sofire.terabox.app^
@@ -39917,6 +39919,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||aws.userlogsanalytics.com^
+||atb-stats-api.imolive.tv^
 ||i.mxplayer.j2inter.com^
 ||flashtalking.com^
 ||stat.weamvideo.com^
@@ -42188,7 +42192,6 @@ inapps.appsflyersdk.com^
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
 ||informers.sinoptik.ua^
-||tracker.multisearch.io^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zalo.me^
@@ -52223,6 +52226,7 @@ inapps.appsflyersdk.com^
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^

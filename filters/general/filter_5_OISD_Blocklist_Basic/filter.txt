@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-02-17T13:25:54.038Z
+! Last modified: 2025-02-17T15:20:21.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41842,7 +41842,6 @@
 ||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
-||webpsts.com^
 ||webpush.reachyield.com^
 ||webpush.resultsmedia.com^
 ||webpush.vn^

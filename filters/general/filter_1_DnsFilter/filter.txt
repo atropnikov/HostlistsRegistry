@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-02-19T12:35:44.115Z
+! Last modified: 2025-02-19T17:16:58.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2693,6 +2693,7 @@ vkcdnservice.appspot.com^
 ||advertpay.net^
 ||advfeeds.com^
 ||advice-ads.s3.amazonaws.com^
+||adviceforemost.com^
 ||advinci.co^
 ||adviralmedia.com^
 ||advise.co^
@@ -3087,6 +3088,7 @@ vkcdnservice.appspot.com^
 ||alchemysocial.com^
 ||alcidkits.com^
 ||alcroconawa.com^
+||aldanefissate.com^
 ||aldosesmajeure.com^
 ||aldragalgean.com^
 ||alecclause.com^
@@ -3690,6 +3692,7 @@ vkcdnservice.appspot.com^
 ||ascraftan.com^
 ||asdasdad.net^
 ||asdfdr.cfd^
+||asdfix.com^
 ||asdidmakingby.info^
 ||asdkfefanvt.com^
 ||asdpoi.com^
@@ -5772,6 +5775,7 @@ vkcdnservice.appspot.com^
 ||castingmannergrim.com^
 ||castleconscienceenquired.com^
 ||casumoaffiliates.com^
+||catalpatomorn.com^
 ||catastropheillusive.com^
 ||catchymorselguffaw.com^
 ||cateringblizzardburn.com^
@@ -5779,6 +5783,7 @@ vkcdnservice.appspot.com^
 ||cathedralinthei.info^
 ||catholicprevalent.com^
 ||cathrynslues.com^
+||cattailpectinselected.com^
 ||cattishfearfulbygone.com^
 ||cattishhistoryexplode.com^
 ||cattishinquiries.com^
@@ -6594,6 +6599,7 @@ vkcdnservice.appspot.com^
 ||colonistnobilityheroic.com^
 ||colonistsmothercommunity.com^
 ||colonwaltz.com^
+||colonyjav182.fun^
 ||colorfullouderremnant.com^
 ||colorfulspecialinsurance.com^
 ||colossalanswer.com^
@@ -6688,6 +6694,7 @@ vkcdnservice.appspot.com^
 ||complicationpillsmathematics.com^
 ||complimentingredientnightfall.com^
 ||complimentworth.com^
+||complyjudgementessay.com^
 ||compositeclauseviscount.com^
 ||compositeoverdo.com^
 ||compositeprotector.com^
@@ -7747,6 +7754,7 @@ vkcdnservice.appspot.com^
 ||dendranthe4edm7um.com^
 ||dendrito.name^
 ||dengelmeg.com^
+||denialjav128.fun^
 ||deniedsolesummer.com^
 ||denoughtanot.info^
 ||denoughtanoth.com^
@@ -7909,6 +7917,7 @@ vkcdnservice.appspot.com^
 ||dicheeph.com^
 ||dichoabs.net^
 ||diclotrans.com^
+||dicnkachuzca.com^
 ||dicouksa.com^
 ||dictatormiserablealec.com^
 ||dictatorsanguine.com^
@@ -9111,6 +9120,7 @@ vkcdnservice.appspot.com^
 ||entailgossipwrap.com^
 ||entangledivisionbeagle.com^
 ||entertaininauguratecontest.com^
+||entertainment3x.fun^
 ||entirelyhonorary.com^
 ||entitledbalcony.com^
 ||entitledpleattwinkle.com^
@@ -14631,6 +14641,7 @@ vkcdnservice.appspot.com^
 ||localslutsnearme.com^
 ||localsnaughty.com^
 ||locatedstructure.com^
+||locatejav182.fun^
 ||locatejest.com^
 ||locationaircondition.com^
 ||lockdowncautionmentally.com^
@@ -17156,6 +17167,7 @@ vkcdnservice.appspot.com^
 ||okrasbj6.de^
 ||okt5mpi4u570pygje5v9zy.com^
 ||oktarnxtozis.com^
+||oktranhfyfa.com^
 ||okueroskynt.com^
 ||okunyox.com^
 ||olayomad.com^
@@ -20520,6 +20532,7 @@ vkcdnservice.appspot.com^
 ||retherdoresper.info^
 ||rethinkshone.com^
 ||reticencecarefully.com^
+||reticencevaliddecoction.com^
 ||retimedtactor.shop^
 ||retintsmillion.com^
 ||retinueabash.com^
@@ -23657,6 +23670,7 @@ vkcdnservice.appspot.com^
 ||thautsie.net^
 ||thaveksi.net^
 ||thawbootsamplitude.com^
+||thawnappy.com^
 ||thawpublicationplunged.com^
 ||thduyzmbtrb.com^
 ||thdwaterverya.info^
@@ -31210,6 +31224,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collector-pxebumdlwe.pxchk.net^
+||sc.sc-analytics.jp^
 ||c.bazo.io^
 ||mdhv.io^
 ||nmrodam.com^
@@ -34890,6 +34906,10 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||pbc.realtor.com^
+||apihorizon.nnmtools.com^
+||cdnhorizon.nnmtools.com^
+||px-intl.ucweb.com^
 ||telemetry.vaultdcr.com^
 ||lighthouse.edoinc.com^
 ||staging-*.ispot.tv^
@@ -37650,6 +37670,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||adashx.ut.alibaba.com^
+||h-adashx.ut.alibaba.com^
 ||stats.calldorado.com^
 ||traffic.calldorado.com^
 ||track.aieic.com^
@@ -39204,7 +39226,6 @@ inapps.appsflyersdk.com^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
-||beyondsecurity.com^
 ||guarantee-cdn.com^
 ||nsg.symantec.com^
 ||privacy-policy.truste.com^
@@ -49971,6 +49992,8 @@ inapps.appsflyersdk.com^
 ||o4q.fun^
 ||jshilr.icu^
 ||hcinvdu.top^
+||fesnaed.com^
+||icinvdo.top^
 ||zavgrj.icu^
 ||stogmos.com^
 ||lclqbh.icu^

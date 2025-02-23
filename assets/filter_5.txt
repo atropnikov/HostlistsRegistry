@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-02-23T14:16:46.179Z
+! Last modified: 2025-02-23T15:17:23.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9214,6 +9214,7 @@
 ||c.tvsou.com^
 ||c.us.heap-api.com^
 ||c.vrvm.com^
+||c.webp2p.letv.com^
 ||c.wen.ru^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
@@ -34698,7 +34699,6 @@
 ||sg-public-data-api.hoyoverse.com^
 ||sg.log.ulivetv.net^
 ||sg01.rayjump.com^
-||sg7.pw^
 ||sgadkc.xyz^
 ||sgcwoe.xyz^
 ||sgfinery.com^
@@ -41709,7 +41709,6 @@
 ||wanderingchimneypainting.com^
 ||wangfenxi.com^
 ||wanintrudeabbey.com^
-||wanionsoblongs.com^
 ||wanlyavower.com^
 ||wannessdebus.com^
 ||wanodtbfif.com^
@@ -41920,7 +41919,6 @@
 ||webmine.cz^
 ||webminepool.com^
 ||webminerpool.com^
-||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
 ||webpsts.com^

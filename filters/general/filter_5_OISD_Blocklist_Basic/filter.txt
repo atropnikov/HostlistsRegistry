@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-02-25T14:18:56.690Z
+! Last modified: 2025-02-25T15:21:41.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37139,7 +37139,6 @@
 ||stripe.rs-1028-a.com^
 ||stripedcover.pro^
 ||stripedonerous.com^
-||striperoused.com^
 ||stripfitting.com^
 ||stripherselfscuba.com^
 ||strodefat.com^

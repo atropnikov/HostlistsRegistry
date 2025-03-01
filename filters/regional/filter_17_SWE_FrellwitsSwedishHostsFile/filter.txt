@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-02-26T06:27:52.486Z
+! Last modified: 2025-03-01T06:26:42.204Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -76,7 +76,6 @@
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.viralize.tv
 127.0.0.1 adsby.bidtheatre.com
-127.0.0.1 adserver.adtech.de
 127.0.0.1 adserver.ddev.site
 127.0.0.1 adserver.infotorg.se
 127.0.0.1 adserver.so-rummet.se
@@ -209,7 +208,6 @@
 127.0.0.1 browser.covatic.io
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 btloader.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
@@ -569,7 +567,6 @@
 127.0.0.1 macro.adnami2.io
 127.0.0.1 macro.adnami.io
 127.0.0.1 marfeel.com
-127.0.0.1 markhor.organicfruitapps.com
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomo.chsc.dk
@@ -742,7 +739,6 @@
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com
 127.0.0.1 se5.pliing.com
-127.0.0.1 secserv.adtech.de
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.adtraction.com
 127.0.0.1 secure.curl7bike.com
@@ -750,7 +746,6 @@
 127.0.0.1 secure.reaktion.se
 127.0.0.1 secure.statcounter.com
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 seenthis.se
 127.0.0.1 sentry.outbid.io
 127.0.0.1 seo.compado.com
@@ -830,7 +825,6 @@
 127.0.0.1 stats2.agilecrm.com
 127.0.0.1 stats2.ehandel.se
 127.0.0.1 statsapi.screen9.com
-127.0.0.1 statsapi.tiendeo.se
 127.0.0.1 step-dk.gscontxt.net
 127.0.0.1 sting.de17a.com
 127.0.0.1 storymedia.se
@@ -1092,7 +1086,6 @@
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
 127.0.0.1 www.flashb.id
-127.0.0.1 www.guesssverige.com.se
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.mymediaindex.com

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-01T01:41:22.856Z
+! Last modified: 2025-03-01T05:17:51.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11980,7 +11980,6 @@
 ||cpx24.com^
 ||cpxadroit.com^
 ||cpxdeliv.com^
-||cpxinteractive.com^
 ||cpxl.golem.de^
 ||cqcounter.com^
 ||cqcrci.xyz^
@@ -19447,7 +19446,6 @@
 ||gositego.live^
 ||gosoftwarenow.com^
 ||gossipinvest.com^
-||gossipsize.com^
 ||gossipylard.com^
 ||gossishauphy.com^
 ||gostats.com^

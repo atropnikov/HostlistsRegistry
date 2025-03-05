@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-05T11:16:38.426Z
+! Last modified: 2025-03-05T12:39:17.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7416,6 +7416,7 @@
 ||bankingbloatedcaptive.com^
 ||bankingconcede.com^
 ||bankingpotent.com^
+||banner-iframe.com^
 ||banner-link.com.br^
 ||banner.5giay.vn^
 ||banner.ambercoastcasino.com^
@@ -9253,7 +9254,6 @@
 ||bxacmsvmxb.com^
 ||bxbkh.love^
 ||bxejfqxxm.com^
-||bxheifoe.icu^
 ||bxlmrl.xyz^
 ||bxpwfdmmhlgccon.com^
 ||bxqgk.icu^

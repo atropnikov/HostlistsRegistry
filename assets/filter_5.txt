@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-05T16:31:19.883Z
+! Last modified: 2025-03-05T18:28:29.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2470,7 +2470,6 @@
 ||ad.bandlab.io^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -16012,7 +16011,6 @@
 ||eel.ieo.do^
 ||eel.transistor.fm^
 ||eemgl.com^
-||eenbies.com^
 ||eengange.com^
 ||eentent.streampiay.me^
 ||eepengoons.net^

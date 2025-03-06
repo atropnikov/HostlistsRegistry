@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-06T03:28:21.520Z
+! Last modified: 2025-03-06T04:24:35.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11911,7 +11911,6 @@
 ||cp.pushwoosh.com^
 ||cp.qbaobei.com^
 ||cp2.eastmoney.com^
-||cpa-optimizer.online^
 ||cpa3iqcp.de^
 ||cpabeyond.com^
 ||cpaconvtrk.net^
@@ -18766,7 +18765,6 @@
 ||gdlxtjk.com^
 ||gdm1.toner.fr^
 ||gdmconvtrck.com^
-||gdmdigital.com^
 ||gdmgsecure.com^
 ||gdn.bigfishgames.com^
 ||gdrcaguddyj.space^

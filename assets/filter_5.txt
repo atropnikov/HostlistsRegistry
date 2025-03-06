@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-06T05:19:29.046Z
+! Last modified: 2025-03-06T06:27:50.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12025,7 +12025,6 @@
 ||cpx.to^
 ||cpx.vnecdn.com^
 ||cpx24.com^
-||cpxadroit.com^
 ||cpxdeliv.com^
 ||cpxl.golem.de^
 ||cqcounter.com^
@@ -22520,7 +22519,6 @@
 ||jcosjpir.com^
 ||jcount.com^
 ||jcpjfyikk.dogbonemarket.com^
-||jcrnbnw.com^
 ||jcyjly.com^
 ||jd3j7g5z1fqs.com^
 ||jdctduin.com^

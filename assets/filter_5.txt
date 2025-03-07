@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-06T23:18:45.137Z
+! Last modified: 2025-03-07T01:38:10.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -777,6 +777,7 @@
 ||380.hotpix.fr^
 ||38167473.xyz^
 ||38835571.xyz^
+||388533c5eb.com^
 ||38941752.xyz^
 ||38a3a42162.25e1657c6a.com^
 ||38ds89f8.de^
@@ -806,7 +807,6 @@
 ||3e0605983a.com^
 ||3e1898dbbe.com^
 ||3e6072834f.com^
-||3e9396098e.388533c5eb.com^
 ||3ead4fd497.com^
 ||3ez1ja1uq3.ru^
 ||3fc0ebfea0.com^
@@ -8186,6 +8186,7 @@
 ||bid.glass^
 ||bid.mbidtg.com^
 ||bid.onclcktg.com^
+||bidarblam.com^
 ||bidbeneficial.com^
 ||bidberry.net^
 ||bidclickmedia.com^
@@ -15956,7 +15957,6 @@
 ||edioca.com^
 ||edirectuklyeco.info^
 ||edition25.com^
-||editionoverlookadvocate.com^
 ||ediva.gr^
 ||edixagnesag.net^
 ||edlilu.com^
@@ -18810,6 +18810,7 @@
 ||geejetag.com^
 ||geejofeecher.top^
 ||geek-nerd-server.firebaseapp.com^
+||geekries.com^
 ||geeptaunip.net^
 ||geethaiw.xyz^
 ||geethoap.com^
@@ -20237,6 +20238,7 @@
 ||hastecoat.com^
 ||hatagashira.com^
 ||hatboxsabre.top^
+||hatchaxeeftaist.com^
 ||hatchord.com^
 ||hatedhazeflutter.com^
 ||hatefulbane.com^
@@ -29926,6 +29928,7 @@
 ||petchoub.com^
 ||petendereruk.com^
 ||peterjoggle.com^
+||petherobjure.top^
 ||petrelbeheira.website^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
@@ -33195,6 +33198,7 @@
 ||retrefsf.cn^
 ||retrieval-bd.duote.com^
 ||retrievereasoninginjure.com^
+||retrosowenian.shop^
 ||retrostingychemical.com^
 ||retryngs.com^
 ||retsifergoumti.net^
@@ -38899,7 +38903,6 @@
 ||tizer.medikforum.ru^
 ||tizerclik.com^
 ||tizermy.net^
-||tjaard11.xyz^
 ||tjfot.com^
 ||tjk-njk.com^
 ||tjpzz.buzz^
@@ -41710,6 +41713,7 @@
 ||viper.sitesauce.app^
 ||viperishly.com^
 ||vipgogo123.site^
+||viphirsaick.net^
 ||vipicmou.net^
 ||viral481.com^
 ||viral782.com^
@@ -42984,7 +42988,6 @@
 ||workroommarriage.com^
 ||world-2012.info^
 ||world-claim.org^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldpraisedcloud.com^
 ||worldswanmixed.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-09T01:18:11.687Z
+! Last modified: 2025-03-09T03:19:03.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7653,7 +7653,6 @@
 ||bavotr.xyz^
 ||bawdynemas.click^
 ||baxdcynptb.xyz^
-||baxter.olx.org^
 ||bayctrk.com^
 ||baywednesday.com^
 ||baywigsign.live^
@@ -10012,6 +10011,7 @@
 ||cdn.rlnads.net^
 ||cdn.sdtraff.com^
 ||cdn.shrtfly.vip^
+||cdn.slots.baxter.olx.org^
 ||cdn.smartnews-ads.com^
 ||cdn.smlog.co.kr^
 ||cdn.sphinxtube.com^

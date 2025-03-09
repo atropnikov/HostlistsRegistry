@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-09T17:14:14.166Z
+! Last modified: 2025-03-09T18:20:09.139Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -262,6 +262,7 @@
 ||14202444.xyz^
 ||142f8fb46a.com^
 ||1437953666.rsc.cdn77.org^
+||14381834.xyz^
 ||143a91b3e6.com^
 ||1463.info^
 ||148dfe140d0f3d5e.com^
@@ -9630,6 +9631,7 @@
 ||cap-cap-pop.com^
 ||capaciousdrewreligion.com^
 ||capawhile.com^
+||capefast.com^
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^

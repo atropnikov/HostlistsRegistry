@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-03-14T01:37:03.214Z
+! Last modified: 2025-03-14T06:27:38.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -94927,6 +94927,7 @@ inapps.appsflyersdk.com^
 ||010172.com^
 ||08ro35delw.ru^
 ||0fb.co^
+||0fb.info^
 ||0fb.ltd^
 ||113-bca.online^
 ||11tiki.com^
@@ -95673,6 +95674,8 @@ inapps.appsflyersdk.com^
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook10002158.blogspot.com^
@@ -95708,6 +95711,7 @@ inapps.appsflyersdk.com^
 ||fe-shop.cc^
 ||fe.lwcvn.com^
 ||feacbookk.com^
+||fecabooke.com^
 ||fecabookk.com^
 ||fefqkn.org^
 ||ff-garena-membership-2021.com^
@@ -97204,6 +97208,7 @@ inapps.appsflyersdk.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profile-id.co^
 ||profileid.info^
 ||profileid.site^
 ||prolicensekeys.com^
@@ -98354,6 +98359,7 @@ inapps.appsflyersdk.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsukien2021vn.com^
 ||tinthuongtrian.com^
@@ -98365,6 +98371,7 @@ inapps.appsflyersdk.com^
 ||tintrian2022.com^
 ||tintuc-24h.com^
 ||tintucnganhang.fun^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||tinvietttt.com^
 ||titki55.cc^
@@ -99013,6 +99020,7 @@ inapps.appsflyersdk.com^
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
+||vip1-droppii.com^
 ||vip8591.net^
 ||vipcard-vib.com^
 ||vipgooshop.com^
@@ -99059,6 +99067,7 @@ inapps.appsflyersdk.com^
 ||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^
@@ -99509,6 +99518,8 @@ inapps.appsflyersdk.com^
 ||xielloltv.com^
 ||lqfctb.icu^
 ||fpxhdx.icu^
+||xbfk.cn^
+||pdochgl.top^
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^

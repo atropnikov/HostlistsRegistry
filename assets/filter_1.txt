@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-03-13T18:27:46.056Z
+! Last modified: 2025-03-14T01:37:03.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5614,6 +5614,20 @@
 ||static-rtb2.torchad.com^
 ||static.rtb-serve.com^
 ||d162h6x3rxav67.cloudfront.net^
+||creative.boyfriend.show^
+||creative.camsplanetlive.com^
+||creative.celebjihad.live^
+||creative.chiccams.com^
+||creative.drtuberlive.com^
+||creative.live.javmix.tv^
+||creative.myavlive.com^
+||creative.rarecams.com^
+||creative.sexfortokens.com^
+||creative.shemale.show^
+||creative.showtime-cams.live^
+||creative.superchatlive.com^
+||creative.tklivechat.com^
+||creative.tranny.show^
 ||advert*.livesportmedia.eu^
 ||vtrk.dv.tech^
 ||cdn-media.brightline.tv^
@@ -18455,6 +18469,7 @@ vkcdnservice.appspot.com^
 ||junkyadexchange.com^
 ||junmediadirect.com^
 ||junmediadirect1.com^
+||juoykjbernjrs.com^
 ||jupabwmocgqxeo.com^
 ||jurantsepinine.shop^
 ||jurgeeph.net^
@@ -22544,6 +22559,7 @@ vkcdnservice.appspot.com^
 ||otoadom.com^
 ||otofthesefa.org^
 ||otomacotelugu.com^
+||otoyueuprumok.icu^
 ||otrwaram.com^
 ||otterwoodlandobedient.com^
 ||otvjsfmh.tech^
@@ -30293,6 +30309,7 @@ vkcdnservice.appspot.com^
 ||veepteecejoushe.net^
 ||veepteero.com^
 ||veeqlly.com^
+||veezljzkrjakz.top^
 ||veezudeedou.net^
 ||vegetablesparrotplus.com^
 ||vegetationadmirable.com^
@@ -31164,6 +31181,7 @@ vkcdnservice.appspot.com^
 ||whitenoisenews.com^
 ||whitepark9.com^
 ||whitepinaforesho.org^
+||whizzerrapiner.com^
 ||whoansodroas.net^
 ||whoarguwaghu.net^
 ||whoawoansoo.com^
@@ -99487,6 +99505,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||lmeurbnjs.com^
+||xielloltv.com^
+||lqfctb.icu^
+||fpxhdx.icu^
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^

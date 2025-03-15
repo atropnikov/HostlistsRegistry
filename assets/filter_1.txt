@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-03-15T01:36:21.571Z
+! Last modified: 2025-03-15T12:35:29.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33808,6 +33808,7 @@ vkcdnservice.appspot.com^
 ||54199287.xyz^
 ||55766925.xyz^
 ||56514411.xyz^
+||57473094.xyz^
 ||59644010.xyz^
 ||59768910.xyz^
 ||5cc3ac02.xyz^
@@ -36374,6 +36375,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
@@ -88406,7 +88408,6 @@ inapps.appsflyersdk.com^
 ||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
-||metrics.nsureapi.com^
 ||metrics.onshape.com^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -97136,6 +97137,7 @@ inapps.appsflyersdk.com^
 ||nykkky.com^
 ||nzu66938s.com^
 ||nzx65821s.com^
+||offb.info^
 ||offer.great1waytowsuccess.com^
 ||officials-kmspico.com^
 ||ofth546ebr.cfd^
@@ -99557,6 +99559,7 @@ inapps.appsflyersdk.com^
 ||lftcph.icu^
 ||ak03150hou.com^
 ||guqransoq.com^
+||ghegaintp.com^
 ||lmeurbnjs.com^
 ||xielloltv.com^
 ||lqfctb.icu^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-16T09:18:20.620Z
+! Last modified: 2025-03-16T10:19:02.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4272,7 +4272,6 @@
 ||affiliates.babylon.com^
 ||affiliates.cdkeys.com^
 ||affiliates.cupidplc.com^
-||affiliates.digitalriver.com^
 ||affiliates.genealogybank.com^
 ||affiliates.globat.com^
 ||affiliates.goodvibes.com^
@@ -16984,7 +16983,6 @@
 ||explainpompeywistful.com^
 ||explodedecompose.com^
 ||exploderunway.com^
-||exploitpeering.com^
 ||explorads.com^
 ||explore-site.com^
 ||expmediadirect.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-19T18:28:32.916Z
+! Last modified: 2025-03-19T20:22:12.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5924,6 +5924,7 @@
 ||api-exponea.o2.sk^
 ||api-fangarma.utyug.media^
 ||api-logdev.sohatv.vn^
+||api-notify.markarch.com^
 ||api.140proof.com^
 ||api.abcsinsights.com^
 ||api.ad-locus.com^
@@ -39632,7 +39633,6 @@
 ||track.uppromote.com^
 ||track.us.org^
 ||track.veedio.it^
-||track.venatusmedia.com^
 ||track.vio.edu.vn^
 ||track.vscash.com^
 ||track.vtcnews.vn^
@@ -41544,6 +41544,7 @@
 ||vempeeda.com^
 ||vempozah.net^
 ||vemtoutcheeg.com^
+||venatusmedia.com^
 ||vendigamus.com^
 ||vendimob.pl^
 ||vendingboatsunbutton.com^
@@ -41803,7 +41804,6 @@
 ||vindictivegrabnautical.com^
 ||vinegardaring.com^
 ||vingartistictaste.com^
-||vinoinqih.com^
 ||vinosedermol.com^
 ||vinsgcs.com^
 ||vintagerespectful.com^

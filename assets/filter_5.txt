@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-19T07:20:17.636Z
+! Last modified: 2025-03-19T13:28:31.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40207,7 +40207,6 @@
 ||trk-consulatu.com^
 ||trk-epicurei.com^
 ||trk-pcweb.api.zaloapp.com^
-||trk-vod.com^
 ||trk.123c.vn^
 ||trk.a-dsp.com^
 ||trk.adbutter.net^
@@ -40757,7 +40756,6 @@
 ||uitesousefulheady.org^
 ||uixml.bidcampaign.com^
 ||ujovcb.cn^
-||ujscdn.com^
 ||ujtgtmj.com^
 ||ujw1y54r.fun^
 ||ujxrfkhsiss.xyz^

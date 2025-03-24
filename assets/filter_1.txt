@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-03-24T01:42:42.720Z
+! Last modified: 2025-03-24T06:29:36.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -93938,6 +93938,7 @@ inapps.appsflyersdk.com^
 ||cdn.routy.app^
 ||cdn.shareaholic.net^
 ||cdn.sprida.se^
+||cdn.stroeerdigitalgroup.de^
 ||cdn.subscribers.com^
 ||cdn.userreport.com^
 ||cdn.webpushr.com^
@@ -94055,6 +94056,7 @@ inapps.appsflyersdk.com^
 ||m1.analytics.sitevision-cloud.se^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
+||matomo.lantmannen.com^
 ||matomo.lulea.se^
 ||matomo.mindbite.cloud^
 ||matomo.studio.se^
@@ -100054,6 +100056,8 @@ inapps.appsflyersdk.com^
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
+||dtdqpc.top^
+||lsyaicl.icu^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
@@ -104608,6 +104612,7 @@ analytics-*.aasaam.com
 ||tinancefa.org^
 ||chancx.io^
 ||falixa.com^
+||izonekala.com^
 ||laxsson.com^
 ||tradergpt.ai^
 ||mat-pnu.ir^

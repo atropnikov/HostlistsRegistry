@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-03-19T04:24:11.670Z
+! Last modified: 2025-03-24T05:20:08.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -69,6 +69,7 @@
 127.0.0.1 ads.skargarden.se
 127.0.0.1 ads.skidspar.se
 127.0.0.1 ads.skolvarlden.se
+127.0.0.1 ads.sportslocalmedia.com
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ungdomar.se
@@ -280,6 +281,7 @@
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.sprida.se
+127.0.0.1 cdn.stroeerdigitalgroup.de
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.unblockia.com
@@ -574,6 +576,7 @@
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomo.chsc.dk
 127.0.0.1 matomo.goteborgco.se
+127.0.0.1 matomo.lantmannen.com
 127.0.0.1 matomo.lulea.se
 127.0.0.1 matomo.mindbite.cloud
 127.0.0.1 matomo.studio.se

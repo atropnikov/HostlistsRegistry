@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-03-24T05:20:08.726Z
+! Last modified: 2025-03-25T04:25:33.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -132,7 +132,6 @@
 127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.sjf.se
 127.0.0.1 analytics.sleeknote.com
-127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.svenskdam.se
 127.0.0.1 analytics.svt.se
 127.0.0.1 analytics.teknikveckan.se
@@ -141,6 +140,7 @@
 127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-sdk.yle.fi
 127.0.0.1 analytics-smhise.smhi.se
+127.0.0.1 analytics-wpt.smhi.se
 127.0.0.1 analytics.ci-360.se
 127.0.0.1 angry-golick-2a96e5.netlify.app
 127.0.0.1 annoncer.nichehuset.dk

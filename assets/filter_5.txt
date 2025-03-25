@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-24T23:20:14.824Z
+! Last modified: 2025-03-25T01:40:48.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6365,6 +6365,7 @@
 ||asadirectrestof.com^
 ||asafesite.com^
 ||asajojgerewebnew.com^
+||asanalytics.booking.com^
 ||asandcomemu.info^
 ||asbaloney.com^
 ||asbtowhysyfcp.com^
@@ -11321,6 +11322,7 @@
 ||conff.dc.oppomobile.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config.appjolt.com^
+||config.emb-api.com^
 ||config.jpush.cn^
 ||configurationluxuriantinclination.com^
 ||confinecrisisorbit.com^
@@ -11705,6 +11707,7 @@
 ||counteractpull.com^
 ||counterfeitbear.com^
 ||counterfeitnearby.com^
+||counters.booking.com^
 ||counters.freewebs.com^
 ||countessrestrainasks.com^
 ||counting.kmindex.ru^
@@ -13708,6 +13711,7 @@
 ||data.digitalks.az^
 ||data.econa.com^
 ||data.eetech.com^
+||data.emb-api.com^
 ||data.embeddables.com^
 ||data.gosquared.com^
 ||data.kameleoon.io^
@@ -20346,6 +20350,7 @@
 ||hilove.life^
 ||hilsaims.net^
 ||hiltanseen.net^
+||hilton.data.adobedc.net^
 ||himediads.com^
 ||himekingrow.com^
 ||himgta.com^
@@ -29692,6 +29697,7 @@
 ||phoossax.net^
 ||phoosuss.net^
 ||phoradevily.com^
+||phorralut.com^
 ||phortaub.com^
 ||photcheefets.com^
 ||photo-ads.co.uk^

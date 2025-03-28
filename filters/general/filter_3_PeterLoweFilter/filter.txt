@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-03-27T08:26:30.440Z
+! Last modified: 2025-03-28T13:27:43.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -146,7 +146,6 @@
 ||ad.tv2.no^
 ||ad.universcine.com^
 ||ad.usatoday.com^
-||ad.virtual-nights.com^
 ||ad.wavu.hu^
 ||ad.weatherbug.com^
 ||ad.wsod.com^
@@ -286,7 +285,6 @@
 ||admex.com^
 ||admidadsp.com^
 ||adminder.com^
-||adminshop.com^
 ||admix.in^
 ||admixer.net^
 ||admized.com^
@@ -340,7 +338,6 @@
 ||ads.365.mk^
 ||ads.5ci.lt^
 ||ads.73dpi.com^
-||ads.a-snag-smartmoney.fyi^
 ||ads.aavv.com^
 ||ads.abovetopsecret.com^
 ||ads.aceweb.net^
@@ -593,7 +590,6 @@
 ||ads.v-lazer.com^
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
-||ads.virtual-nights.com^
 ||ads.virtuopolitan.com^
 ||ads.vnumedia.com^
 ||ads.walkiberia.com^
@@ -620,7 +616,6 @@
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
 ||ads1.rne.com^
-||ads1.virtual-nights.com^
 ||ads10.speedbit.com^
 ||ads180.com^
 ||ads2.brazzers.com^
@@ -630,7 +625,6 @@
 ||ads2.hsoub.com^
 ||ads2.net-communities.co.uk^
 ||ads2.rne.com^
-||ads2.virtual-nights.com^
 ||ads2.webdrive.no^
 ||ads2.xnet.cz^
 ||ads2004.treiberupdate.de^
@@ -638,11 +632,8 @@
 ||ads3-adnow.com^
 ||ads3.contentabc.com^
 ||ads3.gamecity.net^
-||ads3.virtual-nights.com^
 ||ads4.gamecity.net^
-||ads4.virtual-nights.com^
 ||ads4homes.com^
-||ads5.virtual-nights.com^
 ||ads6.gamecity.net^
 ||ads7.gamecity.net^
 ||adsafeprotected.com^
@@ -835,7 +826,6 @@
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
 ||adzestocp.com^
-||adzrevads.com^
 ||aerserv.com^
 ||af-ad.co.uk^
 ||affec.tv^
@@ -970,6 +960,7 @@
 ||at-o.net^
 ||atdmt.com^
 ||athena-ads.wikia.com^
+||ato.mx^
 ||attractionbanana.com^
 ||attribution.report^
 ||atwola.com^
@@ -1480,9 +1471,7 @@
 ||direct-events-collector.spot.im^
 ||direct-re2.pl^
 ||directaclick.com^
-||directleads.com^
 ||directorym.com^
-||directtrack.com^
 ||discountclick.com^
 ||discreetfield.com^
 ||displayvertising.com^
@@ -2299,7 +2288,6 @@
 ||netaffiliation.com^
 ||netagent.cz^
 ||netclickstats.com^
-||netcommunities.com^
 ||netdirect.nl^
 ||netech.postaffiliatepro.com^
 ||netmera-web.com^
@@ -2368,7 +2356,6 @@
 ||onclasrv.com^
 ||onclickads.net^
 ||oneandonlynetwork.com^
-||onenetworkdirect.com^
 ||onestat.com^
 ||onestatfree.com^
 ||online-metrix.net^
@@ -2673,7 +2660,6 @@
 ||reduxmedia.com^
 ||referralware.com^
 ||referrer.disqus.com^
-||regnow.com^
 ||regularplants.com^
 ||reklam.rfsl.se^
 ||reklama.mironet.cz^
@@ -2785,7 +2771,6 @@
 ||screechingfurniture.com^
 ||screechingstocking.com^
 ||screechingstove.com^
-||scripte-monster.de^
 ||scrubswim.com^
 ||sdkfjxjertertry.com^
 ||seadform.net^
@@ -3173,7 +3158,6 @@
 ||tracker.mmdlv.it^
 ||tracker.samplicio.us^
 ||tracking.42-01pr5-osm-secure.co.uk^
-||tracking.5-47737-bi.co.uk^
 ||tracking.epicgames.com^
 ||tracking.hyros.com^
 ||tracking.ibxlink.com^

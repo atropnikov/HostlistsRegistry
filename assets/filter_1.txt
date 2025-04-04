@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-04T06:29:07.855Z
+! Last modified: 2025-04-04T12:40:20.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||srvtensz.com^
 ||exo1.georealcdn.com^
 ||booksylatron.com^
 ||jouchithep.net^
@@ -30441,6 +30442,7 @@ vkcdnservice.appspot.com^
 ||windingnegotiation.com^
 ||windingsynonym.com^
 ||windlebrogues.com^
+||windowsdnsservicereload.icu^
 ||windowsuseful.com^
 ||windrightyshade.com^
 ||windsplay.com^
@@ -36489,6 +36491,7 @@ vkcdnservice.appspot.com^
 ||counter.kikibobo.top^
 ||c1.politexpert.ru^
 ||cdn.logrocket.com^
+||lrkt-in.com^
 ||ipmeta.io^
 ||analytics.daasrv.net^
 ||analytics.fatmedia.io^
@@ -87432,6 +87435,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||pangolin-sdk-toutiao-b.com^
 ||ulog-sdk.gifshow.com^
 ||ulog*.gifshow.com^
 ||logapi-and.zhipin.com^
@@ -99570,6 +99574,7 @@ inapps.appsflyersdk.com^
 ||pmnyzf.icu^
 ||hh04040aoik.com^
 ||hh04041aoik.com^
+||vruzexzl.com^
 ||dreiquksz.com^
 ||so04030koaq.com^
 ||pqnonh.top^

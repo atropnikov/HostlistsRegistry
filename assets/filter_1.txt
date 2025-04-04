@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-03T18:28:05.829Z
+! Last modified: 2025-04-04T01:40:35.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6734,6 +6734,7 @@ vkcdnservice.appspot.com^
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abpnow.xyz^
+||abpwivog.com^
 ||abridgesynchronizepleat.com^
 ||abruptalertness.com^
 ||abruptboroughjudgement.com^
@@ -12290,6 +12291,7 @@ vkcdnservice.appspot.com^
 ||denbeigemark.com^
 ||dendrito.name^
 ||deniedsolesummer.com^
+||denierswildest.top^
 ||denoughtanot.info^
 ||denoughtanoth.com^
 ||densigissy.net^
@@ -17906,6 +17908,7 @@ vkcdnservice.appspot.com^
 ||jqmebveababl.top^
 ||jqmebwvmbbby.top^
 ||jqmebwvmbrvz.top^
+||jqpuqbkbauung.xyz^
 ||jqtfoe92.com^
 ||jqtqoknktzy.space^
 ||jqtree.com^
@@ -18410,6 +18413,7 @@ vkcdnservice.appspot.com^
 ||ksnooastqr.xyz^
 ||kspmaaiayadg.com^
 ||kstjqjuaw.xyz^
+||kstnyuhvyrtpp.club^
 ||ksyompbwor.xyz^
 ||kteopzgukl.com^
 ||ktikpuruxasq.com^
@@ -30287,6 +30291,7 @@ vkcdnservice.appspot.com^
 ||wherat.com^
 ||where-to.shop^
 ||where.com^
+||wherebywhatsoeverduck.com^
 ||whereres.com^
 ||whereuponcomicsraft.com^
 ||wherevertogo.com^
@@ -99539,6 +99544,7 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||ilcq.cn^
 ||dreiquksz.com^
 ||so04030koaq.com^
 ||pqnonh.top^

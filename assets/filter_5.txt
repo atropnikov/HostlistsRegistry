@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-04-08T16:26:47.364Z
+! Last modified: 2025-04-08T19:17:31.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20950,7 +20950,6 @@
 ||hzstats.com^
 ||hzychcvdmjo.com^
 ||i-c-c-c.com^
-||i-mobile.co.jp^
 ||i-reklama.sk^
 ||i-svzgrtibs.rocks^
 ||i-vengo.com^
@@ -21334,6 +21333,7 @@
 ||immortaldeliberatelyfined.com^
 ||immoxdzdke.com^
 ||imndl.icu^
+||imp-adedge.i-mobile.co.jp^
 ||imp.accesstra.de^
 ||imp.ad-plus.cn^
 ||imp.dmm.co.jp^

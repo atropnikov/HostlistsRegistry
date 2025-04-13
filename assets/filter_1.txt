@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-12T18:25:55.313Z
+! Last modified: 2025-04-13T03:08:15.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -88896,6 +88896,7 @@ inapps.appsflyersdk.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||bento.agoda.com^
+||bi-metrics.aramuz.net^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
@@ -89914,6 +89915,7 @@ inapps.appsflyersdk.com^
 ||admile.ru^
 ||adsmediator.com^
 ||airlogs.ru^
+||apptracer.ru^
 ||avsplow.com^
 ||ban.su^
 ||bidderrtb.com^
@@ -90056,6 +90058,7 @@ inapps.appsflyersdk.com^
 ||tracking.srv2.de^
 ||tracking.webtradecenter.com^
 ||trecker.aklamio.com^
+||tw.reppublika.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
 ||x.bloggurat.net^
@@ -100257,6 +100260,9 @@ inapps.appsflyersdk.com^
 ||okeaxgugq.com^
 ||kvqp.cn^
 ||mvcnmtx.top^
+||ifethbrzb.com^
+||nnntxx.icu^
+||okvt.cn^
 ||ruvgbv.icu^
 ||chugveasoy.com^
 ||sfile.top^

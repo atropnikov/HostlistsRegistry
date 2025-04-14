@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-04-10T20:22:18.488Z
+! Last modified: 2025-04-14T06:31:33.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7818,7 +7818,6 @@
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
-0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com

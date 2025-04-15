@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-04-15T08:28:40.263Z
+! Last modified: 2025-04-15T09:23:25.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16084,7 +16084,6 @@
 ||emdcadvertise.eastmoney.com^
 ||emediate.dk^
 ||emediate.eu^
-||emediate.se^
 ||emerald.aomg5bzv7.com^
 ||emeraldhecticteapot.com^
 ||emergedmassacre.com^
@@ -33991,7 +33990,6 @@
 ||saylnk.com^
 ||saymedia.com^
 ||saymustif.live^
-||saysidewalk.com^
 ||sb-hip-happy.ourservice.jp^
 ||sb-stat1.com^
 ||sb.scorecard.research.com^

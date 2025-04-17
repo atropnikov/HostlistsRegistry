@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-17T06:29:32.630Z
+! Last modified: 2025-04-17T12:41:03.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6981,6 +6981,7 @@ vkcdnservice.appspot.com^
 ||ad.linksynergy.com^
 ||ad.mox.tv^
 ||ad.tradertimerz.media^
+||ad2f8c6f8e.com^
 ||ad2the.net^
 ||ad4.com.cn^
 ||ad4905c1db.com^
@@ -8313,6 +8314,7 @@ vkcdnservice.appspot.com^
 ||aqjbfed.com^
 ||aqkkoalfpz.com^
 ||aqncinxrexa.com^
+||aqndcybah.com^
 ||aqnnysd.com^
 ||aqptziligoqn.com^
 ||aqpwckoqbjikrg.xyz^
@@ -11669,6 +11671,7 @@ vkcdnservice.appspot.com^
 ||copieraback.com^
 ||copiousgoutswimwear.com^
 ||coppercranberrylamp.com^
+||copycatsoirees.top^
 ||copyrightmonastery.com^
 ||cor8ni3shwerex.com^
 ||cordclck.cc^
@@ -13595,6 +13598,7 @@ vkcdnservice.appspot.com^
 ||egykofo.com^
 ||eh0ag0-rtbix.top^
 ||ehgavvcqj.xyz^
+||ehkualecb.com^
 ||ehlrxixabvzbo.tech^
 ||ehokeeshex.com^
 ||ehrydnmdoe.com^
@@ -19611,6 +19615,7 @@ vkcdnservice.appspot.com^
 ||lwonclbench.com^
 ||lwoqroszooq.com^
 ||lwrnikzjpp.com^
+||lwxegrybymzah.love^
 ||lwxuo.com^
 ||lx2rv.com^
 ||lxiapwwqfcbms.tech^
@@ -20051,6 +20056,7 @@ vkcdnservice.appspot.com^
 ||mediumdisarmament.com^
 ||mediumtunapatter.com^
 ||medleyads.com^
+||medlikeamate.org^
 ||medoofty.com^
 ||medriz.xyz^
 ||medusasglance.com^
@@ -22492,6 +22498,7 @@ vkcdnservice.appspot.com^
 ||ozectynptd.com^
 ||ozkpkocib.com^
 ||ozlenbl.com^
+||ozmbzowg.com^
 ||ozmspawupo.com^
 ||ozobsaib.com^
 ||ozonemedia.com^
@@ -27589,6 +27596,7 @@ vkcdnservice.appspot.com^
 ||sunflowercoastlineprobe.com^
 ||sunflowerinformed.com^
 ||sunglassesexpensive.com^
+||sungtoaz.club^
 ||sunkwarriors.com^
 ||sunmediaads.com^
 ||sunnshele.com^
@@ -29706,6 +29714,7 @@ vkcdnservice.appspot.com^
 ||vazypteke.pro^
 ||vbhuivr.com^
 ||vbmjlevwwvyzj.top^
+||vbptgoyketwhv.global^
 ||vbrusdiifpfd.com^
 ||vbtrax.com^
 ||vcdc.com^
@@ -30038,6 +30047,7 @@ vkcdnservice.appspot.com^
 ||voicepainlessdonut.com^
 ||voicepeaches.com^
 ||voicepythons.shop^
+||voidthemhen.org^
 ||vokaunget.xyz^
 ||volatintptr.com^
 ||volcaedecants.shop^
@@ -30977,6 +30987,7 @@ vkcdnservice.appspot.com^
 ||wysasys.com^
 ||wyvlljvbbjvvm.top^
 ||wyvlllooalobz.top^
+||wywkwqzkavlvw.top^
 ||wzcuinglezyz.one^
 ||wzijtuxzut.com^
 ||wzk5ndpc3x05.com^
@@ -85681,6 +85692,10 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||sspnm.emol.com^
+||ssp.emol.com^
+||stats.emol.com^
+||rvv.emol.com^
 ||rma.homedepot.com^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||backend-pixel.zotek.io^
@@ -90686,6 +90701,7 @@ inapps.appsflyersdk.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zalo.me^
+||ads-redis.ecn.cl^
 ||publi.elliberal.com.ar^
 ||xad.dnoticias.pt^
 ||adclient-uol.lp.uol.com.br^
@@ -100582,7 +100598,11 @@ inapps.appsflyersdk.com^
 ||hbeafcac.top^
 ||stildreans.com^
 ||uucnmtt.top^
+||iwcnmto.top^
+||dighavrap.com^
+||chienzul.com^
 ||vunqrotm.com^
+||lkmgjfkhfh.top^
 ||ghrs.cn^
 ||pjbbhj.icu^
 ||wucnmte.top^

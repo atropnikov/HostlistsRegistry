@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-04-17T19:16:27.309Z
+! Last modified: 2025-04-17T21:19:27.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42,7 +42,6 @@
 ||029519cbdc.com^
 ||02952346.xyz^
 ||03180d2d.live^
-||0342b40dd6.com^
 ||039858f297.com^
 ||03b5f525af.com^
 ||03e.info^
@@ -1040,7 +1039,6 @@
 ||5e6fac45ed.f7f23a189b.com^
 ||5ea36e0eb5.com^
 ||5ed55e7208.com^
-||5eef1ed9ac.com^
 ||5f6dmzflgqso.com^
 ||5fd74.v.fwmrm.net^
 ||5fe1611803.6cd84ae3ce.com^
@@ -2604,7 +2602,6 @@
 ||ad2.linxcz.cz^
 ||ad2.lupa.cz^
 ||ad2.udn.com^
-||ad2f8c6f8e.com^
 ||ad2games.com^
 ||ad2the.net^
 ||ad3.cross-a.net^
@@ -3184,6 +3181,7 @@
 ||ads-media.gameforge.com^
 ||ads-partners.coupang.com^
 ||ads-platform.zalo.me^
+||ads-privacy-api.prd.mz.internal.unity3d.com^
 ||ads-redis.ecn.cl^
 ||ads-resources.waze.com^
 ||ads-router-noneu.truecaller.com^
@@ -5368,6 +5366,7 @@
 ||analytics.gtflixtv.com^
 ||analytics.hardlightgames.com^
 ||analytics.hashnode.com^
+||analytics.hatech.dev^
 ||analytics.hebela.vn^
 ||analytics.helpukrainewinwidget.org^
 ||analytics.histmag.org^
@@ -6487,7 +6486,6 @@
 ||ashhgo.com^
 ||ashlarinaugur.com^
 ||ashlynnbrookevideos.com^
-||ashot.txxx.com^
 ||ashoupsu.com^
 ||ashow.pcpop.com^
 ||ashrafiaphacic.click^
@@ -6906,6 +6904,7 @@
 ||avatarthree.lol^
 ||avatarweb.site^
 ||avatraffic.com^
+||avaulroocke.com^
 ||avauntinnyard.shop^
 ||avazu.net^
 ||avazutracking.net^
@@ -8576,7 +8575,6 @@
 ||bogoloaner.click^
 ||bogrodius.com^
 ||bogus-disk.com^
-||bogus-town.com^
 ||bohkhufmvwim.online^
 ||bohonef.com^
 ||boilabsent.com^
@@ -10395,6 +10393,7 @@
 ||chicoamseque.net^
 ||chidir.com^
 ||chieflyquantity.com^
+||chienzul.com^
 ||chiglees.com^
 ||chihuahuadoorstoppond.com^
 ||chijauqybb.xyz^
@@ -14560,6 +14559,7 @@
 ||dig.bdurl.net^
 ||digestivepresenceclimb.com^
 ||diggingrebbes.com^
+||dighavrap.com^
 ||digi.vinut.com.vn^
 ||digiads.tv^
 ||digiadzone.com^
@@ -15218,6 +15218,7 @@
 ||doxihz.xyz^
 ||doyenssudsier.click^
 ||doyoudi.com^
+||dozenshallow.com^
 ||dozubatan.com^
 ||dp1fzft1fdb84.cloudfront.net^
 ||dp45nhyltt487.cloudfront.net^
@@ -16831,6 +16832,7 @@
 ||events.yourcx.io^
 ||eventsink.api.redbee.live^
 ||eventsproxy.gargantuan.futureplc.com^
+||eventsv2balanced.malpagames.com^
 ||eventtracking.hubapi.com^
 ||eventuallysmallestejection.com^
 ||eventucker.com^
@@ -16873,6 +16875,7 @@
 ||evzrqgvsgngmg.world^
 ||ewallowi.buzz^
 ||ewblapjfknviwm.com^
+||ewdk.cn^
 ||ewdxisdrc.com^
 ||eweconciliate.com^
 ||eweriow.top^
@@ -17525,6 +17528,7 @@
 ||ffdafx.xyz^
 ||fffbd1538e.com^
 ||ffjevt.icu^
+||fflbpi.top^
 ||ffofcetgurwrd.com^
 ||fft.delovoemesto.ru^
 ||fgbnnholonge.info^
@@ -20255,6 +20259,7 @@
 ||hb.vhsrv.com^
 ||hb94dnbe.de^
 ||hbbynt.xyz^
+||hbeafcac.top^
 ||hbhood.com^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hbidfirrysrvw.global^
@@ -22251,6 +22256,7 @@
 ||iwanshang8.asia^
 ||iwantuonly.com^
 ||iwantusingle.com^
+||iwcnmto.top^
 ||iwe.ktvgv.com^
 ||iwerioo.top^
 ||iwhaurouzy.net^
@@ -24279,6 +24285,7 @@
 ||lkhfkjp.com^
 ||lkiwpytulwt.com^
 ||lkixinoql.com^
+||lkmgjfkhfh.top^
 ||lkpmprksau.com^
 ||lkqaq.icu^
 ||lkqd.net^
@@ -24298,6 +24305,7 @@
 ||llpzoaezdwwah.tech^
 ||llq9q2lacr.com^
 ||lltynlnoui.com^
+||llvlzvroqowmm.top^
 ||llyighaboveth.com^
 ||llyvjs.com^
 ||lm.ijq.tv^
@@ -24712,7 +24720,6 @@
 ||login.pressizeteam.com^
 ||login.rankorate.com^
 ||login.re-media.info^
-||login.reklama.network^
 ||login.rtxplatform.com^
 ||login.showcasead.com^
 ||login.sonital.com^
@@ -26808,7 +26815,6 @@
 ||mudodqjhyc.com^
 ||mudrouraung.net^
 ||muellfrei.de^
-||muffled-active.com^
 ||mufflercypress.com^
 ||mugleafly.com^
 ||mugpothop.com^
@@ -29047,6 +29053,7 @@
 ||oubsooceen.net^
 ||ouchruse.com^
 ||oucmaimsackool.net^
+||oucnmtk.top^
 ||oucouksirt.com^
 ||oudeemeewhaims.com^
 ||oudseroa.com^
@@ -30535,6 +30542,7 @@
 ||ployingcurship.com^
 ||plqbxvnjxq92.com^
 ||plrst.com^
+||pls.prd.mz.internal.unity3d.com^
 ||pltamaxr.com^
 ||pluckymausoleum.com^
 ||pludsibbs.shop^
@@ -30929,6 +30937,7 @@
 ||pqnonh.top^
 ||pqvpcahwuvfo.life^
 ||pqvzlltzxbs.global^
+||pqyydjswkyc.com^
 ||pqzjki.cn^
 ||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
@@ -31245,6 +31254,7 @@
 ||proll.shemrec.cc^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
+||promdamagecomplain.com^
 ||promen.monster^
 ||promenaded.autos^
 ||promerycergerful.com^
@@ -31437,6 +31447,7 @@
 ||psoostelrupt.net^
 ||psootaun.com^
 ||psootchu.net^
+||psophagrooky.net^
 ||psoroumukr.com^
 ||psothoms.com^
 ||psotudev.com^
@@ -32029,6 +32040,7 @@
 ||qjjqhcqxcyfex.tech^
 ||qjmlmaffrqj.com^
 ||qjoges.xyz^
+||qjuy.cn^
 ||qjvksieybn.vip^
 ||qjwvwu.xyz^
 ||qkgllif.icu^
@@ -34037,6 +34049,7 @@
 ||rvotdlvpwmynan.xyz^
 ||rvrpushserv.com^
 ||rvstcsghqcu.com^
+||rvv.emol.com^
 ||rvvmynjd.love^
 ||rvxmlj.icu^
 ||rw.marchex.io^
@@ -36946,6 +36959,7 @@
 ||stats.dnaindia.com^
 ||stats.dongphim.net^
 ||stats.edicy.com^
+||stats.emol.com^
 ||stats.esecured.net^
 ||stats.etix.vn^
 ||stats.fifthstarlabs.io^
@@ -37177,6 +37191,7 @@
 ||stihrigima.com^
 ||stikroltiltoowi.net^
 ||stilaikr.com^
+||stildreans.com^
 ||stillfolder.com^
 ||stimaariraco.info^
 ||stimseecka.net^
@@ -40535,7 +40550,6 @@
 ||ughtanothin.info^
 ||ughzfjx.com^
 ||ugopkl.com^
-||ugrarvy.com^
 ||ugroocuw.net^
 ||uh.nakanohito.jp^
 ||uhdokoq5ocmk.com^
@@ -41075,6 +41089,7 @@
 ||uu22112.com^
 ||uu22332.com^
 ||uu22662.com^
+||uucnmtt.top^
 ||uue2.destinia.ir^
 ||uuidksinc.net^
 ||uuisnvtqtuc.com^
@@ -43023,7 +43038,6 @@
 ||ww2.imgwallet.com^
 ||wwaavqctoz.com^
 ||wwaeljajwvlrw.top^
-||wwaeljamkvayk.top^
 ||wwaowwonthco.com^
 ||wwaptyzujb.com^
 ||wwarvlorkeww.top^
@@ -43243,7 +43257,6 @@
 ||xjwzbo.com^
 ||xkacs5av.xyz^
 ||xkesalwueyz.com^
-||xkowcsl.com^
 ||xkpbcd.com^
 ||xktxemf.com^
 ||xlbxsaxuc.com^
@@ -43873,7 +43886,6 @@
 ||ycwuoq.xyz^
 ||ydenknowled.com^
 ||ydevelelasticals.info^
-||ydfgbmla.com^
 ||ydsdisuses.shop^
 ||ye.dun.163yun.com^
 ||yeabble.com^

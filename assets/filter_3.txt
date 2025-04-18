@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-04-14T18:29:07.352Z
+! Last modified: 2025-04-18T11:16:42.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -183,7 +183,6 @@
 ||adbot.com^
 ||adbrite.com^
 ||adbroker.de^
-||adbunker.com^
 ||adbutler.com^
 ||adbuyer3.lycos.com^
 ||adcampo.com^
@@ -1264,6 +1263,7 @@
 ||click.i.southwesternrailway.com^
 ||click.infoblox.com^
 ||click.justwatch.com^
+||click.kmindex.ru^
 ||click.mail.hotels.com^
 ||click.mail.salesforce.com^
 ||click.mailing.ticketmaster.com^
@@ -1381,6 +1381,7 @@
 ||counter.rambler.ru^
 ||counter.search.bg^
 ||counter.snackly.co^
+||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cozyhillside.com^
@@ -1705,7 +1706,6 @@
 ||g2.gumgum.com^
 ||ga.clearbit.com^
 ||gadsbee.com^
-||galaxien.com^
 ||game-advertising-online.com^
 ||gamesites100.net^
 ||gamesites200.com^
@@ -1973,7 +1973,6 @@
 ||kpu.samsungelectronics.com^
 ||krxd.net^
 ||ktu.sv2.biz^
-||kubient.com^
 ||l1.britannica.com^
 ||l6b587txj1.com^
 ||lakequincy.com^
@@ -2048,6 +2047,7 @@
 ||linksynergy.com^
 ||linktarget.com^
 ||linkvertise.com^
+||liquidad.narrowcastmedia.com^
 ||litix.io^
 ||live.trmzum.com^
 ||liveadexchanger.com^
@@ -2125,7 +2125,6 @@
 ||matomo.crossiety.app^
 ||mautic.com^
 ||max.i12.de^
-||maximiser.net^
 ||maxonclick.com^
 ||mbs.megaroticlive.com^
 ||mcdlks.com^

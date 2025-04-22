@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-22T12:41:21.312Z
+! Last modified: 2025-04-22T16:26:21.375Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||semygruja.com^
 ||performoo.com^
 ||keethoostoaps.net^
 ||rneniibeiijmxeb.com^
@@ -22189,6 +22190,7 @@ vkcdnservice.appspot.com^
 ||opclumbcuqze.com^
 ||opcnflku.com^
 ||opcpicocja.com^
+||opcqrorr.com^
 ||opdomains.space^
 ||opdxpycrizuq.com^
 ||opeanresultanc.com^
@@ -22713,6 +22715,7 @@ vkcdnservice.appspot.com^
 ||pafiptuy.net^
 ||pagejunky.com^
 ||pagemystery.com^
+||pagerrentablespotlight.com^
 ||paginaewakens.shop^
 ||paginaltreitre.shop^
 ||pagnawhouk.net^
@@ -76902,8 +76905,8 @@ vkcdnservice.appspot.com^
 ||reach.ironmountain.com^
 ||response.xactware.com^
 ||results.news.marshmma.com^
+||secure.sw.broadcom.com^
 ||solutions.desertfinancial.com^
-||sw.broadcom.com^
 ||tp.lexisnexis.co.nz^
 ||tp.lexisnexis.com.au^
 ||tr.informabi.com^
@@ -100962,6 +100965,8 @@ inapps.appsflyersdk.com^
 ||qwerhao3.com^
 ||cholurd.com^
 ||dhimphits.com^
+||uypg.cn^
+||wucnwte.top^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^

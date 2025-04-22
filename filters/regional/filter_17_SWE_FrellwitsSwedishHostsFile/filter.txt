@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-04-21T03:10:59.818Z
+! Last modified: 2025-04-22T04:24:40.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -891,6 +891,7 @@
 127.0.0.1 track.adtraction.com
 127.0.0.1 track.postkodlotteriet.se
 127.0.0.1 track.uniqodo.com
+127.0.0.1 track.yetric.net
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.gamedock.io
 127.0.0.1 tracker.metricool.com

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-04-29T06:30:41.429Z
+! Last modified: 2025-04-29T12:45:13.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36150,6 +36150,7 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||maticooads.com^
 ||ad*.zonaplus.tv^
 ||apishow.babybus.com^
 ||apppromoteapi.babybus.com^
@@ -87306,6 +87307,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||ashiato.travel.rakuten.co.jp^
+||event.notifier.rakuten.co.jp^
 ||log.tosspayments.com^
 ||event.tosspayments.com^
 ||pipeline.rd.nl^
@@ -90036,6 +90039,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||kix-ulogl*.kwai-pro.com^
+||log-sdk.ksapisrv.com^
 ||ulogjs.ksapisrv.com^
 ||ulogs*.ksapisrv.com^
 ||adashx4id.ut.taobao.com^
@@ -102272,6 +102277,8 @@ inapps.appsflyersdk.com^
 ||rhdifs.top^
 ||enwuamw.top^
 ||mwcnmtx.top^
+||wwok04291kl.com^
+||fvitteilse.com^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
@@ -106673,6 +106680,7 @@ inapps.appsflyersdk.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||mihoutao1868.github.io^
 ||22588888.com^
 ||2481e.com^
 ||693836.com^
@@ -107328,6 +107336,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||taiga.maven.io^|
 @@||tlh.gedidigital.it^|
 @@||smtp.focusgroupresearch.com^|
 @@||ap01.records.in.treasuredata.com^|

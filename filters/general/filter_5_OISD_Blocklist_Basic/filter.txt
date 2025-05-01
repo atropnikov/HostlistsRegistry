@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-05-01T03:17:31.945Z
+! Last modified: 2025-05-01T05:21:17.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3268,7 +3268,6 @@
 ||ads.betfair.com^
 ||ads.betfair.com.au^
 ||ads.bidspotter.co.uk^
-||ads.bigchurch.com^
 ||ads.bigfoot.com^
 ||ads.bing.com^
 ||ads.bittorrent.com^

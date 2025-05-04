@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-05-04T12:38:52.923Z
+! Last modified: 2025-05-04T18:27:04.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3139,7 +3139,6 @@
 ||s.dsgsyp.com^
 ||s.dsonb4.com^
 ||s.dsqcjk.com^
-||s.dss1bi.com^
 ||s.dsskyw.com^
 ||s.dsssnr.com^
 ||s.dst8vn.com^
@@ -9394,6 +9393,7 @@ vkcdnservice.appspot.com^
 ||bczmrdfjkesgf.online^
 ||bd33500074.com^
 ||bd51static.com^
+||bd64dc73db.com^
 ||bdckqpofmclr.com^
 ||bdffkdqkgvdf.com^
 ||bdhsahmg.com^
@@ -9999,6 +9999,7 @@ vkcdnservice.appspot.com^
 ||boahnoy.com^
 ||boalawoa.xyz^
 ||boannre.com^
+||boannred.com^
 ||boardhisisa.org^
 ||boardpress-b.online^
 ||boarshrubforemost.com^
@@ -13593,6 +13594,7 @@ vkcdnservice.appspot.com^
 ||dspmega.com^
 ||dspmulti.com^
 ||dspultra.com^
+||dss1bi.com^
 ||dsstrk.com^
 ||dstevermotori.org^
 ||dstimaariraconians.info^
@@ -30091,6 +30093,7 @@ vkcdnservice.appspot.com^
 ||triumphalstrandedpancake.com^
 ||triumphantplace.com^
 ||trivialbaseball.pro^
+||trixblocka.com^
 ||trjwraxkfkm.com^
 ||trk-aspernatur.com^
 ||trk-consulatu.com^
@@ -30694,6 +30697,7 @@ vkcdnservice.appspot.com^
 ||untackreviler.com^
 ||untidy-log.pro^
 ||untidyseparatelyintroduce.com^
+||untidytale.com^
 ||untilfamilythrone.com^
 ||untilpatientlyappears.com^
 ||untimburra.com^
@@ -31884,6 +31888,7 @@ vkcdnservice.appspot.com^
 ||whgqqhcixaiau.com^
 ||whhasymvi.com^
 ||whiceega.com^
+||which-comfortable.pro^
 ||whichcandiedhandgrip.com^
 ||whidsugnoackili.net^
 ||whilstrorty.com^
@@ -34277,6 +34282,7 @@ vkcdnservice.appspot.com^
 ||tmtrck.com^
 ||tonefuse.com^
 ||topadvert.ru^
+||toptopleads.com^
 ||toroadvertising.com^
 ||trackuity.com^
 ||tradedoubler.com^
@@ -35863,6 +35869,7 @@ vkcdnservice.appspot.com^
 ||adsarcade.com^
 ||adsession.com^
 ||adshnk.com^
+||adspector.io^
 ||adsturn.com^
 ||adult3dcomics.com^
 ||adultforce.com^
@@ -91382,6 +91389,7 @@ inapps.appsflyersdk.com^
 ||enc-90128738.b-cdn.net^
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
+||error-analytics-sessions-production.shopifysvc.com^
 ||errors.snackly.co^
 ||et.educationdynamics.com^
 ||etl.springbot.com^
@@ -91619,6 +91627,7 @@ inapps.appsflyersdk.com^
 ||rest.wildstar-online.com^
 ||rg-3tn.pages.dev^
 ||rs.sinajs.cn^
+||rtb.prod.carbonatixaudio.com^
 ||rtc.multiscreensite.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^

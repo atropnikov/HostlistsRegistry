@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-05-08T01:47:15.103Z
+! Last modified: 2025-05-08T06:31:15.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35634,6 +35634,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||analytics.turk.pro^
 ||metric-api.newrelic.com^
 ||conduit-beacon.mtvnservices.com^
 ||redfast.com^
@@ -91655,7 +91656,6 @@ inapps.appsflyersdk.com^
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
 ||analytics.faprika.net^
-||analytics.turk.pro^
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
 ||track.livasoft.com.tr^
@@ -95540,6 +95540,9 @@ inapps.appsflyersdk.com^
 ||booli-logger.prod.booli.se^
 ||boost-cdn.manatee.dk^
 ||borsvarlden-banners.azurewebsites.net^
+||bostad24.se^
+||bostadslistan.se^
+||bostadsportal.se^
 ||brandy.bonniernewslifestyle.se^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
@@ -95656,6 +95659,7 @@ inapps.appsflyersdk.com^
 ||hapyak.com^
 ||heroaffiliates.com^
 ||hsadspixel.net^
+||hyrio.se^
 ||h.online-metrix.net^
 ||iba.feedblitz.com^
 ||iconosquare.com^
@@ -95743,6 +95747,9 @@ inapps.appsflyersdk.com^
 ||r.existenz.se^
 ||recirculation.spot.im^
 ||regstat.se^
+||rentia.se^
+||rentify.se^
+||rentler.se^
 ||resor-external.barnsemester.se^
 ||retargettracker.com^
 ||revive.edgeflyfishing.com^
@@ -101584,6 +101591,7 @@ inapps.appsflyersdk.com^
 ||oaokes.icu^
 ||sqif.cn^
 ||fmlmbf.top^
+||uuso05081qhs.xyz^
 ||ebrid.cn^
 ||wtrotilloye.com^
 ||dnjxds.top^

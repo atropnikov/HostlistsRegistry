@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-05-15T06:31:33.778Z
+! Last modified: 2025-05-15T12:43:40.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -97020,6 +97020,7 @@ inapps.appsflyersdk.com^
 ||cpx.vnecdn.com^
 ||csmads.gameclick.vn^
 ||delivery.doisongphapluat.com.vn^
+||delivery.lsvn.vn^
 ||delivery.upremium.asia^
 ||demopage.me^
 ||digi.vinut.com.vn^
@@ -97266,6 +97267,7 @@ inapps.appsflyersdk.com^
 ||tracking.fff.com.vn^
 ||tracking.gapone.vn^
 ||tracking.hapiwork.vn^
+||tracking.lsvn.vn^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
 ||tracking.saostar.vn^

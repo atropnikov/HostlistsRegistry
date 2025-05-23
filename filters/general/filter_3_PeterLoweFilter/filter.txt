@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-05-22T16:27:33.009Z
+! Last modified: 2025-05-23T12:42:37.184Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -209,7 +209,6 @@
 ||ademails.com^
 ||adengage.com^
 ||adetracking.com^
-||adeure.com^
 ||adexc.net^
 ||adexchangegate.com^
 ||adexchangeprediction.com^
@@ -733,7 +732,6 @@
 ||adskeeper.com^
 ||adsklick.de^
 ||adskpak.com^
-||adsmart.com^
 ||adsmart.net^
 ||adsmartracker.com^
 ||adsmetadata.startappservice.com^
@@ -793,7 +791,6 @@
 ||adv.wp.pl^
 ||adv.yo.cz^
 ||advangelists.com^
-||advariant.com^
 ||adventory.com^
 ||adventurousamount.com^
 ||advert.bayarea.com^
@@ -1158,7 +1155,6 @@
 ||buzzonclick.com^
 ||bwp.download.com^
 ||c.bigmir.net^
-||c.corporate-fundraising.co.uk^
 ||c1exchange.com^
 ||c212.net^
 ||cakesdrum.com^
@@ -1407,7 +1403,6 @@
 ||criteo.net^
 ||critictruck.com^
 ||crowdedmass.com^
-||crowdgravity.com^
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
 ||crtv.mate1.com^
@@ -1638,7 +1633,6 @@
 ||feedjit.com^
 ||feedmob.com^
 ||fimserve.com^
-||findcommerce.com^
 ||findyourcasino.com^
 ||fingahvf.top^
 ||fireads.online^
@@ -1665,7 +1659,6 @@
 ||foresee.com^
 ||forex-affiliate.net^
 ||forkcdn.com^
-||forwrdnow.com^
 ||fpctraffic.com^
 ||fpjs.io^
 ||fqtag.com^
@@ -1703,6 +1696,7 @@
 ||g2.gumgum.com^
 ||ga.clearbit.com^
 ||gadsbee.com^
+||galaxien.com^
 ||game-advertising-online.com^
 ||gamesites100.net^
 ||gamesites200.com^
@@ -2123,6 +2117,7 @@
 ||matomo.crossiety.app^
 ||mautic.com^
 ||max.i12.de^
+||maximiser.net^
 ||maxonclick.com^
 ||mbs.megaroticlive.com^
 ||mcdlks.com^
@@ -2733,7 +2728,6 @@
 ||ruralrobin.com^
 ||s.adroll.com^
 ||s.dmmew.com^
-||s1-adfly.com^
 ||s20dh7e9dh.com^
 ||s2d6.com^
 ||sabio.us^
@@ -2947,7 +2941,6 @@
 ||stats.townnews.com^
 ||stats.wordpress.com^
 ||stats.wp.com^
-||stats.x14.eu^
 ||stats2.self.com^
 ||stats4all.com^
 ||statserv.net^

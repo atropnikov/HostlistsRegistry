@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-05-23T12:42:37.184Z
+! Last modified: 2025-05-25T22:20:08.874Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1292,6 +1292,7 @@
 ||clicks.eventbrite.com^
 ||clicks.monzo.com^
 ||clickserve.cc-dt.com^
+||clicksinfo.thefork.co.uk^
 ||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-05-27T11:18:26.557Z
+! Last modified: 2025-05-27T12:45:59.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8008,6 +8008,7 @@ vkcdnservice.appspot.com^
 ||alitems.co^
 ||alitems.site^
 ||alive-airport.com^
+||alive-human.pro^
 ||aliveprompt.com^
 ||aliwjo.com^
 ||aliyothvoglite.top^
@@ -19578,6 +19579,7 @@ vkcdnservice.appspot.com^
 ||ljvmokwyromjj.top^
 ||ljybybyerzoev.top^
 ||ljypfykcofguz.fun^
+||lkauxiqpwlsfr.rocks^
 ||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
 ||lkg6g644.de^
@@ -20494,6 +20496,7 @@ vkcdnservice.appspot.com^
 ||mfeqckmfw.com^
 ||mfyavsmiha.com^
 ||mfyktikuvq.com^
+||mfylalov.com^
 ||mgcash.com^
 ||mgdjmp.com^
 ||mghkpg.com^
@@ -29849,6 +29852,7 @@ vkcdnservice.appspot.com^
 ||wcuggkuxfgutu.today^
 ||wcwijbtqgajxf.global^
 ||wdcwmeklhgnfc.xyz^
+||wdhufqjt.com^
 ||wdibwgllvzies.love^
 ||wdohhlagnjzi.com^
 ||wdoyouknowsai.org^
@@ -88039,6 +88043,9 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||imgsct.cookiebot.com^
+||img.sct.eu1.usercentrics.eu^
+||segapi.splice.com^
 ||t.illuma-tech.com^
 ||experiment-variant.baemin.com^
 ||cdp.yna.co.kr^
@@ -103018,6 +103025,7 @@ inapps.appsflyersdk.com^
 ||88lmfff666.com^
 ||bgf05271lko.com^
 ||lqftuugziloa.com^
+||qdheqraln.com^
 ||gkxqt.cn^
 ||m9s3h265lq.com^
 ||apeacc.icu^

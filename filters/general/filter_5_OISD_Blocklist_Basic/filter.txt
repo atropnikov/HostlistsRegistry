@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-05-30T17:18:45.472Z
+! Last modified: 2025-05-31T01:46:13.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1490,6 +1490,7 @@
 ||8po6fdwjsym3.com^
 ||8radc6a0m2.com^
 ||8rf.com^
+||8rn1y79f02-1.algolianet.com^
 ||8s32e590un.com^
 ||8s5s.com^
 ||8sfdladng.xyz^
@@ -23233,6 +23234,7 @@
 ||litznards.com^
 ||livabledefamer.shop^
 ||live-a-live.com^
+||live-api.hktvmall.com^
 ||live-eu.blushtales.com^
 ||live-eu.cryptovot.com^
 ||live-eu.funnyvot.com^

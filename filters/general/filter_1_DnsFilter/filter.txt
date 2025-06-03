@@ -2,10 +2,12 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-06-03T10:24:41.383Z
+! Last modified: 2025-06-03T12:46:21.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||otvnwagpia.com^
+||whiteinflammablejaws.com^
 ||aweyqaqkrvjm.top^
 ||entertainlavish.com^
 ||forcefulpacehauled.com^
@@ -27834,7 +27836,6 @@ vkcdnservice.appspot.com^
 ||stoppageeverydayseeing.com^
 ||stopsoverreactcollations.com^
 ||storage-ad.com^
-||storage.dev^
 ||storageimagedisplay.com^
 ||storecomplexion.com^
 ||storeyplayfulinnocence.com^
@@ -88978,6 +88979,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||lumberjack-metrics.razorpay.com^
 ||statistics-collector-api.listglobally.com^
 ||telegraph.prd.api.bleacherreport.com^
 ||gmss.use1.prd.api.discomax.com^
@@ -97578,9 +97580,7 @@ inapps.appsflyersdk.com^
 ||nwave.de^
 ||onlymega.com^
 ||paidlinkz.net^
-||paidsolution.de^
 ||payclick.it^
-||performance-netzwerk.de^
 ||planetactive.com^
 ||playamedia.com^
 ||ppac.de^

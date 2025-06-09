@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-06-09T20:25:01.626Z
+! Last modified: 2025-06-09T22:21:12.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -88,7 +88,6 @@
 ||dramaticsalad.com^
 ||debridleech.com^
 ||trckkkk.com^
-||fastorfar.com^
 ||hopgp.com^
 ||loowhujoom.net^
 ||glugherg.net^
@@ -436,7 +435,6 @@
 ||adxadtracker.com^
 ||adword.ge^
 ||hub.com.pl^
-||yourservice.live^
 ||whehilru.com^
 ||frtyo.com^
 ||targaubs.com^
@@ -627,7 +625,6 @@
 ||getkmspico.com^
 ||heukmsactivator.com^
 ||Furykms.com^
-||kmsofficial.org^
 ||getintopc.today^
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
 /^94\.242\.247\.(2[0-9]|3[0-2])/
@@ -4490,7 +4487,6 @@
 ||reachableads.com^
 ||pixelpluses.com^
 ||cerineas.com^
-||iforcircles-2.online^
 ||newchallenges-dsp.com^
 ||webmedxml.com^
 ||rtbserve.io^
@@ -5259,6 +5255,7 @@
 ||tq-eu.foseller-a.online^
 ||tq-eu.foseller-c.online^
 ||tq-eu.foseller-d.online^
+||tq-eu.iforcircles-2.online^
 ||tq-eu.klmretul.online^
 ||tq-eu.lensgard-2.online^
 ||tq-eu.minsonbar2.online^
@@ -5280,6 +5277,7 @@
 ||tq.foseller-a.online^
 ||tq.foseller-c.online^
 ||tq.foseller-d.online^
+||tq.iforcircles-2.online^
 ||tq.ldnpointer.online^
 ||tq.lensgard-2.online^
 ||tq.minsonbar2.online^
@@ -5357,6 +5355,7 @@
 ||xml-eu-v4.goclickz.net^
 ||xml-eu-v4.h12ads.net^
 ||xml-eu-v4.hawkads.in^
+||xml-eu-v4.iforcircles-2.online^
 ||xml-eu-v4.insightadz.com^
 ||xml-eu-v4.intellectscoop.com^
 ||xml-eu-v4.kvicads.com^
@@ -5482,6 +5481,7 @@
 ||xml-v4.glcsrv.com^
 ||xml-v4.goclickz.net^
 ||xml-v4.hawkads.in^
+||xml-v4.iforcircles-2.online^
 ||xml-v4.inptr.com^
 ||xml-v4.insightadz.com^
 ||xml-v4.intellectscoop.com^
@@ -5623,6 +5623,7 @@
 ||xml.groovyadz.com^
 ||xml.hewasinlo-bid.com^
 ||xml.hotmaracas.com^
+||xml.iforcircles-2.online^
 ||xml.indforh-serving.com^
 ||xml.insightadz.com^
 ||xml.intellectscoop.com^
@@ -5901,7 +5902,6 @@
 ||d2psma0az3acui.cloudfront.net^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
-||d1rr5z16sjcy10.cloudfront.net^
 ||d2xupcbyjjjfoa.cloudfront.net^
 ||d17xmf66fp9kg9.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
@@ -6042,7 +6042,6 @@
 ||d1bevsqehy4npt.cloudfront.net^
 ||d985a9d2clzq5.cloudfront.net^
 ||dc5ig2fc8lg83.cloudfront.net^
-||ssp.zryydi.com^
 ||d27x580xb9ao1l.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
 ||d1pozdfelzfhyt.cloudfront.net^
@@ -6151,7 +6150,6 @@
 ||1991482557.rsc.cdn77.org^
 ||static.adconnect.vn^
 ||kernh41.com^
-||hbplatform.com^
 ||affiliate.k4.tinhte.vn^
 ||delivery.senvangvn.com^
 .n.2.1.js^
@@ -6160,7 +6158,6 @@
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
 ||gulf.moneroocean.stream^
-||trustisimportant.fun^
 ||pool.supportxmr.com^
 ||bmwebm.org^
 ||monerominer.rocks^
@@ -12105,6 +12102,7 @@ vkcdnservice.appspot.com^
 ||confrontationdrunk.com^
 ||confusingepisodevest.com^
 ||confusionnutmegflippers.com^
+||congiuslegumin.top^
 ||congruousannualplanner.com^
 ||conicsfizzles.com^
 ||conjeller-chikemon.com^
@@ -13591,6 +13589,7 @@ vkcdnservice.appspot.com^
 ||dkijnrhdtlvdm.fun^
 ||dkikurancq.com^
 ||dkipfdjvrlird.love^
+||dkmtprpchb.com^
 ||dkpvbyvscxraq.space^
 ||dkqixcsaaprfit.com^
 ||dkrbus.com^
@@ -15124,6 +15123,7 @@ vkcdnservice.appspot.com^
 ||fastlgtrk.com^
 ||fastlnd.com^
 ||fastnativead.com^
+||fastorfar.com^
 ||fatafatasalalala.com^
 ||fatalescowl.click^
 ||fatalityplatinumthing.com^
@@ -17599,6 +17599,7 @@ vkcdnservice.appspot.com^
 ||hiswingsandmaki.com^
 ||hitbip.com^
 ||hitcheddayanim.top^
+||hitchelunspun.com^
 ||hitchimmerse.com^
 ||hitcpm.com^
 ||hithertodeform.com^
@@ -19889,6 +19890,7 @@ vkcdnservice.appspot.com^
 ||lanepartridge.com^
 ||laneyounger.com^
 ||languidintentgained.com^
+||lanklykeeler.shop^
 ||lanknewcomer.com^
 ||lanky-bar.com^
 ||lankyteaching.com^
@@ -22357,6 +22359,7 @@ vkcdnservice.appspot.com^
 ||nkhgheadrrrbt.space^
 ||nkhimunpractica.org^
 ||nkmsite.com^
+||nknglpsn.com^
 ||nkredir.com^
 ||nlargeconsu.org^
 ||nld0jsg9s9p8.com^
@@ -23618,6 +23621,7 @@ vkcdnservice.appspot.com^
 ||ovwydeewg.xyz^
 ||ovyyszfod.fun^
 ||ow5a.net^
+||owascryingforthem.com^
 ||owbvbqeaucwvg.global^
 ||owenexposure.com^
 ||owfjlchuvzl.com^
@@ -25944,6 +25948,7 @@ vkcdnservice.appspot.com^
 ||reedsinterfering.com^
 ||reedthatm.biz^
 ||reefcolloquialseptember.com^
+||reefedkalong.shop^
 ||reekedtravels.shop^
 ||reekhearsay.shop^
 ||reelnk.com^
@@ -26382,6 +26387,7 @@ vkcdnservice.appspot.com^
 ||ritsubrince.shop^
 ||rittersunnier.shop^
 ||ritzilypigless.top^
+||rivalgaums.com^
 ||rivalpout.com^
 ||rivareuyeom.com^
 ||rivatedqualizebruisi.info^
@@ -26774,6 +26780,7 @@ vkcdnservice.appspot.com^
 ||rvukbeuexr.com^
 ||rvvmynjd.love^
 ||rwdmymnfiklbj.com^
+||rwfwlrhyolok.com^
 ||rwhnuqxubwqvn.one^
 ||rworljrkawlqq.top^
 ||rwoscaonf.com^
@@ -29986,6 +29993,7 @@ vkcdnservice.appspot.com^
 ||uads.guru^
 ||uads.space^
 ||uafkcvpvvelp.com^
+||uafwhndhhwjw.com^
 ||uaivqzpqzehth.love^
 ||uawvmni.com^
 ||ubbfpm.com^
@@ -32461,6 +32469,7 @@ vkcdnservice.appspot.com^
 ||zmysashrep.com^
 ||zmytkaoh.com^
 ||zmzwloelraaoz.top^
+||zmzwloelrajaj.top^
 ||zmzwloelrajoq.top^
 ||znjdkvlhfvuuc.one^
 ||znzfvmdtklsvv.xyz^
@@ -35954,6 +35963,7 @@ vkcdnservice.appspot.com^
 ||cdn2.auditude.com^
 ||otcdn2.auditude.com^
 ||www.auditude.com^
+||manifest.auditude.com^
 ||mblapi.ssl2.duapps.com^
 ||api.mobula.ds.duapps.com^
 ||noxagile.duapp.com^
@@ -36940,7 +36950,6 @@ vkcdnservice.appspot.com^
 ||dmp.one^
 ||dmp-ai.ru^
 ||dmp-one.ru^
-||dmp-1.ru^
 ||tjk-njk.com^
 ||ziwelatum.com^
 ||houston.advgo.net^
@@ -37665,7 +37674,6 @@ vkcdnservice.appspot.com^
 ||recs.richrelevance.com^
 ||iper2.com^
 ||dc.banggood.com^
-||fw-ad.jp^
 ||smartnews-ads.com^
 ||inistrack.net^
 ||omniconvert.com^
@@ -38052,12 +38060,10 @@ vkcdnservice.appspot.com^
 ||bagbeam.com^
 ||irxcm.com^
 ||unid.go.com^
-||v3.fstats.xyz^
 ||dataxpand.com^
 ||connectif.cloud^
 ||bandborder.com^
 ||lumitos.com^
-||dynameex.com^
 ||quantummetric.com^
 ||bluecore.com^
 ||u-on.eu^
@@ -38214,7 +38220,6 @@ vkcdnservice.appspot.com^
 ||mobtop.com^
 ||antvoice.com^
 ||ownpage.fr^
-||smrtrdrct.com^
 ||rtbanalytics.com^
 ||user-clicks.com^
 ||bluecava.com^
@@ -38274,7 +38279,6 @@ vkcdnservice.appspot.com^
 ||123compteur.com^
 ||123count.com^
 ||1freecounter.com^
-||200stran.ru^
 ||200summit.com^
 ||204st.us^
 ||206solutions.com^
@@ -38335,7 +38339,6 @@ vkcdnservice.appspot.com^
 ||adelixir.com^
 ||adgreed.com^
 ||adinsight.com^
-||adinsight.eu^
 ||adku.co^
 ||adku.com^
 ||admantx.com^
@@ -38383,7 +38386,6 @@ vkcdnservice.appspot.com^
 ||andersenit.dk^
 ||andyhoppe.com^
 ||angelfishstats.com^
-||angsrvr.com^
 ||anormal-tracker.de^
 ||apexstats.com^
 ||apextwo.com^
@@ -38556,7 +38558,6 @@ vkcdnservice.appspot.com^
 ||clickclick.net^
 ||clickdensity.com^
 ||clickening.com^
-||clickforensics.com^
 ||clicki.cn^
 ||clickmanage.com^
 ||clickmap.ch^
@@ -38602,7 +38603,6 @@ vkcdnservice.appspot.com^
 ||contentexchange.me^
 ||contentinsights.com^
 ||contentspread.net^
-||continue.com^
 ||convergetrack.com^
 ||conversionlogic.net^
 ||conversionly.com^
@@ -38660,14 +38660,12 @@ vkcdnservice.appspot.com^
 ||craftkeys.com^
 ||craktraffic.com^
 ||crazyegg.com^
-||crmmetrixwris.com^
 ||crosspixel.net^
 ||crosswalkmail.com^
 ||crowdscience.com^
 ||crowdskout.com^
 ||crwdcntrl.net^
 ||csdata1.com^
-||customerconversio.com^
 ||cya1t.net^
 ||cya2.net^
 ||cypr.com^
@@ -38709,7 +38707,6 @@ vkcdnservice.appspot.com^
 ||divolution.com^
 ||djers.com^
 ||dmanalytics1.com^
-||dmclick.cn^
 ||dmpxs.com^
 ||dmtracker.com^
 ||dmtry.com^
@@ -38742,7 +38739,6 @@ vkcdnservice.appspot.com^
 ||ecommstats.com^
 ||econda-monitor.de^
 ||ecustomeropinions.com^
-||edgeadx.net^
 ||edococounter.de^
 ||edt02.net^
 ||edtp.de^
@@ -38762,7 +38758,6 @@ vkcdnservice.appspot.com^
 ||engine64.com^
 ||enquisite.com^
 ||eperfectdata.com^
-||epilot.com^
 ||epitrack.com^
 ||eproof.com^
 ||eps-analyzer.de^
@@ -38816,12 +38811,9 @@ vkcdnservice.appspot.com^
 ||faststart.ru^
 ||fathomseo.com^
 ||fcs.ovh^
-||feedcat.net^
 ||feedjit.com^
 ||feedperfect.com^
-||ferank.fr^
 ||filitrac.com^
-||finalid.com^
 ||find-ip-address.org^
 ||finderlocator.com^
 ||fishhoo.com^
@@ -38996,7 +38988,6 @@ vkcdnservice.appspot.com^
 ||ibpxl.com^
 ||ibpxl.net^
 ||ic-live.com^
-||iclive.com^
 ||icstats.nl^
 ||id-visitors.com^
 ||ideoclick.com^
@@ -39008,7 +38999,6 @@ vkcdnservice.appspot.com^
 ||iljmp.com^
 ||ilk10.az^
 ||illumenix.com^
-||ilogbox.com^
 ||imcht.net^
 ||imetrix.it^
 ||immanalytics.com^
@@ -39022,7 +39012,6 @@ vkcdnservice.appspot.com^
 ||indicia.com^
 ||individuad.net^
 ||ineedhits.com^
-||inferclick.com^
 ||infinigraph.com^
 ||infinity-tracking.net^
 ||inflectionpointmedia.com^
@@ -39047,7 +39036,6 @@ vkcdnservice.appspot.com^
 ||interceptum.com^
 ||intergid.ru^
 ||interhits.de^
-||intermundomedia.com^
 ||internetmap.info^
 ||interstateanalytics.com^
 ||intervigil.com^
@@ -39071,7 +39059,6 @@ vkcdnservice.appspot.com^
 ||ipinyou.com.cn^
 ||iplocationtools.com^
 ||ipro.com^
-||ipv6monitoring.eu^
 ||iqfp1.com^
 ||iryazan.ru^
 ||ist-track.com^
@@ -39097,7 +39084,6 @@ vkcdnservice.appspot.com^
 ||jwmstats.com^
 ||jwpltx.com^
 ||kameleoon.com^
-||kavijaseuranta.fi^
 ||kerebro.com^
 ||keymetric.net^
 ||keytrack.de^
@@ -39204,7 +39190,6 @@ vkcdnservice.appspot.com^
 ||measurementapi.com^
 ||mediaarmor.com^
 ||mediagauge.com^
-||mediaplan.ru^
 ||mediaplex.com^
 ||mediaseeding.com^
 ||mediego.com^
@@ -39229,14 +39214,12 @@ vkcdnservice.appspot.com^
 ||mktoresp.com^
 ||mlclick.com^
 ||mlno6.com^
-||mm7.net^
 ||mmccint.com^
 ||mmstat.com^
 ||mmtro.com^
 ||mobalyzer.net^
 ||mobylog.jp^
 ||mochibot.com^
-||modernus.is^
 ||mokuz.ru^
 ||mongoosemetrics.com^
 ||monitis.com^
@@ -39254,7 +39237,6 @@ vkcdnservice.appspot.com^
 ||mpstat.us^
 ||mr-rank.de^
 ||msgapp.com^
-||msgtag.com^
 ||mtrack.nl^
 ||mtracking.com^
 ||musiccounter.ru^
@@ -39285,7 +39267,6 @@ vkcdnservice.appspot.com^
 ||myvisualiq.net^
 ||mywebstats.com.au^
 ||mywebstats.org^
-||naayna.com^
 ||naj.sk^
 ||nalook.com^
 ||native.ai^
@@ -39361,7 +39342,6 @@ vkcdnservice.appspot.com^
 ||ongsono.com^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
-||opbandit.com^
 ||openclick.com^
 ||openhit.com^
 ||openinternetexchange.com^
@@ -39370,12 +39350,10 @@ vkcdnservice.appspot.com^
 ||opentracker.net^
 ||openvenue.com^
 ||oproi.com^
-||optify.net^
 ||optimierung-der-website.de^
 ||optimix.asia^
 ||optimost.com^
 ||optin-machine.com^
-||optorb.com^
 ||oranges88.com^
 ||orcapia.com^
 ||ositracker.com^
@@ -39442,7 +39420,6 @@ vkcdnservice.appspot.com^
 ||plexworks.de^
 ||plugin.ws^
 ||pm0.net^
-||pmbox.biz^
 ||pntra.com^
 ||pntrac.com^
 ||pntrs.com^
@@ -39552,7 +39529,6 @@ vkcdnservice.appspot.com^
 ||rhinoseo.com^
 ||riastats.com^
 ||richard-group.com^
-||richmetrics.com^
 ||rightstats.com^
 ||rkdms.com^
 ||rktu.com^
@@ -39560,9 +39536,7 @@ vkcdnservice.appspot.com^
 ||rnengage.com^
 ||rng-snp-003.com^
 ||rnlabs.com^
-||roi-rocket.net^
 ||roiservice.com^
-||roispy.com^
 ||rollingcounters.com^
 ||royalcount.de^
 ||rs0.co.uk^
@@ -39583,7 +39557,6 @@ vkcdnservice.appspot.com^
 ||scaledb.com^
 ||sciencerevenue.com^
 ||scounter.rambler.ru^
-||scoutanalytics.net^
 ||scrippscontroller.com^
 ||script.opentracker.net
 ||scriptil.com^
@@ -39656,7 +39629,6 @@ vkcdnservice.appspot.com^
 ||sl-ct5.com^
 ||slingpic.com^
 ||slingshot.io^
-||slogantrend.de^
 ||smart-digital-solutions.com^
 ||smart-ip.net^
 ||smartctr.com^
@@ -39686,7 +39658,6 @@ vkcdnservice.appspot.com^
 ||speedtracker.de^
 ||spelar.org^
 ||spider-mich.com^
-||splittag.com^
 ||splyt.com^
 ||spn-twr-14.com^
 ||sponsorcounter.de^
@@ -39762,7 +39733,6 @@ vkcdnservice.appspot.com^
 ||synergy-e.com^
 ||synthasite.net^
 ||sysomos.com^
-||t-analytics.com^
 ||t4ft.de^
 ||taboola.com.cn^
 ||taboola.com^
@@ -39775,7 +39745,6 @@ vkcdnservice.appspot.com^
 ||target.ukr.net^
 ||targetfuel.com^
 ||tcactivity.net^
-||tcimg.com^
 ||tctm.co^
 ||td573.com^
 ||tdstats.com^
@@ -39884,7 +39853,6 @@ vkcdnservice.appspot.com^
 ||urstats.de^
 ||usabilitytools.com^
 ||usabilla.com^
-||usercycle.com^
 ||userlook.com^
 ||userneeds.dk^
 ||users.51.la^
@@ -39919,7 +39887,6 @@ vkcdnservice.appspot.com^
 ||viralninjas.com^
 ||virool.com^
 ||virtualnet.co.uk^
-||visadd.com^
 ||visibli.com^
 ||visioncriticalpanels.com^
 ||visistat.com^
@@ -39941,7 +39908,6 @@ vkcdnservice.appspot.com^
 ||vizisense.net^
 ||vizu.com^
 ||vizury.com^
-||vmm-satellite1.com^
 ||vmmpxl.com^
 ||vmweb.net^
 ||voicefive.com^
@@ -39960,7 +39926,6 @@ vkcdnservice.appspot.com^
 ||web-counter.net^
 ||web-stat.com^
 ||web-stat.net^
-||web-visor.com^
 ||web100kz.com^
 ||webclicktracker.com^
 ||webcompteur.com^
@@ -40006,7 +39971,6 @@ vkcdnservice.appspot.com^
 ||webtuna.com^
 ||webvisor.ru^
 ||webwise.com^
-||webwise.net^
 ||webwise.org^
 ||wecount4u.com^
 ||welt-der-links.de^
@@ -40025,7 +39989,6 @@ vkcdnservice.appspot.com^
 ||wishloop.com^
 ||woopra-ns.com^
 ||woopra.com^
-||worldgravity.com^
 ||worldlogger.com^
 ||wowanalytics.co.uk^
 ||wpdstat.com^
@@ -40041,7 +40004,6 @@ vkcdnservice.appspot.com^
 ||www.hey.lt^
 ||www.net.kg^
 ||wysistat.com^
-||wywy.com^
 ||wzrk.co^
 ||x-stat.de^
 ||x-traceur.com^
@@ -40049,7 +40011,6 @@ vkcdnservice.appspot.com^
 ||xcounter.ch^
 ||xhit.com^
 ||xplosion.de^
-||xref.io^
 ||xtractor.no^
 ||xtremline.com^
 ||xxxcounter.com^
@@ -40069,7 +40030,6 @@ vkcdnservice.appspot.com^
 ||youcanoptout.com^
 ||youramigo.com^
 ||zanox-affiliate.de^
-||zdtag.com^
 ||zero.kz^
 ||zesep.com^
 ||zipstat.dk^
@@ -90363,7 +90323,6 @@ vkcdnservice.appspot.com^
 ||pixel.rubiconproject.com^
 ||smarttag.rubiconproject.com^
 ||stat.arzamas.academy^
-||d1yu67rmchodpo.cloudfront.net^
 ||d1zxg9iar5y3ur.cloudfront.net^
 ||a.opmnstr.com^
 ||analytics.aklamio.com^
@@ -90568,7 +90527,6 @@ vkcdnservice.appspot.com^
 ||analytics.unand.ac.id^
 ||pwkrakanmet.met.gov.my^
 ||stats.coursepad.com^
-||webstats.pixcell.ch^
 ||analytics.cloud.coveo.com^
 ||rum.condenastdigital.com^
 ||rt.t-online.de^
@@ -90889,7 +90847,6 @@ vkcdnservice.appspot.com^
 ||counter.theconversation.edu.au^
 ||counter.tianjimedia.com^
 ||counter.top.ge^
-||counter.top.kg^
 ||counter.ukr.net^
 ||counter.web.money^
 ||counter.zerohedge.com^
@@ -90912,7 +90869,6 @@ vkcdnservice.appspot.com^
 ||d.sondakika.com^
 ||d14pdm1b7fi5kh.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
-||d1clfvuu2240eh.cloudfront.net^
 ||d1fc8wv8zag5ca.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
@@ -90923,7 +90879,6 @@ vkcdnservice.appspot.com^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1rgnfh960lz2b.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
-||d1rszqblq924lq.cloudfront.net^
 ||d1snv67wdds0p2.cloudfront.net^
 ||d1stxfv94hrhia.cloudfront.net^
 ||d1uy7uzra011au.cloudfront.net^
@@ -90939,15 +90894,12 @@ vkcdnservice.appspot.com^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
-||d2u1npnnqecmpq.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
-||d2yh8t8mdj4l9x.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3in1te4fdays6.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
-||d3nq5jrakcyw1w.cloudfront.net^
 ||d3pkntwtp2ukl5.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3r7h55ola878c.cloudfront.net^
@@ -90956,11 +90908,9 @@ vkcdnservice.appspot.com^
 ||d5i9o0tpq9sa1.cloudfront.net^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||d18p8z0ptb8qab.cloudfront.net^
-||d20duyjzb7cuoc.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
-||d28g9g3vb08y70.cloudfront.net^
 ||d31bfnnwekbny6.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
@@ -90980,12 +90930,10 @@ vkcdnservice.appspot.com^
 ||dejavu.mlapps.com^
 ||deliver.oztam.com.au^
 ||delog.sooplive.co.kr^
-||detwzgl8cvciv.cloudfront.net^
 ||device-metrics-us*.amazon.com^
 ||df.tanx.com^
 ||discovery-script.newspic.kr^
 ||discovery.newspic.kr^
-||dj4odketdva9s.cloudfront.net^
 ||dmc1acwvwny3.cloudfront.net^
 ||dmp.citiservi.es^
 ||dmtracking2.alibaba.com^
@@ -91900,7 +91848,6 @@ vkcdnservice.appspot.com^
 ||videostats.kakao.com^
 ||views.romaniatv.net^
 ||vortex.hulu.com^
-||w1jesu6.package12.com^
 ||wa.gmx.
 ||wa.mail.com^
 ||wa.ui-portal.de^
@@ -92590,7 +92537,6 @@ dlsdk.appsflyer.com^
 ||mgs123.com^
 ||metrics.sp0n.io^
 ||liveme-sensors-collect2-*.amazonaws.com^
-||online-metrix.imars.cloud^
 ||adtracker.jpchd.veraxen.com^
 ||adtracker.oilpainting.colorbynumber.veraxen.com^
 ||adtracker.mkjigsaw.com^
@@ -92666,7 +92612,6 @@ dlsdk.appsflyer.com^
 ||analytics.dns-shop.ru^
 ||trk2.pinterest.com^
 ||mobiletelemetry.ebay.com^
-||tracker.departapp.com^
 ||us-tracking.nextdoor.com^
 ||us-events.api.iheart.com^
 ||notes-analytics-events.apple.com^
@@ -93900,6 +93845,7 @@ dlsdk.appsflyer.com^
 ||scw.systems^
 ||semtracker.de^
 ||sensic.net^
+||slogantrend.de^
 ||smarketer.de^
 ||space-link.de^
 ||speedcounter.net^
@@ -93937,6 +93883,7 @@ dlsdk.appsflyer.com^
 ||do09.net^
 ||early-birds.io^
 ||et-gv.fr^
+||ferank.fr^
 ||fogl1onf.com^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
@@ -94016,6 +93963,7 @@ dlsdk.appsflyer.com^
 ||active24stats.nl^
 ||onlinesucces.nl^
 ||synovite-scripts.com^
+||kavijaseuranta.fi^
 ||leiki.com^
 ||tracking*.euroads.fi^
 ||tbcconnect.ge^
@@ -94027,6 +93975,7 @@ dlsdk.appsflyer.com^
 ||memcyco.com^
 ||gpr.hu^
 ||p24.hu^
+||modernus.is^
 ||analytic.rocks^
 ||24log.it^
 ||accessi.it^
@@ -94066,6 +94015,7 @@ dlsdk.appsflyer.com^
 ||enhance.co.jp^
 ||f-counter.jp^
 ||fspark-ap.com^
+||fw-ad.jp^
 ||gacraft.jp^
 ||geniee.jp^
 ||genieessp.jp^
@@ -94173,10 +94123,12 @@ dlsdk.appsflyer.com^
 ||leadhit.ru^
 ||leadslabpixels.net^
 ||lentainform.com^
+||mediaplan.ru^
 ||mediatoday.ru^
 ||netlog.ru^
 ||opentracking.ru^
 ||otclick-adv.ru^
+||pmbox.biz^
 ||retag.xyz^
 ||rnet.plus^
 ||sarov.ws^
@@ -94196,6 +94148,7 @@ dlsdk.appsflyer.com^
 ||vira.ru^
 ||volgograd-info.ru^
 ||vologda-info.ru^
+||web-visor.com^
 ||webtalking.ru^
 ||webturn.ru^
 ||webvisor.com^
@@ -97034,7 +96987,6 @@ dlsdk.appsflyer.com^
 ||lh1dki82.com^
 ||u40pdqw.com^
 ||theweeklydonut.org^
-||xiaoshuotxt668.org^
 ||bobobo6688.top^
 ||xj-oss.com^
 ||telecome.cn^
@@ -97943,6 +97895,7 @@ dlsdk.appsflyer.com^
 ||revive.99mac.se^
 ||revrelations.com^
 ||richmediastudio.com^
+||richmetrics.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
@@ -98455,6 +98408,7 @@ dlsdk.appsflyer.com^
 ||googleshopping.sapoapps.vn^
 ||groupstats.chat.zalo.me^
 ||groupstats.event.zalo.me^
+||hbplatform.com^
 ||hotngay.vn^
 ||itim.vn^
 ||jeoway.com^

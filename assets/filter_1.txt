@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-06-13T20:24:17.387Z
+! Last modified: 2025-06-13T22:20:26.955Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -610,17 +610,10 @@
 ||vipads.live^
 ||tn.porngo.xxx^$badfilter
 ||kms-full.com^
-||Kmspico.io^
 ||kms-tool.com^
-||Kmsauto.info^
 ||officialkmspico.com^
-||Ultrasonica.info^
-||Kms-pc.com^
-||Thewindowsactivator.com^
-||Get-kmspico.com^
 ||getkmspico.com^
 ||heukmsactivator.com^
-||Furykms.com^
 ||getintopc.today^
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
 /^94\.242\.247\.(2[0-9]|3[0-2])/

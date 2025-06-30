@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-06-30T01:57:25.672Z
+! Last modified: 2025-06-30T11:19:09.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9754,7 +9754,6 @@
 ||cdn.fegivja.com^
 ||cdn.fqkwn.com^
 ||cdn.ftwpcn.com^
-||cdn.gocolow.com^
 ||cdn.haocaa.com^
 ||cdn.headlinesmart.com^
 ||cdn.house^
@@ -18545,6 +18544,7 @@
 ||gobmodfoe.com^
 ||gobusinessloan.com^
 ||gocheewimtie.xyz^
+||gocolow.com^
 ||goddessvip.com^
 ||godfreyapocarp.top^
 ||godkc.com^

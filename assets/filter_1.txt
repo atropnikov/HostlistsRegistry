@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-07-01T08:30:37.767Z
+! Last modified: 2025-07-01T10:25:11.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||audiensi.com^
 ||cs.rivierewhimsey.com^
 ||rtaisimefxljsab.com^
 ||st.alneingloat.com^
@@ -2955,7 +2956,6 @@
 ||cdn.iople.com^
 ||cdn.jandaqwe.com^
 ||cdn.jeckear.com^
-||cdn.jhoncj.com^
 ||cdn.jkpes.com^
 ||cdn.karpatzi.com^
 ||cdn.kizan.cloud^
@@ -13116,6 +13116,7 @@ vkcdnservice.appspot.com^
 ||dnmqfaxluvaou.world^
 ||dnokmwgdijwi.com^
 ||dnpgwweaiepdu.top^
+||dnptvryivojqgmw.com^
 ||dntigerly.top^
 ||doaipomer.com^
 ||doajauhopi.xyz^
@@ -15855,6 +15856,7 @@ vkcdnservice.appspot.com^
 ||gipsymandate.com^
 ||girdedshevri.com^
 ||girdersacetla.top^
+||girdersfogus.top^
 ||girl-topdate.com^
 ||girlforyouonline.com^
 ||girlfriendwisely.com^
@@ -18489,6 +18491,7 @@ vkcdnservice.appspot.com^
 ||jhodfooz.com^
 ||jholtata.com^
 ||jhomifwcybu.com^
+||jhoncj.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhxfplpawtdxv.space^
 ||jiakihtkynvks.today^
@@ -18730,6 +18733,7 @@ vkcdnservice.appspot.com^
 ||jsmjmp.com^
 ||jsmpsi.com^
 ||jsmpus.com^
+||jsofglcecm.com^
 ||jsontdsexit.com^
 ||jsretra.com^
 ||jsrietozbpfsj.com^
@@ -19064,6 +19068,7 @@ vkcdnservice.appspot.com^
 ||kglbvcvuqpl.com^
 ||kgmboksmi.com^
 ||kgutiokknx.com^
+||kgvqalwbomgm.top^
 ||kgvvvgxtvi.rocks^
 ||kgxaiyasvrtdf.website^
 ||kh-bkcvqxc.online^
@@ -19394,6 +19399,7 @@ vkcdnservice.appspot.com^
 ||kujbxpbphyca.com^
 ||kukemyfueuktur.com^
 ||kukrosti.com^
+||kukrwwls.xyz^
 ||kulakiayme.com^
 ||kulangflook.shop^
 ||kulegmfhlaxdb.website^
@@ -30194,6 +30200,7 @@ vkcdnservice.appspot.com^
 ||ultracdn.top^
 ||ulwsfvkfwrjyw.xyz^
 ||umbrellaepisode.com^
+||umbriankubanka.top^
 ||umebella.com^
 ||umedadelemp.com^
 ||umexalim.com^
@@ -31877,6 +31884,7 @@ vkcdnservice.appspot.com^
 ||wwaptyzujb.com^
 ||wwarvlezkjev.top^
 ||wwarvlezklaj.top^
+||wwarvlezkmwm.top^
 ||wwbdayuvbvrsr.rocks^
 ||wwfx.xyz^
 ||wwgqjnmwyklqn.top^
@@ -32026,6 +32034,7 @@ vkcdnservice.appspot.com^
 ||xjsx.lol^
 ||xkacs5av.xyz^
 ||xkpbcd.com^
+||xkspgkdejobec.site^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^
@@ -32150,6 +32159,7 @@ vkcdnservice.appspot.com^
 ||xxxvijmp.com^
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
+||xxzccpsbdybmx.website^
 ||xygliwhawu.com^
 ||xylidichiatus.shop^
 ||xylzwamxxshgw.click^
@@ -32284,6 +32294,7 @@ vkcdnservice.appspot.com^
 ||ymehnthakutyfor.com^
 ||ymqlrkznenfcd.world^
 ||ymvmsuqjukrrv.online^
+||ynfanslkhrdtn.space^
 ||ynklendr.online^
 ||ynrije.com^
 ||yntherplunge.com^
@@ -32352,6 +32363,7 @@ vkcdnservice.appspot.com^
 ||yresumeformor.com^
 ||yrhnw7h63.com^
 ||yrkpvtbpyrcxf.global^
+||yruqwfriqcots.website^
 ||yrwqquykdja.com^
 ||yrzkvwrrpampg.online^
 ||ysdtufmmswzwh.online^
@@ -32640,6 +32652,7 @@ vkcdnservice.appspot.com^
 ||zsmsuwmifkrqv.online^
 ||zsozgqchlueqp.world^
 ||zspmwnsrxfdk.com^
+||zstcyektvaoug.online^
 ||ztctourupmhin.today^
 ||ztjxmnajfduht.life^
 ||ztlcrzmjshgfc.one^
@@ -33111,7 +33124,6 @@ vkcdnservice.appspot.com^
 ||audience.io^
 ||audience2media.com^
 ||audiencerun.com^
-||audiensi.com^
 ||autoads.asia^
 ||automatad.com^
 ||axiaffiliates.com^

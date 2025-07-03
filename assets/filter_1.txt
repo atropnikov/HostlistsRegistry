@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-07-03T14:21:39.243Z
+! Last modified: 2025-07-03T15:24:05.346Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||adgebra.net^
 ||wissekeygroup.com^
 ||potwm.com^
 ||audiensi.com^
@@ -18451,6 +18452,7 @@ vkcdnservice.appspot.com^
 ||jalapicundelve.top^
 ||jalappickles.com^
 ||jaletemetia.com^
+||jaltvejugmjjq.online^
 ||jambosmodesty.com^
 ||jambulfeuter.com^
 ||jamez.site^
@@ -18877,6 +18879,7 @@ vkcdnservice.appspot.com^
 ||jssearch.net^
 ||jstqzfovctwms.com^
 ||jstzvtmgiybkd.xyz^
+||jswvzfafjlytp.online^
 ||jtcgeriv.com^
 ||jtegqwmjfxu.site^
 ||jtfsrnmxdcwtx.site^
@@ -32627,6 +32630,7 @@ vkcdnservice.appspot.com^
 ||ylxfcvbuupt.com^
 ||ym8p.net^
 ||ymandardaircl.com^
+||ymctoyak.com^
 ||ymehnthakutyfor.com^
 ||ymqlrkznenfcd.world^
 ||ymuljmclqtcokp.com^
@@ -39041,7 +39045,8 @@ vkcdnservice.appspot.com^
 ||dapxl.com^
 ||dashboard.io^
 ||databrain.com^
-||datacaciques.com^
+||pv.datacaciques.com^
+||gate.datacaciques.com^
 ||datafeedfile.com^
 ||datam.com^
 ||datamaster.com.cn^

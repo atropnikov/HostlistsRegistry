@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-07-03T10:24:43.664Z
+! Last modified: 2025-07-03T12:44:14.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||wissekeygroup.com^
 ||potwm.com^
 ||audiensi.com^
 ||cs.rivierewhimsey.com^
@@ -11762,6 +11763,7 @@ vkcdnservice.appspot.com^
 ||coogoanu.net^
 ||coohauwhob.net^
 ||coojohoaboapee.xyz^
+||cookeryshed.com^
 ||cookieless-data.com^
 ||cookingsorting.com^
 ||cool-meetlovers.com^
@@ -15911,6 +15913,7 @@ vkcdnservice.appspot.com^
 ||gigsmanhowls.top^
 ||gihehazfdm.com^
 ||giirlforyou.com^
+||gikwhxotzqqzc.site^
 ||gilarditus.com^
 ||gildshone.com^
 ||gillspaste.com^
@@ -15988,6 +15991,7 @@ vkcdnservice.appspot.com^
 ||glaigaunsoroogh.com^
 ||glaikrolsoa.com^
 ||glaiksoachou.com^
+||glailaitheecmi.com^
 ||glairsbecchi.top^
 ||glaiwhee.net^
 ||glaixich.net^
@@ -16959,6 +16963,7 @@ vkcdnservice.appspot.com^
 ||hereofcineols.com^
 ||hereonline.online^
 ||heresanothernicemess.com^
+||hereshexace.shop^
 ||heretopgirls.net^
 ||heritageamyconstitutional.com^
 ||herma-tor.com^
@@ -21179,6 +21184,7 @@ vkcdnservice.appspot.com^
 ||mhhr.cloud^
 ||mhiiopll.net^
 ||mhjpxihovyjwti.com^
+||mhlezkarznvwe.site^
 ||mhusnegshd.xyz^
 ||mhvllvgrefplg.com^
 ||mhwpwcj.com^
@@ -22164,6 +22170,7 @@ vkcdnservice.appspot.com^
 ||nfdxprxptlubs.buzz^
 ||nffmuvludurqc.com^
 ||nfgxadlbfzuy.click^
+||nfnbyewhgo.com^
 ||nfvetkycvdkaw.life^
 ||ngcghsdvjfcpp.club^
 ||ngedwmfkrkvh.com^
@@ -22292,6 +22299,7 @@ vkcdnservice.appspot.com^
 ||nmwjlaywnozwj.vip^
 ||nmyfedath.com^
 ||nncdtquddmjjb.site^
+||nncistcbohnbt.com^
 ||nnerventualkentin.org^
 ||nnkjgbdsiq.com^
 ||nnlnoklsrwbuljf.com^
@@ -22711,6 +22719,7 @@ vkcdnservice.appspot.com^
 ||obeysatman.com^
 ||obfkfdxpymlxr.website^
 ||obflgjaytofk.com^
+||obiaheroid.top^
 ||objective-wright-961fed.netlify.com^
 ||objectlesslatterdissolved.com^
 ||obkrwyfmsoajc.space^
@@ -23018,6 +23027,7 @@ vkcdnservice.appspot.com^
 ||okueroskynt.com^
 ||okznasjax.com^
 ||olayomad.com^
+||olbeeqbqgumdt.website^
 ||olbmcpmktchpe.site^
 ||old-go.pro^
 ||oldkwhr.shop^
@@ -23459,6 +23469,7 @@ vkcdnservice.appspot.com^
 ||ostrichmustardalloy.com^
 ||osumpdfciiptn.online^
 ||oswapjmzeacv.com^
+||oswowcpped.com^
 ||oswtgthglq.com^
 ||oszlnxwqlc.com^
 ||otalktohershallilov.com^
@@ -23677,6 +23688,7 @@ vkcdnservice.appspot.com^
 ||oxlzcyjzypi.com^
 ||oxmoonlint.com^
 ||oxnkahofpki.com^
+||oxoyqtgnlcoth.com^
 ||oxpjoalpyhr.com^
 ||oxpvsmbv.com^
 ||oxtahgtz.com^
@@ -28406,6 +28418,7 @@ vkcdnservice.appspot.com^
 ||sraghuba.com^
 ||srbtztegq.today^
 ||srgev.com^
+||srggelgdba.com^
 ||srjckkkbya.com^
 ||srowvggksbuvv.vip^
 ||srpmkfvrlvncj.com^
@@ -30256,6 +30269,7 @@ vkcdnservice.appspot.com^
 ||twrdzmduxxfjm.world^
 ||twrmnd.com^
 ||twtad.com^
+||twxuipjaefov.com^
 ||txbwpztu-oh.site^
 ||txfkdsxfwvjsgu.com^
 ||txgilxtxczsfus.com^
@@ -30446,6 +30460,7 @@ vkcdnservice.appspot.com^
 ||ulmoyc.com^
 ||ulmqfhgfjrxbj.site^
 ||ulnhz.site^
+||ultaxvuxpgryi.site^
 ||ulteriorthemselves.com^
 ||ultimatefatiguehistorical.com^
 ||ultimatelydiscourse.com^
@@ -32246,6 +32261,7 @@ vkcdnservice.appspot.com^
 ||xads.top^
 ||xadsmart.com^
 ||xaea12play.xyz^
+||xafchwatapczo.space^
 ||xafrzicbixitc.today^
 ||xahttwmfmyji.com^
 ||xalawpqfa.com^
@@ -89303,6 +89319,7 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||cdn.instant.one^
 ||m.techpump.com^
 ||d1vg5xiq7qffdj.cloudfront.net^
 ||inbound-analytics.pixlee.co^

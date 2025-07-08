@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-07-03T03:21:26.688Z
+! Last modified: 2025-07-08T03:21:12.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -681,6 +681,7 @@
 127.0.0.1 portalhc.com
 127.0.0.1 pp.lp4.io
 127.0.0.1 prd-collector-platform.ex.co
+127.0.0.1 premium.analys.cloud
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 privalytic.com
 127.0.0.1 protagcdn.com
@@ -1115,6 +1116,7 @@
 127.0.0.1 www.blogtoplist.se
 127.0.0.1 www.championsverige.com.se
 127.0.0.1 www.clarity.ms
+127.0.0.1 www.creativeconsortiuminspired.com
 127.0.0.1 www.curemedia.se
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.effectivecreativeformat.com

@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2025-06-14T15:20:18.171Z
+! Last modified: 2025-07-17T18:34:29.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -666,6 +666,30 @@
 ||xss.my.id^
 ||y6.no^
 ||yttersiden.no^
+||norgeposten.today^
+||norwayposten.today^
+||pakkeposten.today^
+||post-dk.cfd^
+||posten-track.today^
+||posten-tracker.today^
+||postendk.lol^
+||postendsk.lat^
+||postennorge.today^
+||postennorway.today^
+||postenpakke.today^
+||postenserve.today^
+||postenserves.today^
+||postenspor.today^
+||postentrack.today^
+||postentracks.today^
+||postnord-24.site^
+||postnord-eco.buzz^
+||postnord-eco.cfd^
+||postnord-eco.sbs^
+||postnord-eco.xyz^
+||postnord-update.help^
+||postnordse.asia^
+||sporposten.today^
 
 ||1.14.61.188^
 ||3.248.18.175^
@@ -710,6 +734,13 @@
 ||193.143.1.45^
 ||193.143.1.214^
 ||193.143.1.217^
+||109.230.237.116^
+||147.93.63.211^
+||154.223.16.232^
+||43.100.125.58^
+||43.159.140.215^
+||43.162.119.45^
+||47.76.132.29^
 ||norwegian.com.
 ||flysas-no.
 ||tusenfryd-com.
@@ -763,6 +794,28 @@ norgestores.com^
 skobutikks.com^
 butikksoslo.com^
 ||no-oppdatere.
+||post-nord-levering.
+||post-nord-receiving.
+||posten-nno.
+||posten-tracks.
+||postenn-no.
+||postnord-all.
+||postnord-confirmation.
+||postnord-delay.
+||postnord-order-*
+||postnord-paket.
+||postnord-pay.
+||postnord-post.
+||postnord-se-delivery.
+||postnord-step.
+||postnord-step1.
+||postnord-tk.
+||postnord-tracks.
+||postnorde-swe.
+||postnordexpress.
+||postnordexpressdelivery-*
+||postnordspara.
+||postnorg-dk*
 
 ||annonse.*.no^
 ||ad.*.no^

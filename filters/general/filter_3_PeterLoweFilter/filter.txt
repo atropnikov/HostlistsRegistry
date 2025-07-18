@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-07-12T18:29:44.399Z
+! Last modified: 2025-07-18T12:50:33.888Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -150,6 +150,7 @@
 ||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.ztylez.com^
+||ad0.bigmir.net^
 ||ad01.mediacorpsingapore.com^
 ||ad1.emule-project.org^
 ||ad1.kde.cz^
@@ -328,6 +329,7 @@
 ||ads-dev.pinterest.com^
 ||ads-game-187f4.firebaseapp.com^
 ||ads-img.mozilla.org^
+||ads-portal-cdn.vidaatv.net^
 ||ads-twitter.com^
 ||ads.365.mk^
 ||ads.5ci.lt^
@@ -1051,8 +1053,10 @@
 ||baskettexture.com^
 ||bat.bing.com^
 ||bbelements.com^
+||bbn.img.com.ua^
 ||beachfront.com^
 ||beacon.gu-web.net^
+||beacon.netflix.com^
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||bebi.com^
@@ -1147,6 +1151,7 @@
 ||buysellads.com^
 ||buzzonclick.com^
 ||bwp.download.com^
+||c.bigmir.net^
 ||c1exchange.com^
 ||c212.net^
 ||cakesdrum.com^
@@ -1176,6 +1181,7 @@
 ||cashfiesta.com^
 ||cashpartner.com^
 ||cashstaging.me^
+||casinopays.com^
 ||casinorewards.com^
 ||casinotraffic.com^
 ||cattlecommittee.com^
@@ -1250,6 +1256,7 @@
 ||click.i.southwesternrailway.com^
 ||click.infoblox.com^
 ||click.justwatch.com^
+||click.kmindex.ru^
 ||click.mail.hotels.com^
 ||click.mail.salesforce.com^
 ||click.mailing.ticketmaster.com^
@@ -1368,6 +1375,7 @@
 ||counter.rambler.ru^
 ||counter.search.bg^
 ||counter.snackly.co^
+||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cozyhillside.com^
@@ -1407,6 +1415,7 @@
 ||cushiondrum.com^
 ||customad.cnn.com^
 ||customads.co^
+||customerevents.netflix.com^
 ||customers.kameleoon.com^
 ||cutechin.com^
 ||cxense.com^
@@ -1831,7 +1840,6 @@
 ||ia.iinfo.cz^
 ||iad.anm.co.uk^
 ||iadnet.com^
-||iasds01.com^
 ||ibillboard.com^
 ||icptrack.com^
 ||id5-sync.com^
@@ -1913,7 +1921,6 @@
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jads.co^
-||jauchuwa.net^
 ||jcount.com^
 ||jdoqocy.com^
 ||jinkads.de^
@@ -2053,6 +2060,8 @@
 ||logsss.com^
 ||logua.com^
 ||look.djfiln.com^
+||look.ichlnk.com^
+||look.opskln.com^
 ||look.ufinkln.com^
 ||loopme.com^
 ||loudlunch.com^
@@ -2281,6 +2290,7 @@
 ||nexage.com^
 ||ng3.ads.warnerbros.com^
 ||nitroclicks.com^
+||nmtracking.netflix.com^
 ||noiselessplough.com^
 ||nondescriptcrowd.com^
 ||nondescriptnote.com^
@@ -2684,8 +2694,10 @@
 ||rose.ixbt.com^
 ||rotabanner.com^
 ||roxr.net^
+||rpt-ads.vidaahub.com^
 ||rqtrk.eu^
 ||rs6.net^
+||rsc-ads.vidaahub.com^
 ||rta.dailymail.co.uk^
 ||rtb.gumgum.com^
 ||rtbadzesto.com^
@@ -3026,6 +3038,7 @@
 ||temelio.com^
 ||tend.io^
 ||tendertest.com^
+||ter-jrnl-oc.vidaahub.com^
 ||terriblethumb.com^
 ||text-link-ads.com^
 ||textad.sexsearch.com^
@@ -3214,6 +3227,7 @@
 ||undertone.com^
 ||unidentifiedanalytics.web.app^
 ||unloadyourself.com^
+||unruly.co^
 ||unrulymedia.com^
 ||untd.com^
 ||unusualtitle.com^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-07-17T18:34:32.250Z
+! Last modified: 2025-07-19T03:24:19.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -899,6 +899,7 @@
 127.0.0.1 tcd.tourn.se
 127.0.0.1 telemetric.dk
 127.0.0.1 telemetry.bambuser.io
+127.0.0.1 telemetry.seenthis.io
 127.0.0.1 tm.tradetracker.net
 127.0.0.1 to.getnitropack.com
 127.0.0.1 tools.ascontentcloud.com

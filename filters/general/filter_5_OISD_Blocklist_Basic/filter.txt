@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-07-23T14:25:10.411Z
+! Last modified: 2025-07-23T16:30:56.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9430,6 +9430,8 @@
 ||c2a0076d.xyz^
 ||c2c4aecf0a.0073a85a5d.com^
 ||c2ec494150.8681b70da0.com^
+||c2i.startappnetwork.com^
+||c2s.startappnetwork.com^
 ||c2shb.pubgw.yahoo.com^
 ||c32b5da600.ffbaa86cc9.com^
 ||c3759f7e8a.com^
@@ -25836,7 +25838,6 @@
 ||mobiright.com^
 ||mobiyield.com^
 ||mobondhrd.appspot.com^
-||mobopay.baidu.com^
 ||mobotoolpush.moboapps.io^
 ||mobpowertech.com^
 ||mobpushup.com^
@@ -26343,6 +26344,8 @@
 ||mxjwznfcryxli.life^
 ||mxpl.9gag.com^
 ||mxptint.net^
+||mxvp-ad-config-prod-1.zenmxapps.com^
+||mxvp-feature-toggle-prod-1.zenmxapps.com^
 ||mxyvivvbwiwclm.com^
 ||mxzijg.com^
 ||my-hub.top^
@@ -29717,6 +29720,7 @@
 ||plufdsb.com^
 ||pluffdoodah.com^
 ||plugerr.com^
+||plugin.mobopay.baidu.com^
 ||plugkenneth.com^
 ||plugrush.com^
 ||plugs.co^
@@ -35401,7 +35405,6 @@
 ||start.amateurcommunity.com^
 ||start.sexpartnercommunity.com^
 ||startappexchange.com^
-||startappnetwork.com^
 ||startappservice.com^
 ||startnewtab.com^
 ||startperfectsolutions.com^
@@ -43186,7 +43189,6 @@
 ||zencudo.co.uk^
 ||zendplace.pro^
 ||zenkreka.com^
-||zenmxapps.com^
 ||zenoviagroup.com^
 ||zentrixads.com^
 ||zenzuu.com^

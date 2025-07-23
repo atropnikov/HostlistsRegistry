@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-07-23T03:43:14.751Z
+! Last modified: 2025-07-23T04:42:47.679Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2511,7 +2511,6 @@
 ||ad-scope.com.cn^
 ||ad-score.com^
 ||ad-sdk-config.youdao.com^
-||ad-sdk.huxiu.com^
 ||ad-seek.jp^
 ||ad-serve.b-cdn.net^
 ||ad-server.co.za^
@@ -3647,7 +3646,6 @@
 ||ads.msn.com^
 ||ads.multimania.lycos.fr^
 ||ads.museum.or.jp^
-||ads.music.126.net^
 ||ads.networksolutions.com^
 ||ads.newgrounds.com^
 ||ads.newmedia.cz^
@@ -25517,7 +25515,6 @@
 ||milordearnful.digital^
 ||miltlametta.com^
 ||miluwo.com^
-||mime.baidu.com^
 ||mimekitab.shop^
 ||mimerestates.top^
 ||mimicbeeralb.com^
@@ -26430,7 +26427,6 @@
 ||n0ocxl4w5g.top^
 ||n0usvkb1x.com^
 ||n0v1cdn.com^
-||n10.xyz^
 ||n1307adserv.xyz^
 ||n152adserv.com^
 ||n1g459ky7y.com^
@@ -27206,7 +27202,6 @@
 ||nsfwadds.com^
 ||nsis.bisrv.com^
 ||nskyfqigltino.space^
-||nsmedia-advertising.com^
 ||nsmpydfe.net^
 ||nspmotion.com^
 ||nspot.co^
@@ -30323,6 +30318,7 @@
 ||promoted.sndcdn.com^
 ||promoted.soundcloud.com^
 ||promotion-en.xmeye.net^
+||promotion-partner.kuaishou.com^
 ||promotion-quicker.jftechsoft.com^
 ||promotion.haravan.com^
 ||promotion.polarisoffice.com^
@@ -37562,13 +37558,21 @@
 ||tnaczwecikco.online^
 ||tnc-boot.capcutapi.com^
 ||tnc-sg.capcutapi.com^
+||tnc0-aliec2.zijieapi.com^
+||tnc0-alisc1.zijieapi.com^
+||tnc0-bjlgy.zijieapi.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec2.bytedance.com^
+||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.toutiaoapi.com^
+||tnc3-aliec2.zijieapi.com^
 ||tnc3-alisc1.bytedance.com^
+||tnc3-alisc1.snssdk.com^
+||tnc3-alisc1.toutiaoapi.com^
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-bjlgy.bytedance.com^
+||tnc3-bjlgy.snssdk.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tneca.com^

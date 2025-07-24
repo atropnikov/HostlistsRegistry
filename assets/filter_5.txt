@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-07-24T03:41:31.352Z
+! Last modified: 2025-07-24T05:27:58.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4417,6 +4417,7 @@
 ||aeiwzejwyzqjy.rocks^
 ||aekpzxaghjyxa.global^
 ||aem-collector.daumkakao.io^
+||aem.dentsuchina.cn^
 ||aenadjlofcqzj.space^
 ||aenoprsouth.com^
 ||aeonistmotet.top^
@@ -5030,6 +5031,8 @@
 ||alibirasppoliteness.com^
 ||alice20.free.fr^
 ||aliciatrans.free.fr^
+||alicoccdncnc-xn.inter.71edge.com^
+||alicoccdnct-xn.inter.71edge.com^
 ||aliecspres.com^
 ||alienateafterward.com^
 ||alienateappetite.com^
@@ -7915,6 +7918,7 @@
 ||bdasd.wmxa.cn^
 ||bdbc7dce8e.com^
 ||bdc92feedb.ddb284b21b.com^
+||bdcdncnc.inter.71edge.com^
 ||bdcmwcl.icu^
 ||bdcode.2345.com^
 ||bdcode.qinglm.com^
@@ -21226,6 +21230,7 @@
 ||img1.hblds.com^
 ||img11.biyan8.com^
 ||img16.diyifanwen.com^
+||img2.360buyimg.com^
 ||img2.titan007.com^
 ||img3.126.net^
 ||img301.com^
@@ -24743,6 +24748,7 @@
 ||m.d8qu.com^
 ||m.doubleclick.net^
 ||m.hue2b.com^
+||m.iqiyipic.com^
 ||m.muyuge.com^
 ||m.optidigital.com^
 ||m.techpump.com^
@@ -35620,6 +35626,7 @@
 ||static-rtb2.talkdonttext.com^
 ||static-rtb2.torchad.com^
 ||static-rtb2.voisetech.com^
+||static-s.iqiyi.com^
 ||static-ssp.yidianzixun.com^
 ||static-trackers.adtarget.me^
 ||static-tracking.klaviyo.com^
@@ -42950,6 +42957,8 @@
 ||yjrohhkqfddlx.store^
 ||yjrrwchaz.com^
 ||yjustingexcelele.org^
+||yk-ssp-ad.cp31.ott.cibntv.net^
+||ykad-data.cp31.ott.cibntv.net^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykejihmzdvsex.store^

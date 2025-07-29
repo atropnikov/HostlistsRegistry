@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-07-29T08:32:34.588Z
+! Last modified: 2025-07-29T09:29:28.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||flustered-beer.com^
 ||carbonads.com^
 ||brightadnetwork.com^
 ||edhmnn.com^
@@ -8529,6 +8530,7 @@ vkcdnservice.appspot.com^
 ||archestinvars.world^
 ||archiewinningsneaking.com^
 ||archineseers.click^
+||archipelagosaidpre.com^
 ||architectmalicemossy.com^
 ||architecturediscussdifferently.com^
 ||archseemisly.click^
@@ -15934,6 +15936,7 @@ vkcdnservice.appspot.com^
 ||flousecuprate.top^
 ||flousepraeses.top^
 ||flowgiojoso.life^
+||flowingassuage.com^
 ||flowsearch.info^
 ||flowwiththetide.xyz^
 ||flowworksfivesphere.com^
@@ -18180,6 +18183,7 @@ vkcdnservice.appspot.com^
 ||hipuufjb.com^
 ||hipyevyvqxrmm.website^
 ||hiqbejpsiyymatl.com^
+||hiqzxinodvmol.website^
 ||hirdourdauftie.com^
 ||hiredeitysibilant.com^
 ||hirelinghistorian.com^
@@ -22586,6 +22590,7 @@ vkcdnservice.appspot.com^
 ||messy-brain.com^
 ||messyadvance.com^
 ||mestesovassar.top^
+||mestinoslacks.com^
 ||mestreqa.com^
 ||metabatted.com^
 ||metahv.xyz^
@@ -40062,7 +40067,6 @@ vkcdnservice.appspot.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
-||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||pangolin16.sgsnssdk.com^
 ||ads.adadapted.com^

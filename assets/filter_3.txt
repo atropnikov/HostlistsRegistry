@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-07-26T20:24:11.527Z
+! Last modified: 2025-07-29T13:42:30.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -491,6 +491,7 @@
 ||ads.mic.com^
 ||ads.mmania.com^
 ||ads.mobilebet.com^
+||ads.mozilla.org^
 ||ads.msn.com^
 ||ads.multimania.lycos.fr^
 ||ads.muslimehelfen.org^
@@ -1224,7 +1225,6 @@
 ||cjlog.com^
 ||cl.turkishairlines.com^
 ||cl0udh0st1ng.com^
-||claria.com^
 ||clck.ru^
 ||clevernt.com^
 ||click-1.pl^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-07-28T04:07:13.363Z
+! Last modified: 2025-08-02T04:36:58.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -569,7 +569,6 @@
 127.0.0.1 leiki-doubleclick-proxy.appspot.com
 127.0.0.1 leue.stape.net
 127.0.0.1 levaochbo.compricer.se
-127.0.0.1 libring.com
 127.0.0.1 lib.wtg-ads.com
 127.0.0.1 lifeofsvea.mainroll.com
 127.0.0.1 litix.io
@@ -1140,7 +1139,6 @@
 127.0.0.1 www.vizzit.se
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.datadoghq-browser-agent.com
-127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
 127.0.0.1 zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com

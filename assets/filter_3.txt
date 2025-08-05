@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-08-05T09:30:08.007Z
+! Last modified: 2025-08-05T16:25:52.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1625,7 +1625,6 @@
 ||faultycanvas.com^
 ||fave.co^
 ||fc.webmasterpro.de^
-||feathr.co^
 ||feedbackresearch.com^
 ||feedjit.com^
 ||feedmob.com^
@@ -2471,6 +2470,7 @@
 ||pointroll.com^
 ||pokkt.com^
 ||polishedfolly.com^
+||polo.feathr.co^
 ||popads.net^
 ||popcash.net^
 ||popmyads.com^

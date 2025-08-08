@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-08-02T04:36:58.418Z
+! Last modified: 2025-08-08T04:05:45.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -181,6 +181,7 @@
 127.0.0.1 assets.heylink.com
 127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.strossle.com
+127.0.0.1 assets.zubitracker.io
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 auction-release.mlpapi.com
 127.0.0.1 audience.systems
@@ -698,6 +699,7 @@
 127.0.0.1 push-notifications.top
 127.0.0.1 pxl.host
 127.0.0.1 r.existenz.se
+127.0.0.1 r1.ddlnk.net
 127.0.0.1 rabble-res.cloudinary.com
 127.0.0.1 recirculation.spot.im
 127.0.0.1 redistats.com
@@ -833,6 +835,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statistics.heltenkelt.se
 127.0.0.1 statistik.blogg1.se
+127.0.0.1 statistik.jagareforbundet.se
 127.0.0.1 statistik.sailguide.com
 127.0.0.1 statistik.svenskaakademien.se
 127.0.0.1 stats.agrar.nu

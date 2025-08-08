@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-08-05T16:25:52.021Z
+! Last modified: 2025-08-08T12:51:28.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -644,6 +644,7 @@
 ||adsbydelema.com^
 ||adscale.de^
 ||adscholar.com^
+||adscience.nl^
 ||adsco.re^
 ||adscpm.com^
 ||adsdaq.com^
@@ -1317,7 +1318,6 @@
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmvrclicks000.com^
 ||cnomy.com^
-||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
 ||cnvlink.com^
 ||cny.yoyo.org^
@@ -2039,7 +2039,6 @@
 ||liveadexchanger.com^
 ||liveintent.com^
 ||livelylaugh.com^
-||livelyreward.com^
 ||liverail.com^
 ||livingsleet.com^
 ||lizardslaugh.com^

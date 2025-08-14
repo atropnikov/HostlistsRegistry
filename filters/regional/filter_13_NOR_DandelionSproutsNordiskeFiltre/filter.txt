@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2025-08-09T23:21:12.890Z
+! Last modified: 2025-08-14T08:31:30.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,13 +16,8 @@
 ||acc-inf.com^
 ||acc-ntfix.com^
 ||accessmyretur.com^
-
-
-
-
 ||ad.no.doubleclick.net^
 ||ad.shareholders.dk^
-
 ||ad.wmt.dk^
 ||addmoviesnow.com^
 ||adext.inkclub.com^
@@ -34,43 +29,12 @@
 ||admob.dk^
 ||admob.no^
 ||adnordics.com^
-
-
 ||ads.abbythetraveler.com^
-
-
-
-
-
-
-
-
-
-
 ||ads.kelkoo.com^
-
-
-
-
-
 ||ads.mrgreen.com^
-
-
 ||ads.ramsalt.com^
-
-
-
-
-
-
-
-
 ||ads2.webdrive.no^
 ||ads3.webdrive.no^
-
-
-
-
 ||adserver.xh.no^
 ||adservice.com^
 ||adservice.dk^
@@ -78,26 +42,6 @@
 ||adservice.google.is^
 ||adservice.google.no^
 ||adservicemedia.dk^
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ||aib-loginsecure.com^
 ||airmaxskobillige.com^
 ||aktienboard.com^
@@ -107,12 +51,6 @@
 ||aluminium.olbi.no^
 ||annoncer.solrodnyt.dk^
 ||annonse-arkiv.tv2.no^
-
-
-
-
-
-
 ||annonseweb.agdermedia.no^
 ||annonseweb.s3-eu-west-1.amazonaws.com^
 ||app-netfiix.com^
@@ -123,12 +61,8 @@
 ||asoloskonorge.com^
 ||asound.no^
 ||assassinfitness.com^
-
-
-
 ||bamboobotanica.com^
 ||banner.3loops.com^
-
 ||banner.skisport.dk^
 ||bcm.interactives.dk^
 ||be-lnfo.com^
@@ -239,6 +173,7 @@
 ||fjallraventilbud.com^
 ||flix-area.com^
 ||flix-request.com^
+||flytteregister.no^
 ||fornyeportalen.com^
 ||fotballsko-salg.com^
 ||fr135.net^
@@ -724,7 +659,6 @@
 ||skatteetatentax.com^
 ||skattrefusjono.wpenginepowered.com^
 ||updatesysteme.com^
-
 ||1.14.61.188^
 ||3.248.18.175^
 ||5.39.217.206^
@@ -850,7 +784,6 @@ butikksoslo.com^
 ||postnordexpressdelivery-*
 ||postnordspara.
 ||postnorg-dk*
-
 ||annonse.*.no^
 ||ad.*.no^
 ||ad1.*.no^
@@ -868,8 +801,6 @@ butikksoslo.com^
 ||vefbordar.*.is^
 ||vevlysingar.*.
 ||mobilannonce.*.dk^
-
-
 @@||5d404.v.fwmrm.net^
 @@||elkjop.no.edgekey.net^
 @@||dnb.no.edgekey.net^

@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-08-22T01:45:01.005Z
+! Last modified: 2025-08-22T03:09:07.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7772,6 +7772,7 @@ vkcdnservice.appspot.com^
 ||agl003.com^
 ||agl005.tech^
 ||aglachoglaizy.net^
+||aglauchuno.net^
 ||agle21xe2anfddirite.com^
 ||agleafsaucy.world^
 ||agleamzacaton.shop^
@@ -13227,6 +13228,7 @@ vkcdnservice.appspot.com^
 ||da7a60f765.com^
 ||daailynews.com^
 ||dabbamonks.life^
+||dabbharked.cyou^
 ||dabblercypriot.cyou^
 ||daboovip.xyz^
 ||daccompanied.org^
@@ -17718,6 +17720,7 @@ vkcdnservice.appspot.com^
 ||got-to-be.net^
 ||gothegroafikree.net^
 ||gotheremploye.com^
+||gothicsdorr.click^
 ||gotibetho.pro^
 ||gotoyahoo.com^
 ||gotrackier.com^
@@ -19392,6 +19395,7 @@ vkcdnservice.appspot.com^
 ||igwatrsthg.site^
 ||igygcvrch.com^
 ||ihdqhjrqhovcp.today^
+||ihebtqxplwj.com^
 ||ihenseltampaud.net^
 ||ihhrqqkwkupxf.xyz^
 ||ihialzvrhxulf.space^
@@ -21556,6 +21560,7 @@ vkcdnservice.appspot.com^
 ||lagt.cloud^
 ||lagxsntduepv.online^
 ||laichook.net^
+||laiglailuhaji.com^
 ||laimroll.ru^
 ||lainactos.cyou^
 ||lairauque.com^
@@ -22799,6 +22804,7 @@ vkcdnservice.appspot.com^
 ||malopebarcas.click^
 ||maltermisaver.life^
 ||malthahooye.com^
+||maltierlowsin.world^
 ||maltunfaithfulpredominant.com^
 ||mamamuamusee.world^
 ||mamaphusainesh.net^
@@ -26757,6 +26763,7 @@ vkcdnservice.appspot.com^
 ||pillspaciousgive.com^
 ||pilonducking.click^
 ||pilosissteed.help^
+||pilotedmixhill.help^
 ||pilotstracking.com^
 ||pilsarde.net^
 ||pimkctwcvfhvn.space^
@@ -28531,6 +28538,7 @@ vkcdnservice.appspot.com^
 ||raadsomrmitvd.online^
 ||rabbitcounter.com^
 ||rabblevalenone.com^
+||rabinirma.click^
 ||rabotupyard.click^
 ||racedinvict.com^
 ||raceusid.com^
@@ -30408,6 +30416,7 @@ vkcdnservice.appspot.com^
 ||sellioronoco.help^
 ||sellrashmm.com^
 ||sellvisited.com^
+||seluirjtmxms.com^
 ||selvesferrara.cyou^
 ||selwrite.com^
 ||semasu.net^
@@ -33595,6 +33604,7 @@ vkcdnservice.appspot.com^
 ||true-sweets-dreampartner.com^
 ||truelivewell.com^
 ||trueloveonlinee.com^
+||truestsinker.digital^
 ||truevibe.live^
 ||trufflelekane.life^
 ||truigugrwqguh.store^
@@ -34596,6 +34606,7 @@ vkcdnservice.appspot.com^
 ||uvteeivjomorutv.com^
 ||uvvifuwwkensqs.xyz^
 ||uwahagoyvuccd.website^
+||uwauarphjaflw.website^
 ||uwauftorge.net^
 ||uwfcqtdb.xyz^
 ||uwfsrubjqlibq.store^
@@ -34877,6 +34888,7 @@ vkcdnservice.appspot.com^
 ||venulaeriggite.com^
 ||venusfritter.com^
 ||veopoluoxfvtc.online^
+||vephqefuxlkqd.store^
 ||verbdruggedcommiserate.com^
 ||verbsponsor.com^
 ||verbwarilyclotted.com^
@@ -34931,6 +34943,7 @@ vkcdnservice.appspot.com^
 ||vfhgjtdpgzthk.space^
 ||vfhtgrjsmcdzi.site^
 ||vfjkrktoqhmoy.space^
+||vflapyjifhmrf.space^
 ||vfoyluwjhovs.com^
 ||vfqejeazinwis.site^
 ||vfqgmtqglqxkd.xyz^
@@ -36853,6 +36866,7 @@ vkcdnservice.appspot.com^
 ||xvpqmcgf.com^
 ||xvpttqwshsvdr.space^
 ||xvsypuik.com^
+||xvu19.com^
 ||xvubvlxeyfmjn.store^
 ||xvuslink.com^
 ||xvxboavgkjuex.website^
@@ -38388,7 +38402,6 @@ vkcdnservice.appspot.com^
 ||coinmedia.co^
 ||cointraffic.io^
 ||coinzilla.io^
-||collectiveaudience.co^
 ||commissionfactory.com.au^
 ||commissionmonster.com^
 ||comscore.com^
@@ -110577,6 +110590,7 @@ dlsdk.appsflyer.com^
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
 ||console.uxlens.com^
+||ads-tracking.collectiveaudience.co^
 ||control.cityofcairns.com^
 ||conversions.genieventures.co.uk^
 ||cookie-guard-erdee.ey.r.appspot.com^
@@ -110729,6 +110743,7 @@ dlsdk.appsflyer.com^
 ||gu-pix.appspot.com^
 ||h-bid.com^
 ||happen.spkt.io^
+||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||highway.cablecar.sph.com.sg^
@@ -110915,6 +110930,7 @@ dlsdk.appsflyer.com^
 ||rum.layer0.co^
 ||rum.perfops.net^
 ||rw.marchex.io^
+||s.collectiveaudience.co^
 ||s.logsss.com^
 ||s.vibe.co^
 ||sa.scorpion.co^
@@ -112889,6 +112905,7 @@ dlsdk.appsflyer.com^
 ||swankysquare.com^
 ||sweetslope.com^
 ||swellstocking.com^
+||swiftintro.com^
 ||swimfreely.com^
 ||swingslip.com^
 ||swipechief.com^

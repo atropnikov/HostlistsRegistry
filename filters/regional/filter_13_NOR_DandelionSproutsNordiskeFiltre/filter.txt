@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2025-08-19T18:29:34.930Z
+! Last modified: 2025-09-04T04:23:55.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,7 @@
 ||acc-inf.com^
 ||acc-ntfix.com^
 ||accessmyretur.com^
+||acdn.adnxs-simple.com^
 ||ad.no.doubleclick.net^
 ||ad.shareholders.dk^
 ||ad.wmt.dk^
@@ -238,7 +239,6 @@
 ||hokaonenorge.com^
 ||hokaoneone-norge.com^
 ||hokaoneoneno.com^
-||hokaskooutlet.co.no^
 ||hokaslippers.com^
 ||hokasnorgeno.com^
 ||hugobossbutikk.com^
@@ -251,6 +251,7 @@
 ||i1media.no^
 ||idj.no^
 ||images.passendo.com^
+||import.roninmedia.io^
 ||indtoll.com^
 ||indtollswebt.com^
 ||informationer.nu^
@@ -290,7 +291,6 @@
 ||lnfoskonto.com^
 ||look-like-star.myshopify.com^
 ||louboutinnorge.com^
-||louboutinnorges.com^
 ||lysing.in.fo^
 ||marked.no^
 ||marson.footeo.com^
@@ -317,7 +317,6 @@
 ||mitborgereportal.com^
 ||mitdigitalborger-post.com^
 ||miteinfo-nu.com^
-||mitld-forholdsregler.com^
 ||mobilepay-finland.com^
 ||mobilidentitet.com^
 ||mobilpay-fi.com^
@@ -332,7 +331,6 @@
 ||mrcal365.com^
 ||mxdesign.dk^
 ||my-altinninnboks.com^
-||my-altinnportal.com^
 ||my-netflixssl1.com^
 ||my-subscriptions.net^
 ||my02-billinghelp.com^
@@ -354,7 +352,6 @@
 ||netflx-tv.com^
 ||netfx-acc.com^
 ||netfx-pagos.com^
-||nettavisen.nyhetsnett.no^
 ||newzeninfotech.com^
 ||ney-acc.com^
 ||nflix-management.com^
@@ -436,7 +433,6 @@
 ||popeurope.com^
 ||portalsikkerhet.com^
 ||postuksus.com^
-||premosupplements.com^
 ||print2web.sn.dk^
 ||printablemagic.com^
 ||privat-medisin-forsyninger.over-blog.com^
@@ -462,8 +458,6 @@
 ||ri-myorder.com^
 ||rigspolitiet.com^
 ||rnbinance.com^
-||robot.ekstrabladet.dk^
-||rumendia.com^
 ||s.api.no^
 ||saaq-click.com^
 ||safe-secured-transfer.com^
@@ -488,7 +482,6 @@
 ||server-no.imrworldwide.com^
 ||server-us.imrworldwide.com^
 ||sessionpaused-requestexpired.com^
-||shopi.tize.no^
 ||sikker-digitaipost.com^
 ||sikker-vlpps.com^
 ||sikkeradmin.com^
@@ -510,7 +503,6 @@
 ||sociale-assurance.com^
 ||spania.no^
 ||speedcrossnettbutikk.com^
-||spotfy-regulation.com^
 ||srilanka.no^
 ||ssbeveragedistribution.com^
 ||ssl-app.com^
@@ -556,7 +548,6 @@
 ||ultimate-tech-products.myshopify.com^
 ||um-bs.com^
 ||umbrodk.com^
-||umbrono.com^
 ||underarmourdanmarkdk.com^
 ||underarmourdk.com^
 ||underarmourdks.com^
@@ -597,7 +588,6 @@
 ||xeroshoes-danmark.com^
 ||xeroshoesdanmark.com^
 ||xeroshoesdanmarks.com^
-||xn--gymsharkklrnorge-3ob.com^
 ||xss.my.id^
 ||y6.no^
 ||yttersiden.no^
@@ -607,8 +597,6 @@
 ||post-dk.cfd^
 ||posten-track.today^
 ||posten-tracker.today^
-||postendk.lol^
-||postendsk.lat^
 ||postennorge.today^
 ||postennorway.today^
 ||postenpakke.today^
@@ -618,12 +606,7 @@
 ||postentrack.today^
 ||postentracks.today^
 ||postnord-24.site^
-||postnord-eco.buzz^
-||postnord-eco.cfd^
-||postnord-eco.sbs^
 ||postnord-eco.xyz^
-||postnord-update.help^
-||postnordse.asia^
 ||sporposten.today^
 ||nestnose.com^
 ||inquisitivebed.info^
@@ -668,6 +651,16 @@
 ||zooplus-no.com^
 ||zooplus-se.com^
 ||zooplusdanmark.com^
+||labs3.adserve.zone^
+||dynamic.adserve.zone^
+||video.seenthis.se^
+||fra1-ib.adnxs-simple.com^
+||images.mediago.io^
+||nono.qpon^
+||postnorddk.vip^
+||tnord.click^
+||tnord.qpon^
+||tnordh.shop^
 ||1.14.61.188^
 ||3.248.18.175^
 ||5.39.217.206^
@@ -719,6 +712,7 @@
 ||43.162.119.45^
 ||47.76.132.29^
 ||212.224.107.120^
+||196.251.85.197^
 ||norwegian.com.
 ||flysas-no.
 ||tusenfryd-com.
@@ -831,5 +825,4 @@ butikksoslo.com^
 @@||haslundalsted.dk^
 @@||mettelindberg.dk^
 @@||nhn.dk^
-
 ||if-a-large-hosts-file-contains-this-entry-then-it.uses-dandelion-sprouts-nordic-domains-as-a-source-list.data^

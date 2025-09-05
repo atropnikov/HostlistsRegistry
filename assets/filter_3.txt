@@ -2,13 +2,14 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-08-29T11:17:10.401Z
+! Last modified: 2025-09-05T11:16:20.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 
 
 ||101com.com^
+||180hits.de^
 ||180searchassistant.com^
 ||1rx.io^
 ||2020mustang.com^
@@ -313,7 +314,6 @@
 ||adpushup.com^
 ||adrazzi.com^
 ||adreactor.com^
-||adreclaim.com^
 ||adrecover.com^
 ||adrecreate.com^
 ||adremedy.com^
@@ -398,6 +398,7 @@
 ||ads.digital-digest.com^
 ||ads.digitalmedianet.com^
 ||ads.digitalpoint.com^
+||ads.directionsmag.com^
 ||ads.doit.com.cn^
 ||ads.domeus.com^
 ||ads.dtpnetwork.biz^
@@ -1777,7 +1778,6 @@
 ||helpcollar.com^
 ||hentaicounter.com^
 ||herbalaffiliateprogram.com^
-||hexcan.com^
 ||hexusads.fluent.ltd.uk^
 ||heyos.com^
 ||hf5rbejvpwds.com^
@@ -1978,7 +1978,6 @@
 ||leadclick.com^
 ||leadinfo.net^
 ||leadingedgecash.com^
-||leadplace.fr^
 ||leadspace.com^
 ||leadzupc.com^
 ||leaplunchroom.com^

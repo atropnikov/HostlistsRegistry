@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-09-10T09:21:14.417Z
+! Last modified: 2025-09-10T10:20:50.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7902,14 +7902,23 @@
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-va.pangle.io
+0.0.0.0 api16-access-wf-sg.pangle.io
 0.0.0.0 api16-endcard-pack-sg.pangle.io
 0.0.0.0 api16-log-gcp.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
+0.0.0.0 api16-log-sg2.pangle.io
+0.0.0.0 ether-pack-sg.pangle.io
+0.0.0.0 mediation-sg.pangle.io
 0.0.0.0 pangle.io
 0.0.0.0 api16-access-gcp.pangle-b.io
 0.0.0.0 api16-access-sg.pangle-b.io
 0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 pangle-b.io
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 tiktokpangle.us
+0.0.0.0 api16-access-ttp.tiktokpangle-b.us
+0.0.0.0 tiktokpangle-b.us
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 adengine.snigelweb.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 geo-eu.snigelweb.com
@@ -8375,10 +8384,11 @@
 0.0.0.0 bestcontentfood.top
 0.0.0.0 cdn3.bestcontentfood.top
 0.0.0.0 i.bestcontentfood.top
-0.0.0.0 ad.naver.com
-0.0.0.0 adlog.shopping.naver.com
-0.0.0.0 gfp.veta.naver.com
-0.0.0.0 veta.naver.com
+0.0.0.0 ace.naver.com
+0.0.0.0 event.impression-neo.naver.com
+0.0.0.0 inspector-collector.m.naver.com
+0.0.0.0 logapi.tv.naver.com
+0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 api.ematicsolutions.com
 0.0.0.0 ematicsolutions.com
 0.0.0.0 www.ematicsolutions.com

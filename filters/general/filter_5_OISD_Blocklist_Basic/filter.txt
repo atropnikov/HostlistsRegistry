@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-09-14T01:44:03.014Z
+! Last modified: 2025-09-14T04:23:07.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -38911,6 +38911,7 @@
 ||thebugs.ws^
 ||thecarconnections.com^
 ||thecitydating.com^
+||thecontentserver.com^
 ||thecoreadv.com^
 ||thedating-mix.top^
 ||thedreamofus.xyz^
@@ -39671,7 +39672,6 @@
 ||tr.staff-start.com^
 ||tr.standardadmin.org^
 ||tr.suedkurier.de^
-||tr.thecontentserver.com^
 ||tr.topdevvn.com^
 ||tr.usergram.info^
 ||tr.vitals.co^

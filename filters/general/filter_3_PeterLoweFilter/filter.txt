@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-09-12T12:40:19.083Z
+! Last modified: 2025-09-15T12:43:35.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -70,6 +70,7 @@
 ||ac.rnm.ca^
 ||accountsdoor.com^
 ||acemlnb.com^
+||acobt.tech^
 ||acridtwist.com^
 ||actionsplash.com^
 ||actonsoftware.com^
@@ -1947,6 +1948,7 @@
 ||kameleoon.eu^
 ||kanoodle.com^
 ||kargo.com^
+||kickoffo.site^
 ||kindads.com^
 ||kissmetrics.com^
 ||klclick.com^
@@ -1973,6 +1975,7 @@
 ||launchbit.com^
 ||layer-ad.de^
 ||layer-ads.de^
+||lazybumblebee.com^
 ||lbn.ru^
 ||lead02.com^
 ||leadboltads.net^
@@ -2101,6 +2104,7 @@
 ||marketing.net.occhiali24.it^
 ||marketing.nyi.net^
 ||marketing.osijek031.com^
+||marketingcloudapis.com^
 ||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marlowpillow.sjv.io^
@@ -2284,6 +2288,7 @@
 ||newnet.qsrch.com^
 ||newnudecash.com^
 ||newopenx.detik.com^
+||news-cdn.site^
 ||newsadsppush.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
@@ -2340,6 +2345,7 @@
 ||onaudience.com^
 ||onclickads.net^
 ||oneandonlynetwork.com^
+||onegg.site^
 ||onestat.com^
 ||onestatfree.com^
 ||online-metrix.net^
@@ -2565,6 +2571,7 @@
 ||pymx5.com^
 ||q.azcentral.com^
 ||q1connect.com^
+||qa-analytics.com^
 ||qctop.com^
 ||ql.tc^
 ||qnsr.com^
@@ -3387,6 +3394,7 @@
 ||y.ibsys.com^
 ||yab-adimages.s3.amazonaws.com^
 ||yadro.ru^
+||yastatic.net^
 ||yepads.com^
 ||yesads.com^
 ||yesadvertising.com^

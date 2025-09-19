@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-09-19T08:26:56.460Z
+! Last modified: 2025-09-19T09:22:05.845Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14712,6 +14712,7 @@ vkcdnservice.appspot.com^
 ||datingtop-flirtses.com^
 ||datingtopgirls.com^
 ||datiscamammodi.help^
+||datismchirino.com^
 ||datjwuqifa.com^
 ||datkirsu.com^
 ||datklurgklvo.com^
@@ -27172,6 +27173,7 @@ vkcdnservice.appspot.com^
 ||mkschjudt.com^
 ||mkybbjaracrvh.online^
 ||mkysuerau.com^
+||mkyxrljdjoawi.site^
 ||ml314.com^
 ||mladedda.net^
 ||mlapifxkewalg.space^
@@ -28788,6 +28790,7 @@ vkcdnservice.appspot.com^
 ||nrfkdtepyfkay.website^
 ||nrfksddymxplir.com^
 ||nrgefbqyzsxid.space^
+||nriceukwater.org^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
 ||nrotuzagll.com^
@@ -33038,6 +33041,7 @@ vkcdnservice.appspot.com^
 ||qnesnufjs.com^
 ||qnhuxyqjv.com^
 ||qnmesegceogg.com^
+||qnnomoxfmeqlr.com^
 ||qnp16tstw.com^
 ||qnpuinwkrqmyy.online^
 ||qnravllmrkpdo.space^
@@ -136673,6 +136677,7 @@ analytics-*.aasaam.com
 @@||go.adjust.com^|
 @@||clickattr.wayup.com^|
 @@||remembering.ca^|
+@@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 @@||catchup.thisisdax.com^|
 @@||px.a8.net^|

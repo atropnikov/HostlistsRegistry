@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-10-07T12:43:53.872Z
+! Last modified: 2025-10-07T14:21:36.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7478,6 +7478,7 @@ vkcdnservice.appspot.com^
 ||adoptum.net^
 ||adorablenet.com^
 ||adorableold.com^
+||adoreplans.com^
 ||adornmadeup.com^
 ||adotic.com^
 ||adotmob.com^
@@ -11476,6 +11477,7 @@ vkcdnservice.appspot.com^
 ||bvzmnmxnyvtkd.site^
 ||bwanassages.click^
 ||bwcrsvafzujog.site^
+||bwcvzbjbrbolk.site^
 ||bwgtptgihi.com^
 ||bwhhcuikrgvhs.online^
 ||bwhuyauklndvt.online^
@@ -13934,6 +13936,7 @@ vkcdnservice.appspot.com^
 ||daejyre.com^
 ||daeqtixne.com^
 ||daffaite.com^
+||daffledsith.click^
 ||daffodilnotifyquarterback.com^
 ||dafgdmabrnjnk.store^
 ||daggleesprove.click^
@@ -15546,6 +15549,7 @@ vkcdnservice.appspot.com^
 ||dzpoejczjsmkk.store^
 ||dzthdolznengm.space^
 ||dzubavstal.com^
+||dzwnrexxwsayy.online^
 ||dzyzqfbonirbd.online^
 ||dzzvgomppyzmt.online^
 ||e-cougar.fr^
@@ -16843,6 +16847,7 @@ vkcdnservice.appspot.com^
 ||eyotyarmary.world^
 ||eyoykmglbeb.com^
 ||eyqbpifffccdc.net^
+||eyqsrrwmvhavp.website^
 ||eyrasruellia.shop^
 ||eyrbobble.cfd^
 ||eyrmcpcqr.com^
@@ -18783,6 +18788,7 @@ vkcdnservice.appspot.com^
 ||gjadyyxbjdshtsy.net^
 ||gjaudxmpdfthv.com^
 ||gjigle.com^
+||gjiruqrsnzrsi.store^
 ||gjiyqcbyurhqrp.xyz^
 ||gjjaefsketwgi.tech^
 ||gjlkzltqvdjeo.site^
@@ -19659,6 +19665,7 @@ vkcdnservice.appspot.com^
 ||gyretantrik.cfd^
 ||gyrocarkluck.com^
 ||gyronsamal.cyou^
+||gysfelkqbm.com^
 ||gyspsffbmfefx.space^
 ||gystqpfwfxqno.global^
 ||gyxkbiekaghco.website^
@@ -22472,6 +22479,7 @@ vkcdnservice.appspot.com^
 ||joinedvalerin.shop^
 ||joinhitched.cyou^
 ||joinpropeller.com^
+||jokiestlamin.cyou^
 ||jolecyclist.com^
 ||jolly-courage.pro^
 ||jolmen.click^
@@ -28418,6 +28426,7 @@ vkcdnservice.appspot.com^
 ||ojbnjknownjbn.top^
 ||ojbnjknownjyy.top^
 ||ojepsahainekse.net^
+||ojetksxeb.com^
 ||ojfavxvujawd.com^
 ||ojgermlxbccod.website^
 ||ojgmxlqwedsky.site^
@@ -29526,6 +29535,7 @@ vkcdnservice.appspot.com^
 ||paajfnsrnl.com^
 ||paappfga.com^
 ||pabjriyhlvedc.vip^
+||paceaskhari.com^
 ||pacekami.com^
 ||pacersbukh.cfd^
 ||pacesconcise.com^
@@ -37760,6 +37770,7 @@ vkcdnservice.appspot.com^
 ||tgfkqpvxzcfxq.world^
 ||tggpgfvgyhgps.website^
 ||tgingleagaineda.org^
+||tgjonodnifuxu.online^
 ||tgkekkbcplvyp.store^
 ||tgonpdcji.com^
 ||tgpluprgeoskc.online^
@@ -39241,6 +39252,7 @@ vkcdnservice.appspot.com^
 ||umwoibvsbnhrh.xyz^
 ||umwzmbhdifptd.online^
 ||umyyjgqyajxzu.online^
+||umzkjponcxpvn.online^
 ||unaces.com^
 ||unactkiosk.com^
 ||unakinloggin.com^
@@ -42553,6 +42565,7 @@ vkcdnservice.appspot.com^
 ||yesuggmbggwkh.store^
 ||yetterslave.com^
 ||yeuszfvmmzsng.website^
+||yezinlace.click^
 ||yf9pkk1q.com^
 ||yfaagzkhqcjxm.site^
 ||yfaefvboqjvoi.website^
@@ -46826,6 +46839,9 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||freewheel-jitt.sanoma.fi^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
+||7caa2.v.fwmrm.net^
 ||parrot-flow.com^
 ||robin-flow.com^
 ||adsmoloco.com^

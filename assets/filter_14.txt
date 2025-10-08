@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2025-10-08T11:17:06.601Z
+! Last modified: 2025-10-08T12:44:23.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -290,3 +290,4 @@
 0.0.0.0 85otw.voluumtrk3.com
 0.0.0.0 dzisiaj.numpet.com
 0.0.0.0 numpet.com
+0.0.0.0 apinews.numpet.com

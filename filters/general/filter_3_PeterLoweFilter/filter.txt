@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-10-17T09:23:00.855Z
+! Last modified: 2025-10-17T12:43:55.203Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -402,7 +402,6 @@
 ||ads.digitalpoint.com^
 ||ads.doit.com.cn^
 ||ads.domeus.com^
-||ads.dtpnetwork.biz^
 ||ads.eagletribune.com^
 ||ads.easy-forex.com^
 ||ads.economist.com^
@@ -449,7 +448,6 @@
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
 ||ads.hollywood.com^
-||ads.horsehero.com^
 ||ads.hsoub.com^
 ||ads.ibest.com.br^
 ||ads.ibryte.com^
@@ -995,7 +993,6 @@
 ||banner.cotedazurpalace.com^
 ||banner.easyspace.com^
 ||banner.elisa.net^
-||banner.eurogrand.com^
 ||banner.finzoom.ro^
 ||banner.goldenpalace.com^
 ||banner.inyourpocket.com^
@@ -1461,7 +1458,6 @@
 ||digestiondrawer.com^
 ||digital-ads.s3.amazonaws.com^
 ||direct-events-collector.spot.im^
-||direct-re2.pl^
 ||directaclick.com^
 ||directorym.com^
 ||discountclick.com^
@@ -3298,7 +3294,6 @@
 ||videoadstech.org^
 ||videoegg.com^
 ||videostats.kakao.com^
-||vidible.tv^
 ||vidora.com^
 ||view4cash.de^
 ||viglink.com^

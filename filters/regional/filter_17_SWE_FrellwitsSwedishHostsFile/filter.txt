@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-10-09T03:01:00.817Z
+! Last modified: 2025-10-26T03:11:46.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -198,6 +198,7 @@
 127.0.0.1 bam.bonad.io
 127.0.0.1 banner.bet365partners.com
 127.0.0.1 banners.instaforex.com
+127.0.0.1 banners.jldigital.se
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 bannersnack.com
 127.0.0.1 bb-pbc.mainroll.com
@@ -685,6 +686,7 @@
 127.0.0.1 pixel.watch
 127.0.0.1 pixel-profile-cloud.eniro.com
 127.0.0.1 pixel-sync.sitescout.com
+127.0.0.1 pl.connatix.com
 127.0.0.1 pl18523163.highcpmrevenuenetwork.com
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform.iteratehq.com

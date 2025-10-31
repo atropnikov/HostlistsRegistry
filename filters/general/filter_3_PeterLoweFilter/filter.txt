@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-10-31T11:18:01.586Z
+! Last modified: 2025-10-31T12:45:24.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -472,7 +472,6 @@
 ||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.liberte.pl^
-||ads.lifethink.net^
 ||ads.linkedin.com^
 ||ads.livenation.com^
 ||ads.lordlucky.com^
@@ -724,7 +723,6 @@
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adsklick.de^
-||adskpak.com^
 ||adsmart.net^
 ||adsmartracker.com^
 ||adsmetadata.startappservice.com^
@@ -2624,7 +2622,6 @@
 ||rambunctiousflock.com^
 ||rampidads.com^
 ||randkuj.xyz^
-||randkula.online^
 ||rankchamp.de^
 ||ranking-charts.de^
 ||ranking-hits.de^
@@ -3276,6 +3273,7 @@
 ||url9467.comms-2.zoopla.co.uk^
 ||urlcash.net^
 ||us.a1.yimg.com^
+||userreplay.com^
 ||userreplay.net^
 ||users.maxcluster.net^
 ||utils.mediageneral.net^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-11-02T08:24:00.732Z
+! Last modified: 2025-11-02T09:19:01.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3403,6 +3403,7 @@
 ||adpmbts.com^
 ||adpointbreakrtb.com^
 ||adpone.com^
+||adpool.bet^
 ||adpopcorn.com^
 ||adpostback.headlines.pw^
 ||adpresenter.de^
@@ -8722,6 +8723,7 @@
 ||bmkz57b79pxk.com^
 ||bmmads.com^
 ||bmmwa.info^
+||bmndx.com^
 ||bmpdm3z282.com^
 ||bmqzsaqomgymv.site^
 ||bmqzxvqvglexy.site^
@@ -16101,6 +16103,7 @@
 ||dynspt.com^
 ||dynsrvtbg.com^
 ||dynsrvtyu.com^
+||dynsrvwer.com^
 ||dyodrs1kxvg6o.cloudfront.net^
 ||dyogndyfpctbo.xyz^
 ||dyp2p-ali.douyucdn.cn^
@@ -22202,7 +22205,6 @@
 ||icon.eu.atmndx.com^
 ||icon.eu.awmndw.com^
 ||icon.eu.bbmnd.com^
-||icon.eu.bmndx.com^
 ||icon.eu.cpmndl.com^
 ||icon.eu.eemnd.com^
 ||icon.eu.jramnd.com^
@@ -34924,7 +34926,6 @@
 ||riraconianstar.com^
 ||rirteelraibsou.net^
 ||risalathirds.shop^
-||riscati.com^
 ||risesvocalic.click^
 ||riseup-t-code.com^
 ||riskerspont.help^
@@ -36135,13 +36136,9 @@
 ||s.x47b2v9.com^
 ||s.zixuntop.com^
 ||s.zlink0.com^
-||s.zlink1.com^
 ||s.zlink3.com^
 ||s.zlink4.com^
 ||s.zlink7.com^
-||s.zlink8.com^
-||s.zlink9.com^
-||s.zlinkb.com^
 ||s.zlinkl.com^
 ||s.zlinkn.com^
 ||s.zlinkr.com^
@@ -39828,7 +39825,6 @@
 ||syndicate.payloadz.com^
 ||syndicatedsearch.goog^
 ||syndication.adlinknetwork.vn^
-||syndication.dynsrvwer.com^
 ||syndication.elink12.com^
 ||syndication.elink4.com^
 ||syndication.elink66.com^
@@ -47391,7 +47387,6 @@
 ||yzxbdzrnsyscx.rocks^
 ||z-eaazoov.top^
 ||z.allopurinoll.shop^
-||z.cdn.adpool.bet^
 ||z.cdn.protect-ad.com^
 ||z.grfyw.com^
 ||z.nowscore.com^
@@ -47675,8 +47670,12 @@
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
 ||zlaosdshglcjt.space^
+||zlink1.com^
 ||zlink2.com^
 ||zlink6.com^
+||zlink8.com^
+||zlink9.com^
+||zlinkb.com^
 ||zlinkc.com^
 ||zlinkd.com^
 ||zlinkm.com^

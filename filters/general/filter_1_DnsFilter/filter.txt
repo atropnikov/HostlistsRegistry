@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-11-10T12:47:39.620Z
+! Last modified: 2025-11-10T13:32:36.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6576,6 +6576,7 @@ vkcdnservice.appspot.com^
 ||52588314e4.com^
 ||526d43cc6c.com^
 ||52992ea523.com^
+||52p6hwntc3b2u42wpx9.cfd^
 ||5308675c79.com^
 ||536435ba94.com^
 ||538d99dc8d.com^
@@ -15977,6 +15978,7 @@ vkcdnservice.appspot.com^
 ||eelboatunseams.shop^
 ||eeldamage.com^
 ||eelsawheedi.net^
+||eelsnquk.com^
 ||eelwgpubhnjxv.website^
 ||eemaibsemtushaz.net^
 ||eemghktkqbkic.net^
@@ -24074,6 +24076,7 @@ vkcdnservice.appspot.com^
 ||jyzkut.com^
 ||jyzzwozoamjnj.top^
 ||jzbhqlgvsxdwb.store^
+||jzbvwqeowvemz.top^
 ||jzbvwqeowveyl.top^
 ||jzbvwqeowvlqw.top^
 ||jzeimirchegdf.site^
@@ -24877,6 +24880,7 @@ vkcdnservice.appspot.com^
 ||kqiuernncywj.xyz^
 ||kqjctnfolquejs.com^
 ||kqjfsebp.com^
+||kqkt2ypeembpyquqrrh.rest^
 ||kqlpkabisdvslqa.net^
 ||kqmmlqbuwmksm.store^
 ||kqmvitmyx.com^
@@ -31224,6 +31228,7 @@ vkcdnservice.appspot.com^
 ||oulsools.com^
 ||oumpackoordailt.net^
 ||oumteestumpoa.net^
+||oumtichemseelsy.net^
 ||oumtirsu.com^
 ||oundandround.com^
 ||oundaymitools.org^
@@ -44053,6 +44058,7 @@ vkcdnservice.appspot.com^
 ||vziafpfir.com^
 ||vzigttqgqx.com^
 ||vziwnogpwvjra.website^
+||vzkdglcastwka.store^
 ||vzldnxgdbhyle.website^
 ||vzmilkdaptnug.online^
 ||vzoqn.buzz^
@@ -44307,6 +44313,7 @@ vkcdnservice.appspot.com^
 ||wbozjnwyzzglq.top^
 ||wbpiaqaqnqlmc.space^
 ||wbrgeoldclybx.online^
+||wbrihpfkpgujh.space^
 ||wbrqciwtf.com^
 ||wbsgerise.com^
 ||wbsisvslth.com^
@@ -45349,6 +45356,7 @@ vkcdnservice.appspot.com^
 ||wrximymp.com^
 ||wry-boss.com^
 ||wryabmekmukxp.site^
+||wryzkeaxx.com^
 ||wrzujfwoxnoi.com^
 ||ws5ujgqkp.com^
 ||ws67eqwwp.pro^
@@ -134800,6 +134808,7 @@ dlsdk.appsflyer.com^
 ||ts2.hockey-talks.com^
 ||ukrsvit.ukrmir.info^
 ||vozer.voffka.com^
+||api.moonanime.art^
 ||stat.hdvbua.pro^
 ||exchange.informer.ua^
 ||ads2native.com^
@@ -147730,6 +147739,7 @@ analytics-*.aasaam.com
 ||torvind.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||go.redirectingat.com^|
 @@||ref.rbauction.com^|
 @@||puzzles-games-api.gp-prod.conde.digital^|
 @@||news.warhammer.com^|

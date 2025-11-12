@@ -2,10 +2,11 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-11-12T14:23:25.689Z
+! Last modified: 2025-11-12T16:30:03.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||dipperflightrecommend.com^
 ||recommendedcasualtymysterious.com^
 ||leadstar.com.pl^
 ||szubtepzaka.com^
@@ -52195,6 +52196,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||data.pendo.io^
 ||api.statsigcdn.com^
 ||beacon.coofis.com^
 ||aditude.prebid-server.com^
@@ -129058,6 +129060,10 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||data.eu.pendo.io^
+||client-log.box.com^
+||pendo-data-prod.box.com^
+||blink.fra-01.braze.eu^
 ||api.monedata.io^
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||mcs16-normal-us-ttp.capcutapi.us^

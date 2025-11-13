@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-11-13T14:21:24.757Z
+! Last modified: 2025-11-13T16:27:29.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6475,6 +6475,7 @@ vkcdnservice.appspot.com^
 ||3gbqdci2.de^
 ||3j8c56p9.de^
 ||3jwgygnq3t6rlyiunymyx.cfd^
+||3khbi6czbrbqqwmi.cfd^
 ||3lift.com^
 ||3nbf4.com^
 ||3ng6p6m0.de^
@@ -6978,6 +6979,7 @@ vkcdnservice.appspot.com^
 ||9t5.me^
 ||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
+||9wfhip7pgkt7jieyoituo1i.rest^
 ||9x4yujhb0.com^
 ||9x9jiftcz2cuz9oi25ffibtjh.rest^
 ||9xeqynu3gt7c.com^
@@ -14359,6 +14361,7 @@ vkcdnservice.appspot.com^
 ||dcsakxvzsdiaz.space^
 ||dcslnqezlxyte.website^
 ||dcssptrack.com^
+||dcvjapmshft.com^
 ||dcwnhlzrvnlnj.website^
 ||dcxnjdjvurerw.site^
 ||dd1xbevqx.com^
@@ -15840,6 +15843,7 @@ vkcdnservice.appspot.com^
 ||dzzmkrbbbqxeb.site^
 ||dzzvgomppyzmt.online^
 ||e-cougar.fr^
+||e026b0501c.com^
 ||e03abc72c5.com^
 ||e04ab2ef0e.com^
 ||e088b80df3.com^
@@ -16215,6 +16219,7 @@ vkcdnservice.appspot.com^
 ||efkqtiyb.com^
 ||efkwuqgwfkloq.website^
 ||eflewroundand.com^
+||eflolwlodb.com^
 ||efooheegounoap.net^
 ||eforeukandthi.org^
 ||eforgotteddisgu.com^
@@ -24190,6 +24195,7 @@ vkcdnservice.appspot.com^
 ||jugglingoverfedparalyze.com^
 ||juggo.site^
 ||jugularmatches.help^
+||jugurslrrneem.space^
 ||juhktkdeby.com^
 ||juiceadv.com^
 ||juiceadv.net^
@@ -25236,6 +25242,7 @@ vkcdnservice.appspot.com^
 ||kromerefinds.cyou^
 ||kronendaylong.help^
 ||kroonioctofid.click^
+||krpebhpl.com^
 ||krpoxpezhuqqx.online^
 ||krrcqsiew.com^
 ||krshmqrqvipop.website^
@@ -27011,6 +27018,7 @@ vkcdnservice.appspot.com^
 ||lvtioxxqplihtm.com^
 ||lvualvjfekioz.space^
 ||lvubwrnhxktlo.online^
+||lvvbqeaqvrllr.top^
 ||lvvbqeaqvrmvy.top^
 ||lvvbqeaqvrvlq.top^
 ||lvvbqeaqvrvrk.top^
@@ -27910,6 +27918,7 @@ vkcdnservice.appspot.com^
 ||mfobenjxxmggr.store^
 ||mfokuvfzcevjp.website^
 ||mfrwyailfrrxm.website^
+||mfsplmxtokipx.online^
 ||mfuotcojjowsa.website^
 ||mfwbsveljxjsq.space^
 ||mfxlpkvsqsgpq.online^
@@ -28175,6 +28184,7 @@ vkcdnservice.appspot.com^
 ||mizzenjarfuls.rest^
 ||mizzledilogy.life^
 ||mizzlerzodiacs.world^
+||mjaytlowjzixs.site^
 ||mjcfeibdmyggt.online^
 ||mjcfpkgfkeoni.site^
 ||mjdoepcbogrix.store^
@@ -34747,6 +34757,7 @@ vkcdnservice.appspot.com^
 ||qcqfkzglgynfr.site^
 ||qcqobpxpeeiwh.store^
 ||qcqtwtydv.com^
+||qctltbddoojgy.website^
 ||qcumzumfiturg.store^
 ||qcuwpicccoscr.online^
 ||qcvtedixopmipj.com^
@@ -41519,6 +41530,7 @@ vkcdnservice.appspot.com^
 ||tocometothepoin.com^
 ||tocontraceptive.com^
 ||tocswcbbwbnjn.space^
+||toctypqobggez.store^
 ||todayapplied.com^
 ||todayswigcontagious.com^
 ||toddlecausebeeper.com^
@@ -45235,6 +45247,7 @@ vkcdnservice.appspot.com^
 ||wglqvwknwzyjg.top^
 ||wgmenxpvnxnbs.space^
 ||wgmnhecxa.com^
+||wgnootaoq.com^
 ||wgolyqqmnzmgz.top^
 ||wgsaralfncvvb.online^
 ||wgudvecmihgqy.site^
@@ -52436,6 +52449,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||nlog.instajob.ai^
 ||data.pendo.io^
 ||api.statsigcdn.com^
 ||beacon.coofis.com^
@@ -129302,6 +129316,8 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||fcm-collect-api.alyac.com^
+||service-api.flarelane.com^
 ||mossturbo.com^
 ||collect.wehearfm.com^
 ||itracking.ikameglobal.com^

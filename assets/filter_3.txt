@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-11-12T20:25:28.763Z
+! Last modified: 2025-11-14T13:31:26.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -256,7 +256,6 @@
 ||adjuggler.yourdictionary.com^
 ||adjust.com^
 ||adjustnetwork.com^
-||adk2.co^
 ||adk2.com^
 ||adland.ru^
 ||adlegend.com^
@@ -400,6 +399,7 @@
 ||ads.digital-digest.com^
 ||ads.digitalmedianet.com^
 ||ads.digitalpoint.com^
+||ads.directionsmag.com^
 ||ads.doit.com.cn^
 ||ads.domeus.com^
 ||ads.eagletribune.com^
@@ -723,6 +723,7 @@
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adsklick.de^
+||adskpak.com^
 ||adsmart.net^
 ||adsmartracker.com^
 ||adsmetadata.startappservice.com^
@@ -1085,6 +1086,7 @@
 ||big-bang-ads.com^
 ||bigbangmedia.com^
 ||bigclicks.com^
+||bigreal.org^
 ||bigworldfashion.com^
 ||billboard.cz^
 ||billtable.com^
@@ -3132,7 +3134,6 @@
 ||tm.br.de^
 ||tnkexchange.com^
 ||tns-counter.ru^
-||to-go1.eu^
 ||toolforthought.com^
 ||top-casting-termine.de^
 ||top-site-list.com^

@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-11-05T03:13:21.541Z
+! Last modified: 2025-11-21T13:29:44.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -700,6 +700,7 @@
 127.0.0.1 prd-collector-platform.ex.co
 127.0.0.1 premium.analys.cloud
 127.0.0.1 prg.smartadserver.com
+127.0.0.1 proad-cdn.relevant-digital.com
 127.0.0.1 protagcdn.com
 127.0.0.1 proxyas.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -716,6 +717,7 @@
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 regstat.se
+127.0.0.1 relevant-digital.com
 127.0.0.1 rentia.se
 127.0.0.1 rentify.se
 127.0.0.1 rentler.se

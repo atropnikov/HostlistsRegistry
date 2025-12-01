@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2025-12-01T14:25:37.023Z
+! Last modified: 2025-12-01T15:25:22.777Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12195,6 +12195,7 @@ vkcdnservice.appspot.com^
 ||caublarlpwmsn.site^
 ||caudexintrine.com^
 ||cauditcommernal.com^
+||caujastozi.com^
 ||cauliflowertoaster.com^
 ||caulisbacile.qpon^
 ||caulishanker.qpon^
@@ -30852,6 +30853,7 @@ vkcdnservice.appspot.com^
 ||ojuvjqymmcyos.site^
 ||ojvpumediuoxs.online^
 ||ojxpntdsgtcgb.store^
+||ojyneijlxlekv.site^
 ||ojyqnnqnlnqgy.top^
 ||ojznfnfxuaztb.site^
 ||okaawvmyobnm.top^
@@ -43316,6 +43318,7 @@ vkcdnservice.appspot.com^
 ||vqsegqrwefymp.space^
 ||vquhshiqyqudr.space^
 ||vqzbmjexsbscb.store^
+||vqzjymqxasrht.site^
 ||vqzoqqnjolnbl.site^
 ||vrcdpoaciecoj.online^
 ||vrcjgvxwjmepr.website^
@@ -45796,6 +45799,7 @@ vkcdnservice.appspot.com^
 ||yohocrummer.cfd^
 ||yojbiagdemrac.buzz^
 ||yokeeroud.com^
+||yokematchesdashboard.com^
 ||yolvyzasxyojr.space^
 ||yomeno.xyz^
 ||yomxt.icu^
@@ -121606,6 +121610,7 @@ analytics-*.aasaam.com
 ||torvind.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||itoya.ec-optimizer.com^|
 @@||go.redirectingat.com^|
 @@||ref.rbauction.com^|
 @@||puzzles-games-api.gp-prod.conde.digital^|

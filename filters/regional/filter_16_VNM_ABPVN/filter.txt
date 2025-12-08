@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2025-12-05T08:31:31.869Z
+! Last modified: 2025-12-08T10:27:19.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11114,6 +11114,12 @@
 0.0.0.0 collector-pxebumdlwe.pxchk.net
 0.0.0.0 collector-pxrf8vapwa.pxchk.net
 0.0.0.0 collector-pxrf8vapwa.px-client.net
+0.0.0.0 ads.sportradar.com
+0.0.0.0 tm.ads.sportradar.com
+0.0.0.0 tracker.ads.sportradar.com
+0.0.0.0 deviatetracking.com
+0.0.0.0 v7.deviatetracking.com
+0.0.0.0 www.deviatetracking.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13505,7 +13511,6 @@
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
-0.0.0.0 ads.sportradar.com
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.starzd.com
 0.0.0.0 ads.sun.com
@@ -15668,6 +15673,7 @@
 0.0.0.0 hacspynha.com
 0.0.0.0 hadabqhbewcrt.com
 0.0.0.0 hailstonefatherinlawsuggestions.com
+0.0.0.0 hairsromance.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamulustueiron.com
 0.0.0.0 hananokai.tv
@@ -16816,6 +16822,7 @@
 0.0.0.0 offergate-apps-publicity.com
 0.0.0.0 offergate-other32.com
 0.0.0.0 offerimage.com
+0.0.0.0 offeringchewjean.com
 0.0.0.0 offermatica.com
 0.0.0.0 offgalvantulaom.com
 0.0.0.0 offoonguser.com
@@ -17239,6 +17246,7 @@
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
 0.0.0.0 predictiondexchange.com
+0.0.0.0 preferencenail.com
 0.0.0.0 prefleks.com
 0.0.0.0 premium-offers.com
 0.0.0.0 premiumvertising.com
@@ -17294,6 +17302,7 @@
 0.0.0.0 protexting.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
+0.0.0.0 protrafficinspector.com
 0.0.0.0 provexia.com
 0.0.0.0 providingcrechepartnership.com
 0.0.0.0 proximic.com
@@ -18699,6 +18708,7 @@
 0.0.0.0 wedxuaksargvlf.com
 0.0.0.0 weeecool.com
 0.0.0.0 weesatoothoamu.net
+0.0.0.0 weirdopt.com
 0.0.0.0 welcomeneat.pro
 0.0.0.0 welcomingaccompanyeffort.com
 0.0.0.0 wellmadefrog.com

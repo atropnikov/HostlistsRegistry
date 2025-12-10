@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2025-12-10T09:27:55.113Z
+! Last modified: 2025-12-10T10:28:07.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -311,3 +311,7 @@
 0.0.0.0 nieuws.znicely.com
 0.0.0.0 www.znicely.com
 0.0.0.0 znicely.com
+0.0.0.0 auradelunadao.com
+0.0.0.0 www.auradelunadao.com
+0.0.0.0 embemy.com
+0.0.0.0 www.embemy.com

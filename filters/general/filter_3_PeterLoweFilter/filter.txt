@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2025-12-11T09:28:45.406Z
+! Last modified: 2025-12-11T10:27:57.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1104,6 +1104,7 @@
 ||blueconic.net^
 ||bluekai.com^
 ||bluelithium.com^
+||bluenest.net^
 ||bluewhaleweb.com^
 ||blushingbeast.com^
 ||blushingbread.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-12-26T05:24:57.528Z
+! Last modified: 2025-12-26T06:36:40.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3620,7 +3620,6 @@
 ||ads.emirates.net.ae^
 ||ads.ennaharonline.com^
 ||ads.enrt.eu^
-||ads.environmentalleader.com^
 ||ads.epltalk.com^
 ||ads.eu.msn.com^
 ||ads.fairfax.com.au^

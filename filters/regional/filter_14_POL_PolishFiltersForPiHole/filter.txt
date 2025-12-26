@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2025-12-21T12:44:34.063Z
+! Last modified: 2025-12-26T14:22:56.394Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -335,3 +335,6 @@
 0.0.0.0 termsfeed.com
 0.0.0.0 outsourcing-sprzedazy.pl
 0.0.0.0 www.outsourcing-sprzedazy.pl
+0.0.0.0 now.xinloc.com
+0.0.0.0 www.xinloc.com
+0.0.0.0 xinloc.com

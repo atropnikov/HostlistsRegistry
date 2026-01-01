@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-01T14:22:46.004Z
+! Last modified: 2026-01-01T16:30:17.588Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -340,3 +340,11 @@
 0.0.0.0 xinloc.com
 0.0.0.0 klrtspet.net
 0.0.0.0 www.klrtspet.net
+0.0.0.0 grzmotnij.pl
+0.0.0.0 kamerki69.pl
+0.0.0.0 wiki20.pl
+0.0.0.0 kamerka24.pl
+0.0.0.0 www.grzmotnij.pl
+0.0.0.0 www.kamerki69.pl
+0.0.0.0 www.wiki20.pl
+0.0.0.0 www.kamerka24.pl

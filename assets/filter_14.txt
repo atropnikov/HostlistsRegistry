@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-19T11:24:15.988Z
+! Last modified: 2026-01-19T20:27:38.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -290,8 +290,6 @@
 0.0.0.0 dzisiaj.numpet.com
 0.0.0.0 numpet.com
 0.0.0.0 apinews.numpet.com
-0.0.0.0 film.azontree.com
-0.0.0.0 azontree.com
 0.0.0.0 aktualnosci.pl.ua
 0.0.0.0 shownewsdaily.com
 0.0.0.0 www.shownewsdaily.com
@@ -381,3 +379,34 @@
 0.0.0.0 spotlight.tourpariz.net
 0.0.0.0 www.tourpariz.net
 0.0.0.0 tourpariz.net
+0.0.0.0 plotek.azontree.com
+0.0.0.0 24hnews.azontree.com
+0.0.0.0 aktuality.azontree.com
+0.0.0.0 allnews.azontree.com
+0.0.0.0 americanews365.azontree.com
+0.0.0.0 azontree.com
+0.0.0.0 breakingnews.azontree.com
+0.0.0.0 breakingnow.azontree.com
+0.0.0.0 bunte.azontree.com
+0.0.0.0 cafe.azontree.com
+0.0.0.0 daily.azontree.com
+0.0.0.0 dailynews.azontree.com
+0.0.0.0 europa.azontree.com
+0.0.0.0 europulsenews.azontree.com
+0.0.0.0 expressen.azontree.com
+0.0.0.0 fanhub.azontree.com
+0.0.0.0 fannews.azontree.com
+0.0.0.0 film.azontree.com
+0.0.0.0 hant.azontree.com
+0.0.0.0 hotnews.azontree.com
+0.0.0.0 hrt.azontree.com
+0.0.0.0 julkkis.azontree.com
+0.0.0.0 live.azontree.com
+0.0.0.0 livenews.azontree.com
+0.0.0.0 magazin.azontree.com
+0.0.0.0 meta.azontree.com
+0.0.0.0 musicnews.azontree.com
+0.0.0.0 nachrichten.azontree.com
+0.0.0.0 new365.azontree.com
+0.0.0.0 news.azontree.com
+0.0.0.0 nieuws.azontree.com

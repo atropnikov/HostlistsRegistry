@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-15T07:27:42.955Z
+! Last modified: 2026-01-19T11:24:15.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -377,3 +377,7 @@
 0.0.0.0 dailynews.azovona.com
 0.0.0.0 breakingnow.azovona.com
 0.0.0.0 aktuality.azovona.com
+0.0.0.0 www.spotlight.tourpariz.net
+0.0.0.0 spotlight.tourpariz.net
+0.0.0.0 www.tourpariz.net
+0.0.0.0 tourpariz.net

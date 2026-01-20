@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-01-20T01:59:05.099Z
+! Last modified: 2026-01-20T18:41:30.321Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1778,6 +1778,7 @@
 0.0.0.0 exchangemarket.fr
 0.0.0.0 exelformation.fr
 0.0.0.0 exepdia.fr
+0.0.0.0 exotic-wax.surge.sh
 0.0.0.0 exparint.fr
 0.0.0.0 expertland.net
 0.0.0.0 expired-antiviruses.com
@@ -2983,6 +2984,7 @@
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.faggotry.com
+0.0.0.0 www.farnazinternational.com
 0.0.0.0 www.fenquavo.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
@@ -2992,6 +2994,7 @@
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.gimp.es
@@ -3027,6 +3030,7 @@
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.minr.pw
+0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
@@ -3049,11 +3053,13 @@
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.qbittorrent.com
+0.0.0.0 www.rackusread.com
 0.0.0.0 www.randki-sex.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.sidneyman.com
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.ssl2.in

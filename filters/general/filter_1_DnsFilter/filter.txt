@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-20T16:38:54.154Z
+! Last modified: 2026-01-20T17:32:42.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36608,6 +36608,7 @@ vkcdnservice.appspot.com^
 ||possessvampire.com^
 ||possibilityfoundationwallpaper.com^
 ||possiblefinish.pro^
+||possiblehighlight.pro^
 ||postagepantsthereupon.com^
 ||postaoz.xyz^
 ||postback.info^
@@ -41011,6 +41012,7 @@ vkcdnservice.appspot.com^
 ||scarcerpokomoo.com^
 ||scared-piece.pro^
 ||scareshortnovel.com^
+||scarfebual.cyou^
 ||scaridcheths.cfd^
 ||scarierbairnie.cyou^
 ||scarphwaxingsalemana.cyou^
@@ -48790,6 +48792,7 @@ vkcdnservice.appspot.com^
 ||werflaser.click^
 ||wertherqueered.qpon^
 ||wesicuros.com^
+||weskitsdelator.com^
 ||weskitstoiler.help^
 ||westcoa.com^
 ||wet-ambition.pro^
@@ -52587,6 +52590,7 @@ vkcdnservice.appspot.com^
 ||amobee.com^
 ||amxrtb.com^
 ||andbeyond.media^
+||aniview.com^
 ||anyclip-media.com^
 ||anymedia.lv^
 ||anyxp.com^
@@ -137982,6 +137986,7 @@ analytics-*.aasaam.com
 ||torvind.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||ssai.aniview.com^|
 @@||sedge.nfl.com^|
 @@||data.orders.costco.com^|
 @@||link.meet5.net^|

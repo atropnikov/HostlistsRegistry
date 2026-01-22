@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-01-22T06:39:19.597Z
+! Last modified: 2026-01-22T18:37:37.888Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2986,6 +2986,7 @@
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
+0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
 0.0.0.0 www.fenquavo.com

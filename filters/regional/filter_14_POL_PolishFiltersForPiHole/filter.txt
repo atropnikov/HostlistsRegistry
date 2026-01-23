@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-20T08:36:36.662Z
+! Last modified: 2026-01-23T07:28:08.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -507,3 +507,15 @@
 0.0.0.0 work.topnewsource.com
 0.0.0.0 www.topnewsource.com
 0.0.0.0 znews.topnewsource.com
+0.0.0.0 bvt.hukfi.com
+0.0.0.0 dabarlt.hukfi.com
+0.0.0.0 dford.hukfi.com
+0.0.0.0 expresspl.hukfi.com
+0.0.0.0 hukfi.com
+0.0.0.0 jy.hukfi.com
+0.0.0.0 tv-dzive.hukfi.com
+0.0.0.0 viral2.hukfi.com
+0.0.0.0 viral3.hukfi.com
+0.0.0.0 viral8.hukfi.com
+0.0.0.0 viral9.hukfi.com
+0.0.0.0 www.hukfi.com

@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-25T09:25:55.266Z
+! Last modified: 2026-01-26T06:41:38.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -761,3 +761,5 @@
 0.0.0.0 zwork.numpet.com
 0.0.0.0 apteline.shop
 0.0.0.0 www.apteline.shop
+0.0.0.0 apteline-pl.sbs
+0.0.0.0 www.apteline-pl.sbs

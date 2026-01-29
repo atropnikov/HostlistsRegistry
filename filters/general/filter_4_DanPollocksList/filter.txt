@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-01-27T08:36:50.250Z
+! Last modified: 2026-01-29T14:39:07.382Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1744,6 +1744,7 @@
 0.0.0.0 elboncoin.fr
 0.0.0.0 elyses.fr
 0.0.0.0 emagicone.fr
+0.0.0.0 email.headers.digital
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
@@ -2518,6 +2519,7 @@
 0.0.0.0 poweroff.pt
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
+0.0.0.0 pr-wealth.in
 0.0.0.0 predictiondisplay.com
 0.0.0.0 predictivadnetwork.com
 0.0.0.0 premium-live-scan.com
@@ -2627,6 +2629,7 @@
 0.0.0.0 sajour.fr
 0.0.0.0 salebestever.su
 0.0.0.0 santanderbank.fr
+0.0.0.0 saouryadi.in
 0.0.0.0 sartoriz.fr
 0.0.0.0 sbh9hu4trk.com
 0.0.0.0 scei-concour.fr
@@ -2814,6 +2817,7 @@
 0.0.0.0 tranisere.fr
 0.0.0.0 trauiqce.click
 0.0.0.0 trevia.za.com
+0.0.0.0 trifama.com
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
@@ -2994,9 +2998,12 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.darkrro.com
 0.0.0.0 www.dejamesertuvoz.com
+0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
+0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
@@ -3045,6 +3052,7 @@
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
+0.0.0.0 www.leeucode.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
@@ -3059,6 +3067,7 @@
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mycolonialpenm.com
+0.0.0.0 www.myexotel.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.notepad2.com
@@ -3086,6 +3095,7 @@
 0.0.0.0 www.randki-sex.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rickrolling.com
+0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.securityscan.us
@@ -10017,6 +10027,7 @@
 0.0.0.0 www.crowdgravity.com
 0.0.0.0 www.crowdignite.com
 0.0.0.0 www.cryptocoinsad.com
+0.0.0.0 www.crystaltao.art
 0.0.0.0 www.csalikft.hu
 0.0.0.0 www.ctaz.com
 0.0.0.0 www.ctbdev.net
@@ -10057,6 +10068,7 @@
 0.0.0.0 www.ebayadservices.com
 0.0.0.0 www.ebayadvertising.com
 0.0.0.0 www.ebaybanner.com
+0.0.0.0 www.ecoledessciences.com
 0.0.0.0 www.edv-waldherr.at
 0.0.0.0 www.emadesign.net
 0.0.0.0 www.emarketmakers.com

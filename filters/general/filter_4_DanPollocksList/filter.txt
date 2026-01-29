@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-01-29T18:52:52.244Z
+! Last modified: 2026-01-29T22:31:06.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1887,6 +1887,7 @@
 0.0.0.0 giulli.fr
 0.0.0.0 glassjaw.fr
 0.0.0.0 globaldrugsurvey.fr
+0.0.0.0 glucont.shop
 0.0.0.0 gmailapcq6.eblink5.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 goggle.com

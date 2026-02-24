@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-02-24T07:51:36.784Z
+! Last modified: 2026-02-24T19:10:13.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1661,6 +1661,7 @@
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
+0.0.0.0 cp.forest-host.cc
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
@@ -2288,6 +2289,7 @@
 0.0.0.0 mightyfungi.fr
 0.0.0.0 mije.fr
 0.0.0.0 mikvr.comfortykive.xyz
+0.0.0.0 mimikacooney.acemlnc.com
 0.0.0.0 mindshareworld.fr
 0.0.0.0 mineacraft.fr
 0.0.0.0 minecraft-frannce.fr
@@ -3115,7 +3117,10 @@
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
+0.0.0.0 www.googdiy.com
+0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
+0.0.0.0 www.gpolitico.com
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
@@ -3161,6 +3166,7 @@
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl

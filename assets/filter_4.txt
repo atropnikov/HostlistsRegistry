@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-02-26T02:25:29.892Z
+! Last modified: 2026-02-26T19:45:26.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3067,6 +3067,7 @@
 0.0.0.0 www.clipsfan.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
+0.0.0.0 www.cloudverge.uk
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
@@ -3222,6 +3223,9 @@
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.picture-uploads.com
+0.0.0.0 www.pinbroksup.com
+0.0.0.0 www.pintransup.com
+0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-02-27T11:34:30.512Z
+! Last modified: 2026-02-27T13:05:29.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -292,6 +292,7 @@
 ||adnet.de^
 ||adnet.ru^
 ||adnetasia.com^
+||adnetwork.net^
 ||adnetworkperformance.com^
 ||adnews.maddog2000.de^
 ||adnium.com^
@@ -572,6 +573,7 @@
 ||ads.twojatv.info^
 ||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
+||ads.unison.bg^
 ||ads.usatoday.com^
 ||ads.uxs.at^
 ||ads.v-lazer.com^
@@ -1417,6 +1419,7 @@
 ||crystalboulevard.com^
 ||cs.co^
 ||curbminers.com^
+||curiousmetal.com^
 ||curtaincows.com^
 ||curveshore.com^
 ||cushiondrum.com^
@@ -1573,7 +1576,6 @@
 ||erne.co^
 ||ero-advertising.com^
 ||essaygiants.com^
-||estat.com^
 ||esty.com^
 ||et.educationdynamics.com^
 ||et.nytimes.com^
@@ -2235,7 +2237,6 @@
 ||mintegral.com^
 ||mittencattle.com^
 ||mix2ads.com^
-||mixedreading.com^
 ||mixpanel.com^
 ||mkto-ab410147.com^
 ||mktoresp.com^
@@ -2338,6 +2339,7 @@
 ||newnudecash.com^
 ||news-cdn.site^
 ||newsadsppush.com^
+||newsbotnet.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
 ||nexac.com^

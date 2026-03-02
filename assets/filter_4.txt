@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-02T19:38:24.272Z
+! Last modified: 2026-03-02T23:29:09.754Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3101,6 +3101,7 @@
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.edashealthcare.com
 0.0.0.0 www.edwardmartino.com
+0.0.0.0 www.energiazoque.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
@@ -3327,6 +3328,7 @@
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.wantsfly.com
+0.0.0.0 www.warrenmovers.net
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.webwise.com

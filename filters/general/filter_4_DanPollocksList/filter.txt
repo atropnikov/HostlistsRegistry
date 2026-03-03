@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-02T23:29:09.754Z
+! Last modified: 2026-03-03T02:29:40.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1824,6 +1824,7 @@
 0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 fedgroceryrebate.com
+0.0.0.0 fedi.6751242.cc
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fengyixin.com
 0.0.0.0 festicolor.fr
@@ -3205,6 +3206,7 @@
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
+0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.neonracketpro.com

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-03T17:46:57.433Z
+! Last modified: 2026-03-03T18:55:08.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3178,9 +3178,11 @@
 0.0.0.0 www.khanomtour.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
+0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.lahoreautismcentre.com
+0.0.0.0 www.lanaita.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.libanco.com

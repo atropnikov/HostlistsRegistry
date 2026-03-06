@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-03-04T18:55:34.394Z
+! Last modified: 2026-03-06T22:32:05.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -44,6 +44,7 @@
 0.0.0.0 adv.wp.pl
 0.0.0.0 advertising.com
 0.0.0.0 affiliates-solutions.com
+0.0.0.0 aftonbladet.azontree.com
 0.0.0.0 agoraperformance.pl
 0.0.0.0 aktuality.azontree.com
 0.0.0.0 aktuality.azovona.com
@@ -93,6 +94,7 @@
 0.0.0.0 bh24h.numpet.com
 0.0.0.0 billie.numpet.com
 0.0.0.0 bioway.pl
+0.0.0.0 bladet.azontree.com
 0.0.0.0 blognews.topnewsource.com
 0.0.0.0 blubroid.de
 0.0.0.0 bodelen.com
@@ -140,6 +142,7 @@
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 contextweb.com
 0.0.0.0 cookies.neuca24.pl
+0.0.0.0 corriere.azontree.com
 0.0.0.0 corto.www.wp.pl
 0.0.0.0 counter.hitslink.com
 0.0.0.0 coups12.numpet.com
@@ -150,6 +153,7 @@
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
 0.0.0.0 dabarlt.hukfi.com
 0.0.0.0 dacorsagp.numpet.com
+0.0.0.0 dagbladet.azontree.com
 0.0.0.0 daib.pl
 0.0.0.0 daily.azontree.com
 0.0.0.0 daily.topnewsource.com
@@ -308,6 +312,7 @@
 0.0.0.0 johu.numpet.com
 0.0.0.0 jour.travel2days.com
 0.0.0.0 julkkis.azontree.com
+0.0.0.0 jutarnji.azontree.com
 0.0.0.0 jy.hukfi.com
 0.0.0.0 kaineatv.numpet.com
 0.0.0.0 kamerka24.pl
@@ -359,6 +364,7 @@
 0.0.0.0 marketplace.ofeminin.pl
 0.0.0.0 matear.numpet.com
 0.0.0.0 mautic.sfanews.pl
+0.0.0.0 media.azontree.com
 0.0.0.0 media.stsaff.pl
 0.0.0.0 meetrics.net
 0.0.0.0 meta.azontree.com
@@ -398,12 +404,14 @@
 0.0.0.0 newsnl.azovona.com
 0.0.0.0 newssomesun.com
 0.0.0.0 nextclick.pl
+0.0.0.0 nezavisne.azontree.com
 0.0.0.0 nfllove.topnewsource.com
 0.0.0.0 nieuw.numpet.com
 0.0.0.0 nieuws.azontree.com
 0.0.0.0 nieuws.nl.azontree.com
 0.0.0.0 nieuws.travel2days.com
 0.0.0.0 nieuws.znicely.com
+0.0.0.0 nieuwsnl.azontree.com
 0.0.0.0 nieuwsnl.azovona.com
 0.0.0.0 nlvandaag.numpet.com
 0.0.0.0 noje.azontree.com
@@ -533,11 +541,13 @@
 0.0.0.0 screencultureviral4k.numpet.com
 0.0.0.0 sdnes.numpet.com
 0.0.0.0 search.topnewsource.com
+0.0.0.0 secure.sign-doc.com
 0.0.0.0 seiska.azontree.com
 0.0.0.0 seriabg.numpet.com
 0.0.0.0 serial.numpet.com
 0.0.0.0 serialcz.numpet.com
 0.0.0.0 seriali.numpet.com
+0.0.0.0 serialowo.eu
 0.0.0.0 serialowo.numpet.com
 0.0.0.0 serialpl.numpet.com
 0.0.0.0 seriask.numpet.com
@@ -551,6 +561,8 @@
 0.0.0.0 showar.numpet.com
 0.0.0.0 showbizzbe.numpet.com
 0.0.0.0 shownewsdaily.com
+0.0.0.0 sicnoticias.azontree.com
+0.0.0.0 sign-doc.com
 0.0.0.0 skdailynews.com
 0.0.0.0 sktv.numpet.com
 0.0.0.0 sky.azontree.com
@@ -626,6 +638,7 @@
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 tech.tourpariz.net
 0.0.0.0 telapt.numpet.com
+0.0.0.0 telegraaf.azontree.com
 0.0.0.0 telemx.numpet.com
 0.0.0.0 teleno.numpet.com
 0.0.0.0 telepl.numpet.com
@@ -663,11 +676,14 @@
 0.0.0.0 transplugin.io
 0.0.0.0 traq.li
 0.0.0.0 travel2days.com
+0.0.0.0 trendblog.azontree.com
 0.0.0.0 trendingnews.newsin24h.com
 0.0.0.0 trichomist.store
 0.0.0.0 trophylab.com
 0.0.0.0 true.azontree.com
 0.0.0.0 truelovesbeauty.co.uk
+0.0.0.0 truenews.azontree.com
+0.0.0.0 truesport.azontree.com
 0.0.0.0 tv-dzive.hukfi.com
 0.0.0.0 tv.numpet.com
 0.0.0.0 tv2dk.azontree.com
@@ -757,7 +773,9 @@
 0.0.0.0 www.nowiny24h.com
 0.0.0.0 www.numpet.com
 0.0.0.0 www.outsourcing-sprzedazy.pl
+0.0.0.0 www.serialowo.eu
 0.0.0.0 www.shownewsdaily.com
+0.0.0.0 www.sign-doc.com
 0.0.0.0 www.skdailynews.com
 0.0.0.0 www.slovakpress.com
 0.0.0.0 www.spotlight.tourpariz.net
@@ -772,6 +790,7 @@
 0.0.0.0 www.wiki20.pl
 0.0.0.0 www.xinloc.com
 0.0.0.0 www.yearning-go.com
+0.0.0.0 www.zdroweporadniki.pl
 0.0.0.0 www.znicely.com
 0.0.0.0 x.sare25.com
 0.0.0.0 xinloc.com
@@ -780,6 +799,7 @@
 0.0.0.0 zaloz-netia.pl
 0.0.0.0 zapmeta.com.pl
 0.0.0.0 zas.mylead.global
+0.0.0.0 zdroweporadniki.pl
 0.0.0.0 znews.topnewsource.com
 0.0.0.0 znicely.com
 0.0.0.0 zostofou.link
@@ -787,10 +807,3 @@
 0.0.0.0 zshow.numpet.com
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zwork.numpet.com
-0.0.0.0 secure.sign-doc.com
-0.0.0.0 sign-doc.com
-0.0.0.0 www.sign-doc.com
-0.0.0.0 zdroweporadniki.pl
-0.0.0.0 serialowo.eu
-0.0.0.0 www.zdroweporadniki.pl
-0.0.0.0 www.serialowo.eu

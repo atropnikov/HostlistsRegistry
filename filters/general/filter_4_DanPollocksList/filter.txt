@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-07T17:24:41.807Z
+! Last modified: 2026-03-07T22:26:33.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1471,6 +1471,7 @@
 0.0.0.0 bioware.fr
 0.0.0.0 biserka.xyz
 0.0.0.0 bitcoin-upappl.com
+0.0.0.0 bitcoinexchangemonero.com
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
 0.0.0.0 biucosmetics.fr
@@ -1847,6 +1848,7 @@
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
 0.0.0.0 formumactif.fr
+0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
 0.0.0.0 fourtuneo.fr
 0.0.0.0 foutuneo.fr

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-03-10T02:22:14.120Z
+! Last modified: 2026-03-10T06:55:27.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10499,6 +10499,7 @@
 ||click-eu-v4.exclk.com^
 ||click-eu-v4.exmnclk.com^
 ||click-eu-v4.exoclkneu.com^
+||click-eu-v4.expmclck.com^
 ||click-eu-v4.expmidclk.com^
 ||click-eu-v4.exppxxclck.com^
 ||click-eu-v4.plarclck.com^
@@ -10523,6 +10524,7 @@
 ||click-v4.exmnclk.com^
 ||click-v4.exoclkneu.com^
 ||click-v4.explodnmainclck.com^
+||click-v4.expmclck.com^
 ||click-v4.expmidclk.com^
 ||click-v4.exppxxclck.com^
 ||click-v4.fidmkrclk.com^
@@ -10548,6 +10550,7 @@
 ||click.exclk.com^
 ||click.exmnclk.com^
 ||click.exoclkneu.com^
+||click.expmclck.com^
 ||click.expmidclk.com^
 ||click.exppxxclck.com^
 ||click.fool.com^
@@ -17369,7 +17372,6 @@
 ||explorads.com^
 ||explorerapiecebachelor.com^
 ||explorerippledisperse.com^
-||expmclck.com^
 ||expmnclick.com^
 ||expoclknu.com^
 ||expocrack.com^

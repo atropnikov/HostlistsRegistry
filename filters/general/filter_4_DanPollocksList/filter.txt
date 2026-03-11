@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-11T17:51:06.834Z
+! Last modified: 2026-03-11T19:43:53.559Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3115,6 +3115,7 @@
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
+0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.deperiodista.com
 0.0.0.0 www.dewcoreaj.pro
@@ -3276,6 +3277,7 @@
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
 0.0.0.0 www.pagibigfundservicers.com
+0.0.0.0 www.paidsecure.com
 0.0.0.0 www.paintballpins.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr

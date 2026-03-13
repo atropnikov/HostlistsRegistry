@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-03-12T17:50:23.099Z
+! Last modified: 2026-03-13T13:05:38.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -222,6 +222,7 @@
 ||adform.com^
 ||adform.net^
 ||adformdsp.net^
+||adgardener.com^
 ||adhaven.com^
 ||adhese.be^
 ||adhese.com^
@@ -829,6 +830,7 @@
 ||affiliates.streamray.com^
 ||affiliates.thinkhost.net^
 ||affiliates.thrixxx.com^
+||affiliates.ultrahosting.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
 ||affiliatewindow.com^
@@ -1213,7 +1215,6 @@
 ||checkstat.nl^
 ||cherriescare.com^
 ||childlikecrowd.com^
-||chitika.net^
 ||chubbycreature.com^
 ||citrusad.net^
 ||cityads.telus.net^
@@ -1647,6 +1648,7 @@
 ||feedbackresearch.com^
 ||feedjit.com^
 ||feedmob.com^
+||femalecook.com^
 ||figsprotein.com^
 ||figurehunter.net^
 ||fillthemap.com^
@@ -2282,6 +2284,7 @@
 ||mtree.com^
 ||munchkin.marketo.net^
 ||mundanenail.com^
+||mushroomgods.com^
 ||musiccounter.ru^
 ||muteknife.com^
 ||muwmedia.com^
@@ -2317,7 +2320,6 @@
 ||ndparking.com^
 ||nebulacrescent.com^
 ||nedstatbasic.net^
-||needlessnorth.com^
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nend.net^
@@ -2455,7 +2457,6 @@
 ||p7cloud.net^
 ||paa-reporting-advertising.amazon^
 ||page-checker.eu^
-||page-redirect.eu^
 ||pagead.l.google.com^
 ||pagefair.com^
 ||pagerank-ranking.de^
@@ -3274,6 +3275,7 @@
 ||trk.pinterest.com^
 ||trk.sayerfinancial.com^
 ||trk.techtarget.com^
+||trk1.avdlink.net^
 ||trk42.net^
 ||trkn.us^
 ||trkoptimizer.com^

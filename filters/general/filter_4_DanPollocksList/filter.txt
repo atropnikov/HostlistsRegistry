@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-17T17:59:51.950Z
+! Last modified: 2026-03-17T19:16:15.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1808,6 +1808,7 @@
 0.0.0.0 ewea.fr
 0.0.0.0 exasked.com
 0.0.0.0 exchangemarket.fr
+0.0.0.0 executiveannualreward.im
 0.0.0.0 exelformation.fr
 0.0.0.0 exepdia.fr
 0.0.0.0 exotic-wax.surge.sh

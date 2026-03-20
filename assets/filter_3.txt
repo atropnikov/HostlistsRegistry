@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-03-20T13:06:15.501Z
+! Last modified: 2026-03-20T14:45:09.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1189,6 +1189,7 @@
 ||causecherry.com^
 ||cautiouscredit.com^
 ||cbanners.virtuagirlhd.com^
+||cbzxy.com^
 ||cdn.bannerflow.com^
 ||cdn.branch.io^
 ||cdn.freshmarketer.com^
@@ -1661,6 +1662,7 @@
 ||fireworks-advertising.com^
 ||firstlightera.com^
 ||fixedfold.com^
+||fjordsand.com^
 ||flairadscpc.com^
 ||flakyfeast.com^
 ||flashtalking.com^

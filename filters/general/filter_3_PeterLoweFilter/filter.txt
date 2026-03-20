@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-03-17T17:59:51.806Z
+! Last modified: 2026-03-20T13:06:15.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -223,7 +223,6 @@
 ||adform.com^
 ||adform.net^
 ||adformdsp.net^
-||adgardener.com^
 ||adhaven.com^
 ||adhese.be^
 ||adhese.com^
@@ -603,7 +602,6 @@
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
 ||ads1-adnow.com^
-||ads1.mediacapital.pt^
 ||ads1.msn.com^
 ||ads1.virtual-nights.com^
 ||ads10.speedbit.com^
@@ -1744,7 +1742,6 @@
 ||glisteningsign.com^
 ||globalismedia.com^
 ||gloriousbeef.com^
-||gloyah.net^
 ||gmads.net^
 ||gml.email^
 ||go-clicks.de^
@@ -3410,7 +3407,6 @@
 ||webpower.com^
 ||webreseau.com^
 ||webseoanalytics.com^
-||websponsors.com^
 ||webstat.channel4.com^
 ||webstat.com^
 ||webstat.net^

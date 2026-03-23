@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-03-23T20:39:52.963Z
+! Last modified: 2026-03-23T21:39:38.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9225,10 +9225,12 @@ vkcdnservice.appspot.com^
 ||avkauywgzdxlx.online^
 ||avlmy.com^
 ||avmmsekplixsk.space^
+||avohgtghfsery.space^
 ||avouchuramil.com^
 ||avpjihtkjsnfe.space^
 ||avpztadpi.in^
 ||avqovczcoanp.com^
+||avsubuialyavu.online^
 ||avthelkp.net^
 ||avuibxulygfyx.online^
 ||avvcaqgfiqaf.in^
@@ -9272,6 +9274,7 @@ vkcdnservice.appspot.com^
 ||awepsi.com^
 ||awepsljan.com^
 ||awept.com^
+||aweqzuoxvular.online^
 ||aweresolve.com^
 ||awesome-blocker.com^
 ||awesomeststuff.com^
@@ -9313,6 +9316,8 @@ vkcdnservice.appspot.com^
 ||axfwlkeyqdntp.site^
 ||axgbr.com^
 ||axhqzjtpfwrfg.tech^
+||axifmuvrrxrvn.online^
+||aximuccsesgop.site^
 ||axineswelled.cfd^
 ||axis456.com^
 ||axisdoctrine.com^
@@ -79475,7 +79480,6 @@ vkcdnservice.appspot.com^
 ||subscriptionlist.customermail.sparcolruytgroup.be^
 ||subscriptions.communications.guard.me^
 ||subscriptions.costco.ca^
-||subscriptions.costco.com^
 ||subscriptions.e.silverfernfarms.com^
 ||subscriptions.experience.dcu.org^
 ||subscriptions.news.pistons.com^
@@ -141801,6 +141805,7 @@ dlsdk.appsflyer.com^
 ||rum.layer0.co^
 ||rum.perfops.net^
 ||rw.marchex.io^
+||rybbit.sg-app.com^
 ||s.logsss.com^
 ||s.vibe.co^
 ||sa.recoding.tech^

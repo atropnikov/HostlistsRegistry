@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-03-23T10:54:23.775Z
+! Last modified: 2026-03-23T11:46:36.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7080,6 +7080,7 @@ vkcdnservice.appspot.com^
 ||aaaconnect.info^
 ||aabggksolpoyt.space^
 ||aabjyjjphdwmb.site^
+||aabsgiofdhywj.site^
 ||aada35c15f.com^
 ||aafcwvjpryevi.online^
 ||aafdcq.com^
@@ -7092,9 +7093,11 @@ vkcdnservice.appspot.com^
 ||aaliissceptre.shop^
 ||aanyslvgdtooh.website^
 ||aaponlzrawuzk.site^
+||aaqzukbomsdpt.site^
 ||aarzgcsyztgrs.site^
 ||aauedwmoofyox.buzz^
 ||aaurpibxdpjju.site^
+||aauvdpyzffajh.site^
 ||aavnnupfepbgp.space^
 ||aawdlgngyyfhn.online^
 ||aawdlvr.com^
@@ -17239,6 +17242,7 @@ vkcdnservice.appspot.com^
 ||ellipticaltrack.com^
 ||elmmmgfvzerqt.space^
 ||elmolkyqhjfwn.online^
+||elnjtvesr.com^
 ||eloflrawmrrfa.online^
 ||elogiado.info^
 ||elogymayda.shop^
@@ -137516,7 +137520,6 @@ prd.api.bleacherreport.com^
 ||tag.researchnow.com^
 ||log-auth.flysleep.cn^
 ||telemetry.nbcuott.com^
-||log.onmas.kt.com^
 ||logapi.kt.com^
 ||clog.lghv.net^
 ||stlog*-local.kakao.com^

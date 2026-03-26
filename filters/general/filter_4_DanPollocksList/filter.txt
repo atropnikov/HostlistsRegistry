@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-26T19:11:37.225Z
+! Last modified: 2026-03-26T22:33:37.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3327,6 +3327,7 @@
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.morvalent.uk
+0.0.0.0 www.mostexchange.com
 0.0.0.0 www.movielocks.com
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.msxzff.com
@@ -3336,6 +3337,7 @@
 0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.neonpack.com
 0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.northvalesgrids.uk

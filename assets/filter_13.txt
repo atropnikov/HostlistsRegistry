@@ -2,7 +2,7 @@
 ! Title: NOR: Dandelion Sprouts nordiske filtre
 ! Description: Dandelion Sprout's Nordic Filters (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering).
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2026-01-13T14:28:31.329Z
+! Last modified: 2026-03-27T02:41:13.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -53,6 +53,7 @@
 ||appearspacex.de^
 ||arnasynir.tac.is^
 ||artmusic.dk^
+||as-dao.icu^
 ||asound.no^
 ||banner.3loops.com^
 ||banner.skisport.dk^
@@ -84,9 +85,57 @@
 ||cncpt.dk^
 ||collector.schibsted.io^
 ||com-dk.com^
+||comoutlook.com^
 ||connection-info.com^
 ||content.livesportmedia.eu^
 ||cphspaogwellness.dk^
+||dao-as.cc^
+||dao-as.com^
+||dao-as.top^
+||dao-as.vip^
+||dao-as.xyz^
+||dao-ascu.top^
+||dao-asdk.cc^
+||dao-asdk.vip^
+||dao-ase.cc^
+||dao-ase.vip^
+||dao-asen.bond^
+||dao-asi.cc^
+||dao-asi.vip^
+||dao-asiiv.icu^
+||dao-asioiiv.icu^
+||dao-asl.vip^
+||dao-aso.cc^
+||dao-asoi.icu^
+||dao-asoiiv.icu^
+||dao-asr.cc^
+||dao-asr.vip^
+||dao-ass.cc^
+||dao-ass.vip^
+||dao-assion.icu^
+||dao-asuui.icu^
+||dao-asvisu.icu^
+||dao-post.icu^
+||daoao.icu^
+||daoas-en.bond^
+||daoasa.cyou^
+||daoasa.sbs^
+||daobo.bond^
+||daodo.bond^
+||daoicom.bond^
+||daoiiox.icu^
+||daoios.icu^
+||daoipost.icu^
+||daonevt.com^
+||daoosi.icu^
+||daopakke.sbs^
+||daopst.icu^
+||daosa.cyou^
+||daosa.shop^
+||daosviz.com^
+||daoteams.com^
+||daovisx.com^
+||daoxo.bond^
 ||daradis.com^
 ||delivered-by-madington.com^
 ||delivery.adnuntius.com^
@@ -100,6 +149,7 @@
 ||dk-fornysundhed.com^
 ||dk-sundhed.com^
 ||dk.panel.gemius.dk^
+||dkdk.shop^
 ||dkfodboldstore.com^
 ||dksundhed.com^
 ||dlssneykonto.com^
@@ -107,6 +157,7 @@
 ||dnnbcorporate.mine.nu^
 ||dnnbcorporates.mine.nu^
 ||dnnstream.tns-cs.net^
+||dpd-sio.icu^
 ||drbrand.herokuapp.com^
 ||dundeehills.group^
 ||dynamic.adserve.zone^
@@ -144,12 +195,14 @@
 ||havfruen4220.dk^
 ||healtheweb.co.uk^
 ||heartbeat.airserve.net^
+||helse-norge.com^
 ||helsehjelp.over-blog.com^
 ||hernoclothing.com^
 ||hilfigerdenmark.com^
 ||hokanorgeno.com^
 ||hokaonenorge.com^
 ||hokaoneoneno.com^
+||hokaskooutlet.co.no^
 ||hunter-danmark.com^
 ||i1media.no^
 ||idj.no^
@@ -179,6 +232,7 @@
 ||linkshe.com^
 ||liveshopdealz.com^
 ||lnfoskonto.com^
+||logg-inn.online^
 ||look-like-star.myshopify.com^
 ||louboutinnorge.com^
 ||lysing.in.fo^
@@ -189,6 +243,7 @@
 ||media.sonymusic.no^
 ||merrell-skodanmark.com^
 ||minskat-no.com^
+||mitld-forholdsregler.com^
 ||modificationdesignate.com^
 ||montec-danmark.com^
 ||my-subscriptions.net^
@@ -210,6 +265,7 @@
 ||nflix-reactivacion.com^
 ||nichehuset.dk^
 ||niupaiba.com^
+||noapp.sbs^
 ||nofotballshop.com^
 ||nono.qpon^
 ||nordeninterior.weebly.com^
@@ -227,6 +283,7 @@
 ||noskatteetaten.wpenginepowered.com^
 ||ntfx-acc.com^
 ||nyematoghelse.no^
+||nyhetsnett.no^
 ||nyskatteetaten.wpenginepowered.com^
 ||ocgadgets.com^
 ||ocgadgetss.myshopify.com^
@@ -234,6 +291,7 @@
 ||off-whitenorge.com^
 ||oflike.com^
 ||old.sermitsiaq.ag^
+||onlinemailmicrosotfvalidation.com^
 ||onlineseckonto.wpenginepowered.com^
 ||onlinesecure.wpenginepowered.com^
 ||oofosnorgeoutlet.com^
@@ -241,6 +299,7 @@
 ||oslo-tannlegene.no^
 ||ozarkvillage.net^
 ||p-stn.net^
+||pakke.click^
 ||pakkeposten.today^
 ||payement-renew.me^
 ||pensjonistferie.no^
@@ -251,13 +310,22 @@
 ||pluto.mobilen.no^
 ||popeurope.com^
 ||post-dk.cfd^
+||postendk.lol^
+||postendsk.lat^
 ||postennorge.today^
 ||postenpakke.today^
 ||postenserves.today^
 ||postenspor.today^
 ||postnord-24.site^
+||postnord-eco.buzz^
+||postnord-eco.cfd^
+||postnord-eco.sbs^
 ||postnord-eco.xyz^
+||postnord-update.help^
 ||postnorddk.vip^
+||postnordse.asia^
+||postuin.bond^
+||premosupplements.com^
 ||print2web.sn.dk^
 ||printablemagic.com^
 ||privat-medisin-forsyninger.over-blog.com^
@@ -268,6 +336,7 @@
 ||replicarolexyachtmaster.com^
 ||revive.tidssonen.no^
 ||rigspolitiet.com^
+||rumendia.com^
 ||s.api.no^
 ||s3-bm-adtech.berlingskemedia.net^
 ||samfilm.codelab.is^
@@ -292,10 +361,26 @@
 ||sikre-vipps-konto.j.pl^
 ||sitey.me^
 ||skat-skts-dk.com^
+||skatteetaten-support.com^
+||skatteetaten.app^
+||skatteetaten.ceo^
+||skatteetaten.cfd^
+||skatteetaten.do^
+||skatteetaten.info.gf^
+||skatteetaten.online^
+||skatteetaten.pages.dev^
+||skatteetaten.rianicefe.com^
+||skatteetaten.sharefile.eu^
+||skatteetaten.site^
+||skatteetaten.support^
+||skatteetaten.support.do^
+||skatteetaten.sytes.net^
+||skatteetaten.top^
 ||skatteetateneu.wpenginepowered.com^
 ||skatteetatenno.com^
 ||skatteetatenof.wpenginepowered.com^
 ||skatteetatentax.com^
+||skatteetatten.com^
 ||skattrefusjono.wpenginepowered.com^
 ||sky.gs^
 ||smallrise.com^
@@ -305,10 +390,12 @@
 ||sponsorship.public.tv2.no^
 ||sporpakke-dk.com^
 ||sporposten.today^
+||spotfy-regulation.com^
 ||srilanka.no^
 ||ssl-dnnstream.tns-cs.net^
 ||ssl-mtgstream.tns-cs.net^
 ||start-myaltinn.com^
+||statautos.com^
 ||static-dscn.net^
 ||static.airserve.net^
 ||static.itrack.it^
@@ -328,11 +415,13 @@
 ||superbinvest.com^
 ||svindel.info^
 ||tachyoniums.eu.com^
+||takstskolen.no^
 ||tankeogteknikk.no^
 ||tekuon.com^
 ||thecoolgirl.no^
 ||tnord.click^
 ||tnord.qpon^
+||tnord.sbs^
 ||tnordh.shop^
 ||tns-gallup.dk^
 ||topshineauto.no^
@@ -347,6 +436,7 @@
 ||ultimate-tech-products.myshopify.com^
 ||um-bs.com^
 ||umbrodk.com^
+||umbrono.com^
 ||underarmourdk.com^
 ||updatesysteme.com^
 ||ups-packaging.delivery^
@@ -370,6 +460,7 @@
 ||wo.tc^
 ||www-presse-fotos-dk.filesusr.com^
 ||xanax-2mg.over-blog.com^
+||xn--gymsharkklrnorge-3ob.com^
 ||xss.my.id^
 ||y6.no^
 ||yttersiden.no^

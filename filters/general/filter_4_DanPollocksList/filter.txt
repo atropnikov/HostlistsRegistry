@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-28T18:46:16.918Z
+! Last modified: 2026-03-28T21:33:10.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3127,6 +3127,7 @@
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.centeralbidding.com
+0.0.0.0 www.checkdrivers.com
 0.0.0.0 www.checkpics.com
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com

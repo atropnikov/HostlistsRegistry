@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-03-31T19:05:52.055Z
+! Last modified: 2026-03-31T22:37:04.170Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3380,6 +3380,7 @@
 0.0.0.0 www.nzgamingworld.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.olimpgokart.com
@@ -3510,9 +3511,11 @@
 0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.technocost.com
 0.0.0.0 www.tenantbackgronudsearch.com
+0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
+0.0.0.0 www.themesets.com
 0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es

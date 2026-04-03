@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-03-24T11:46:58.513Z
+! Last modified: 2026-04-03T08:58:56.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31,8 +31,6 @@
 0.0.0.0 9mat.numpet.com
 0.0.0.0 a.ib.gazeta.pl
 0.0.0.0 aa150f7.tvpnews.site
-0.0.0.0 abc.travel2days.com
-0.0.0.0 abladet.travel2days.com
 0.0.0.0 abtshield.com
 0.0.0.0 achcdn.com
 0.0.0.0 ad.bitbay.net
@@ -72,10 +70,8 @@
 0.0.0.0 alps.numpet.com
 0.0.0.0 amazing.numpet.com
 0.0.0.0 amazing.topnewsource.com
-0.0.0.0 amazing.travel2days.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 americanews365.azontree.com
-0.0.0.0 anews.travel2days.com
 0.0.0.0 angeldonationblog.com
 0.0.0.0 angelo.fernandonguyen.online
 0.0.0.0 animals.newsin24h.com
@@ -176,7 +172,6 @@
 0.0.0.0 daib.pl
 0.0.0.0 daily.azontree.com
 0.0.0.0 daily.topnewsource.com
-0.0.0.0 daily.travel2days.com
 0.0.0.0 dailyau.numpet.com
 0.0.0.0 dailynews.azontree.com
 0.0.0.0 dailynews.azovona.com
@@ -223,7 +218,6 @@
 0.0.0.0 embed.powercontent.pl
 0.0.0.0 embemy.com
 0.0.0.0 en.topnewsource.com
-0.0.0.0 en.travel2days.com
 0.0.0.0 enews.topnewsource.com
 0.0.0.0 ennstreckef1.numpet.com
 0.0.0.0 eu.ekatox.com
@@ -294,7 +288,6 @@
 0.0.0.0 gymhay.com
 0.0.0.0 gyorshirek.numpet.com
 0.0.0.0 hant.azontree.com
-0.0.0.0 hant.travel2days.com
 0.0.0.0 harryandmeghan.numpet.com
 0.0.0.0 harryandmeghan1.numpet.com
 0.0.0.0 harryandmeghans.numpet.com
@@ -336,8 +329,6 @@
 0.0.0.0 jnews5.com
 0.0.0.0 jnews6.com
 0.0.0.0 johu.numpet.com
-0.0.0.0 jour.travel2days.com
-0.0.0.0 journey.travel2days.com
 0.0.0.0 julkkis.azontree.com
 0.0.0.0 jutarnji.azontree.com
 0.0.0.0 jy.hukfi.com
@@ -355,8 +346,6 @@
 0.0.0.0 khaleddj.numpet.com
 0.0.0.0 kinoseans.pl
 0.0.0.0 klrtspet.net
-0.0.0.0 kok.travel2days.com
-0.0.0.0 kok1.travel2days.com
 0.0.0.0 konto.amronet.pl
 0.0.0.0 kopchronicles.numpet.com
 0.0.0.0 krakenfolio.com
@@ -373,7 +362,6 @@
 0.0.0.0 leschampions.numpet.com
 0.0.0.0 leschampionsduring.numpet.com
 0.0.0.0 lib.ads4g.pl
-0.0.0.0 lifenews.travel2days.com
 0.0.0.0 lijjt.com
 0.0.0.0 live.azontree.com
 0.0.0.0 live.numpet.com
@@ -438,7 +426,6 @@
 0.0.0.0 nieuw.numpet.com
 0.0.0.0 nieuws.azontree.com
 0.0.0.0 nieuws.nl.azontree.com
-0.0.0.0 nieuws.travel2days.com
 0.0.0.0 nieuws.znicely.com
 0.0.0.0 nieuwsnl.azontree.com
 0.0.0.0 nieuwsnl.azovona.com
@@ -447,8 +434,6 @@
 0.0.0.0 noje.azovona.com
 0.0.0.0 noje.numpet.com
 0.0.0.0 noje.topnewsource.com
-0.0.0.0 noje.travel2days.com
-0.0.0.0 nord.travel2days.com
 0.0.0.0 noticias.azontree.com
 0.0.0.0 noticias.azovona.com
 0.0.0.0 noutele.numpet.com
@@ -467,7 +452,6 @@
 0.0.0.0 nyheter.azovona.com
 0.0.0.0 nyheter.tourpariz.net
 0.0.0.0 nyheterno.azontree.com
-0.0.0.0 nyt.travel2days.com
 0.0.0.0 nytimes.azontree.com
 0.0.0.0 nytimes.numpet.com
 0.0.0.0 nytimes.topnewsource.com
@@ -479,7 +463,6 @@
 0.0.0.0 onetpt.numpet.com
 0.0.0.0 online-mexos.efortuna.pl
 0.0.0.0 opsonew3org.sg
-0.0.0.0 ourstory.travel2days.com
 0.0.0.0 outsourcing-sprzedazy.pl
 0.0.0.0 ovh.webshark.pl
 0.0.0.0 p.typekit.net
@@ -505,7 +488,6 @@
 0.0.0.0 pollster.pl
 0.0.0.0 polska24.numpet.com
 0.0.0.0 pop.tourpariz.net
-0.0.0.0 porchtalk.travel2days.com
 0.0.0.0 postaz.numpet.com
 0.0.0.0 postz.numpet.com
 0.0.0.0 pp.funhub.pl
@@ -628,7 +610,6 @@
 0.0.0.0 sports.topnewsource.com
 0.0.0.0 sportsk.numpet.com
 0.0.0.0 sportskipuls.numpet.com
-0.0.0.0 spot.travel2days.com
 0.0.0.0 spotlight.tourpariz.net
 0.0.0.0 spotlightsi.numpet.com
 0.0.0.0 sprinl.numpet.com
@@ -651,7 +632,6 @@
 0.0.0.0 stg.wp.pl
 0.0.0.0 stiri.azontree.com
 0.0.0.0 stiri.azovona.com
-0.0.0.0 story.travel2days.com
 0.0.0.0 storyhu.numpet.com
 0.0.0.0 sunlitee.com
 0.0.0.0 superseriale.jnews5.com
@@ -665,7 +645,6 @@
 0.0.0.0 sza.numpet.com
 0.0.0.0 taboola.com
 0.0.0.0 taglich.azontree.com
-0.0.0.0 tale.travel2days.com
 0.0.0.0 tatoo.numpet.com
 0.0.0.0 tayler-amazing.numpet.com
 0.0.0.0 tealium.hs.llnwd.net
@@ -685,7 +664,6 @@
 0.0.0.0 tlifegr.numpet.com
 0.0.0.0 to1gr.numpet.com
 0.0.0.0 today.azontree.com
-0.0.0.0 today.travel2days.com
 0.0.0.0 todaynews.azontree.com
 0.0.0.0 todaynews.azovona.com
 0.0.0.0 toolfb.numpet.com
@@ -708,10 +686,8 @@
 0.0.0.0 transferwiser.io
 0.0.0.0 transplugin.io
 0.0.0.0 traq.li
-0.0.0.0 travel2days.com
 0.0.0.0 trendblog.azontree.com
 0.0.0.0 trendingnews.newsin24h.com
-0.0.0.0 trendy.travel2days.com
 0.0.0.0 trichomist.store
 0.0.0.0 trophylab.com
 0.0.0.0 true.azontree.com
@@ -758,12 +734,10 @@
 0.0.0.0 vijesti.azovona.com
 0.0.0.0 vijestihr.numpet.com
 0.0.0.0 viral.topnewsource.com
-0.0.0.0 viral.travel2days.com
 0.0.0.0 viral2.hukfi.com
 0.0.0.0 viral3.hukfi.com
 0.0.0.0 viral8.hukfi.com
 0.0.0.0 viral9.hukfi.com
-0.0.0.0 viralstory.travel2days.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 vruqlimoxu.site
 0.0.0.0 vtmnieuws.azontree.com
@@ -819,7 +793,6 @@
 0.0.0.0 www.termsfeed.com
 0.0.0.0 www.topnewsource.com
 0.0.0.0 www.tourpariz.net
-0.0.0.0 www.travel2days.com
 0.0.0.0 www.tvmoviespoilers.com
 0.0.0.0 www.tvpnews.site
 0.0.0.0 www.vruqlimoxu.site
@@ -845,3 +818,44 @@
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zwork.numpet.com
 0.0.0.0 polska24.hukfi.com
+0.0.0.0 abc.travel2days.com
+0.0.0.0 abladet.travel2days.com
+0.0.0.0 aktuelt.travel2days.com
+0.0.0.0 amazing.travel2days.com
+0.0.0.0 anews.travel2days.com
+0.0.0.0 chap.travel2days.com
+0.0.0.0 chill.travel2days.com
+0.0.0.0 daily.travel2days.com
+0.0.0.0 en.travel2days.com
+0.0.0.0 focus.travel2days.com
+0.0.0.0 fun.travel2days.com
+0.0.0.0 go.travel2days.com
+0.0.0.0 hant.travel2days.com
+0.0.0.0 info.travel2days.com
+0.0.0.0 jour.travel2days.com
+0.0.0.0 journey.travel2days.com
+0.0.0.0 kok.travel2days.com
+0.0.0.0 kok1.travel2days.com
+0.0.0.0 lifenews.travel2days.com
+0.0.0.0 mg.travel2days.com
+0.0.0.0 mn.travel2days.com
+0.0.0.0 mp.travel2days.com
+0.0.0.0 nieuws.travel2days.com
+0.0.0.0 noje.travel2days.com
+0.0.0.0 nord.travel2days.com
+0.0.0.0 nx.travel2days.com
+0.0.0.0 nyt.travel2days.com
+0.0.0.0 ourstory.travel2days.com
+0.0.0.0 pop.travel2days.com
+0.0.0.0 porchtalk.travel2days.com
+0.0.0.0 show.travel2days.com
+0.0.0.0 spot.travel2days.com
+0.0.0.0 story.travel2days.com
+0.0.0.0 tale.travel2days.com
+0.0.0.0 today.travel2days.com
+0.0.0.0 travel2days.com
+0.0.0.0 trendy.travel2days.com
+0.0.0.0 viral.travel2days.com
+0.0.0.0 viralstory.travel2days.com
+0.0.0.0 wow.travel2days.com
+0.0.0.0 www.travel2days.com

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-07T22:40:41.759Z
+! Last modified: 2026-04-08T02:43:30.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2207,6 +2207,7 @@
 0.0.0.0 levigilant.fr
 0.0.0.0 lezboncoin.fr
 0.0.0.0 lezpress.fr
+0.0.0.0 lhycc.com
 0.0.0.0 liberatiuon.fr
 0.0.0.0 liberaztion.fr
 0.0.0.0 liberland.fr
@@ -3660,6 +3661,7 @@
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
 0.0.0.0 yves-rocker.fr
+0.0.0.0 yyanluo.com
 0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 0.0.0.0 zalanado.fr
 0.0.0.0 zalandon.fr

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-04-03T13:10:46.459Z
+! Last modified: 2026-04-08T13:56:08.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -129,6 +129,7 @@
 ||ad.lupa.cz^
 ||ad.mediastorm.hu^
 ||ad.mg^
+||ad.missena.io^
 ||ad.musicmatch.com^
 ||ad.myapple.pl^
 ||ad.mynetreklam.com.streamprovider.net^
@@ -860,6 +861,7 @@
 ||amazingcounters.com^
 ||amazon-adsystem.com^
 ||americash.com^
+||amidsttruly.com^
 ||amung.us^
 ||analytics-production.hapyak.com^
 ||analytics.adpost.org^
@@ -1770,6 +1772,7 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||goqon.com^
 ||gostats.com^
 ||gothamads.com^
 ||gotoyahoo.com^
@@ -2732,6 +2735,7 @@
 ||responsiveads.com^
 ||restrainstorm.com^
 ||retargeter.com^
+||rev.iq^
 ||revcatch.com^
 ||revcontent.com^
 ||reveal.clearbit.com^

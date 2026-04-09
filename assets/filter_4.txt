@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-08T21:43:39.100Z
+! Last modified: 2026-04-09T19:11:49.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2048,6 +2048,7 @@
 0.0.0.0 infopaypal.com
 0.0.0.0 informereng.com
 0.0.0.0 ingedus.fr
+0.0.0.0 init-kqt.com
 0.0.0.0 inkscape.es
 0.0.0.0 inkscape.fr
 0.0.0.0 innoveox.fr
@@ -3111,7 +3112,9 @@
 0.0.0.0 www.amomales.com
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
+0.0.0.0 www.apkfuuny.com
 0.0.0.0 www.aramcom.space
+0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.assistdocklane.uk
@@ -3210,9 +3213,11 @@
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dealsrate.com
+0.0.0.0 www.defailermu.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.dentistkids.com
 0.0.0.0 www.deperiodista.com
+0.0.0.0 www.desirymart.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
@@ -3333,6 +3338,7 @@
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
+0.0.0.0 www.iepelnazareno.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.indexprofile.com
 0.0.0.0 www.infopaypal.com
@@ -3340,6 +3346,7 @@
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
+0.0.0.0 www.inpicklenaton.com
 0.0.0.0 www.instantcross.com
 0.0.0.0 www.invitegame.com
 0.0.0.0 www.iovenesweb.com
@@ -3427,6 +3434,7 @@
 0.0.0.0 www.northvalesgrids.uk
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
+0.0.0.0 www.novosantiago.com
 0.0.0.0 www.nowreact.com
 0.0.0.0 www.nu26.com
 0.0.0.0 www.nuntioz.com
@@ -3542,6 +3550,7 @@
 0.0.0.0 www.softcarp.com
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.softpebble.com
+0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssl2.in

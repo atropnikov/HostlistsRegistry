@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-10T16:56:41.860Z
+! Last modified: 2026-04-10T20:41:31.103Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1699,6 +1699,7 @@
 0.0.0.0 cures.ru.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
+0.0.0.0 cvbnff.s3.eu-central-003.backblazeb2.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
 0.0.0.0 d.phormlabs.com
@@ -1827,6 +1828,7 @@
 0.0.0.0 expired-antiviruses.com
 0.0.0.0 extrashop.fr
 0.0.0.0 f-voyance.fr
+0.0.0.0 f003.backblazeb2.com
 0.0.0.0 f05098.privacy4browsers.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 fabhabitat.fr
@@ -3216,6 +3218,7 @@
 0.0.0.0 www.crowdnestfun.com
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
+0.0.0.0 www.dangdangflow.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com

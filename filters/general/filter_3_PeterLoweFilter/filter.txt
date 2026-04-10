@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-04-09T19:11:49.295Z
+! Last modified: 2026-04-10T11:55:02.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -350,7 +350,6 @@
 ||ads.adultfriendfinder.com^
 ||ads.advance.net^
 ||ads.adverline.com^
-||ads.alive.com^
 ||ads.alt.com^
 ||ads.amdmb.com^
 ||ads.amigos.com^
@@ -405,7 +404,6 @@
 ||ads.economist.com^
 ||ads.elcarado.com^
 ||ads.electrocelt.com^
-||ads.elitetrader.com^
 ||ads.emdee.ca^
 ||ads.emirates.net.ae^
 ||ads.epi.sk^
@@ -784,6 +782,7 @@
 ||adverticum.net^
 ||advertipros.com^
 ||advertise.com^
+||advertiseireland.com^
 ||advertiserurl.com^
 ||advertising.com^
 ||advertisingbanners.com^
@@ -1268,7 +1267,6 @@
 ||click.uber.com^
 ||click.v.visionlab.es^
 ||click2freemoney.com^
-||click360v2-ingest.azurewebsites.net^
 ||click4.pro^
 ||clickadddilla.com^
 ||clickadz.com^
@@ -1445,7 +1443,6 @@
 ||damageddistance.com^
 ||damdoor.com^
 ||dapper.net^
-||data.namesakeoscilloscopemarquis.com^
 ||datapickles.com^
 ||datenow.link^
 ||daybreaklights.com^
@@ -2204,8 +2201,6 @@
 ||mediatext.com^
 ||mediavine.com^
 ||mediavoice.com^
-||mediax.angloinfo.com^
-||mediaz.angloinfo.com^
 ||medleyads.com^
 ||medyanetads.com^
 ||meetrics.net^
@@ -3177,7 +3172,6 @@
 ||tnkexchange.com^
 ||tns-counter.ru^
 ||toolforthought.com^
-||top-casting-termine.de^
 ||top-site-list.com^
 ||top.list.ru^
 ||top.mail.ru^
@@ -3501,7 +3495,6 @@
 ||yieldmo.com^
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
-||yldbt.com^
 ||ymetrica1.com^
 ||yoads.net^
 ||yoggrt.com^

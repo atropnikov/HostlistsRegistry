@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-04-11T20:37:23.772Z
+! Last modified: 2026-04-17T11:59:20.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -104,7 +104,6 @@
 ||ad.altervista.org^
 ||ad.amgdgt.com^
 ||ad.anuntis.com^
-||ad.auditude.com^
 ||ad.bitmedia.io^
 ||ad.bizo.com^
 ||ad.bondage.com^
@@ -615,7 +614,6 @@
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
 ||ads3-adnow.com^
-||ads3.contentabc.com^
 ||ads3.gamecity.net^
 ||ads3.virtual-nights.com^
 ||ads4.gamecity.net^
@@ -828,7 +826,6 @@
 ||affiliates.streamray.com^
 ||affiliates.thinkhost.net^
 ||affiliates.thrixxx.com^
-||affiliates.ultrahosting.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
 ||affiliatewindow.com^
@@ -894,7 +891,6 @@
 ||analytics.yahoo.com^
 ||analyticsapi.happypancake.net^
 ||ancientact.com^
-||androiddownload.net^
 ||aniview.com^
 ||annonser.dagbladet.no^
 ||annoyedairport.com^
@@ -1215,6 +1211,7 @@
 ||checkstat.nl^
 ||cherriescare.com^
 ||childlikecrowd.com^
+||chitika.net^
 ||chubbycreature.com^
 ||citrusad.net^
 ||cityads.telus.net^
@@ -1749,7 +1746,6 @@
 ||go-clicks.de^
 ||go-link.network^
 ||go-mpulse.net^
-||go-rank.de^
 ||go.clickwww.com^
 ||go.dhs.gov^
 ||go.eu.sparkpostmail1.com^
@@ -1955,7 +1951,6 @@
 ||is-tracking-pixel-api-prod.appspot.com^
 ||islandwebhelp.com^
 ||itop.cz^
-||its-that-easy.com^
 ||ivwbox.de^
 ||ivykiosk.com^
 ||iyfbodn.com^
@@ -3054,7 +3049,6 @@
 ||supertop100.com^
 ||supply.colossusssp.com^
 ||supportwaves.com^
-||surfmusik-adserver.de^
 ||surveygizmobeacon.s3.amazonaws.com^
 ||sw88.espn.com^
 ||swan-swan-goose.com^

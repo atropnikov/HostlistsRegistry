@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-04-23T09:53:32.068Z
+! Last modified: 2026-04-23T15:56:17.992Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1212,6 +1212,7 @@
 ||checkstat.nl^
 ||cherriescare.com^
 ||childlikecrowd.com^
+||chillingtofu.com^
 ||chitika.net^
 ||chubbycreature.com^
 ||citrusad.net^
@@ -1647,6 +1648,7 @@
 ||feedbackresearch.com^
 ||feedjit.com^
 ||feedmob.com^
+||feelwarmth.com^
 ||femalecook.com^
 ||figsprotein.com^
 ||figurehunter.net^

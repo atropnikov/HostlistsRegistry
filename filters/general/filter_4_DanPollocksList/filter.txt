@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-23T20:55:54.200Z
+! Last modified: 2026-04-24T05:38:33.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3130,6 +3130,7 @@
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
@@ -3608,6 +3609,7 @@
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.shinyechogz.name
 0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com

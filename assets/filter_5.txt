@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-04-25T20:41:53.702Z
+! Last modified: 2026-04-25T21:39:23.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3296,7 +3296,6 @@
 ||adlookmanager.com^
 ||adloox.com^
 ||adlooxtracking.com^
-||adlpo.com^
 ||adlserq.com^
 ||adlure.net^
 ||adm.52swine.com^
@@ -13351,6 +13350,7 @@
 ||d-log.tv-asahi.co.jp^
 ||d-test.39.net^
 ||d.8181zx.com^
+||d.adlpo.com^
 ||d.adroll.com^
 ||d.adtriba.com^
 ||d.dgzj.com^
@@ -46183,6 +46183,7 @@
 ||t.adbr.io^
 ||t.adclr.jp^
 ||t.adii.se^
+||t.adlpo.com^
 ||t.adtrckr.uno^
 ||t.aftermath.site^
 ||t.apkpure.net^

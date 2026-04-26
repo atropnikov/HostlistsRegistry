@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-25T02:44:27.320Z
+! Last modified: 2026-04-26T03:21:12.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1681,6 +1681,7 @@
 0.0.0.0 cp.liferan.pro
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
+0.0.0.0 cra-documents.ca
 0.0.0.0 cra-etransfer.online
 0.0.0.0 crarefundsreview.com
 0.0.0.0 crdp-strsbourg.fr

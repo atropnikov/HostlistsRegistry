@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-27T20:09:05.538Z
+! Last modified: 2026-04-27T21:54:41.591Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1520,6 +1520,7 @@
 0.0.0.0 brokking.fr
 0.0.0.0 brostyles.fr
 0.0.0.0 brunga.at	# Facebook phishing attempt
+0.0.0.0 bsugars.sa.com
 0.0.0.0 bt.webwise.org
 0.0.0.0 bulletwhiskey.sa.com
 0.0.0.0 bundesanzeiger.fr
@@ -3171,6 +3172,7 @@
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
+0.0.0.0 www.blueadvantagearkasas.com
 0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
@@ -3579,6 +3581,7 @@
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.ptcasinoonline.com
+0.0.0.0 www.puppywoodshihtzu.com
 0.0.0.0 www.purchaseproof.com
 0.0.0.0 www.pure-glance.com
 0.0.0.0 www.qateee.com

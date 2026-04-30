@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-04-29T23:56:55.267Z
+! Last modified: 2026-04-30T03:49:55.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7718,7 +7718,6 @@
 ||baggycrack.pro^
 ||baggydepreciate.com^
 ||baggymaintenance.com^
-||baggyrepackingrocky.com^
 ||baglanbize.net^
 ||bagnfqmhhbkdt.online^
 ||bagpipemonogamypercent.com^
@@ -19838,7 +19837,6 @@
 ||filter.felixads.com^
 ||filter.foremedia.net^
 ||filter.frequency33media.com^
-||filter.giantpanda.media^
 ||filter.high-on-ads.com^
 ||filter.highsea.fun^
 ||filter.hotmaracas.fun^
@@ -21599,6 +21597,7 @@
 ||gi-client-tracking.goodgamestudios.com^
 ||gialamebxneob.space^
 ||giantaffiliates.com^
+||giantpanda.media^
 ||giarrahuddles.cyou^
 ||giaythethaonuhcm.com^
 ||gibbalsleonite.qpon^
@@ -55074,7 +55073,6 @@
 ||xml-v4.felixads.com^
 ||xml-v4.flowldsd.online^
 ||xml-v4.frequency33media.com^
-||xml-v4.giantpanda.media^
 ||xml-v4.grantdk-2.online^
 ||xml-v4.gtmxso-b.online^
 ||xml-v4.gtmxso-c.online^
@@ -55262,7 +55260,6 @@
 ||xml.frequency33media.com^
 ||xml.galsoillyoucom.com^
 ||xml.getruncathoomes.com^
-||xml.giantpanda.media^
 ||xml.grantdk-2.online^
 ||xml.gtmxso-c.online^
 ||xml.heautumncam.org^

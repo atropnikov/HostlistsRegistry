@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-04-29T22:00:46.392Z
+! Last modified: 2026-04-30T16:21:32.123Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1695,6 +1695,7 @@
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
+0.0.0.0 crrect.sa.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
@@ -3493,6 +3494,7 @@
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
+0.0.0.0 www.myfurnituresirplus.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com

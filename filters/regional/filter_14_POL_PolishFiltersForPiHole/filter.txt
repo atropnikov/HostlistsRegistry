@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-04-26T10:49:22.190Z
+! Last modified: 2026-04-30T16:21:34.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1011,3 +1011,5 @@
 0.0.0.0 fr2.forcedgifting.com
 0.0.0.0 pt2.forcedgifting.com
 0.0.0.0 www.forcedgifting.com
+0.0.0.0 dobrezrodla.com
+0.0.0.0 www.dobrezrodla.com

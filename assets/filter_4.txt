@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-01T21:56:45.145Z
+! Last modified: 2026-05-02T05:41:43.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1884,6 +1884,7 @@
 0.0.0.0 flightams.fr
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
+0.0.0.0 foreverprintco.com
 0.0.0.0 formumactif.fr
 0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
@@ -3787,6 +3788,7 @@
 0.0.0.0 xxlargepop.com
 0.0.0.0 yachtingmagazine.fr
 0.0.0.0 yama.myfixhub.cfd
+0.0.0.0 yanteaviation.com
 0.0.0.0 ycapital.fr
 0.0.0.0 yev.moviesdirectpro.com
 0.0.0.0 yexex.comfortykive.xyz

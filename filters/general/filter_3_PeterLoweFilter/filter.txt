@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-05-08T07:52:48.051Z
+! Last modified: 2026-05-08T11:19:44.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -152,7 +152,6 @@
 ||ad.wsod.com^
 ||ad.wz.cz^
 ||ad.xiaomi.com^
-||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.ztylez.com^
 ||ad0.bigmir.net^
@@ -310,7 +309,6 @@
 ||adpepper.nl^
 ||adperium.com^
 ||adpia.vn^
-||adplxmd.com^
 ||adprofits.ru^
 ||adpushup.com^
 ||adrazzi.com^
@@ -560,7 +558,6 @@
 ||ads.townhall.com^
 ||ads.travelaudience.com^
 ||ads.trinitymirror.co.uk^
-||ads.tripod.com^
 ||ads.tripod.lycos.co.uk^
 ||ads.tripod.lycos.es^
 ||ads.tripod.lycos.it^
@@ -1255,7 +1252,6 @@
 ||click.i.southwesternrailway.com^
 ||click.infoblox.com^
 ||click.justwatch.com^
-||click.kmindex.ru^
 ||click.liftoff.io^
 ||click.mail.hotels.com^
 ||click.mail.salesforce.com^

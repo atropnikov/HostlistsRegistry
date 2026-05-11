@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-11T07:46:48.475Z
+! Last modified: 2026-05-11T17:56:23.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2380,6 +2380,7 @@
 0.0.0.0 mirillis.fr
 0.0.0.0 missdiva.fr
 0.0.0.0 missetam.fr
+0.0.0.0 mk.wiremanse.hair
 0.0.0.0 mlefigaro.fr
 0.0.0.0 mlpoo11-secondary.z13.web.core.windows.net
 0.0.0.0 mn.mn.co.cu
@@ -3483,6 +3484,7 @@
 0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.loginhunter.com
 0.0.0.0 www.logoradar.com
+0.0.0.0 www.logoswitch.com
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.lunargrovefx.com

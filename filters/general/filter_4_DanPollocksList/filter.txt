@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-11T17:56:23.808Z
+! Last modified: 2026-05-12T18:57:33.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1279,6 +1279,7 @@
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 602.lazulya.com
+0.0.0.0 69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 0.0.0.0 6range.fr
 0.0.0.0 6w1.sharedlinkconnect.com
 0.0.0.0 75esession.fr
@@ -2576,6 +2577,7 @@
 0.0.0.0 peoplefinders.fr
 0.0.0.0 percantil.fr
 0.0.0.0 peremiere.fr
+0.0.0.0 perfecct.sa.com
 0.0.0.0 petra.nic.gov.jo
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 pfepfe.cc
@@ -3356,6 +3358,7 @@
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.fripta.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.funkycovers.com
 0.0.0.0 www.furcomics.com
 0.0.0.0 www.futuredecide.com
 0.0.0.0 www.futureowned.com
@@ -6671,6 +6674,7 @@
 0.0.0.0 advertisement.avosapps.us
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.bbcworldwide.com
+0.0.0.0 advertising.civitai.com
 0.0.0.0 advertising.hiasys.com
 0.0.0.0 advertising.illinimedia.com
 0.0.0.0 advertising.online-media24.de

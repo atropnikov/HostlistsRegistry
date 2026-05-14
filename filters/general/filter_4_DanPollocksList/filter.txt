@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-14T00:02:41.216Z
+! Last modified: 2026-05-14T21:12:42.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2263,6 +2263,7 @@
 0.0.0.0 littleduck.fr
 0.0.0.0 livesfoot.fr
 0.0.0.0 livezfoot.fr
+0.0.0.0 livhlthy.sa.com
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
 0.0.0.0 livsffer.sa.com
@@ -3634,6 +3635,7 @@
 0.0.0.0 www.pure-glance.com
 0.0.0.0 www.qateee.com
 0.0.0.0 www.qbittorrent.com
+0.0.0.0 www.qualitygamer.com
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-20T16:53:42.074Z
+! Last modified: 2026-05-20T19:27:18.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3728,6 +3728,7 @@
 0.0.0.0 www.stylistnet.com
 0.0.0.0 www.styxwise.com
 0.0.0.0 www.subwayfast.com
+0.0.0.0 www.sumgaydigital.com
 0.0.0.0 www.sunglassesfor.com
 0.0.0.0 www.supereeego.com
 0.0.0.0 www.supportnestframe.uk

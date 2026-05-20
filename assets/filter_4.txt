@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-05-19T16:22:22.519Z
+! Last modified: 2026-05-20T16:53:42.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3602,6 +3602,7 @@
 0.0.0.0 www.pearlyappss.pro
 0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
+0.0.0.0 www.perimentu.com
 0.0.0.0 www.phantomluck.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com

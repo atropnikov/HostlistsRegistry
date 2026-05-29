@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-05-28T19:36:49.088Z
+! Last modified: 2026-05-29T12:16:28.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -862,7 +862,6 @@
 ||analytics.ext.go-tellm.com^
 ||analytics.google.com^
 ||analytics.htmedia.in^
-||analytics.icons8.com^
 ||analytics.inlinemanual.com^
 ||analytics.jst.ai^
 ||analytics.justuno.com^
@@ -1248,6 +1247,7 @@
 ||click.i.southwesternrailway.com^
 ||click.infoblox.com^
 ||click.justwatch.com^
+||click.kmindex.ru^
 ||click.liftoff.io^
 ||click.mail.hotels.com^
 ||click.mail.salesforce.com^
@@ -1309,7 +1309,6 @@
 ||cloudguppy.com^
 ||clrstm.com^
 ||cluster.adultworld.com^
-||clustrmaps.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmvrclicks000.com^
 ||cnomy.com^
@@ -1375,6 +1374,7 @@
 ||counter.rambler.ru^
 ||counter.search.bg^
 ||counter.snackly.co^
+||counting.kmindex.ru^
 ||coupling-media.de^
 ||cowbelltime.com^
 ||coxmt.com^
@@ -2002,6 +2002,7 @@
 ||kontera.com^
 ||kost.tv^
 ||kpu.samsungelectronics.com^
+||krxd.net^
 ||ktu.sv2.biz^
 ||kueezrtb.com^
 ||kvsadman.com^
@@ -2667,7 +2668,6 @@
 ||rapidcounter.com^
 ||raresummer.com^
 ||rate.ru^
-||ratings.lycos.com^
 ||rayjump.com^
 ||rcadserver.com^
 ||re-direct.pl^

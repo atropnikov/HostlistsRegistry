@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-06-08T09:24:24.134Z
+! Last modified: 2026-06-08T14:10:59.041Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -925,7 +925,6 @@
 0.0.0.0 app-ads-services.com
 0.0.0.0 odm.app-ads-services.com
 0.0.0.0 www.app-ads-services.com
-0.0.0.0 app-analytics-services.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -17936,6 +17935,8 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
+0.0.0.0 app-analytics-services-att.com
+0.0.0.0 app-analytics-services.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 arc.io

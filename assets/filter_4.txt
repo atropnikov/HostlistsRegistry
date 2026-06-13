@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-13T04:04:43.613Z
+! Last modified: 2026-06-13T20:17:06.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2272,6 +2272,7 @@
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
 0.0.0.0 livsffer.sa.com
+0.0.0.0 livsfs.today
 0.0.0.0 localo.fr
 0.0.0.0 login.belladermaco.com
 0.0.0.0 login.creditals-email.space

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-17T18:21:32.012Z
+! Last modified: 2026-06-18T04:16:17.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3832,6 +3832,7 @@
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
+0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.themesets.com
 0.0.0.0 www.theprimeindia.com
 0.0.0.0 www.thesecuredtrader.com
@@ -3850,6 +3851,7 @@
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com

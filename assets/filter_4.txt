@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-06-19T01:43:43.498Z
+! Last modified: 2026-06-19T18:57:18.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3586,6 +3586,7 @@
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.miocardite.com
+0.0.0.0 www.mixsorts.garden
 0.0.0.0 www.miziko.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
@@ -3762,6 +3763,7 @@
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
+0.0.0.0 www.seedschaos.garden
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed

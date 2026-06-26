@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-06-24T19:57:08.623Z
+! Last modified: 2026-06-26T14:30:14.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -517,7 +517,6 @@
 ||ads.pinterest.com^
 ||ads.planet.nl^
 ||ads.pni.com^
-||ads.pof.com^
 ||ads.printscr.com^
 ||ads.prisacom.com^
 ||ads.prod.webservices.mozgcp.net^
@@ -972,7 +971,6 @@
 ||bagsurprise.com^
 ||banik.redigy.cz^
 ||banner.ambercoastcasino.com^
-||banner.buempliz-online.ch^
 ||banner.cotedazurpalace.com^
 ||banner.easyspace.com^
 ||banner.elisa.net^
@@ -999,7 +997,6 @@
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
-||banners.babylon-x.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.czi.cz^
@@ -1285,7 +1282,6 @@
 ||clicks.njuskalo.hr^
 ||clickserve.cc-dt.com^
 ||clicksinfo.thefork.co.uk^
-||clicktag.de^
 ||clickthruserver.com^
 ||clickthrutraffic.com^
 ||clicktrack.pubmatic.com^
@@ -1320,6 +1316,7 @@
 ||codeadnetwork.com^
 ||cognitiv.ai^
 ||cointraffic.io^
+||coldbalance.com^
 ||collector-dev.cdp-dev.cnn.com^
 ||collector.cdp.cnn.com^
 ||colonize.com^
@@ -1806,7 +1803,6 @@
 ||hbb.afl.rakuten.co.jp^
 ||hbopenbid.pubmatic.com^
 ||heap.com^
-||heimi-lwx.com^
 ||hellobar.com^
 ||helpcollar.com^
 ||hentaicounter.com^
@@ -1941,7 +1937,6 @@
 ||interreklame.de^
 ||ioam.de^
 ||ip.ro^
-||ip193.cn^
 ||iperceptions.com^
 ||ipredictive.com^
 ||ipstack.com^
@@ -2707,6 +2702,7 @@
 ||reklamdsp.com^
 ||relmaxtop.com^
 ||rememberdiscussion.com^
+||remox.com^
 ||report-1.appmetrica.webvisor.com^
 ||report-2.appmetrica.webvisor.com^
 ||report-partners.appmetrica.yandex.net^
@@ -3284,6 +3280,7 @@
 ||truehits2.gits.net.th^
 ||trust.titanhq.com^
 ||trustx.org^
+||tsa-f.webex.com^
 ||tsa.webex.com^
 ||tsyndicate.com^
 ||tsyndicate.net^

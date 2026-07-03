@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: Adblock filter list for Vietnamese.
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-07-02T08:18:19.251Z
+! Last modified: 2026-07-03T11:34:25.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9746,10 +9746,17 @@
 0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 aepxlg.adobe.com
-0.0.0.0 campaign.adobe.com
 0.0.0.0 geo.adobe.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 stats.adobe.com
+0.0.0.0 acds-events.adobe.io
+0.0.0.0 analytics.adobe.io
+0.0.0.0 cc-api-data-stage.adobe.io
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 cchome-stage.adobe.io
+0.0.0.0 cchome.adobe.io
+0.0.0.0 hz-telemetry.adobe.io
+0.0.0.0 telemetry.adobe.io
 0.0.0.0 cdn-eu-vid1.statserv.net
 0.0.0.0 cdn-img1.statserv.net
 0.0.0.0 cdn-us-vid1.statserv.net
@@ -11567,6 +11574,15 @@
 0.0.0.0 kueezrtb.com
 0.0.0.0 exchange.kueezrtb.com
 0.0.0.0 sync.kueezrtb.com
+0.0.0.0 collector.github.com
+0.0.0.0 collector-cdn.github.com
+0.0.0.0 collector.githubapp.com
+0.0.0.0 analytics.githubassets.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 copilot-telemetry-service.githubusercontent.com
+0.0.0.0 telemetry.business.githubcopilot.com
+0.0.0.0 telemetry.enterprise.githubcopilot.com
+0.0.0.0 telemetry.individual.githubcopilot.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13717,6 +13733,7 @@
 0.0.0.0 ads.bid
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bittorrent.com
+0.0.0.0 ads.bizwd.net
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.boylesports.com
@@ -14944,6 +14961,7 @@
 0.0.0.0 crudenessfinishersacred.com
 0.0.0.0 crummydevioussucculent.com
 0.0.0.0 crumpetprankerstench.com
+0.0.0.0 cruncherpatiencestoreroom.com
 0.0.0.0 crunchybears.com
 0.0.0.0 cruzswim.org
 0.0.0.0 csm.cxpublic.com
@@ -15311,6 +15329,7 @@
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 ey43.com
+0.0.0.0 eycfdxhanqord.site
 0.0.0.0 eyebrowscrambledlater.com
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
@@ -15898,6 +15917,7 @@
 0.0.0.0 kuqfudazkn.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
+0.0.0.0 kx.upturnsidoist.cyou
 0.0.0.0 kykay.com
 0.0.0.0 kzuocxorfo.com
 0.0.0.0 laceassumestatic.com
@@ -16991,6 +17011,7 @@
 0.0.0.0 rumadel.com
 0.0.0.0 runads.com
 0.0.0.0 rusenov.com
+0.0.0.0 rutseasickmunch.com
 0.0.0.0 ruvsraaklrih.com
 0.0.0.0 ruwjkygaxo.com
 0.0.0.0 rvrpushserv.com
@@ -17379,6 +17400,7 @@
 0.0.0.0 terra8nb.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 testingmetriksbre.ru
+0.0.0.0 tevitpcfav.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
@@ -18039,6 +18061,7 @@
 0.0.0.0 zoosnet.net
 0.0.0.0 zovidree.com
 0.0.0.0 ztumuvofzbfe.com
+0.0.0.0 zuchhsparxodc.site
 0.0.0.0 zucoagorsout.com
 0.0.0.0 zuieggzsdlo.com
 0.0.0.0 zumdivdwug.com
@@ -18180,7 +18203,6 @@
 0.0.0.0 c.riskified.com
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 cadmus.script.ac
-0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.counter.dev
@@ -18207,7 +18229,6 @@
 0.0.0.0 collect.analyse.lnearn.com
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collect.verify.lnearn.com
-0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net

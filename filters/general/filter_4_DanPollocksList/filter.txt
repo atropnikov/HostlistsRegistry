@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-07T19:58:58.888Z
+! Last modified: 2026-07-07T23:04:23.094Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2598,6 +2598,7 @@
 0.0.0.0 percantil.fr
 0.0.0.0 peremiere.fr
 0.0.0.0 perfecct.sa.com
+0.0.0.0 performer.za.com
 0.0.0.0 petra.nic.gov.jo
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 pfepfe.cc
@@ -3706,6 +3707,7 @@
 0.0.0.0 www.perimentu.com
 0.0.0.0 www.pfsim.com
 0.0.0.0 www.phantomluck.com
+0.0.0.0 www.phonenumberbook.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.pickupclean.com

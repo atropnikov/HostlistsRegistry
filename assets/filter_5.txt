@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-07-15T20:11:36.273Z
+! Last modified: 2026-07-16T03:29:07.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3474,7 +3474,6 @@
 ||adimages.sniffies.com^
 ||adimg.com.com^
 ||adimg.liba.com^
-||adimg.uve.weibo.com^
 ||adimg1.chosun.com^
 ||adimgs.sapo.pt^
 ||adimpact.com^
@@ -9199,7 +9198,6 @@
 ||booster-vax.com^
 ||boothmythevergreen.com^
 ||bootingunpickedusable.com^
-||bootpreload.uve.weibo.com^
 ||bootscritp.com^
 ||bootstraplugin.com^
 ||bootyregisteredcleared.com^
@@ -14805,7 +14803,6 @@
 ||data852.click^
 ||data963.click^
 ||databoilrecommendation.com^
-||datacollection.uve.weibo.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||datacygnal.io^
@@ -41411,7 +41408,6 @@
 ||sdk.starbolt.io^
 ||sdk4push.com^
 ||sdkapi-prod.dfinery.ai^
-||sdkapp.uve.weibo.com^
 ||sdkauth.hpplay.cn^
 ||sdkc.vervegroupinc.net^
 ||sdkconf.avlyun.com^
@@ -49106,6 +49102,7 @@
 ||uv.terra.com.br^
 ||uvbiyrhzsqcoq.space^
 ||uvd9re60w.com^
+||uve.weibo.com^
 ||uveitisabaffingine.cyou^
 ||uvfckyovekkqh.space^
 ||uvhmsovvhfdzo.site^

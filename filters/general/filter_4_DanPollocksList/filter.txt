@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-16T00:00:07.572Z
+! Last modified: 2026-07-16T21:02:28.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3548,6 +3548,7 @@
 0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com

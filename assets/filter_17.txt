@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2026-07-13T03:45:09.715Z
+! Last modified: 2026-07-25T04:12:19.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -62,6 +62,7 @@
 127.0.0.1 ads.playpilot.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.rubiconproject.com
+127.0.0.1 ads.samnytt.se
 127.0.0.1 ads.skargarden.se
 127.0.0.1 ads.skidspar.se
 127.0.0.1 ads.skolvarlden.se
@@ -127,6 +128,7 @@
 127.0.0.1 analytics.kb.se
 127.0.0.1 analytics.lexbase.se
 127.0.0.1 analytics.mabra.com
+127.0.0.1 analytics.magnic.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.motherhood.se
 127.0.0.1 analytics.nikkasystems.com
@@ -472,6 +474,7 @@
 127.0.0.1 flx1.com
 127.0.0.1 fml-x.com
 127.0.0.1 fms.360yield.com
+127.0.0.1 fp.mediaintelliview.com
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 fraagesport.com
 127.0.0.1 franecki.net

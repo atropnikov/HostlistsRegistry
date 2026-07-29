@@ -2,7 +2,7 @@
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites.
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2026-07-25T04:12:19.050Z
+! Last modified: 2026-07-29T03:28:16.930Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -375,6 +375,7 @@
 127.0.0.1 connectio.s3.amazonaws.com
 127.0.0.1 content.adten.eu
 127.0.0.1 content.livesportmedia.eu
+127.0.0.1 context.bonad.io
 127.0.0.1 contextual.media.net
 127.0.0.1 convertexperiments.com
 127.0.0.1 core.centotag.io

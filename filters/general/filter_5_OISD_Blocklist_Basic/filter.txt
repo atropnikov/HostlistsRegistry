@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-08-01T19:11:39.627Z
+! Last modified: 2026-08-01T20:55:54.815Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11945,7 +11945,6 @@
 ||collector.bsg.brave.com^
 ||collector.cakeresume.com^
 ||collector.cdp.cnn.com^
-||collector.clareity.net^
 ||collector.ex.co^
 ||collector.feedzop.com^
 ||collector.fiverr.com^
@@ -15944,7 +15943,6 @@
 ||djqjbpdnislur.space^
 ||djr4k68f8n55o.cloudfront.net^
 ||djrkpoublcswv.store^
-||djs.baomihua.com^
 ||djs.dsuaieuscx.lol^
 ||djsoo8p407d6p.cloudfront.net^
 ||djtciijwpgrxx.online^

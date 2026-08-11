@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-10T20:52:19.603Z
+! Last modified: 2026-08-11T16:06:37.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3821,11 +3821,13 @@
 0.0.0.0 www.readyviews.com
 0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.reandrogames.com
+0.0.0.0 www.reasearchverified.com
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.regulationprofit.bond
 0.0.0.0 www.rekonsise.com
 0.0.0.0 www.relaxingcafe.com
 0.0.0.0 www.reliaslearrning.com
+0.0.0.0 www.reltar.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com

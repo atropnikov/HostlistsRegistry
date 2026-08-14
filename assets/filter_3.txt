@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-08-14T10:04:42.957Z
+! Last modified: 2026-08-14T11:45:08.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -109,7 +109,6 @@
 ||ad.bondage.com^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
-||ad.choiceradio.com^
 ||ad.cooks.com^
 ||ad.digitallook.com^
 ||ad.dnoticias.pt^
@@ -327,7 +326,6 @@
 ||adrotate.de^
 ||adrotic.girlonthenet.com^
 ||adrta.com^
-||ads-backend.chaincliq.com^
 ||ads-bilek.com^
 ||ads-dev.pinterest.com^
 ||ads-game-187f4.firebaseapp.com^
@@ -407,7 +405,6 @@
 ||ads.emdee.ca^
 ||ads.emirates.net.ae^
 ||ads.epi.sk^
-||ads.epltalk.com^
 ||ads.eu.msn.com^
 ||ads.fairfax.com.au^
 ||ads.fastcomgroup.it^
@@ -763,7 +760,6 @@
 ||adv.wp.pl^
 ||adv.yo.cz^
 ||advangelists.com^
-||advariant.com^
 ||adventory.com^
 ||adventurousamount.com^
 ||advert.bayarea.com^
@@ -850,7 +846,6 @@
 ||als-svc.nytimes.com^
 ||amazingcounters.com^
 ||amazon-adsystem.com^
-||amcnreil.pro^
 ||americash.com^
 ||amidsttruly.com^
 ||ampscamp.net^

@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-08-24T19:31:11.654Z
+! Last modified: 2026-08-25T16:39:05.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1787,6 +1787,7 @@
 0.0.0.0 dooror.com
 0.0.0.0 doors.co.kr
 0.0.0.0 dpflyingoncs.top
+0.0.0.0 dragonfly-express.duckdns.org
 0.0.0.0 dsbzk.comfortykive.xyz
 0.0.0.0 dtcc.fr
 0.0.0.0 dveug.comfortykive.xyz
@@ -3701,6 +3702,7 @@
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.mynepalshop.com
 0.0.0.0 www.myrosinase.com
 0.0.0.0 www.myupstox.com
 0.0.0.0 www.nabtapharma.com

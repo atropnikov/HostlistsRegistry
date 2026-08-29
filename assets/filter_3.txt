@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-08-28T23:54:39.643Z
+! Last modified: 2026-08-29T13:01:41.922Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31,6 +31,7 @@
 ||4d5.net^
 ||4info.com^
 ||4jnzhl0d0.com^
+||51.la^
 ||518ad.com^
 ||6sc.co^
 ||777partner.com^
@@ -47,6 +48,7 @@
 ||a.vdo.ai^
 ||a.vfghd.com^
 ||a.vfgtb.com^
+||a.vfgth.com^
 ||a.xanga.com^
 ||a11.click^
 ||a135.wftv.com^
@@ -1026,6 +1028,7 @@
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||bat.bing.com^
+||bat.bing.net^
 ||bbelements.com^
 ||bbm-ad-stack-production.up.railway.app^
 ||bbn.img.com.ua^
@@ -1973,7 +1976,6 @@
 ||js-api.otherlevels.com^
 ||js-tags.otherlevels.com^
 ||js.iterable.com^
-||js.users.51.la^
 ||jsecoin.com^
 ||jsrdn.com^
 ||jubilantglimmer.com^
@@ -2140,6 +2142,7 @@
 ||magnetise.io^
 ||magsrv.com^
 ||mail-ads.google.com^
+||maliva-mcs.byteoversea.com^
 ||maltiverse.lt.acemlnc.com^
 ||manageadv.cblogs.eu^
 ||mantisadnetwork.com^
@@ -3069,6 +3072,7 @@
 ||t.leady.com^
 ||t.marketing.goindigo.in^
 ||t.mmtrkr.com^
+||t.nc0.co^
 ||t.news.browns-restaurants.co.uk^
 ||t.notif-colissimo-laposte.info^
 ||t.pie.org^
@@ -3197,6 +3201,7 @@
 ||track.lettingaproperty.com^
 ||track.mailalert.io^
 ||track.mailerlite.com^
+||track.mediav.com^
 ||track.miro.com^
 ||track.nationalgunrights.org^
 ||track.privacyatclearbit.com^
@@ -3225,6 +3230,7 @@
 ||tracking.casheddy.com^
 ||tracking.cybertips.uk^
 ||tracking.epicgames.com^
+||tracking.hostgator.com^
 ||tracking.hyros.com^
 ||tracking.ibxlink.com^
 ||tracking.intentsify.io^

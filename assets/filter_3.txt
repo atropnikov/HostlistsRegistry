@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-08-29T13:01:41.922Z
+! Last modified: 2026-08-29T20:38:11.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -273,6 +273,7 @@
 ||admantx.com^
 ||admarketplace.net^
 ||admarvel.com^
+||admaster.cc^
 ||admaster.com.cn^
 ||admatchly.com^
 ||adme2.click^
@@ -1654,6 +1655,7 @@
 ||feedmob.com^
 ||feelwarmth.com^
 ||femalecook.com^
+||fenxi.com^
 ||figsprotein.com^
 ||figurehunter.net^
 ||fillthemap.com^
@@ -2537,6 +2539,7 @@
 ||pokkt.com^
 ||polishedfolly.com^
 ||polo.feathr.co^
+||pooinc-7dw.pages.dev^
 ||popads.net^
 ||popcash.net^
 ||popmixradio.com^
@@ -3063,6 +3066,7 @@
 ||t.bawafx.com^
 ||t.carta.com^
 ||t.co^
+||t.dtscdn.com^
 ||t.eloqua.com^
 ||t.email.superdrug.com^
 ||t.en25.com^
@@ -3475,6 +3479,7 @@
 ||xad.com^
 ||xapads.com^
 ||xchange.ro^
+||xdrig.com^
 ||xertive.com^
 ||xfreeservice.com^
 ||xg4ken.com^

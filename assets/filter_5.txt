@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-02T17:42:39.518Z
+! Last modified: 2026-09-02T23:05:47.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4437,7 +4437,6 @@
 ||ads.townhall.com^
 ||ads.travelaudience.com^
 ||ads.tripod.lycos.de^
-||ads.tripod.lycos.es^
 ||ads.tso.dennisnet.co.uk^
 ||ads.tvb.com^
 ||ads.tvmnews.mt^
@@ -12819,7 +12818,6 @@
 ||client.smartpushedm.com^
 ||client.tbadni.com^
 ||client2009x25.xcdn.ovh^
-||clientinfo.phimmoizz.net^
 ||clientlog.midomi.com^
 ||clientlog.perfectworldgames.com^
 ||clientlog.pwsdk.com^
@@ -31138,7 +31136,6 @@
 ||lahscedteo.in^
 ||lahsxicxicuvp.store^
 ||lahwsusoarmbk.site^
-||laichegloavy.com^
 ||laidgreens.com^
 ||laihtsfmbrmog.site^
 ||laimroll.ru^

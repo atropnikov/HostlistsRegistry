@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-03T17:38:00.329Z
+! Last modified: 2026-09-03T20:41:56.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12664,7 +12664,6 @@
 ||click-eu-v4.exoclkneu.com^
 ||click-eu-v4.expmclck.com^
 ||click-eu-v4.expmidclk.com^
-||click-eu-v4.plarclck.com^
 ||click-eu-v4.preclkmn.com^
 ||click-eu-v4.preclksize.com^
 ||click-eu.preclkmn.com^
@@ -12702,7 +12701,6 @@
 ||click-v4.junimedclk.com^
 ||click-v4.junteamexclkmid.com^
 ||click-v4.mkrclkuno.com^
-||click-v4.plarclck.com^
 ||click-v4.preclkmn.com^
 ||click-v4.preclksize.com^
 ||click-v4.rpdmkrclk.com^
@@ -12733,7 +12731,6 @@
 ||click.lenovo.com^
 ||click.localnews.click^
 ||click.oneplus.cn^
-||click.plarclck.com^
 ||click.preclkmn.com^
 ||click.preclksize.com^
 ||click.pyrrhicmechntech.com^
@@ -40703,6 +40700,7 @@
 ||plantationhick.com^
 ||planttrains.space^
 ||planurycrit.cfd^
+||plarclck.com^
 ||plarimocl.com^
 ||plarimoexocli.com^
 ||plashetoutwove.qpon^

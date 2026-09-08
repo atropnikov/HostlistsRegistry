@@ -2,7 +2,7 @@
 ! Title: Perflyst and Dandelion Sprout's Smart-TV Blocklist
 ! Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2023-10-10T09:14:48.569Z
+! Last modified: 2026-09-08T10:51:52.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -75,7 +75,7 @@
 ||pipeaota.com^
 ||premium-videos.telly.com^
 ||prov.samsungcloudsolution.com^
-||rwww.samsungotn.net^
+||www.samsungotn.net^
 ||samsungacr.com^
 ||samsungadhub.com^
 |samsungcloudsolution.com^
@@ -189,4 +189,5 @@
 ||sdkconfig.ad.intl.xiaomi.com^
 
 ||androidtvchannels-pa.googleapis.com^
+||androidtvlauncherxfe-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^

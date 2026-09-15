@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: Blocks certain pop-up traps, prevents user tracking, blocks most advertising.
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-09-14T18:25:38.528Z
+! Last modified: 2026-09-15T01:15:38.089Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3212,6 +3212,7 @@
 0.0.0.0 www.anyik.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.appfoliio.com
 0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
@@ -3259,6 +3260,7 @@
 0.0.0.0 www.bicyclefan.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.bigpremiere.com
+0.0.0.0 www.bisselcommercial.com
 0.0.0.0 www.blanknightsmfg.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
@@ -3602,6 +3604,7 @@
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jjbenefitsguide.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.jobomg.com
 0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
@@ -3838,6 +3841,7 @@
 0.0.0.0 www.primecrestnq.name
 0.0.0.0 www.primitivecountrydecor.com
 0.0.0.0 www.princessuppies.com
+0.0.0.0 www.proctou.com
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro

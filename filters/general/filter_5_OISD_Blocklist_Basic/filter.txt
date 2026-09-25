@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-25T18:18:56.859Z
+! Last modified: 2026-09-25T22:03:47.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30904,6 +30904,7 @@
 ||metrics.io^
 ||metrics.kapa.ai^
 ||metrics.kmsmep.com^
+||metrics.li^
 ||metrics.macys.com^
 ||metrics.makemytrip.com^
 ||metrics.mdstrm.com^
@@ -35302,6 +35303,7 @@
 ||palaceerrandneighbour.com^
 ||palaceunlituntouched.com^
 ||palamounty.com^
+||palateonce.com^
 ||palateserious.com^
 ||palecount.com^
 ||palelitistsnick.com^

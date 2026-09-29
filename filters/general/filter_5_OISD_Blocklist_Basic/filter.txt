@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-09-29T15:29:18.128Z
+! Last modified: 2026-09-29T20:30:58.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3950,6 +3950,7 @@
 ||ads-img-qc.xhscdn.com^
 ||ads-interfaces.sc-cdn.net^
 ||ads-leaseweb.appsgeyser.com^
+||ads-library.globo.com^
 ||ads-m.rustore.ru^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-media.gameforge.com^
@@ -4268,7 +4269,6 @@
 ||ads.sportradar.com^
 ||ads.sportslocalmedia.com^
 ||ads.stardima.com^
-||ads.starzd.online^
 ||ads.starzd.pro^
 ||ads.suckhoegiadinh.com.vn^
 ||ads.sun.com^

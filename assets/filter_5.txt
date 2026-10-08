@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-10-08T15:21:01.221Z
+! Last modified: 2026-10-08T21:07:57.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2253,7 +2253,6 @@
 ||a.fwsso.com^
 ||a.getflowbox.com^
 ||a.gripi.online^
-||a.guidehub.lol^
 ||a.guzhilin.com^
 ||a.gzupload.com^
 ||a.hbf23.cn^
@@ -22944,6 +22943,7 @@
 ||guhmzgbwilvst.space^
 ||guhohvxtocum.in^
 ||guid.tpns.sgp.tencent.com^
+||guidehub.lol^
 ||guidelingerbeige.com^
 ||guidepaparazzisurface.com^
 ||guidonsfeeing.com^

@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Basic
 ! Description: Blocks ads/trackers and prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-10-13T21:02:00.119Z
+! Last modified: 2026-10-14T05:58:20.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -41129,7 +41129,6 @@
 ||rtbdemand.com^
 ||rtbfactory.com^
 ||rtbplatform.net^
-||rtbpopd.com^
 ||rtbrenab.com^
 ||rtbscale.com^
 ||rtbsuperhub.com^

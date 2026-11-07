@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-11-06T17:50:24.126Z
+! Last modified: 2026-11-07T20:42:25.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2660,6 +2660,7 @@
 ||quirkysugar.com^
 ||quisma.com^
 ||quizzicalzephyr.com^
+||r.brandreward.com^
 ||r.drinksdirect.net^
 ||r.logrocket.io^
 ||r.marketing.dubaisothebys.com^

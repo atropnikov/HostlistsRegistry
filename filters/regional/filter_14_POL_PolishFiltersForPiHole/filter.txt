@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-10-30T20:30:56.530Z
+! Last modified: 2026-11-11T18:26:44.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1148,3 +1148,25 @@
 0.0.0.0 www.landingpagenebulamaster.com
 0.0.0.0 flffetre.net
 0.0.0.0 www.flffetre.net
+0.0.0.0 0.stg.oil.coolaspen.tech
+0.0.0.0 1.stg.oil.coolaspen.tech
+0.0.0.0 2.stg.oil.coolaspen.tech
+0.0.0.0 3.stg.oil.coolaspen.tech
+0.0.0.0 4.stg.oil.coolaspen.tech
+0.0.0.0 5.stg.oil.coolaspen.tech
+0.0.0.0 6.stg.oil.coolaspen.tech
+0.0.0.0 7.stg.oil.coolaspen.tech
+0.0.0.0 8.stg.oil.coolaspen.tech
+0.0.0.0 9.stg.oil.coolaspen.tech
+0.0.0.0 stg.oil.coolaspen.tech
+0.0.0.0 stg.tool.snowdahlia.pro
+0.0.0.0 0.stg.tool.snowdahlia.pro
+0.0.0.0 1.stg.tool.snowdahlia.pro
+0.0.0.0 2.stg.tool.snowdahlia.pro
+0.0.0.0 3.stg.tool.snowdahlia.pro
+0.0.0.0 4.stg.tool.snowdahlia.pro
+0.0.0.0 5.stg.tool.snowdahlia.pro
+0.0.0.0 6.stg.tool.snowdahlia.pro
+0.0.0.0 7.stg.tool.snowdahlia.pro
+0.0.0.0 8.stg.tool.snowdahlia.pro
+0.0.0.0 9.stg.tool.snowdahlia.pro

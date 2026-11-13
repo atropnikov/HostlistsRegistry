@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-11-12T23:28:29.880Z
+! Last modified: 2026-11-13T05:42:48.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1190,3 +1190,13 @@
 0.0.0.0 7.stg.yin.bamboolake.pro
 0.0.0.0 8.stg.yin.bamboolake.pro
 0.0.0.0 9.stg.yin.bamboolake.pro
+0.0.0.0 stg.deer.calmjacket.com
+0.0.0.0 1.stg.deer.calmjacket.com
+0.0.0.0 2.stg.deer.calmjacket.com
+0.0.0.0 3.stg.deer.calmjacket.com
+0.0.0.0 4.stg.deer.calmjacket.com
+0.0.0.0 5.stg.deer.calmjacket.com
+0.0.0.0 6.stg.deer.calmjacket.com
+0.0.0.0 7.stg.deer.calmjacket.com
+0.0.0.0 8.stg.deer.calmjacket.com
+0.0.0.0 9.stg.deer.calmjacket.com

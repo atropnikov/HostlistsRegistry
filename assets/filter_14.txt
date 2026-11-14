@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-11-14T09:54:45.923Z
+! Last modified: 2026-11-14T16:26:00.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1236,3 +1236,14 @@
 0.0.0.0 7.stg.coal.curiousbirch.mobi
 0.0.0.0 8.stg.coal.curiousbirch.mobi
 0.0.0.0 9.stg.coal.curiousbirch.mobi
+0.0.0.0 stg.luck.parrotforest.biz
+0.0.0.0 0.stg.luck.parrotforest.biz
+0.0.0.0 1.stg.luck.parrotforest.biz
+0.0.0.0 2.stg.luck.parrotforest.biz
+0.0.0.0 3.stg.luck.parrotforest.biz
+0.0.0.0 4.stg.luck.parrotforest.biz
+0.0.0.0 5.stg.luck.parrotforest.biz
+0.0.0.0 6.stg.luck.parrotforest.biz
+0.0.0.0 7.stg.luck.parrotforest.biz
+0.0.0.0 8.stg.luck.parrotforest.biz
+0.0.0.0 9.stg.luck.parrotforest.biz

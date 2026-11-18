@@ -2,7 +2,7 @@
 ! Title: POL: Polish filters for Pi hole
 ! Description: Polish filters for Pi hole.
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-11-14T21:10:00.793Z
+! Last modified: 2026-11-18T21:09:13.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1445,3 +1445,5 @@
 0.0.0.0 4.stg.rust.roundoddeven.com
 0.0.0.0 0.stg.rust.roundoddeven.com
 0.0.0.0 stg.rust.roundoddeven.com
+0.0.0.0 neuca.www-com.co.uk
+0.0.0.0 secure.encryptedconnection.net

@@ -2,7 +2,7 @@
 ! Title: Peter Lowe's List
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2026-11-18T12:45:09.497Z
+! Last modified: 2026-11-20T19:45:07.450Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -601,20 +601,15 @@
 ||ads180.com^
 ||ads2.contentabc.com^
 ||ads2.femmefab.nl^
-||ads2.gamecity.net^
 ||ads2.virtual-nights.com^
 ||ads2.xnet.cz^
 ||ads2004.treiberupdate.de^
 ||ads24h.net^
 ||ads3-adnow.com^
-||ads3.gamecity.net^
 ||ads3.virtual-nights.com^
-||ads4.gamecity.net^
 ||ads4.virtual-nights.com^
 ||ads4homes.com^
 ||ads5.virtual-nights.com^
-||ads6.gamecity.net^
-||ads7.gamecity.net^
 ||adsafeprotected.com^
 ||adsatt.abc.starwave.com^
 ||adsatt.abcnews.starwave.com^
@@ -671,7 +666,6 @@
 ||adserver.omroepzeeland.nl^
 ||adserver.pampa.com.br^
 ||adserver.piksel.mk^
-||adserver.pl^
 ||adserver.portugalmail.net^
 ||adserver.pressboard.ca^
 ||adserver.sanomawsoy.fi^
@@ -953,7 +947,6 @@
 ||audience2media.com^
 ||audienceinsights.com^
 ||audio.ad^
-||audit.median.hu^
 ||audit.webinform.hu^
 ||augur.io^
 ||auto-bannertausch.de^
@@ -1513,7 +1506,6 @@
 ||dpbolvw.net^
 ||dpu.samsungelectronics.com^
 ||dq95d35.com^
-||dragonbats.com^
 ||drumcash.com^
 ||dsp.colpirio.com^
 ||dsp.io^
@@ -1570,7 +1562,6 @@
 ||engage.windows.com^
 ||engagebdr.com^
 ||engageya.com^
-||engine.espace.netavenir.com^
 ||engineertrick.com^
 ||enginenetwork.com^
 ||enormousearth.com^
@@ -1848,7 +1839,6 @@
 ||hits.theguardian.com^
 ||hits4me.com^
 ||hitslink.com^
-||hittail.com^
 ||hlok.qertewrt.com^
 ||hocgeese.com^
 ||hollowafterthought.com^
@@ -1884,7 +1874,6 @@
 ||i305175.net^
 ||ia.iinfo.cz^
 ||iad.anm.co.uk^
-||iadnet.com^
 ||ibillboard.com^
 ||icptrack.com^
 ||icywinter.com^
@@ -2088,6 +2077,7 @@
 ||links-ranking.de^
 ||links.email.crunchbase.com^
 ||links.housekeep.com^
+||links.prosservice.fr^
 ||links.zoopla.co.uk^
 ||linksoutside.com^
 ||linkstable.com^
@@ -2884,7 +2874,6 @@
 ||shockinggrass.com^
 ||shoppingads.com^
 ||showads.pubmatic.com^
-||shredform.com^
 ||shrillspoon.com^
 ||shxtrk.com^
 ||sicksmash.com^
@@ -3160,7 +3149,6 @@
 ||terriblethumb.com^
 ||text-link-ads.com^
 ||textad.sexsearch.com^
-||textads.biz^
 ||textlinks.com^
 ||tfag.de^
 ||the-ozone-project.com^
@@ -3168,7 +3156,6 @@
 ||theadhost.com^
 ||theadsparks.com^
 ||thebicyclehut.com^
-||thebugs.ws^
 ||thecrazychili.com^
 ||themangotea.com^
 ||themoneytizer.com^
